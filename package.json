@@ -1,0 +1,13 @@
+{
+  "name": "github-engagement-metrics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/captainbrosset/github-engagement-metrics",
+  "author": "Patrick Brosset <patrickbrosset@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "@octokit/graphql": "^4.8.0"
+  }
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "name": "webhint",
+    "org": "webhintio",
+    "repo": "hint",
+    "prs": true,
+    "issues": true,
+    "ignoreIssuesFrom": [
+      "app/dependabot"
+    ]
+  },
+  {
+    "name": "Edge demos",
+    "org": "MicrosoftEdge",
+    "repo": "demos",
+    "prs": true,
+    "issues": true
+  },
+  {
+    "name": "DevTools feedback",
+    "org": "MicrosoftEdge",
+    "repo": "DevTools",
+    "prs": false,
+    "issues": true
+  },
+  {
+    "name": "EdgeDriver",
+    "org": "MicrosoftEdge",
+    "repo": "EdgeWebDriver",
+    "prs": false,
+    "issues": true
+  },
+  {
+    "name": "webview2 feedback",
+    "org": "MicrosoftEdge",
+    "repo": "WebView2Feedback",
+    "prs": false,
+    "issues": true
+  },
+  {
+    "name": "webview2 samples",
+    "org": "MicrosoftEdge",
+    "repo": "WebView2Samples",
+    "prs": false,
+    "issues": true
+  },
+  {
+    "name": "webview2 browser",
+    "org": "MicrosoftEdge",
+    "repo": "WebView2Browser",
+    "prs": false,
+    "issues": true
+  },
+  {
+    "name": "devtools vscode extension",
+    "org": "microsoft",
+    "repo": "vscode-edge-devtools",
+    "prs": true,
+    "issues": true,
+    "ignoreIssuesFrom": [
+      "app/dependabot"
+    ]
+  },
+  {
+    "name": "developer docs",
+    "org": "MicrosoftDocs",
+    "repo": "edge-developer",
+    "prs": true,
+    "issues": true,
+    "ignoreCommentsFrom": [
+      "opbld10",
+      "opbld11",
+      "opbld12",
+      "opbld13",
+      "opbld14",
+      "opbld15",
+      "opbld16",
+      "opbld17",
+      "opbld18",
+      "opbld19",
+      "opbld20",
+      "opbld21",
+      "opbld22",
+      "opbld23",
+      "opbld24",
+      "opbld25",
+      "opbld26",
+      "opbld27",
+      "opbld28",
+      "opbld29",
+      "opbld30",
+      "opbld31",
+      "opbld32",
+      "opbld33",
+      "opbld34",
+      "opbld35",
+      "opbld36",
+      "opbld37",
+      "opbld38",
+      "opbld39",
+      "opbld40",
+      "opbld41",
+      "opbld42",
+      "opbld43",
+      "opbld44",
+      "opbld45",
+      "opbld46",
+      "opbld47",
+      "opbld48",
+      "opbld49",
+      "opbld50",
+      "opbld51",
+      "opbld52",
+      "opbld53",
+      "opbld54",
+      "opbld55",
+      "opbld56"
+    ]
+  }
+]

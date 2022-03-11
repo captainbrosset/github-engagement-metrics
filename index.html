@@ -1,0 +1,285 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microsoft Edge community channels metrics</title>
+    <style>
+      :root {
+        --spacing: 2rem;
+      }
+
+      html,
+      body {
+        margin: 0;
+        background: #f0f0f0;
+        font-size: 11pt;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica,
+          sans-serif;
+      }
+      body {
+        padding: var(--spacing);
+      }
+      .charts {
+        display: grid;
+        gap: var(--spacing);
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+      }
+      .charts .chart {
+        box-shadow: 0 0 0.5rem 0 #0003;
+        width: 100%;
+        height: 400px;
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: var(--spacing);
+        margin-bottom: var(--spacing);
+        border-bottom: 2px solid #ccc;
+      }
+      h1 {
+        margin: 0;
+        font-weight: normal;
+        font-size: 1.5rem;
+      }
+      header select {
+        padding: 0.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Loading...</h1>
+      <label
+        >Switch to
+        <select id="repo"></select>
+      </label>
+    </header>
+    <div class="charts">
+      <div id="daily-issues" class="chart"></div>
+      <div id="total-issues" class="chart"></div>
+      <div id="response-rate" class="chart"></div>
+      <div id="views" class="chart"></div>
+      <div id="unique-views" class="chart"></div>
+      <div id="stars" class="chart"></div>
+      <div id="forks" class="chart"></div>
+      <div id="watchers" class="chart"></div>
+    </div>
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script type="module">
+      import REPOS from "./src/repos.json" assert { type: "json" };
+      import METRICS from "./out/metrics.json" assert { type: "json" };
+      import RESPONSE_RATE from "./out/unresponded.json" assert { type: "json" };
+
+      // Select the first repo initially.
+      let repoName = `${REPOS[0].org}/${REPOS[0].repo}`;
+      let repoMetrics = METRICS[repoName];
+      let repoResponseRate = RESPONSE_RATE[repoName];
+
+      // Wire the repo switch menu.
+      const repoSelect = document.querySelector("#repo");
+      REPOS.forEach(({org, repo}) => {
+        const option = document.createElement("option");
+        option.value = `${org}/${repo}`;
+        option.innerText = `${org}/${repo}`;
+        repoSelect.appendChild(option);
+      });
+
+      repoSelect.addEventListener("change", (event) => {
+        repoName = event.target.value;
+        repoMetrics = METRICS[repoName];
+        repoResponseRate = RESPONSE_RATE[repoName];
+        refresh();
+      });
+
+      function refresh() {
+        document.querySelector("h1").innerHTML = `Metrics for <a href="https://github.com/${repoName}" target="_blank">${repoName}</a>`;
+
+        function getMetricData(keys) {
+          const data = [];
+          keys = keys.split(".");
+
+          repoMetrics.forEach((item) => {
+            let value = item;
+            keys.forEach((key) => {
+              value = value[key];
+            });
+            data.push(value);
+          });
+
+          return data;
+        }
+
+        function getMetricsXAxisDateConfig() {
+          return {
+            title: {
+              text: "Days",
+            },
+            type: "datetime",
+            labels: {
+              formatter: function () {
+                return Highcharts.dateFormat("%b/%e/%Y", this.value);
+              },
+            },
+            categories: repoMetrics.map((item) => new Date(item.date)),
+          };
+        }
+
+        function getResponseRateXAxisDateConfig() {
+          return {
+            title: {
+              text: "Days",
+            },
+            type: "datetime",
+            labels: {
+              formatter: function () {
+                return Highcharts.dateFormat("%b/%e/%Y", this.value);
+              },
+            },
+            categories: repoResponseRate.map((item) => new Date(item.date)),
+          };
+        }
+
+        function getPlotOptions() {
+          return {
+            spline: {
+              marker: {
+                radius: 4,
+                lineColor: "#666666",
+                lineWidth: 1,
+              },
+            },
+          };
+        }
+
+        const chart = { type: "spline" };
+
+        Highcharts.chart("total-issues", {
+          chart,
+          title: { text: "Total issues & PRs 📝" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Issues" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "issues",
+              data: getMetricData("totalIssues"),
+            },
+          ],
+        });
+
+        Highcharts.chart("daily-issues", {
+          chart,
+          title: { text: "New issues & PRs 📝" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Issues" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "issues",
+              data: getMetricData("dailyIssues"),
+            },
+          ],
+        });
+
+        Highcharts.chart("response-rate", {
+          chart,
+          title: { text: "Response rate 🥰" },
+          xAxis: getResponseRateXAxisDateConfig(),
+          yAxis: { title: { text: "Response rate" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "rate",
+              data: repoResponseRate.map((item) => parseFloat(item.rate)),
+            },
+          ],
+        });
+
+        Highcharts.chart("views", {
+          chart,
+          title: { text: "Daily views 👀" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Views" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "views",
+              data: getMetricData("views.viewCount"),
+            },
+          ],
+        });
+
+        Highcharts.chart("unique-views", {
+          chart,
+          title: { text: "Daily unique views 👀" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Unique views" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "views",
+              data: getMetricData("views.uniqueViewCount"),
+            },
+          ],
+        });
+
+        Highcharts.chart("stars", {
+          chart,
+          title: { text: "Repo stars 🌟" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Stars" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "stars",
+              data: getMetricData("stats.stars"),
+            },
+          ],
+        });
+
+        Highcharts.chart("forks", {
+          chart,
+          title: { text: "Repo forks 🍴" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Forks" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "forks",
+              data: getMetricData("stats.forks"),
+            },
+          ],
+        });
+
+        Highcharts.chart("watchers", {
+          chart,
+          title: { text: "Watchers 👓" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Watchers" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: false },
+          series: [
+            {
+              name: "watchers",
+              data: getMetricData("stats.watchers"),
+            },
+          ],
+        });
+      }
+
+      document.addEventListener("DOMContentLoaded", refresh);
+    </script>
+  </body>
+</html>
