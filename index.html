@@ -10,7 +10,9 @@
       :root {
         --spacing: 2rem;
       }
-
+      * {
+        box-sizing: border-box;
+      }
       html,
       body {
         margin: 0;
@@ -27,10 +29,17 @@
         gap: var(--spacing);
         grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
       }
-      .charts .chart {
+      .charts > * {
         box-shadow: 0 0 0.5rem 0 #0003;
         width: 100%;
         height: 400px;
+      }
+      .widget {
+        padding: var(--spacing);
+        overflow-y: auto;
+      }
+      .widget h2 {
+        margin: 0;
       }
       header {
         display: flex;
@@ -67,6 +76,7 @@
       <div id="stars" class="chart"></div>
       <div id="forks" class="chart"></div>
       <div id="watchers" class="chart"></div>
+      <div id="issues-to-respond-to" class="widget"></div>
     </div>
 
     <script src="https://code.highcharts.com/highcharts.js"></script>
@@ -277,6 +287,15 @@
             },
           ],
         });
+
+        // Display the unresponded items.
+        const lastDay = repoResponseRate[repoResponseRate.length - 1].unRespondedItems;
+        document.querySelector('#issues-to-respond-to').innerHTML = `
+          <h2>Unresponded issues</h2>
+          <ul>
+          ${lastDay.map(item => `<li><a href="${item.url}" target="_blank">${item.title}</a></li>`).join("\n")}
+          </ul>
+        `;
       }
 
       document.addEventListener("DOMContentLoaded", refresh);
