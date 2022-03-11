@@ -6,11 +6,11 @@ import { REPOS, formatDate, getYesterdayDate } from "./utils.js";
 // Where to save the data to.
 const DATA_FILE = "./out/metrics.json";
 
-const octokit = new Octokit({ auth: process.env.GITHUB_PAT });
+const octokit = new Octokit({ auth: process.env.GH_PAT });
 
 const graphqlWithAuth = graphql.defaults({
   headers: {
-    authorization: `token ${process.env.GITHUB_PAT}`,
+    authorization: `token ${process.env.GH_PAT}`,
   },
 });
 

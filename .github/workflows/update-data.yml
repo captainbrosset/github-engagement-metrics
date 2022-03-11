@@ -1,0 +1,30 @@
+name: Daily data retrieval
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: install
+      - name: Set environment
+        run: echo "GH_PAT"=${{ secrets.GH_PAT }} >> $GITHUB_ENV
+      - name: Run the scripts
+        run: |
+          node src/unresponded.js
+          node src/metrics.js
+      - name: Check in the file changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email <>
+          git commit -a -m "Daily data retrieval"
+          git push origin main
+

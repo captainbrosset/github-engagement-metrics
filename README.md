@@ -10,7 +10,7 @@ This repo helps with tracking things like forks, watchers, number of issues, etc
 ## Run locally
 
 * `yarn install`
-* Test locally by using your personal access token `GITHUB_PAT=<token here> node src/unresponded.js` and `GITHUB_PAT=<token here> node src/metrics.js`
+* Test locally by using your personal access token `GH_PAT=<token here> node src/unresponded.js` and `GH_PAT=<token here> node src/metrics.js`
 * New data gets appended to the `out/unresponded.json` and `out/metrics.json` files. **Please don't check-in changes to those files**.
 
 ## TODO

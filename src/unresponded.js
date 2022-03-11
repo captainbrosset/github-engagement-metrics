@@ -14,7 +14,7 @@ const DATA_FILE = "./out/unresponded.json";
 
 const graphqlWithAuth = graphql.defaults({
   headers: {
-    authorization: `token ${process.env.GITHUB_PAT}`,
+    authorization: `token ${process.env.GH_PAT}`,
   },
 });
 
