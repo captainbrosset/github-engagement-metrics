@@ -391,7 +391,7 @@
         "viewCount": 33,
         "uniqueViewCount": 9
       },
-      "totalIssues": 0,
+      "totalIssues": 4,
       "dailyIssues": 0
     },
     {
@@ -405,7 +405,7 @@
         "viewCount": 33,
         "uniqueViewCount": 9
       },
-      "totalIssues": 0,
+      "totalIssues": 4,
       "dailyIssues": 0
     },
     {
@@ -419,7 +419,7 @@
         "viewCount": 31,
         "uniqueViewCount": 10
       },
-      "totalIssues": 0,
+      "totalIssues": 4,
       "dailyIssues": 0
     }
   ],
@@ -590,7 +590,7 @@
         "uniqueViewCount": 209
       },
       "totalIssues": 19,
-      "dailyIssues": 0
+      "dailyIssues": 1
     },
     {
       "date": "2022-03-12",
@@ -603,8 +603,8 @@
         "viewCount": 172,
         "uniqueViewCount": 68
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 21,
+      "dailyIssues": 2
     },
     {
       "date": "2022-03-13",
@@ -617,7 +617,7 @@
         "viewCount": 172,
         "uniqueViewCount": 68
       },
-      "totalIssues": 0,
+      "totalIssues": 20,
       "dailyIssues": 0
     },
     {
@@ -631,8 +631,8 @@
         "viewCount": 144,
         "uniqueViewCount": 36
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 22,
+      "dailyIssues": 1
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -815,7 +815,7 @@
         "viewCount": 24,
         "uniqueViewCount": 7
       },
-      "totalIssues": 0,
+      "totalIssues": 4,
       "dailyIssues": 0
     },
     {
@@ -829,7 +829,7 @@
         "viewCount": 24,
         "uniqueViewCount": 7
       },
-      "totalIssues": 0,
+      "totalIssues": 4,
       "dailyIssues": 0
     },
     {
@@ -843,7 +843,7 @@
         "viewCount": 2,
         "uniqueViewCount": 2
       },
-      "totalIssues": 0,
+      "totalIssues": 5,
       "dailyIssues": 0
     }
   ],
@@ -1027,8 +1027,8 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 2217,
+      "dailyIssues": 2
     },
     {
       "date": "2022-03-13",
@@ -1041,8 +1041,8 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 2219,
+      "dailyIssues": 2
     },
     {
       "date": "2022-03-14",
@@ -1055,8 +1055,8 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 2220,
+      "dailyIssues": 2
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -1239,8 +1239,8 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 65,
+      "dailyIssues": 1
     },
     {
       "date": "2022-03-13",
@@ -1253,7 +1253,7 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
+      "totalIssues": 65,
       "dailyIssues": 0
     },
     {
@@ -1267,7 +1267,7 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
+      "totalIssues": 65,
       "dailyIssues": 0
     }
   ],
@@ -1451,7 +1451,7 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
+      "totalIssues": 29,
       "dailyIssues": 0
     },
     {
@@ -1465,7 +1465,7 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
+      "totalIssues": 29,
       "dailyIssues": 0
     },
     {
@@ -1479,7 +1479,7 @@
         "viewCount": 0,
         "uniqueViewCount": 0
       },
-      "totalIssues": 0,
+      "totalIssues": 29,
       "dailyIssues": 0
     }
   ],
@@ -1875,8 +1875,8 @@
         "viewCount": 573,
         "uniqueViewCount": 210
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 1740,
+      "dailyIssues": 4
     },
     {
       "date": "2022-03-13",
@@ -1889,8 +1889,8 @@
         "viewCount": 573,
         "uniqueViewCount": 210
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 1742,
+      "dailyIssues": 2
     },
     {
       "date": "2022-03-14",
@@ -1903,8 +1903,8 @@
         "viewCount": 502,
         "uniqueViewCount": 149
       },
-      "totalIssues": 0,
-      "dailyIssues": 0
+      "totalIssues": 1743,
+      "dailyIssues": 1
     }
   ]
 }
