@@ -1,6 +1,6 @@
 import * as fs from 'fs/promises';
 import { graphql } from "@octokit/graphql";
-import { REPOS, formatDate } from "./utils.js";
+import { REPOS, formatDate, formatTitle } from "./utils.js";
 
 // This needs to be run against a small number of issues, to avoid it taking too long
 // and hitting the API rate limit. So we only get the last X issues instead of all.
@@ -11,6 +11,7 @@ const COMMENTS_LIMIT = 100;
 
 // Where to save the data to.
 const DATA_FILE = "./out/unresponded.json";
+const MD_FILE = "./out/unresponded.md";
 
 const graphqlWithAuth = graphql.defaults({
   headers: {
@@ -187,6 +188,29 @@ async function storeToDataFile(data) {
   // Write back to disk.
   const newContent = JSON.stringify(existingData, null, 2);
   await fs.writeFile(DATA_FILE, newContent);
+
+  return data;
 }
 
-getData().then(storeToDataFile);
+async function storeDaySnapshotToMDFile(data) {
+  console.log("Generating the snapshot markdown file ...");
+
+  const content = [];
+
+  let rate = 0;
+  for (const repo in data) {
+    rate += parseFloat(data[repo].rate);
+
+    content.push(`* ${repo}: ${data[repo].rate}%`);
+    if (data[repo].unRespondedItems && data[repo].unRespondedItems.length) {
+      for (const item of data[repo].unRespondedItems) {
+        content.push(`   * [${formatTitle(item.title)}](${item.url})`);
+      }
+    }
+  }
+  rate = rate / Object.keys(data).length;
+
+  await fs.writeFile(MD_FILE, `Response rate: ${rate.toFixed(2)}%\n\n${content.join('\n')}`);
+}
+
+getData().then(storeToDataFile).then(storeDaySnapshotToMDFile);

@@ -1,5 +1,6 @@
-import * as fs from "fs/promises";
 import { createRequire } from "module";
+
+const MAX_TITLE_LENGTH = 60;
 
 const require = createRequire(import.meta.url);
 export const REPOS = require("./repos.json");
@@ -15,4 +16,11 @@ export function getYesterdayDate() {
 
   date.setDate(date.getDate() - 1);
   return formatDate(date);
+}
+
+export function formatTitle(title) {
+  if (title.length < MAX_TITLE_LENGTH) {
+    return title;
+  }
+  return title.substring(0, MAX_TITLE_LENGTH) + '...';
 }
