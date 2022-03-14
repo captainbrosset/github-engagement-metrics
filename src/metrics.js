@@ -110,7 +110,7 @@ async function storeToDataFile(data) {
   }
 
   // Write back to disk.
-  const newContent = JSON.stringify(existingData);
+  const newContent = JSON.stringify(existingData, null, 2);
   await fs.writeFile(DATA_FILE, newContent);
 }
 
