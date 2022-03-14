@@ -71,6 +71,7 @@
     <div class="charts">
       <div id="daily-issues" class="chart"></div>
       <div id="total-issues" class="chart"></div>
+      <div id="tracked-issues" class="chart"></div>
       <div id="response-rate" class="chart"></div>
       <div id="views" class="chart"></div>
       <div id="unique-views" class="chart"></div>
@@ -128,7 +129,7 @@
           repoMetrics.forEach((item) => {
             let value = item;
             keys.forEach((key) => {
-              value = value[key];
+              value = value[key] || 0;
             });
             data.push(value);
           });
@@ -206,6 +207,25 @@
             {
               name: "issues",
               data: getMetricData("dailyIssues"),
+            },
+          ],
+        });
+
+        Highcharts.chart("tracked-issues", {
+          chart,
+          title: { text: "Tracked issues 📼" },
+          xAxis: getMetricsXAxisDateConfig(),
+          yAxis: { title: { text: "Tracked issues" } },
+          plotOptions: getPlotOptions(),
+          legend: { enabled: true },
+          series: [
+            {
+              name: "tracked",
+              data: getMetricData("trackedIssues"),
+            },
+            {
+              name: "tracked+closed",
+              data: getMetricData("closedTrackedIssues"),
             },
           ],
         });

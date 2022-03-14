@@ -30,16 +30,24 @@ function getQueryForStatsAndIssues(repo) {
     q += ' is:pr';
   }
 
-  return `
-  { 
+  let query = `
     stats: repository(owner: "${repo.org}", name: "${repo.repo}") {
       stargazerCount,
       forkCount,
       watchers { totalCount }
     },
     dailyIssues: search(type: ISSUE, query: "${q} created:${getYesterdayDate()}") { issueCount },
-    totalIssues: search(type: ISSUE, query: "${q}") { issueCount }
-  }`;
+    totalIssues: search(type: ISSUE, query: "${q}") { issueCount },
+  `;
+
+  if (repo.trackedIssuesLabel) {
+    query += `
+    trackedIssues: search(type: ISSUE, query: "${q} label:${repo.trackedIssuesLabel}") { issueCount },
+    closedTrackedIssues: search(type: ISSUE, query: "${q} label:${repo.trackedIssuesLabel} is:CLOSED") { issueCount }
+    `;
+  }
+
+  return `{${query}}`;
 }
 
 async function getRepoData(repo) {
@@ -65,7 +73,7 @@ async function getRepoData(repo) {
     // We need PUSH access to a repo to get views. Silently fail if we don't.
   }
 
-  return {
+  const repoData = {
     date: formatDate(new Date()),
     stats: {
       stars: statsAndIssuesData.stats.stargazerCount,
@@ -76,6 +84,13 @@ async function getRepoData(repo) {
     totalIssues: statsAndIssuesData.totalIssues.issueCount,
     dailyIssues: statsAndIssuesData.dailyIssues.issueCount,
   };
+
+  if (repo.trackedIssuesLabel) {
+    repoData.trackedIssues = statsAndIssuesData.trackedIssues.issueCount;
+    repoData.closedTrackedIssues = statsAndIssuesData.closedTrackedIssues.issueCount;
+  }
+
+  return repoData;
 }
 
 async function getData() {

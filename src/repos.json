@@ -21,21 +21,24 @@
     "org": "MicrosoftEdge",
     "repo": "DevTools",
     "prs": false,
-    "issues": true
+    "issues": true,
+    "trackedIssuesLabel": "tracked"
   },
   {
     "name": "EdgeDriver feedback",
     "org": "MicrosoftEdge",
     "repo": "EdgeWebDriver",
     "prs": false,
-    "issues": true
+    "issues": true,
+    "trackedIssuesLabel": "tracked"
   },
   {
     "name": "WebView2 feedback",
     "org": "MicrosoftEdge",
     "repo": "WebView2Feedback",
     "prs": false,
-    "issues": true
+    "issues": true,
+    "trackedIssuesLabel": "tracked"
   },
   {
     "name": "WebView2 samples",
@@ -57,6 +60,7 @@
     "repo": "vscode-edge-devtools",
     "prs": true,
     "issues": true,
+    "trackedIssuesLabel": "tracked",
     "ignoreIssuesFrom": [
       "app/dependabot"
     ]
@@ -67,6 +71,7 @@
     "repo": "edge-developer",
     "prs": true,
     "issues": true,
+    "trackedIssuesLabel": "ADO",
     "ignoreCommentsFrom": [
       "opbld10",
       "opbld11",
