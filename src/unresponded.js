@@ -161,6 +161,13 @@ async function storeToDataFile(data) {
   const content = await fs.readFile(DATA_FILE, { encoding: 'utf-8' });
   const existingData = JSON.parse(content);
 
+  // Remove all of the existing unRespondedItems properties. We only care about the rate for
+  // past days, and want the unRespondedItems only for the last day that's about to be
+  // generated.
+  for (const repo in existingData) {
+    delete existingData[repo].unRespondedItems;
+  }
+
   // Append the data to it.
   for (const repo in data) {
     if (!existingData[repo]) {
