@@ -87,27 +87,29 @@
 
       // Select the first repo initially.
       let repoName = `${REPOS[0].org}/${REPOS[0].repo}`;
+      let repoFriendlyName = REPOS[0].name;
       let repoMetrics = METRICS[repoName];
       let repoResponseRate = RESPONSE_RATE[repoName];
 
       // Wire the repo switch menu.
       const repoSelect = document.querySelector("#repo");
-      REPOS.forEach(({org, repo}) => {
+      REPOS.forEach(({org, repo, name}) => {
         const option = document.createElement("option");
         option.value = `${org}/${repo}`;
-        option.innerText = `${org}/${repo}`;
+        option.innerText = name;
         repoSelect.appendChild(option);
       });
 
       repoSelect.addEventListener("change", (event) => {
         repoName = event.target.value;
+        repoFriendlyName = event.target.selectedOptions[0].textContent;
         repoMetrics = METRICS[repoName];
         repoResponseRate = RESPONSE_RATE[repoName];
         refresh();
       });
 
       function refresh() {
-        document.querySelector("h1").innerHTML = `Metrics for <a href="https://github.com/${repoName}" target="_blank">${repoName}</a>`;
+        document.querySelector("h1").innerHTML = `Metrics for ${repoFriendlyName} (<a href="https://github.com/${repoName}" target="_blank">${repoName}</a>)`;
 
         function getMetricData(keys) {
           const data = [];

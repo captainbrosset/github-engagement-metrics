@@ -24,35 +24,35 @@
     "issues": true
   },
   {
-    "name": "EdgeDriver",
+    "name": "EdgeDriver feedback",
     "org": "MicrosoftEdge",
     "repo": "EdgeWebDriver",
     "prs": false,
     "issues": true
   },
   {
-    "name": "webview2 feedback",
+    "name": "WebView2 feedback",
     "org": "MicrosoftEdge",
     "repo": "WebView2Feedback",
     "prs": false,
     "issues": true
   },
   {
-    "name": "webview2 samples",
+    "name": "WebView2 samples",
     "org": "MicrosoftEdge",
     "repo": "WebView2Samples",
     "prs": false,
     "issues": true
   },
   {
-    "name": "webview2 browser",
+    "name": "WebView2 browser sample",
     "org": "MicrosoftEdge",
     "repo": "WebView2Browser",
     "prs": false,
     "issues": true
   },
   {
-    "name": "devtools vscode extension",
+    "name": "DevTools VS Code extension",
     "org": "microsoft",
     "repo": "vscode-edge-devtools",
     "prs": true,
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "name": "developer docs",
+    "name": "Edge developer docs",
     "org": "MicrosoftDocs",
     "repo": "edge-developer",
     "prs": true,
