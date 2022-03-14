@@ -37,6 +37,7 @@
       .widget {
         padding: var(--spacing);
         overflow-y: auto;
+        grid-column: span 2;
       }
       .widget h2 {
         margin: 0;
@@ -85,9 +86,18 @@
       import METRICS from "./out/metrics.json" assert { type: "json" };
       import RESPONSE_RATE from "./out/unresponded.json" assert { type: "json" };
 
-      // Select the first repo initially.
-      let repoName = `${REPOS[0].org}/${REPOS[0].repo}`;
-      let repoFriendlyName = REPOS[0].name;
+      // Select the first repo initially, or the one passed in the URL if any.
+      const repoInUrlParam = new URL(location.href).searchParams.get("repo");
+      let initialRepo = repoInUrlParam ? REPOS.find(r => {
+        const [org, repo] = repoInUrlParam.toLowerCase().split('/');
+        return r.org.toLowerCase() === org && r.repo.toLowerCase() === repo;
+      }) : REPOS[0];
+      if (!initialRepo) {
+        initialRepo = REPOS[0];
+      }
+
+      let repoName = `${initialRepo.org}/${initialRepo.repo}`;
+      let repoFriendlyName = initialRepo.name;
       let repoMetrics = METRICS[repoName];
       let repoResponseRate = RESPONSE_RATE[repoName];
 
