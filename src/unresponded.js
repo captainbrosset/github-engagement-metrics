@@ -44,6 +44,7 @@ function getQuery(repo) {
           state,
           url,
           author { login },
+          authorAssociation,
           isDraft,
           comments(last: ${COMMENTS_LIMIT}) {
             nodes {
@@ -57,6 +58,7 @@ function getQuery(repo) {
           state,
           url,
           author { login },
+          authorAssociation,
           comments(last: ${COMMENTS_LIMIT}) {
             nodes {
               author { login }
@@ -92,7 +94,7 @@ async function getRepoData(repo) {
 
 async function getUnRespondedItems(items) {
   // Preload the list with open items with 0 comments. Those are obviously unresponded.
-  const unRespondedItems = items.filter(item => item.state === 'OPEN' && item.comments.length === 0);
+  let unRespondedItems = items.filter(item => item.state === 'OPEN' && item.comments.length === 0);
 
   // Then check all open items that have been commented on, and verify that at least
   // 1 comment is from somebody else, AND that the last comment isn't from the reporter
@@ -109,6 +111,9 @@ async function getUnRespondedItems(items) {
       unRespondedItems.push(item);
     }
   }
+
+  // Remove all issues that were created by members of the org.
+  unRespondedItems = unRespondedItems.filter(item => item.authorAssociation !== 'MEMBER');
 
   console.log(`Found ${unRespondedItems.length} unresponded items`);
   console.log(unRespondedItems.map(i => i.url));
@@ -165,7 +170,9 @@ async function storeToDataFile(data) {
   // past days, and want the unRespondedItems only for the last day that's about to be
   // generated.
   for (const repo in existingData) {
-    delete existingData[repo].unRespondedItems;
+    for (const day in existingData[repo]) {
+      delete existingData[repo][day].unRespondedItems;
+    }
   }
 
   // Append the data to it.
