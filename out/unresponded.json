@@ -58,7 +58,15 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
+        {
+          "title": "JSON output is not valid JSON",
+          "url": "https://github.com/webhintio/hint/issues/5081"
+        },
         {
           "title": "Extension suddenly stopped working: e is undefined",
           "url": "https://github.com/webhintio/hint/issues/5078"
@@ -82,10 +90,6 @@
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
-        },
-        {
-          "title": "Breaking: Raise min required node version to 14",
-          "url": "https://github.com/webhintio/hint/pull/4886"
         }
       ],
       "rate": "86.00"
@@ -150,6 +154,10 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -213,34 +221,18 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "59.09"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
         {
           "title": "No cue if \"Save image as...\" has actually saved image",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/23"
         },
         {
-          "title": "Warn before refreshing the page if I've made changes in DevTools",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/22"
-        },
-        {
           "title": "Microsoft Editor integration in dev tools",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/21"
-        },
-        {
-          "title": "Simulate low memory or throttle memory like how DevTools can throttle CPU",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/12"
-        },
-        {
-          "title": "Create a view for Dominators in the Memory tool",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/7"
-        },
-        {
-          "title": "When taking a heap snapshot, dump all string values to a file or view",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/6"
-        },
-        {
-          "title": "[Feedback] Retrieve source maps from Symbol Server",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/5"
         },
         {
           "title": "Sort styles alphabetically",
@@ -251,7 +243,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "59.09"
+      "rate": "81.82"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -313,25 +305,17 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "20.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5"
-        },
-        {
-          "title": "Refactor classic EdgeDriver server",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/4"
-        },
-        {
-          "title": "Integrate Chromium BiDi implementation in the Edge browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/3"
-        },
-        {
-          "title": "Microsoft Edge WebDriver should update to keep in sync with the Edge browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/2"
         }
       ],
-      "rate": "20.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -393,22 +377,22 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
         {
-          "title": "Microsoft.WebView2.FixedVersionRuntime.99.0.1150.36.x64.cab not talking with Microsoft.Web.WebView2 1.0.1072.54 assemblies. User Error or issue?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2263"
+          "title": "WebView2 search box (Ctrl-F) steals activation from frame window and is unanchored",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2269"
         },
         {
-          "title": "webview2 disabled mouse xy click API function ? ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2261"
+          "title": "Iframe + postMessage sometimes fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2267"
         },
         {
-          "title": "taskbar and webview window disappear",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2260"
-        },
-        {
-          "title": "Would like to see Save Page As implemented.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2259"
+          "title": "Multifactor Authentication security key support",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265"
         },
         {
           "title": "Passing POST headers through WebResourceRequested and CreateWebResourceRequest content is null exception",
@@ -417,10 +401,6 @@
         {
           "title": "OKTA server login attempt stuck in a loop in a re-entrant scenario",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229"
-        },
-        {
-          "title": "WebView2 freeze when activating WebRTC sharing notification ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2258"
         },
         {
           "title": "Throw custom exception for WebView Control is no longer valid",
@@ -439,11 +419,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227"
         },
         {
-          "title": "Signed exe doesn't work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2212"
+          "title": "WebView2 and Surface Hub (Windows 10 Teams) compatibility",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2215"
         }
       ],
-      "rate": "76.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -505,6 +485,10 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -625,6 +609,10 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -741,15 +729,11 @@
     },
     {
       "date": "2022-03-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-03-15",
       "unRespondedItems": [
-        {
-          "title": "Microsoft / vscode-edge-devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/923"
-        },
-        {
-          "title": "Add Support for Vue, React, Angular frameworks",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/919"
-        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -763,7 +747,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/872"
         }
       ],
-      "rate": "90.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -825,41 +809,12 @@
     },
     {
       "date": "2022-03-14",
-      "unRespondedItems": [
-        {
-          "title": "issue has been found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1800"
-        },
-        {
-          "title": "Does not work, Are there verrsioning issues",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1797"
-        },
-        {
-          "title": "F6 no longer unsupported, moves focus to next pane",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1795"
-        },
-        {
-          "title": "The disabling of the context menu and drag and drop needs to be done after navigation is completed to work.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1794"
-        },
-        {
-          "title": "Release Notes for WebView2 Edge99",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1793"
-        },
-        {
-          "title": "Removed suggestion to use twitter to contact the team",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1792"
-        },
-        {
-          "title": "Changes to move from private preview to Beta",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1790"
-        },
-        {
-          "title": "Manifest V3 overview and logical TOC bucket",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1789"
-        }
-      ],
       "rate": "83.33"
+    },
+    {
+      "date": "2022-03-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
