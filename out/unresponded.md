@@ -1,4 +1,4 @@
-Response rate: 84.28%
+Response rate: 84.50%
 
 * **webhintio/hint** - _86.00%_
    * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
@@ -9,18 +9,16 @@ Response rate: 84.28%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _95.45%_
+* **MicrosoftEdge/DevTools** - _91.67%_
+   * [View form data when uploading a file in the network tab](https://github.com/MicrosoftEdge/DevTools/issues/24)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _80.00%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
-   * [Is there any way to host SPA without local port?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2270)
+* **MicrosoftEdge/WebView2Feedback** - _84.00%_
    * [WebView2 search box (Ctrl-F) steals activation from frame wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2269)
-   * [Iframe + postMessage sometimes fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2267)
    * [Multifactor Authentication security key support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
    * [OKTA server login attempt stuck in a loop in a re-entrant sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229)
-   * [taskbar and webview window disappear](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2260)
    * [Throw custom exception for WebView Control is no longer vali...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254)
    * [On WebView getting disposed, it hangs the rendering thread -...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2247)
    * [Microsoft IME candidates window open in wrong place](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241)
@@ -54,9 +52,9 @@ Response rate: 84.28%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-   * [Issue while adding a New Style Rule](https://github.com/microsoft/vscode-edge-devtools/issues/872)
-* **MicrosoftDocs/edge-developer** - _97.92%_
-   * [Edge-management of service-handlers](https://github.com/MicrosoftDocs/edge-developer/issues/1802)
+* **MicrosoftDocs/edge-developer** - _95.65%_
+   * [Minor typo in CoreWebView2EnvironmentOptions.AdditionalBrows...](https://github.com/MicrosoftDocs/edge-developer/issues/1807)
+   * [Unable to find in Registry Editor](https://github.com/MicrosoftDocs/edge-developer/issues/1806)

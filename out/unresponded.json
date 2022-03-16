@@ -62,6 +62,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "JSON output is not valid JSON",
@@ -158,6 +162,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -225,25 +233,21 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "81.82"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
-          "title": "No cue if \"Save image as...\" has actually saved image",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/23"
-        },
-        {
-          "title": "Microsoft Editor integration in dev tools",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/21"
-        },
-        {
-          "title": "Sort styles alphabetically",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/19"
+          "title": "View form data when uploading a file in the network tab",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/24"
         },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "81.82"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -309,6 +313,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -381,14 +389,14 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "WebView2 search box (Ctrl-F) steals activation from frame window and is unanchored",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2269"
-        },
-        {
-          "title": "Iframe + postMessage sometimes fails",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2267"
         },
         {
           "title": "Multifactor Authentication security key support",
@@ -417,13 +425,9 @@
         {
           "title": "Windows 7 not working due to `EventSetInformation`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227"
-        },
-        {
-          "title": "WebView2 and Surface Hub (Windows 10 Teams) compatibility",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2215"
         }
       ],
-      "rate": "80.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -489,6 +493,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -613,6 +621,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -733,6 +745,10 @@
     },
     {
       "date": "2022-03-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-03-16",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -741,13 +757,9 @@
         {
           "title": "Javascript debugger does not connect to headless instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
-        },
-        {
-          "title": "Issue while adding a New Style Rule",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/872"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -813,8 +825,21 @@
     },
     {
       "date": "2022-03-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-03-16",
+      "unRespondedItems": [
+        {
+          "title": "Minor typo in CoreWebView2EnvironmentOptions.AdditionalBrowserArguments docs",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1807"
+        },
+        {
+          "title": "Unable to find in Registry Editor",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1806"
+        }
+      ],
+      "rate": "95.65"
     }
   ]
 }
