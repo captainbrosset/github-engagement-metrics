@@ -1,4 +1,4 @@
-Response rate: 84.50%
+Response rate: 86.01%
 
 * **webhintio/hint** - _86.00%_
    * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
@@ -9,21 +9,19 @@ Response rate: 84.50%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _91.67%_
-   * [View form data when uploading a file in the network tab](https://github.com/MicrosoftEdge/DevTools/issues/24)
+* **MicrosoftEdge/DevTools** - _95.83%_
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _83.33%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _84.00%_
-   * [WebView2 search box (Ctrl-F) steals activation from frame wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2269)
-   * [Multifactor Authentication security key support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
+* **MicrosoftEdge/WebView2Feedback** - _86.00%_
+   * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
    * [OKTA server login attempt stuck in a loop in a re-entrant sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229)
    * [Throw custom exception for WebView Control is no longer vali...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254)
    * [On WebView getting disposed, it hangs the rendering thread -...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2247)
    * [Microsoft IME candidates window open in wrong place](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241)
    * [Windows 7 not working due to `EventSetInformation`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227)
-* **MicrosoftEdge/WebView2Samples** - _72.00%_
+* **MicrosoftEdge/WebView2Samples** - _74.00%_
    * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
    * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
    * [Is there another way to replace Microsoft::WRL::Callback?](https://github.com/MicrosoftEdge/WebView2Samples/issues/88)
@@ -37,7 +35,6 @@ Response rate: 84.50%
    * [How to setup a CallCallbackAsynchronously on C#](https://github.com/MicrosoftEdge/WebView2Samples/issues/66)
    * [Javascript bridge window.external.notify](https://github.com/MicrosoftEdge/WebView2Samples/issues/43)
    * [cppwinrt Callback](https://github.com/MicrosoftEdge/WebView2Samples/issues/30)
-   * [UWP Sample](https://github.com/MicrosoftEdge/WebView2Samples/issues/28)
 * **MicrosoftEdge/WebView2Browser** - _55.17%_
    * [Policy "NewTabPageManagedQuickLinks" error when more that 3 ...](https://github.com/MicrosoftEdge/WebView2Browser/issues/37)
    * [warning MSB8004: Output Directory does not end with a traili...](https://github.com/MicrosoftEdge/WebView2Browser/issues/33)
@@ -55,6 +52,5 @@ Response rate: 84.50%
 * **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _95.65%_
-   * [Minor typo in CoreWebView2EnvironmentOptions.AdditionalBrows...](https://github.com/MicrosoftDocs/edge-developer/issues/1807)
-   * [Unable to find in Registry Editor](https://github.com/MicrosoftDocs/edge-developer/issues/1806)
+* **MicrosoftDocs/edge-developer** - _97.78%_
+   * [NPM Package for Publishing API](https://github.com/MicrosoftDocs/edge-developer/issues/1813)

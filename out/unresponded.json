@@ -66,6 +66,10 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
           "title": "JSON output is not valid JSON",
@@ -166,6 +170,10 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -237,17 +245,17 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
-        {
-          "title": "View form data when uploading a file in the network tab",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/24"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "91.67"
+      "rate": "95.83"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -317,13 +325,17 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5"
         }
       ],
-      "rate": "80.00"
+      "rate": "83.33"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -393,13 +405,13 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
-          "title": "WebView2 search box (Ctrl-F) steals activation from frame window and is unanchored",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2269"
-        },
-        {
-          "title": "Multifactor Authentication security key support",
+          "title": "Multifactor authentication using windows security key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265"
         },
         {
@@ -427,7 +439,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -497,6 +509,10 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -549,13 +565,9 @@
         {
           "title": "cppwinrt Callback",
           "url": "https://github.com/MicrosoftEdge/WebView2Samples/issues/30"
-        },
-        {
-          "title": "UWP Sample",
-          "url": "https://github.com/MicrosoftEdge/WebView2Samples/issues/28"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Browser": [
@@ -625,6 +637,10 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -749,6 +765,10 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -829,17 +849,17 @@
     },
     {
       "date": "2022-03-16",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-03-17",
       "unRespondedItems": [
         {
-          "title": "Minor typo in CoreWebView2EnvironmentOptions.AdditionalBrowserArguments docs",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1807"
-        },
-        {
-          "title": "Unable to find in Registry Editor",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1806"
+          "title": "NPM Package for Publishing API",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1813"
         }
       ],
-      "rate": "95.65"
+      "rate": "97.78"
     }
   ]
 }
