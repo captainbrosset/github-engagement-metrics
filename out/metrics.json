@@ -251,6 +251,20 @@
       },
       "totalIssues": 4754,
       "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 3319,
+        "forks": 410,
+        "watchers": 73
+      },
+      "views": {
+        "viewCount": 71,
+        "uniqueViewCount": 46
+      },
+      "totalIssues": 4755,
+      "dailyIssues": 1
     }
   ],
   "MicrosoftEdge/demos": [
@@ -502,6 +516,20 @@
       "views": {
         "viewCount": 34,
         "uniqueViewCount": 15
+      },
+      "totalIssues": 4,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 10,
+        "forks": 5,
+        "watchers": 13
+      },
+      "views": {
+        "viewCount": 38,
+        "uniqueViewCount": 14
       },
       "totalIssues": 4,
       "dailyIssues": 0
@@ -765,6 +793,22 @@
       "dailyIssues": 0,
       "trackedIssues": 9,
       "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 19,
+        "forks": 2,
+        "watchers": 19
+      },
+      "views": {
+        "viewCount": 160,
+        "uniqueViewCount": 37
+      },
+      "totalIssues": 25,
+      "dailyIssues": 1,
+      "trackedIssues": 9,
+      "closedTrackedIssues": 1
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1023,6 +1067,22 @@
       },
       "totalIssues": 6,
       "dailyIssues": 1,
+      "trackedIssues": 3,
+      "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 17
+      },
+      "views": {
+        "viewCount": 43,
+        "uniqueViewCount": 12
+      },
+      "totalIssues": 6,
+      "dailyIssues": 0,
       "trackedIssues": 3,
       "closedTrackedIssues": 1
     }
@@ -1285,6 +1345,22 @@
       "dailyIssues": 4,
       "trackedIssues": 580,
       "closedTrackedIssues": 209
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 243,
+        "forks": 27,
+        "watchers": 68
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 2137,
+      "dailyIssues": 3,
+      "trackedIssues": 580,
+      "closedTrackedIssues": 209
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -1539,6 +1615,20 @@
       },
       "totalIssues": 66,
       "dailyIssues": 1
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 460,
+        "forks": 252,
+        "watchers": 49
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 66,
+      "dailyIssues": 0
     }
   ],
   "MicrosoftEdge/WebView2Browser": [
@@ -1782,6 +1872,20 @@
     },
     {
       "date": "2022-03-17",
+      "stats": {
+        "stars": 262,
+        "forks": 44,
+        "watchers": 35
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 29,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-18",
       "stats": {
         "stars": 262,
         "forks": 44,
@@ -2053,6 +2157,22 @@
       "dailyIssues": 1,
       "trackedIssues": 73,
       "closedTrackedIssues": 27
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 509,
+        "forks": 119,
+        "watchers": 25
+      },
+      "views": {
+        "viewCount": 239,
+        "uniqueViewCount": 96
+      },
+      "totalIssues": 888,
+      "dailyIssues": 3,
+      "trackedIssues": 73,
+      "closedTrackedIssues": 27
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2311,6 +2431,22 @@
       },
       "totalIssues": 1754,
       "dailyIssues": 4,
+      "trackedIssues": 81,
+      "closedTrackedIssues": 78
+    },
+    {
+      "date": "2022-03-18",
+      "stats": {
+        "stars": 212,
+        "forks": 353,
+        "watchers": 82
+      },
+      "views": {
+        "viewCount": 665,
+        "uniqueViewCount": 242
+      },
+      "totalIssues": 1755,
+      "dailyIssues": 1,
       "trackedIssues": 81,
       "closedTrackedIssues": 78
     }

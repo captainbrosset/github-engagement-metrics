@@ -70,7 +70,15 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Crash if there be a <200b> character in html file",
+          "url": "https://github.com/webhintio/hint/issues/5082"
+        },
         {
           "title": "JSON output is not valid JSON",
           "url": "https://github.com/webhintio/hint/issues/5081"
@@ -100,7 +108,7 @@
           "url": "https://github.com/webhintio/hint/issues/5079"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -174,6 +182,10 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -249,13 +261,21 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
+        {
+          "title": "I'd love to have some CO2 accounting as part of this",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/26"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "95.83"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -329,6 +349,10 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -409,7 +433,15 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
+        {
+          "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
+        },
         {
           "title": "Multifactor authentication using windows security key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265"
@@ -439,7 +471,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -513,6 +545,10 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -641,6 +677,10 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -769,7 +809,15 @@
     },
     {
       "date": "2022-03-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-18",
       "unRespondedItems": [
+        {
+          "title": "High CPU and janky experience while using Edge Tools Screencast",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/931"
+        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -779,7 +827,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -853,13 +901,12 @@
     },
     {
       "date": "2022-03-17",
-      "unRespondedItems": [
-        {
-          "title": "NPM Package for Publishing API",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1813"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2022-03-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

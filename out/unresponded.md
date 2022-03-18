@@ -1,6 +1,7 @@
-Response rate: 86.01%
+Response rate: 85.17%
 
-* **webhintio/hint** - _86.00%_
+* **webhintio/hint** - _84.00%_
+   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
    * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
    * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
    * [[Bug] Cross-origin resource needs a 'crossorigin' attribute ...](https://github.com/webhintio/hint/issues/5054)
@@ -9,11 +10,13 @@ Response rate: 86.01%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _95.83%_
+* **MicrosoftEdge/DevTools** - _92.00%_
+   * [I'd love to have some CO2 accounting as part of this](https://github.com/MicrosoftEdge/DevTools/issues/26)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _83.33%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _86.00%_
+* **MicrosoftEdge/WebView2Feedback** - _84.00%_
+   * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
    * [OKTA server login attempt stuck in a loop in a re-entrant sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229)
@@ -49,8 +52,8 @@ Response rate: 86.01%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+   * [High CPU and janky experience while using Edge Tools Screenc...](https://github.com/microsoft/vscode-edge-devtools/issues/931)
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-   * [NPM Package for Publishing API](https://github.com/MicrosoftDocs/edge-developer/issues/1813)
+* **MicrosoftDocs/edge-developer** - _100.00%_
