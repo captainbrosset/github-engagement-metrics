@@ -74,6 +74,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -186,6 +190,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -265,17 +273,17 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
-        {
-          "title": "I'd love to have some CO2 accounting as part of this",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/26"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -353,6 +361,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -437,10 +449,30 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
         {
-          "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
+          "title": "CreateCoreWebView2Controller  fails to create controller in multiple windows",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287"
+        },
+        {
+          "title": "Official Terminal Sever support ?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286"
+        },
+        {
+          "title": "Help creating registry key to Support Office Add-ins",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2285"
+        },
+        {
+          "title": "Webview2 browser popup window is not coming in front",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2284"
+        },
+        {
+          "title": "Webview2 is loaded but content are not rendered.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283"
         },
         {
           "title": "Multifactor authentication using windows security key",
@@ -451,8 +483,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250"
         },
         {
-          "title": "OKTA server login attempt stuck in a loop in a re-entrant scenario",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229"
+          "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         },
         {
           "title": "Throw custom exception for WebView Control is no longer valid",
@@ -465,13 +497,9 @@
         {
           "title": "Microsoft IME candidates window open in wrong place",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241"
-        },
-        {
-          "title": "Windows 7 not working due to `EventSetInformation`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227"
         }
       ],
-      "rate": "84.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -549,6 +577,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -681,6 +713,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -813,11 +849,11 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [
-        {
-          "title": "High CPU and janky experience while using Edge Tools Screencast",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/931"
-        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -827,7 +863,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -905,6 +941,10 @@
     },
     {
       "date": "2022-03-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }

@@ -10,20 +10,22 @@ Response rate: 85.17%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _92.00%_
-   * [I'd love to have some CO2 accounting as part of this](https://github.com/MicrosoftEdge/DevTools/issues/26)
+* **MicrosoftEdge/DevTools** - _96.00%_
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _83.33%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _84.00%_
-   * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+   * [CreateCoreWebView2Controller  fails to create controller in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287)
+   * [Official Terminal Sever support ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286)
+   * [Help creating registry key to Support Office Add-ins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2285)
+   * [Webview2 browser popup window is not coming in front](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2284)
+   * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
-   * [OKTA server login attempt stuck in a loop in a re-entrant sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2229)
+   * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
    * [Throw custom exception for WebView Control is no longer vali...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254)
    * [On WebView getting disposed, it hangs the rendering thread -...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2247)
    * [Microsoft IME candidates window open in wrong place](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241)
-   * [Windows 7 not working due to `EventSetInformation`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2227)
 * **MicrosoftEdge/WebView2Samples** - _74.00%_
    * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
    * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
@@ -52,8 +54,7 @@ Response rate: 85.17%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-   * [High CPU and janky experience while using Edge Tools Screenc...](https://github.com/microsoft/vscode-edge-devtools/issues/931)
+* **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
 * **MicrosoftDocs/edge-developer** - _100.00%_
