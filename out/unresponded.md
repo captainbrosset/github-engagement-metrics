@@ -1,4 +1,4 @@
-Response rate: 85.17%
+Response rate: 84.15%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,11 +10,14 @@ Response rate: 85.17%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _88.89%_
+   * [Custom snippets support](https://github.com/MicrosoftEdge/DevTools/issues/28)
+   * [DevTools pinning customization](https://github.com/MicrosoftEdge/DevTools/issues/27)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _83.33%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+   * [localStorage JavaScript API missing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2289)
    * [CreateCoreWebView2Controller  fails to create controller in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287)
    * [Official Terminal Sever support ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286)
    * [Help creating registry key to Support Office Add-ins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2285)
