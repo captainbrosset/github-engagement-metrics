@@ -82,6 +82,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -202,6 +206,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -289,6 +297,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "88.89"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "Custom snippets support",
@@ -389,6 +401,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -481,6 +497,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "localStorage JavaScript API missing",
@@ -617,6 +637,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -757,6 +781,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -897,6 +925,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -993,6 +1025,10 @@
     },
     {
       "date": "2022-03-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
