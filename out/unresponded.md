@@ -1,4 +1,4 @@
-Response rate: 84.15%
+Response rate: 84.31%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,13 +10,13 @@ Response rate: 84.15%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _88.89%_
-   * [Custom snippets support](https://github.com/MicrosoftEdge/DevTools/issues/28)
-   * [DevTools pinning customization](https://github.com/MicrosoftEdge/DevTools/issues/27)
+* **MicrosoftEdge/DevTools** - _96.30%_
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _83.33%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+   * [ICoreWebView2WebResourceRequest get_Content passes back a st...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2294)
+   * [Password autosave + suggest](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2291)
    * [localStorage JavaScript API missing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2289)
    * [CreateCoreWebView2Controller  fails to create controller in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287)
    * [Official Terminal Sever support ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286)
@@ -25,6 +25,7 @@ Response rate: 84.15%
    * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
+   * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
    * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
    * [Throw custom exception for WebView Control is no longer vali...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254)
    * [On WebView getting disposed, it hangs the rendering thread -...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2247)

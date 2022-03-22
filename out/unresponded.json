@@ -86,6 +86,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -210,6 +214,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -301,21 +309,17 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "88.89"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
-        {
-          "title": "Custom snippets support",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/28"
-        },
-        {
-          "title": "DevTools pinning customization",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/27"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "88.89"
+      "rate": "96.30"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -405,6 +409,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -501,7 +509,19 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
+        {
+          "title": "ICoreWebView2WebResourceRequest get_Content passes back a stream object with invalid pointer to Read method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2294"
+        },
+        {
+          "title": "Password autosave + suggest",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2291"
+        },
         {
           "title": "localStorage JavaScript API missing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2289"
@@ -535,6 +555,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250"
         },
         {
+          "title": "WebView2 html select dropdown positioning not updated",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290"
+        },
+        {
           "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         },
@@ -551,7 +575,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241"
         }
       ],
-      "rate": "76.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -641,6 +665,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -785,6 +813,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -929,6 +961,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -1029,6 +1065,10 @@
     },
     {
       "date": "2022-03-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }

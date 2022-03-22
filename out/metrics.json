@@ -307,6 +307,20 @@
       },
       "totalIssues": 4755,
       "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 3322,
+        "forks": 414,
+        "watchers": 74
+      },
+      "views": {
+        "viewCount": 59,
+        "uniqueViewCount": 29
+      },
+      "totalIssues": 4756,
+      "dailyIssues": 1
     }
   ],
   "MicrosoftEdge/demos": [
@@ -614,6 +628,20 @@
       "views": {
         "viewCount": 7,
         "uniqueViewCount": 4
+      },
+      "totalIssues": 4,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 11,
+        "forks": 5,
+        "watchers": 13
+      },
+      "views": {
+        "viewCount": 52,
+        "uniqueViewCount": 11
       },
       "totalIssues": 4,
       "dailyIssues": 0
@@ -936,6 +964,22 @@
       "views": {
         "viewCount": 82,
         "uniqueViewCount": 18
+      },
+      "totalIssues": 27,
+      "dailyIssues": 0,
+      "trackedIssues": 9,
+      "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 19,
+        "forks": 2,
+        "watchers": 19
+      },
+      "views": {
+        "viewCount": 43,
+        "uniqueViewCount": 17
       },
       "totalIssues": 27,
       "dailyIssues": 0,
@@ -1265,6 +1309,22 @@
       "dailyIssues": 0,
       "trackedIssues": 3,
       "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 17
+      },
+      "views": {
+        "viewCount": 11,
+        "uniqueViewCount": 1
+      },
+      "totalIssues": 6,
+      "dailyIssues": 0,
+      "trackedIssues": 3,
+      "closedTrackedIssues": 1
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1589,6 +1649,22 @@
       "dailyIssues": 0,
       "trackedIssues": 580,
       "closedTrackedIssues": 210
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 245,
+        "forks": 27,
+        "watchers": 68
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 2148,
+      "dailyIssues": 5,
+      "trackedIssues": 581,
+      "closedTrackedIssues": 211
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -1890,6 +1966,20 @@
       "date": "2022-03-21",
       "stats": {
         "stars": 462,
+        "forks": 252,
+        "watchers": 49
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 66,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 463,
         "forks": 252,
         "watchers": 49
       },
@@ -2202,6 +2292,20 @@
         "stars": 262,
         "forks": 44,
         "watchers": 35
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 29,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 262,
+        "forks": 44,
+        "watchers": 36
       },
       "views": {
         "viewCount": 0,
@@ -2533,6 +2637,22 @@
       "dailyIssues": 0,
       "trackedIssues": 73,
       "closedTrackedIssues": 27
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 511,
+        "forks": 123,
+        "watchers": 26
+      },
+      "views": {
+        "viewCount": 136,
+        "uniqueViewCount": 64
+      },
+      "totalIssues": 891,
+      "dailyIssues": 1,
+      "trackedIssues": 73,
+      "closedTrackedIssues": 27
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2855,6 +2975,22 @@
       },
       "totalIssues": 1759,
       "dailyIssues": 0,
+      "trackedIssues": 81,
+      "closedTrackedIssues": 78
+    },
+    {
+      "date": "2022-03-22",
+      "stats": {
+        "stars": 213,
+        "forks": 355,
+        "watchers": 83
+      },
+      "views": {
+        "viewCount": 292,
+        "uniqueViewCount": 100
+      },
+      "totalIssues": 1761,
+      "dailyIssues": 2,
       "trackedIssues": 81,
       "closedTrackedIssues": 78
     }
