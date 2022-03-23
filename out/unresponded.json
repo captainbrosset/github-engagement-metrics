@@ -90,6 +90,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -218,6 +222,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -313,6 +321,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "96.30"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -413,6 +425,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -513,7 +529,23 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
+        {
+          "title": "How to show a modal dialog from a Host Object?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2300"
+        },
+        {
+          "title": "Recommended best practices when installing WebView2 on Citrix?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2299"
+        },
+        {
+          "title": "ExecuteScriptAsync doesn't return fetch PromiseResult",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2295"
+        },
         {
           "title": "ICoreWebView2WebResourceRequest get_Content passes back a stream object with invalid pointer to Read method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2294"
@@ -533,10 +565,6 @@
         {
           "title": "Official Terminal Sever support ?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286"
-        },
-        {
-          "title": "Help creating registry key to Support Office Add-ins",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2285"
         },
         {
           "title": "Webview2 browser popup window is not coming in front",
@@ -565,14 +593,6 @@
         {
           "title": "Throw custom exception for WebView Control is no longer valid",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254"
-        },
-        {
-          "title": "On WebView getting disposed, it hangs the rendering thread - without any possibility for restoring it",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2247"
-        },
-        {
-          "title": "Microsoft IME candidates window open in wrong place",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2241"
         }
       ],
       "rate": "70.00"
@@ -669,6 +689,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -817,6 +841,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -965,6 +993,10 @@
     },
     {
       "date": "2022-03-22",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-23",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -1069,8 +1101,17 @@
     },
     {
       "date": "2022-03-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-03-23",
+      "unRespondedItems": [
+        {
+          "title": "Can Edge driver download automatically each time the Edge stable version is updated?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1824"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
