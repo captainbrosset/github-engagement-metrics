@@ -94,6 +94,10 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -226,6 +230,10 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -325,13 +333,21 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "96.30"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
+        {
+          "title": "Edge no long working properly",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/29"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "96.30"
+      "rate": "92.86"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -429,13 +445,17 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5"
         }
       ],
-      "rate": "83.33"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -533,54 +553,14 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
-        {
-          "title": "How to show a modal dialog from a Host Object?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2300"
-        },
-        {
-          "title": "Recommended best practices when installing WebView2 on Citrix?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2299"
-        },
-        {
-          "title": "ExecuteScriptAsync doesn't return fetch PromiseResult",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2295"
-        },
-        {
-          "title": "ICoreWebView2WebResourceRequest get_Content passes back a stream object with invalid pointer to Read method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2294"
-        },
-        {
-          "title": "Password autosave + suggest",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2291"
-        },
-        {
-          "title": "localStorage JavaScript API missing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2289"
-        },
-        {
-          "title": "CreateCoreWebView2Controller  fails to create controller in multiple windows",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287"
-        },
-        {
-          "title": "Official Terminal Sever support ?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286"
-        },
-        {
-          "title": "Webview2 browser popup window is not coming in front",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2284"
-        },
-        {
-          "title": "Webview2 is loaded but content are not rendered.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283"
-        },
         {
           "title": "Multifactor authentication using windows security key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265"
-        },
-        {
-          "title": "Passing POST headers through WebResourceRequested and CreateWebResourceRequest content is null exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250"
         },
         {
           "title": "WebView2 html select dropdown positioning not updated",
@@ -589,13 +569,9 @@
         {
           "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
-        },
-        {
-          "title": "Throw custom exception for WebView Control is no longer valid",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254"
         }
       ],
-      "rate": "70.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -693,6 +669,10 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -845,6 +825,10 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -997,6 +981,10 @@
     },
     {
       "date": "2022-03-23",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-24",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -1105,13 +1093,12 @@
     },
     {
       "date": "2022-03-23",
-      "unRespondedItems": [
-        {
-          "title": "Can Edge driver download automatically each time the Edge stable version is updated?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1824"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2022-03-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

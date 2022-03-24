@@ -1,4 +1,4 @@
-Response rate: 84.07%
+Response rate: 86.86%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,26 +10,15 @@ Response rate: 84.07%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.30%_
+* **MicrosoftEdge/DevTools** - _92.86%_
+   * [Edge no long working properly](https://github.com/MicrosoftEdge/DevTools/issues/29)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _83.33%_
+* **MicrosoftEdge/EdgeWebDriver** - _85.71%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
-   * [How to show a modal dialog from a Host Object?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2300)
-   * [Recommended best practices when installing WebView2 on Citri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2299)
-   * [ExecuteScriptAsync doesn't return fetch PromiseResult](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2295)
-   * [ICoreWebView2WebResourceRequest get_Content passes back a st...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2294)
-   * [Password autosave + suggest](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2291)
-   * [localStorage JavaScript API missing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2289)
-   * [CreateCoreWebView2Controller  fails to create controller in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2287)
-   * [Official Terminal Sever support ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2286)
-   * [Webview2 browser popup window is not coming in front](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2284)
-   * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
+* **MicrosoftEdge/WebView2Feedback** - _94.00%_
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
-   * [Passing POST headers through WebResourceRequested and Create...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2250)
    * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
    * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
-   * [Throw custom exception for WebView Control is no longer vali...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2254)
 * **MicrosoftEdge/WebView2Samples** - _74.00%_
    * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
    * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
@@ -61,5 +50,4 @@ Response rate: 84.07%
 * **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-   * [Can Edge driver download automatically each time the Edge st...](https://github.com/MicrosoftDocs/edge-developer/issues/1824)
+* **MicrosoftDocs/edge-developer** - _100.00%_
