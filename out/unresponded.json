@@ -102,6 +102,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -242,6 +246,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -349,13 +357,21 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "96.43"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
+        {
+          "title": "Java API wrapper for WebView2 with JDK 18 new Panama FFI ?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/30"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "96.43"
+      "rate": "93.10"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -461,6 +477,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -573,6 +593,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
           "title": "System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
@@ -591,12 +615,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306"
         },
         {
-          "title": "#edge-overlay-scrollbars-win-style Scrolbars are Red Instead of Gray",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2304"
-        },
-        {
-          "title": "How to show a modal dialog from a Host Object?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2300"
+          "title": "WebView2 rendering outside parent form after installation of KB5011543",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2303"
         },
         {
           "title": "Web Workers API doesn't work",
@@ -613,13 +633,9 @@
         {
           "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
-        },
-        {
-          "title": "Content not loading after updating to runtime 99.0.1150.39 (evergreen)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2276"
         }
       ],
-      "rate": "78.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -725,6 +741,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -885,6 +905,10 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -1045,11 +1069,11 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
-        {
-          "title": "my live server in vs code dose not work and i did not receive any error and every time i code , i should tap on the go live button ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/941"
-        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -1059,7 +1083,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1165,13 +1189,21 @@
     },
     {
       "date": "2022-03-25",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-03-26",
       "unRespondedItems": [
         {
-          "title": "Edge web driver - Console window pops up when we automate webapplication",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1830"
+          "title": "ELVIS MUNYI KIIRU PEACE IAWIA ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1833"
+        },
+        {
+          "title": "Ambiguity in WebDriver documentation",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1832"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.83"
     }
   ]
 }

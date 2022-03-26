@@ -1,4 +1,4 @@
-Response rate: 85.02%
+Response rate: 85.09%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,22 +10,21 @@ Response rate: 85.02%
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.43%_
+* **MicrosoftEdge/DevTools** - _93.10%_
+   * [Java API wrapper for WebView2 with JDK 18 new Panama FFI ?](https://github.com/MicrosoftEdge/DevTools/issues/30)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _85.71%_
    * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+* **MicrosoftEdge/WebView2Feedback** - _82.00%_
    * [System.InvalidOperationException: CoreWebView2 members canno...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2311)
    * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Webview PDF view is blurred when scrolling horizontally](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306)
-   * [#edge-overlay-scrollbars-win-style Scrolbars are Red Instead...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2304)
-   * [How to show a modal dialog from a Host Object?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2300)
+   * [WebView2 rendering outside parent form after installation of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2303)
    * [Web Workers API doesn't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296)
    * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
    * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
    * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
-   * [Content not loading after updating to runtime 99.0.1150.39 (...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2276)
 * **MicrosoftEdge/WebView2Samples** - _74.00%_
    * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
    * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
@@ -54,9 +53,9 @@ Response rate: 85.02%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-   * [my live server in vs code dose not work and i did not receiv...](https://github.com/microsoft/vscode-edge-devtools/issues/941)
+* **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-   * [Edge web driver - Console window pops up when we automate we...](https://github.com/MicrosoftDocs/edge-developer/issues/1830)
+* **MicrosoftDocs/edge-developer** - _95.83%_
+   * [ELVIS MUNYI KIIRU PEACE IAWIA ](https://github.com/MicrosoftDocs/edge-developer/issues/1833)
+   * [Ambiguity in WebDriver documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1832)
