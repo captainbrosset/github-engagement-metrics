@@ -106,6 +106,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -250,6 +254,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -361,6 +369,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "93.10"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "Java API wrapper for WebView2 with JDK 18 new Panama FFI ?",
@@ -481,6 +493,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -597,6 +613,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
@@ -745,6 +765,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -909,6 +933,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
@@ -1073,6 +1101,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -1193,6 +1225,10 @@
     },
     {
       "date": "2022-03-26",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-03-27",
       "unRespondedItems": [
         {
           "title": "ELVIS MUNYI KIIRU PEACE IAWIA ",
