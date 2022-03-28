@@ -1,14 +1,14 @@
-Response rate: 85.09%
+Response rate: 83.96%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
    * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
-   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
    * [[Bug] Cross-origin resource needs a 'crossorigin' attribute ...](https://github.com/webhintio/hint/issues/5054)
    * [[Bug] Does not seems to support `extends` from tsconfig.json...](https://github.com/webhintio/hint/issues/5035)
    * [[Bug][Intrusive] keep on `npm install hint@latest` on openin...](https://github.com/webhintio/hint/issues/5034)
    * [[Bug][VS Code extension] Environment variables are not respe...](https://github.com/webhintio/hint/issues/4957)
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
+   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _93.10%_
    * [Java API wrapper for WebView2 with JDK 18 new Panama FFI ?](https://github.com/MicrosoftEdge/DevTools/issues/30)
@@ -39,7 +39,8 @@ Response rate: 85.09%
    * [How to setup a CallCallbackAsynchronously on C#](https://github.com/MicrosoftEdge/WebView2Samples/issues/66)
    * [Javascript bridge window.external.notify](https://github.com/MicrosoftEdge/WebView2Samples/issues/43)
    * [cppwinrt Callback](https://github.com/MicrosoftEdge/WebView2Samples/issues/30)
-* **MicrosoftEdge/WebView2Browser** - _55.17%_
+* **MicrosoftEdge/WebView2Browser** - _53.33%_
+   * [Requirements and problems](https://github.com/MicrosoftEdge/WebView2Browser/issues/39)
    * [Policy "NewTabPageManagedQuickLinks" error when more that 3 ...](https://github.com/MicrosoftEdge/WebView2Browser/issues/37)
    * [warning MSB8004: Output Directory does not end with a traili...](https://github.com/MicrosoftEdge/WebView2Browser/issues/33)
    * [Save / Update Password prompts do not work](https://github.com/MicrosoftEdge/WebView2Browser/issues/32)
@@ -56,6 +57,10 @@ Response rate: 85.09%
 * **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _95.83%_
+* **MicrosoftDocs/edge-developer** - _87.50%_
+   * [edge://surf/](https://github.com/MicrosoftDocs/edge-developer/issues/1840)
+   * [MINISTERY](https://github.com/MicrosoftDocs/edge-developer/issues/1838)
+   * [3888757064292255 CNBTN.COM](https://github.com/MicrosoftDocs/edge-developer/issues/1837)
    * [ELVIS MUNYI KIIRU PEACE IAWIA ](https://github.com/MicrosoftDocs/edge-developer/issues/1833)
    * [Ambiguity in WebDriver documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1832)
+   * [https://twitter.com/AccordanceBible](https://github.com/MicrosoftDocs/edge-developer/issues/1839)

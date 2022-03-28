@@ -110,6 +110,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -118,10 +122,6 @@
         {
           "title": "JSON output is not valid JSON",
           "url": "https://github.com/webhintio/hint/issues/5081"
-        },
-        {
-          "title": "Extension suddenly stopped working: e is undefined",
-          "url": "https://github.com/webhintio/hint/issues/5078"
         },
         {
           "title": "[Bug] Cross-origin resource needs a 'crossorigin' attribute even though crossorigin is specified",
@@ -142,6 +142,10 @@
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
+        },
+        {
+          "title": "Extension suddenly stopped working: e is undefined",
+          "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
       "rate": "84.00"
@@ -258,6 +262,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -373,6 +381,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "93.10"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "Java API wrapper for WebView2 with JDK 18 new Panama FFI ?",
@@ -497,6 +509,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "Edge driver under headless mode causing page crash on some specified URLs",
@@ -617,6 +633,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
@@ -769,6 +789,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -937,7 +961,15 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "55.17"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
+        {
+          "title": "Requirements and problems",
+          "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/39"
+        },
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/37"
@@ -991,7 +1023,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/29"
         }
       ],
-      "rate": "55.17"
+      "rate": "53.33"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1105,6 +1137,10 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
@@ -1229,7 +1265,23 @@
     },
     {
       "date": "2022-03-27",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-03-28",
       "unRespondedItems": [
+        {
+          "title": "edge://surf/",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1840"
+        },
+        {
+          "title": "MINISTERY",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1838"
+        },
+        {
+          "title": "3888757064292255 CNBTN.COM",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1837"
+        },
         {
           "title": "ELVIS MUNYI KIIRU PEACE IAWIA ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1833"
@@ -1237,9 +1289,13 @@
         {
           "title": "Ambiguity in WebDriver documentation",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1832"
+        },
+        {
+          "title": "https://twitter.com/AccordanceBible",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1839"
         }
       ],
-      "rate": "95.83"
+      "rate": "87.50"
     }
   ]
 }
