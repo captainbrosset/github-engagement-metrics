@@ -114,6 +114,10 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -266,6 +270,10 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -385,17 +393,21 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "93.10"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
         {
-          "title": "Java API wrapper for WebView2 with JDK 18 new Panama FFI ?",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/30"
+          "title": "React Dev Tools not showing tabs in Edge dev tools",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/31"
         },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "93.10"
+      "rate": "93.33"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -513,13 +525,12 @@
     },
     {
       "date": "2022-03-28",
-      "unRespondedItems": [
-        {
-          "title": "Edge driver under headless mode causing page crash on some specified URLs",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5"
-        }
-      ],
       "rate": "85.71"
+    },
+    {
+      "date": "2022-03-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -637,7 +648,19 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
+        {
+          "title": "WebView2 without runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2315"
+        },
+        {
+          "title": "Unable to handle NewWindowRequested ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2314"
+        },
         {
           "title": "System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2311"
@@ -675,7 +698,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "82.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -793,6 +816,10 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -965,11 +992,11 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "53.33"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
-        {
-          "title": "Requirements and problems",
-          "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/39"
-        },
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/37"
@@ -1023,7 +1050,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/29"
         }
       ],
-      "rate": "53.33"
+      "rate": "56.67"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1141,7 +1168,15 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
+        {
+          "title": "unable to attach vscode path variables (${file}), etc.. to devtools,",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/944"
+        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -1151,7 +1186,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1269,33 +1304,17 @@
     },
     {
       "date": "2022-03-28",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-03-29",
       "unRespondedItems": [
-        {
-          "title": "edge://surf/",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1840"
-        },
-        {
-          "title": "MINISTERY",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1838"
-        },
-        {
-          "title": "3888757064292255 CNBTN.COM",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1837"
-        },
-        {
-          "title": "ELVIS MUNYI KIIRU PEACE IAWIA ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1833"
-        },
         {
           "title": "Ambiguity in WebDriver documentation",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1832"
-        },
-        {
-          "title": "https://twitter.com/AccordanceBible",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1839"
         }
       ],
-      "rate": "87.50"
+      "rate": "97.87"
     }
   ]
 }

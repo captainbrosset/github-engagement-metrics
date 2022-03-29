@@ -1,4 +1,4 @@
-Response rate: 83.96%
+Response rate: 86.43%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,12 +10,13 @@ Response rate: 83.96%
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
    * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _93.10%_
-   * [Java API wrapper for WebView2 with JDK 18 new Panama FFI ?](https://github.com/MicrosoftEdge/DevTools/issues/30)
+* **MicrosoftEdge/DevTools** - _93.33%_
+   * [React Dev Tools not showing tabs in Edge dev tools](https://github.com/MicrosoftEdge/DevTools/issues/31)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _85.71%_
-   * [Edge driver under headless mode causing page crash on some s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/5)
-* **MicrosoftEdge/WebView2Feedback** - _82.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _100.00%_
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+   * [WebView2 without runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2315)
+   * [Unable to handle NewWindowRequested ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2314)
    * [System.InvalidOperationException: CoreWebView2 members canno...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2311)
    * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
@@ -39,8 +40,7 @@ Response rate: 83.96%
    * [How to setup a CallCallbackAsynchronously on C#](https://github.com/MicrosoftEdge/WebView2Samples/issues/66)
    * [Javascript bridge window.external.notify](https://github.com/MicrosoftEdge/WebView2Samples/issues/43)
    * [cppwinrt Callback](https://github.com/MicrosoftEdge/WebView2Samples/issues/30)
-* **MicrosoftEdge/WebView2Browser** - _53.33%_
-   * [Requirements and problems](https://github.com/MicrosoftEdge/WebView2Browser/issues/39)
+* **MicrosoftEdge/WebView2Browser** - _56.67%_
    * [Policy "NewTabPageManagedQuickLinks" error when more that 3 ...](https://github.com/MicrosoftEdge/WebView2Browser/issues/37)
    * [warning MSB8004: Output Directory does not end with a traili...](https://github.com/MicrosoftEdge/WebView2Browser/issues/33)
    * [Save / Update Password prompts do not work](https://github.com/MicrosoftEdge/WebView2Browser/issues/32)
@@ -54,13 +54,9 @@ Response rate: 83.96%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+   * [unable to attach vscode path variables (${file}), etc.. to d...](https://github.com/microsoft/vscode-edge-devtools/issues/944)
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _87.50%_
-   * [edge://surf/](https://github.com/MicrosoftDocs/edge-developer/issues/1840)
-   * [MINISTERY](https://github.com/MicrosoftDocs/edge-developer/issues/1838)
-   * [3888757064292255 CNBTN.COM](https://github.com/MicrosoftDocs/edge-developer/issues/1837)
-   * [ELVIS MUNYI KIIRU PEACE IAWIA ](https://github.com/MicrosoftDocs/edge-developer/issues/1833)
+* **MicrosoftDocs/edge-developer** - _97.87%_
    * [Ambiguity in WebDriver documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1832)
-   * [https://twitter.com/AccordanceBible](https://github.com/MicrosoftDocs/edge-developer/issues/1839)
