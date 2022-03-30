@@ -118,6 +118,10 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -274,6 +278,10 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -397,6 +405,10 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
         {
           "title": "React Dev Tools not showing tabs in Edge dev tools",
@@ -529,6 +541,10 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -652,23 +668,11 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
-        {
-          "title": "WebView2 without runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2315"
-        },
-        {
-          "title": "Unable to handle NewWindowRequested ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2314"
-        },
-        {
-          "title": "System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2311"
-        },
-        {
-          "title": " EmbeddedBrowserWebView.dll error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310"
-        },
         {
           "title": "Multifactor authentication using windows security key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265"
@@ -698,7 +702,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "78.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -820,6 +824,10 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -996,7 +1004,15 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "56.67"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
+        {
+          "title": "Suggestions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/40"
+        },
         {
           "title": "Policy \"NewTabPageManagedQuickLinks\" error when more that 3 entries",
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/37"
@@ -1050,7 +1066,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Browser/issues/29"
         }
       ],
-      "rate": "56.67"
+      "rate": "54.84"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1172,11 +1188,11 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
-        {
-          "title": "unable to attach vscode path variables (${file}), etc.. to devtools,",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/944"
-        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
@@ -1186,7 +1202,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1308,13 +1324,17 @@
     },
     {
       "date": "2022-03-29",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-03-30",
       "unRespondedItems": [
         {
-          "title": "Ambiguity in WebDriver documentation",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1832"
+          "title": "Corporate Needs - WebView2 Documentation",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1850"
         }
       ],
-      "rate": "97.87"
+      "rate": "97.92"
     }
   ]
 }

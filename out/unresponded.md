@@ -1,4 +1,4 @@
-Response rate: 86.43%
+Response rate: 87.34%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -14,11 +14,7 @@ Response rate: 86.43%
    * [React Dev Tools not showing tabs in Edge dev tools](https://github.com/MicrosoftEdge/DevTools/issues/31)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _100.00%_
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
-   * [WebView2 without runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2315)
-   * [Unable to handle NewWindowRequested ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2314)
-   * [System.InvalidOperationException: CoreWebView2 members canno...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2311)
-   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
+* **MicrosoftEdge/WebView2Feedback** - _86.00%_
    * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
    * [Webview PDF view is blurred when scrolling horizontally](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306)
    * [WebView2 rendering outside parent form after installation of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2303)
@@ -40,7 +36,8 @@ Response rate: 86.43%
    * [How to setup a CallCallbackAsynchronously on C#](https://github.com/MicrosoftEdge/WebView2Samples/issues/66)
    * [Javascript bridge window.external.notify](https://github.com/MicrosoftEdge/WebView2Samples/issues/43)
    * [cppwinrt Callback](https://github.com/MicrosoftEdge/WebView2Samples/issues/30)
-* **MicrosoftEdge/WebView2Browser** - _56.67%_
+* **MicrosoftEdge/WebView2Browser** - _54.84%_
+   * [Suggestions](https://github.com/MicrosoftEdge/WebView2Browser/issues/40)
    * [Policy "NewTabPageManagedQuickLinks" error when more that 3 ...](https://github.com/MicrosoftEdge/WebView2Browser/issues/37)
    * [warning MSB8004: Output Directory does not end with a traili...](https://github.com/MicrosoftEdge/WebView2Browser/issues/33)
    * [Save / Update Password prompts do not work](https://github.com/MicrosoftEdge/WebView2Browser/issues/32)
@@ -54,9 +51,8 @@ Response rate: 86.43%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-   * [unable to attach vscode path variables (${file}), etc.. to d...](https://github.com/microsoft/vscode-edge-devtools/issues/944)
+* **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-   * [Ambiguity in WebDriver documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1832)
+* **MicrosoftDocs/edge-developer** - _97.92%_
+   * [Corporate Needs - WebView2 Documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1850)

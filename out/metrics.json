@@ -419,6 +419,20 @@
       },
       "totalIssues": 4755,
       "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 3324,
+        "forks": 420,
+        "watchers": 74
+      },
+      "views": {
+        "viewCount": 138,
+        "uniqueViewCount": 74
+      },
+      "totalIssues": 4755,
+      "dailyIssues": 0
     }
   ],
   "MicrosoftEdge/demos": [
@@ -838,6 +852,20 @@
       "views": {
         "viewCount": 31,
         "uniqueViewCount": 16
+      },
+      "totalIssues": 4,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 11,
+        "forks": 5,
+        "watchers": 13
+      },
+      "views": {
+        "viewCount": 36,
+        "uniqueViewCount": 17
       },
       "totalIssues": 4,
       "dailyIssues": 0
@@ -1293,6 +1321,22 @@
       "dailyIssues": 1,
       "trackedIssues": 9,
       "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 19,
+        "forks": 2,
+        "watchers": 20
+      },
+      "views": {
+        "viewCount": 62,
+        "uniqueViewCount": 26
+      },
+      "totalIssues": 30,
+      "dailyIssues": 0,
+      "trackedIssues": 9,
+      "closedTrackedIssues": 1
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1740,6 +1784,22 @@
       "views": {
         "viewCount": 1,
         "uniqueViewCount": 1
+      },
+      "totalIssues": 7,
+      "dailyIssues": 0,
+      "trackedIssues": 3,
+      "closedTrackedIssues": 1
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 17
+      },
+      "views": {
+        "viewCount": 13,
+        "uniqueViewCount": 7
       },
       "totalIssues": 7,
       "dailyIssues": 0,
@@ -2197,6 +2257,22 @@
       "dailyIssues": 2,
       "trackedIssues": 588,
       "closedTrackedIssues": 215
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 247,
+        "forks": 27,
+        "watchers": 70
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 2168,
+      "dailyIssues": 0,
+      "trackedIssues": 590,
+      "closedTrackedIssues": 215
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -2611,6 +2687,20 @@
       "stats": {
         "stars": 468,
         "forks": 254,
+        "watchers": 49
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 66,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 468,
+        "forks": 255,
         "watchers": 49
       },
       "views": {
@@ -3041,6 +3131,20 @@
       },
       "totalIssues": 30,
       "dailyIssues": 0
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 262,
+        "forks": 44,
+        "watchers": 36
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 31,
+      "dailyIssues": 1
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3491,6 +3595,22 @@
       },
       "totalIssues": 897,
       "dailyIssues": 2,
+      "trackedIssues": 73,
+      "closedTrackedIssues": 29
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 512,
+        "forks": 123,
+        "watchers": 27
+      },
+      "views": {
+        "viewCount": 346,
+        "uniqueViewCount": 108
+      },
+      "totalIssues": 897,
+      "dailyIssues": 0,
       "trackedIssues": 73,
       "closedTrackedIssues": 29
     }
@@ -3944,6 +4064,22 @@
       "totalIssues": 1774,
       "dailyIssues": 4,
       "trackedIssues": 82,
+      "closedTrackedIssues": 78
+    },
+    {
+      "date": "2022-03-30",
+      "stats": {
+        "stars": 216,
+        "forks": 361,
+        "watchers": 83
+      },
+      "views": {
+        "viewCount": 722,
+        "uniqueViewCount": 258
+      },
+      "totalIssues": 1778,
+      "dailyIssues": 4,
+      "trackedIssues": 83,
       "closedTrackedIssues": 78
     }
   ]
