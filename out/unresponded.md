@@ -1,4 +1,4 @@
-Response rate: 87.34%
+Response rate: 85.84%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,14 +10,15 @@ Response rate: 87.34%
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
    * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _93.33%_
+* **MicrosoftEdge/DevTools** - _90.32%_
+   * [Memory - Ability to inspect .NET WebAssembly heap snapshot](https://github.com/MicrosoftEdge/DevTools/issues/32)
    * [React Dev Tools not showing tabs in Edge dev tools](https://github.com/MicrosoftEdge/DevTools/issues/31)
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _100.00%_
-* **MicrosoftEdge/WebView2Feedback** - _86.00%_
-   * [Multifactor authentication using windows security key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2265)
+* **MicrosoftEdge/EdgeWebDriver** - _87.50%_
+   * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
+* **MicrosoftEdge/WebView2Feedback** - _88.00%_
+   * [Unable to uninstall WebView2 runtime silently ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317)
    * [Webview PDF view is blurred when scrolling horizontally](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306)
-   * [WebView2 rendering outside parent form after installation of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2303)
    * [Web Workers API doesn't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296)
    * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
    * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
