@@ -1,4 +1,4 @@
-Response rate: 85.84%
+Response rate: 84.49%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -16,9 +16,13 @@ Response rate: 85.84%
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
    * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _88.00%_
+* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+   * [WebView2 Latest Pre-release + latest runtime - unifi.ui.com ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320)
    * [Unable to uninstall WebView2 runtime silently ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317)
+   * [How to change ZoomFactor to 1.0 when using xaml <Webview2/> ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2321)
+   * [Displaying WebView2 from an unmanaged (C++) application thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2318)
    * [Webview PDF view is blurred when scrolling horizontally](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306)
+   * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
    * [Web Workers API doesn't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296)
    * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
    * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
@@ -55,5 +59,7 @@ Response rate: 85.84%
 * **microsoft/vscode-edge-devtools** - _96.00%_
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
    * [Javascript debugger does not connect to headless instance](https://github.com/microsoft/vscode-edge-devtools/issues/896)
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **MicrosoftDocs/edge-developer** - _93.75%_
+   * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/1862)
+   * [VCQ 171989 - VCQ: RWS Moravia: [Source issue] [Incomprehensi...](https://github.com/MicrosoftDocs/edge-developer/issues/1858)
    * [Corporate Needs - WebView2 Documentation](https://github.com/MicrosoftDocs/edge-developer/issues/1850)
