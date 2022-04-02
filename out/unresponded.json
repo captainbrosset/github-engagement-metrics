@@ -130,6 +130,10 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -298,6 +302,10 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -433,11 +441,11 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "90.32"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
-        {
-          "title": "Memory - Ability to inspect .NET WebAssembly heap snapshot",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/32"
-        },
         {
           "title": "React Dev Tools not showing tabs in Edge dev tools",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/31"
@@ -447,7 +455,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "90.32"
+      "rate": "93.55"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -581,6 +589,10 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -721,7 +733,23 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
+        {
+          "title": "Provide URL to download Fixed Version programmatically",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326"
+        },
+        {
+          "title": "Magnification percentage has reset when canceling the screen forward",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325"
+        },
+        {
+          "title": "Can the user data folder be shared by multiple WebView2 instances in different processes?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323"
+        },
         {
           "title": "WebView2 Latest Pre-release + latest runtime - unifi.ui.com fails",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320"
@@ -729,6 +757,10 @@
         {
           "title": "Unable to uninstall WebView2 runtime silently ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317"
+        },
+        {
+          "title": "Cannot load WebView2Loader.dll in Excel VSTO Add-In",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324"
         },
         {
           "title": "How to change ZoomFactor to 1.0 when using xaml <Webview2/> in winui3?",
@@ -763,7 +795,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "80.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -897,6 +929,10 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -1085,6 +1121,10 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "54.84"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
           "title": "Suggestions",
@@ -1277,17 +1317,17 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
-        },
-        {
-          "title": "Javascript debugger does not connect to headless instance",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/896"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1421,21 +1461,21 @@
     },
     {
       "date": "2022-04-01",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-04-02",
       "unRespondedItems": [
         {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1862"
+          "title": "Permissions list not updated?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1865"
         },
         {
           "title": "VCQ 171989 - VCQ: RWS Moravia: [Source issue] [Incomprehensible instruction]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1858"
-        },
-        {
-          "title": "Corporate Needs - WebView2 Documentation",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1850"
         }
       ],
-      "rate": "93.75"
+      "rate": "95.74"
     }
   ]
 }
