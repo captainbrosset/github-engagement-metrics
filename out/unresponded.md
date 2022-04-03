@@ -1,4 +1,4 @@
-Response rate: 84.40%
+Response rate: 83.26%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -15,15 +15,16 @@ Response rate: 84.40%
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
    * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+   * [Get Devtools Elements](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328)
+   * [Synchronous Runtime Installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327)
    * [Provide URL to download Fixed Version programmatically](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326)
    * [Magnification percentage has reset when canceling the screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325)
    * [Can the user data folder be shared by multiple WebView2 inst...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323)
-   * [WebView2 Latest Pre-release + latest runtime - unifi.ui.com ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320)
    * [Unable to uninstall WebView2 runtime silently ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317)
    * [Cannot load WebView2Loader.dll in Excel VSTO Add-In](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324)
-   * [How to change ZoomFactor to 1.0 when using xaml <Webview2/> ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2321)
-   * [Displaying WebView2 from an unmanaged (C++) application thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2318)
+   * [WebView2 Latest Pre-release + latest runtime - unifi.ui.com ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320)
+   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
    * [Webview PDF view is blurred when scrolling horizontally](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306)
    * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
    * [Web Workers API doesn't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296)
@@ -59,8 +60,12 @@ Response rate: 84.40%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+   * [AI](https://github.com/microsoft/vscode-edge-devtools/issues/961)
+   * [unable to attach vscode path variables (${file}), etc.. to d...](https://github.com/microsoft/vscode-edge-devtools/issues/944)
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **MicrosoftDocs/edge-developer** - _91.49%_
+   * [Page is missing information about Background Services](https://github.com/MicrosoftDocs/edge-developer/issues/1867)
+   * [Fixed Version Runtime of WebView2 on USB flash drive](https://github.com/MicrosoftDocs/edge-developer/issues/1866)
    * [Permissions list not updated?](https://github.com/MicrosoftDocs/edge-developer/issues/1865)
    * [VCQ 171989 - VCQ: RWS Moravia: [Source issue] [Incomprehensi...](https://github.com/MicrosoftDocs/edge-developer/issues/1858)

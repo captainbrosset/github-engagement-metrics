@@ -134,6 +134,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -306,6 +310,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -445,6 +453,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "93.55"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
         {
           "title": "React Dev Tools not showing tabs in Edge dev tools",
@@ -593,6 +605,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -737,7 +753,19 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
+        {
+          "title": "Get Devtools Elements",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328"
+        },
+        {
+          "title": "Synchronous Runtime Installation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327"
+        },
         {
           "title": "Provide URL to download Fixed Version programmatically",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326"
@@ -751,10 +779,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323"
         },
         {
-          "title": "WebView2 Latest Pre-release + latest runtime - unifi.ui.com fails",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320"
-        },
-        {
           "title": "Unable to uninstall WebView2 runtime silently ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317"
         },
@@ -763,12 +787,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324"
         },
         {
-          "title": "How to change ZoomFactor to 1.0 when using xaml <Webview2/> in winui3?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2321"
+          "title": "WebView2 Latest Pre-release + latest runtime - unifi.ui.com fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320"
         },
         {
-          "title": "Displaying WebView2 from an unmanaged (C++) application throws exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2318"
+          "title": " EmbeddedBrowserWebView.dll error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310"
         },
         {
           "title": "Webview PDF view is blurred when scrolling horizontally",
@@ -795,7 +819,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -933,6 +957,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -1125,6 +1153,10 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "54.84"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
         {
           "title": "Suggestions",
@@ -1321,13 +1353,25 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
+        {
+          "title": "AI",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/961"
+        },
+        {
+          "title": "unable to attach vscode path variables (${file}), etc.. to devtools,",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/944"
+        },
         {
           "title": "Vertical Scaling",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1465,7 +1509,19 @@
     },
     {
       "date": "2022-04-02",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-04-03",
       "unRespondedItems": [
+        {
+          "title": "Page is missing information about Background Services",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1867"
+        },
+        {
+          "title": "Fixed Version Runtime of WebView2 on USB flash drive",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1866"
+        },
         {
           "title": "Permissions list not updated?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1865"
@@ -1475,7 +1531,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1858"
         }
       ],
-      "rate": "95.74"
+      "rate": "91.49"
     }
   ]
 }
