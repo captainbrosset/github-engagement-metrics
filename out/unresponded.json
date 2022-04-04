@@ -138,6 +138,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -314,6 +318,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -457,6 +465,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "93.55"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "React Dev Tools not showing tabs in Edge dev tools",
@@ -609,6 +621,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -757,7 +773,15 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
+        {
+          "title": "A11Y: WebView2 control is completely inaccessible with all the screen readers",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2330"
+        },
         {
           "title": "Get Devtools Elements",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328"
@@ -781,6 +805,10 @@
         {
           "title": "Unable to uninstall WebView2 runtime silently ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317"
+        },
+        {
+          "title": "Api the make a costum IDisplay handler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329"
         },
         {
           "title": "Cannot load WebView2Loader.dll in Excel VSTO Add-In",
@@ -819,7 +847,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -961,6 +989,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -1157,6 +1189,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "54.84"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "Suggestions",
@@ -1357,6 +1393,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "AI",
@@ -1513,6 +1553,10 @@
     },
     {
       "date": "2022-04-03",
+      "rate": "91.49"
+    },
+    {
+      "date": "2022-04-04",
       "unRespondedItems": [
         {
           "title": "Page is missing information about Background Services",

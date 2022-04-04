@@ -1,4 +1,4 @@
-Response rate: 83.26%
+Response rate: 82.82%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -15,13 +15,15 @@ Response rate: 83.26%
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
    * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+   * [A11Y: WebView2 control is completely inaccessible with all t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2330)
    * [Get Devtools Elements](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328)
    * [Synchronous Runtime Installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327)
    * [Provide URL to download Fixed Version programmatically](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326)
    * [Magnification percentage has reset when canceling the screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325)
    * [Can the user data folder be shared by multiple WebView2 inst...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323)
    * [Unable to uninstall WebView2 runtime silently ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317)
+   * [Api the make a costum IDisplay handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329)
    * [Cannot load WebView2Loader.dll in Excel VSTO Add-In](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324)
    * [WebView2 Latest Pre-release + latest runtime - unifi.ui.com ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320)
    * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
