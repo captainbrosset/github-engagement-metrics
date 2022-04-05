@@ -142,6 +142,10 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -322,6 +326,10 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -469,17 +477,17 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "93.55"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
-        {
-          "title": "React Dev Tools not showing tabs in Edge dev tools",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/31"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "93.55"
+      "rate": "96.77"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -625,6 +633,10 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -777,7 +789,31 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
+        {
+          "title": "Wrong Install Directory? ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335"
+        },
+        {
+          "title": "Can the Fixed Version Runtime of WebView2 be installed on a USB flash drive?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334"
+        },
+        {
+          "title": "`System.Execution.EngineException` (with no other message or details) on 1189-prerelease with call to hosted object",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2333"
+        },
+        {
+          "title": "Internet Explorer mode pages list lost on browser restart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2332"
+        },
+        {
+          "title": "Registry key check for WV2 installation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331"
+        },
         {
           "title": "A11Y: WebView2 control is completely inaccessible with all the screen readers",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2330"
@@ -801,10 +837,6 @@
         {
           "title": "Can the user data folder be shared by multiple WebView2 instances in different processes?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323"
-        },
-        {
-          "title": "Unable to uninstall WebView2 runtime silently ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317"
         },
         {
           "title": "Api the make a costum IDisplay handler",
@@ -837,17 +869,9 @@
         {
           "title": "WebView2 html select dropdown positioning not updated",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290"
-        },
-        {
-          "title": "Webview2 is loaded but content are not rendered.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283"
-        },
-        {
-          "title": "What rules determine which cookies can be modified by the WebResourceRequested event when navigating to a local html file?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -993,6 +1017,10 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -1193,6 +1221,10 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "54.84"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
         {
           "title": "Suggestions",
@@ -1397,11 +1429,11 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
-        {
-          "title": "AI",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/961"
-        },
         {
           "title": "unable to attach vscode path variables (${file}), etc.. to devtools,",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/944"
@@ -1411,7 +1443,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1557,14 +1589,18 @@
     },
     {
       "date": "2022-04-04",
+      "rate": "91.49"
+    },
+    {
+      "date": "2022-04-05",
       "unRespondedItems": [
+        {
+          "title": "Not clearly guiding which one to use either M365 account or Microsoft personal account",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1868"
+        },
         {
           "title": "Page is missing information about Background Services",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1867"
-        },
-        {
-          "title": "Fixed Version Runtime of WebView2 on USB flash drive",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1866"
         },
         {
           "title": "Permissions list not updated?",

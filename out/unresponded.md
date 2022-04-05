@@ -1,4 +1,4 @@
-Response rate: 82.82%
+Response rate: 82.96%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,19 +10,22 @@ Response rate: 82.82%
    * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
    * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _93.55%_
-   * [React Dev Tools not showing tabs in Edge dev tools](https://github.com/MicrosoftEdge/DevTools/issues/31)
+* **MicrosoftEdge/DevTools** - _96.77%_
    * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
    * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+   * [Wrong Install Directory? ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335)
+   * [Can the Fixed Version Runtime of WebView2 be installed on a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334)
+   * [`System.Execution.EngineException` (with no other message or...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2333)
+   * [Internet Explorer mode pages list lost on browser restart](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2332)
+   * [Registry key check for WV2 installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331)
    * [A11Y: WebView2 control is completely inaccessible with all t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2330)
    * [Get Devtools Elements](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328)
    * [Synchronous Runtime Installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327)
    * [Provide URL to download Fixed Version programmatically](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326)
    * [Magnification percentage has reset when canceling the screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325)
    * [Can the user data folder be shared by multiple WebView2 inst...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323)
-   * [Unable to uninstall WebView2 runtime silently ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2317)
    * [Api the make a costum IDisplay handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329)
    * [Cannot load WebView2Loader.dll in Excel VSTO Add-In](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324)
    * [WebView2 Latest Pre-release + latest runtime - unifi.ui.com ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320)
@@ -31,8 +34,6 @@ Response rate: 82.82%
    * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
    * [Web Workers API doesn't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296)
    * [WebView2 html select dropdown positioning not updated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290)
-   * [Webview2 is loaded but content are not rendered.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2283)
-   * [What rules determine which cookies can be modified by the We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2282)
 * **MicrosoftEdge/WebView2Samples** - _74.00%_
    * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
    * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
@@ -62,12 +63,11 @@ Response rate: 82.82%
    * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
    * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
    * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-   * [AI](https://github.com/microsoft/vscode-edge-devtools/issues/961)
+* **microsoft/vscode-edge-devtools** - _96.00%_
    * [unable to attach vscode path variables (${file}), etc.. to d...](https://github.com/microsoft/vscode-edge-devtools/issues/944)
    * [Vertical Scaling](https://github.com/microsoft/vscode-edge-devtools/issues/908)
 * **MicrosoftDocs/edge-developer** - _91.49%_
+   * [Not clearly guiding which one to use either M365 account or ...](https://github.com/MicrosoftDocs/edge-developer/issues/1868)
    * [Page is missing information about Background Services](https://github.com/MicrosoftDocs/edge-developer/issues/1867)
-   * [Fixed Version Runtime of WebView2 on USB flash drive](https://github.com/MicrosoftDocs/edge-developer/issues/1866)
    * [Permissions list not updated?](https://github.com/MicrosoftDocs/edge-developer/issues/1865)
    * [VCQ 171989 - VCQ: RWS Moravia: [Source issue] [Incomprehensi...](https://github.com/MicrosoftDocs/edge-developer/issues/1858)
