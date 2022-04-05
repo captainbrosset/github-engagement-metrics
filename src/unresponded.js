@@ -44,6 +44,9 @@ function getQuery(repo) {
           title,
           state,
           url,
+          labels (last: 50) {
+            nodes { name }
+          },
           author { login },
           authorAssociation,
           isDraft,
@@ -58,6 +61,9 @@ function getQuery(repo) {
           title,
           state,
           url,
+          labels (last: 50) {
+            nodes { name }
+          },
           author { login },
           authorAssociation,
           comments(last: ${COMMENTS_LIMIT}) {
@@ -79,7 +85,7 @@ async function getRepoData(repo) {
   const data = await graphqlWithAuth(getQuery(repo));
   const issues = data.search.nodes.filter(node => !node.isDraft);
 
-  // Simplify comments.
+  // Simplify comments and issues.
   for (const issue of issues) {
     const comments = [];
     for (const comment of issue.comments.nodes) {
@@ -88,27 +94,35 @@ async function getRepoData(repo) {
       }
     }
     issue.comments = comments;
+
+    const labels = [];
+    for (const label of issue.labels.nodes) {
+      labels.push(label.name);
+    }
+    issue.labels = labels;
   }
 
   return issues;
 }
 
-async function getUnRespondedItems(items) {
+async function getUnRespondedItems(items, repo) {
   // Preload the list with open items with 0 comments. Those are obviously unresponded.
   let unRespondedItems = items.filter(item => item.state === 'OPEN' && item.comments.length === 0);
 
   // Then check all open items that have been commented on, and verify that at least
   // 1 comment is from somebody else, AND that the last comment isn't from the reporter
   // (to track issues we have responded to, but where the reporter asked another question).
+  // (we don't do this if the issue is marked as tracked because this often will not be
+  // another question, but rather a thank you note or more information).
   const commented = items.filter(item => item.state === 'OPEN' && item.comments.length > 0);
   for (const item of commented) {
     const lastComment = item.comments[item.comments.length - 1];
 
-    // deleted users have null author, ignore them
     const someoneElseCommented = item.comments.some(comment => comment.author.login !== item.author.login);
     const lastCommentIsFromReporter = lastComment.author.login === item.author.login;
+    const isIssueTracked = repo.trackedIssuesLabel && item.labels && item.labels.includes(repo.trackedIssuesLabel);
 
-    if (!someoneElseCommented || lastCommentIsFromReporter) {
+    if (!someoneElseCommented || (lastCommentIsFromReporter && !isIssueTracked)) {
       unRespondedItems.push(item);
     }
   }
@@ -133,7 +147,7 @@ async function getResponseRateData(repo) {
   const items = await getRepoData(repo);
   console.log(`Got ${items.length} items`);
 
-  const unRespondedItems = await getUnRespondedItems(items);
+  const unRespondedItems = await getUnRespondedItems(items, repo);
 
   return { items, unRespondedItems };
 }
