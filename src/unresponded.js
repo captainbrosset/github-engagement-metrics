@@ -218,7 +218,7 @@ async function storeDaySnapshotToMDFile(data) {
     content.push(`* **${repo}** - _${data[repo].rate}%_`);
     if (data[repo].unRespondedItems && data[repo].unRespondedItems.length) {
       for (const item of data[repo].unRespondedItems) {
-        content.push(`   * [${formatTitle(item.title)}](${item.url})`);
+        content.push(`  * [${formatTitle(item.title)}](${item.url})`);
       }
     }
   }

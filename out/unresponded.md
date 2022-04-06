@@ -1,4 +1,4 @@
-Response rate: 82.80%
+Response rate: 88.05%
 
 * **webhintio/hint** - _84.00%_
    * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -32,35 +32,6 @@ Response rate: 82.80%
    * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
    * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
    * [Webview2 crashes windows Form crashing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2297)
-* **MicrosoftEdge/WebView2Samples** - _74.00%_
-   * [Build error in Windows Implementation library resource.h](https://github.com/MicrosoftEdge/WebView2Samples/issues/108)
-   * [Call Navigate return  -2147019873?](https://github.com/MicrosoftEdge/WebView2Samples/issues/90)
-   * [Is there another way to replace Microsoft::WRL::Callback?](https://github.com/MicrosoftEdge/WebView2Samples/issues/88)
-   * [Compilation error - tried with SDK verions - ](https://github.com/MicrosoftEdge/WebView2Samples/issues/82)
-   * [How to get page security info](https://github.com/MicrosoftEdge/WebView2Samples/issues/80)
-   * [Vanilla Download of WV2 Has Errors in the project WebView2Wi...](https://github.com/MicrosoftEdge/WebView2Samples/issues/72)
-   * [Wpf Permissions for Push Notification Sample](https://github.com/MicrosoftEdge/WebView2Samples/issues/37)
-   * [Error Loading Winforms Sample: Project file is incomplete. E...](https://github.com/MicrosoftEdge/WebView2Samples/issues/36)
-   * [Need Webview2 Sample For vb6,vba,python,vbs(Webview2  For Vi...](https://github.com/MicrosoftEdge/WebView2Samples/issues/96)
-   * [Just say no to wil::com_ptr](https://github.com/MicrosoftEdge/WebView2Samples/issues/76)
-   * [How to setup a CallCallbackAsynchronously on C#](https://github.com/MicrosoftEdge/WebView2Samples/issues/66)
-   * [Javascript bridge window.external.notify](https://github.com/MicrosoftEdge/WebView2Samples/issues/43)
-   * [cppwinrt Callback](https://github.com/MicrosoftEdge/WebView2Samples/issues/30)
-* **MicrosoftEdge/WebView2Browser** - _54.84%_
-   * [Suggestions](https://github.com/MicrosoftEdge/WebView2Browser/issues/40)
-   * [Policy "NewTabPageManagedQuickLinks" error when more that 3 ...](https://github.com/MicrosoftEdge/WebView2Browser/issues/37)
-   * [warning MSB8004: Output Directory does not end with a traili...](https://github.com/MicrosoftEdge/WebView2Browser/issues/33)
-   * [Save / Update Password prompts do not work](https://github.com/MicrosoftEdge/WebView2Browser/issues/32)
-   * [Why is nobody talking HTA here?](https://github.com/MicrosoftEdge/WebView2Browser/issues/26)
-   * [NullReferenceException at startup](https://github.com/MicrosoftEdge/WebView2Browser/issues/24)
-   * [Downloads appear to be unsupported at this time.](https://github.com/MicrosoftEdge/WebView2Browser/issues/23)
-   * [Overlay issue of other controls.](https://github.com/MicrosoftEdge/WebView2Browser/issues/22)
-   * [Does it support to use plugin in webview2 ?](https://github.com/MicrosoftEdge/WebView2Browser/issues/15)
-   * [Does not work with the latest Canary / Development version.](https://github.com/MicrosoftEdge/WebView2Browser/issues/11)
-   * [Does not build](https://github.com/MicrosoftEdge/WebView2Browser/issues/9)
-   * [OpenSource declaration](https://github.com/MicrosoftEdge/WebView2Browser/issues/5)
-   * [Memory Usage in Task Manager](https://github.com/MicrosoftEdge/WebView2Browser/issues/4)
-   * [How to create new tab dynamically on ICoreWebView2NewWindowR...](https://github.com/MicrosoftEdge/WebView2Browser/issues/29)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _91.67%_
    * [Exception error: java.lang.NoClassDefFoundError: net/jodah/f...](https://github.com/MicrosoftDocs/edge-developer/issues/1872)

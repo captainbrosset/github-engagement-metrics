@@ -41,20 +41,6 @@
     "trackedIssuesLabel": "tracked"
   },
   {
-    "name": "WebView2 samples",
-    "org": "MicrosoftEdge",
-    "repo": "WebView2Samples",
-    "prs": false,
-    "issues": true
-  },
-  {
-    "name": "WebView2 browser sample",
-    "org": "MicrosoftEdge",
-    "repo": "WebView2Browser",
-    "prs": false,
-    "issues": true
-  },
-  {
     "name": "DevTools VS Code extension",
     "org": "microsoft",
     "repo": "vscode-edge-devtools",
