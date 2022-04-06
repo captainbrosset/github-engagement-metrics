@@ -146,6 +146,10 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -330,6 +334,10 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -481,13 +489,25 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "96.77"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
+        {
+          "title": "Toggle vertical orientation for console drawer",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/34"
+        },
+        {
+          "title": "Device Emulation Fields Illegible (Low Contrast)",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/33"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "96.77"
+      "rate": "90.91"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -637,13 +657,21 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
+        {
+          "title": "\"invalid cookie domain\" when adding cookie to browser",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/9"
+        },
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8"
         }
       ],
-      "rate": "87.50"
+      "rate": "77.78"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -793,7 +821,19 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
+        {
+          "title": "Crash in WinForms WebView2 Office Add-in Application: msedgewebview2, Module: msedge_elf.dll",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2338"
+        },
+        {
+          "title": "Navigation sometimes ignores ordering",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2336"
+        },
         {
           "title": "Wrong Install Directory? ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335"
@@ -803,20 +843,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334"
         },
         {
-          "title": "`System.Execution.EngineException` (with no other message or details) on 1189-prerelease with call to hosted object",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2333"
-        },
-        {
           "title": "Internet Explorer mode pages list lost on browser restart",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2332"
         },
         {
           "title": "Registry key check for WV2 installation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331"
-        },
-        {
-          "title": "A11Y: WebView2 control is completely inaccessible with all the screen readers",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2330"
         },
         {
           "title": "Get Devtools Elements",
@@ -835,43 +867,23 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325"
         },
         {
-          "title": "Can the user data folder be shared by multiple WebView2 instances in different processes?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2323"
-        },
-        {
           "title": "Api the make a costum IDisplay handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329"
-        },
-        {
-          "title": "Cannot load WebView2Loader.dll in Excel VSTO Add-In",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2324"
-        },
-        {
-          "title": "WebView2 Latest Pre-release + latest runtime - unifi.ui.com fails",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2320"
         },
         {
           "title": " EmbeddedBrowserWebView.dll error",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310"
         },
         {
-          "title": "Webview PDF view is blurred when scrolling horizontally",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2306"
-        },
-        {
           "title": "Webview2 fails to initialize",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302"
         },
         {
-          "title": "Web Workers API doesn't work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2296"
-        },
-        {
-          "title": "WebView2 html select dropdown positioning not updated",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2290"
+          "title": "Webview2 crashes windows Form crashing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2297"
         }
       ],
-      "rate": "62.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Samples": [
@@ -1021,6 +1033,10 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
         {
           "title": "Build error in Windows Implementation library resource.h",
@@ -1225,6 +1241,10 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "54.84"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
         {
           "title": "Suggestions",
@@ -1433,17 +1453,12 @@
     },
     {
       "date": "2022-04-05",
-      "unRespondedItems": [
-        {
-          "title": "unable to attach vscode path variables (${file}), etc.. to devtools,",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/944"
-        },
-        {
-          "title": "Vertical Scaling",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/908"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-04-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1593,25 +1608,29 @@
     },
     {
       "date": "2022-04-05",
+      "rate": "91.49"
+    },
+    {
+      "date": "2022-04-06",
       "unRespondedItems": [
+        {
+          "title": "Exception error: java.lang.NoClassDefFoundError: net/jodah/failsafe/Policy when executing sample code",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1872"
+        },
+        {
+          "title": "Add NPM package for using Publish API [Add-ons API]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1871"
+        },
+        {
+          "title": "PWA Store listing shows misleading information",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1870"
+        },
         {
           "title": "Not clearly guiding which one to use either M365 account or Microsoft personal account",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1868"
-        },
-        {
-          "title": "Page is missing information about Background Services",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1867"
-        },
-        {
-          "title": "Permissions list not updated?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1865"
-        },
-        {
-          "title": "VCQ 171989 - VCQ: RWS Moravia: [Source issue] [Incomprehensible instruction]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1858"
         }
       ],
-      "rate": "91.49"
+      "rate": "91.67"
     }
   ]
 }
