@@ -150,6 +150,10 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -338,6 +342,10 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -493,21 +501,21 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "90.91"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [
         {
           "title": "Toggle vertical orientation for console drawer",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/34"
         },
         {
-          "title": "Device Emulation Fields Illegible (Low Contrast)",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/33"
-        },
-        {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "90.91"
+      "rate": "93.94"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -661,6 +669,10 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "77.78"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [
         {
           "title": "\"invalid cookie domain\" when adding cookie to browser",
@@ -825,10 +837,18 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [
         {
-          "title": "Crash in WinForms WebView2 Office Add-in Application: msedgewebview2, Module: msedge_elf.dll",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2338"
+          "title": "EnsureCoreWebView2Async error 0x8007139F",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
+        },
+        {
+          "title": "With EdgeWebview Custom user agent not appearing in tunneling requests",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2342"
         },
         {
           "title": "Navigation sometimes ignores ordering",
@@ -877,10 +897,6 @@
         {
           "title": "Webview2 fails to initialize",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302"
-        },
-        {
-          "title": "Webview2 crashes windows Form crashing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2297"
         }
       ],
       "rate": "72.00"
@@ -1037,6 +1053,10 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1192,25 +1212,17 @@
     },
     {
       "date": "2022-04-06",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-04-07",
       "unRespondedItems": [
         {
           "title": "Exception error: java.lang.NoClassDefFoundError: net/jodah/failsafe/Policy when executing sample code",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1872"
-        },
-        {
-          "title": "Add NPM package for using Publish API [Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1871"
-        },
-        {
-          "title": "PWA Store listing shows misleading information",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1870"
-        },
-        {
-          "title": "Not clearly guiding which one to use either M365 account or Microsoft personal account",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1868"
         }
       ],
-      "rate": "91.67"
+      "rate": "97.92"
     }
   ]
 }
