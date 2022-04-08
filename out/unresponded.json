@@ -154,6 +154,10 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -346,6 +350,10 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -505,7 +513,15 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "93.94"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [
+        {
+          "title": "Unit dropdown and unit horizontal dragging",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/35"
+        },
         {
           "title": "Toggle vertical orientation for console drawer",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/34"
@@ -515,7 +531,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "93.94"
+      "rate": "91.43"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -673,6 +689,10 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "77.78"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [
         {
           "title": "\"invalid cookie domain\" when adding cookie to browser",
@@ -683,7 +703,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8"
         }
       ],
-      "rate": "77.78"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -841,14 +861,22 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [
         {
-          "title": "EnsureCoreWebView2Async error 0x8007139F",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
+          "title": "ClientCertificate AllowedCertificateAuthorities returns binary data instead of string list",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2346"
         },
         {
-          "title": "With EdgeWebview Custom user agent not appearing in tunneling requests",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2342"
+          "title": "Hovering over images triggers visual search",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2345"
+        },
+        {
+          "title": "Websocket connection limit on WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344"
         },
         {
           "title": "Navigation sometimes ignores ordering",
@@ -899,7 +927,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1057,6 +1085,10 @@
     },
     {
       "date": "2022-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1216,13 +1248,12 @@
     },
     {
       "date": "2022-04-07",
-      "unRespondedItems": [
-        {
-          "title": "Exception error: java.lang.NoClassDefFoundError: net/jodah/failsafe/Policy when executing sample code",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1872"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2022-04-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

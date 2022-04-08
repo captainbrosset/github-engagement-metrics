@@ -1,4 +1,4 @@
-Response rate: 89.38%
+Response rate: 89.35%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,15 +10,17 @@ Response rate: 89.38%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _93.94%_
+* **MicrosoftEdge/DevTools** - _91.43%_
+  * [Unit dropdown and unit horizontal dragging](https://github.com/MicrosoftEdge/DevTools/issues/35)
   * [Toggle vertical orientation for console drawer](https://github.com/MicrosoftEdge/DevTools/issues/34)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _77.78%_
+* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
   * ["invalid cookie domain" when adding cookie to browser](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/9)
   * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
-  * [With EdgeWebview Custom user agent not appearing in tunnelin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2342)
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [ClientCertificate AllowedCertificateAuthorities returns bina...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2346)
+  * [Hovering over images triggers visual search](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2345)
+  * [Websocket connection limit on WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344)
   * [Navigation sometimes ignores ordering](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2336)
   * [Wrong Install Directory? ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335)
   * [Can the Fixed Version Runtime of WebView2 be installed on a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334)
@@ -32,5 +34,4 @@ Response rate: 89.38%
   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
   * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.92%_
-  * [Exception error: java.lang.NoClassDefFoundError: net/jodah/f...](https://github.com/MicrosoftDocs/edge-developer/issues/1872)
+* **MicrosoftDocs/edge-developer** - _100.00%_
