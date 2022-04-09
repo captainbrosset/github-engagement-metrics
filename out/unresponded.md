@@ -1,4 +1,4 @@
-Response rate: 89.35%
+Response rate: 90.04%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,28 +10,30 @@ Response rate: 89.35%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _91.43%_
-  * [Unit dropdown and unit horizontal dragging](https://github.com/MicrosoftEdge/DevTools/issues/35)
+* **MicrosoftEdge/DevTools** - _94.29%_
   * [Toggle vertical orientation for console drawer](https://github.com/MicrosoftEdge/DevTools/issues/34)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
-  * ["invalid cookie domain" when adding cookie to browser](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/9)
+* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
   * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Zoom factor has reset when canceling the screen forward](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2349)
+  * [Help with process errors on Windows Server 2008 R2 on Citrix...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2348)
+  * [WebView2 Evergreen installation with WSUS/Configuration Mana...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2347)
   * [ClientCertificate AllowedCertificateAuthorities returns bina...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2346)
   * [Hovering over images triggers visual search](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2345)
   * [Websocket connection limit on WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344)
   * [Navigation sometimes ignores ordering](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2336)
   * [Wrong Install Directory? ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335)
   * [Can the Fixed Version Runtime of WebView2 be installed on a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334)
-  * [Internet Explorer mode pages list lost on browser restart](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2332)
   * [Registry key check for WV2 installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331)
   * [Get Devtools Elements](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328)
   * [Synchronous Runtime Installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327)
   * [Provide URL to download Fixed Version programmatically](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326)
-  * [Magnification percentage has reset when canceling the screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325)
+  * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
   * [Api the make a costum IDisplay handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329)
   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
   * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [VScode Edge Devtools - The proactive code completion has cha...](https://github.com/microsoft/vscode-edge-devtools/issues/970)
+  * [reture](https://github.com/microsoft/vscode-edge-devtools/issues/969)
 * **MicrosoftDocs/edge-developer** - _100.00%_

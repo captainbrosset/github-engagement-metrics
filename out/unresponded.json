@@ -158,6 +158,10 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -354,6 +358,10 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -517,11 +525,11 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "91.43"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [
-        {
-          "title": "Unit dropdown and unit horizontal dragging",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/35"
-        },
         {
           "title": "Toggle vertical orientation for console drawer",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/34"
@@ -531,7 +539,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "91.43"
+      "rate": "94.29"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -693,17 +701,17 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [
-        {
-          "title": "\"invalid cookie domain\" when adding cookie to browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/9"
-        },
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8"
         }
       ],
-      "rate": "80.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -865,7 +873,23 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [
+        {
+          "title": "Zoom factor has reset when canceling the screen forward",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2349"
+        },
+        {
+          "title": "Help with process errors on Windows Server 2008 R2 on Citrix ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2348"
+        },
+        {
+          "title": "WebView2 Evergreen installation with WSUS/Configuration Manager",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2347"
+        },
         {
           "title": "ClientCertificate AllowedCertificateAuthorities returns binary data instead of string list",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2346"
@@ -891,10 +915,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334"
         },
         {
-          "title": "Internet Explorer mode pages list lost on browser restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2332"
-        },
-        {
           "title": "Registry key check for WV2 installation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331"
         },
@@ -911,8 +931,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326"
         },
         {
-          "title": "Magnification percentage has reset when canceling the screen forward",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2325"
+          "title": "EnsureCoreWebView2Async error 0x8007139F",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         },
         {
           "title": "Api the make a costum IDisplay handler",
@@ -927,7 +947,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1089,8 +1109,21 @@
     },
     {
       "date": "2022-04-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-09",
+      "unRespondedItems": [
+        {
+          "title": "VScode Edge Devtools - The proactive code completion has changed behavior",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/970"
+        },
+        {
+          "title": "reture",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/969"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1252,6 +1285,10 @@
     },
     {
       "date": "2022-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
