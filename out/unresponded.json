@@ -162,6 +162,10 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -362,6 +366,10 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -529,7 +537,15 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [
+        {
+          "title": "Unit dropdown and unit horizontal dragging",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/35"
+        },
         {
           "title": "Toggle vertical orientation for console drawer",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/34"
@@ -539,7 +555,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "94.29"
+      "rate": "91.43"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -705,6 +721,10 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -877,7 +897,19 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [
+        {
+          "title": "[WinUI3][C++/WinRT] WebView2 menu issues",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2351"
+        },
+        {
+          "title": "Why is there not just an HTML Text property to show the current page source.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2350"
+        },
         {
           "title": "Zoom factor has reset when canceling the screen forward",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2349"
@@ -947,7 +979,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1113,6 +1145,10 @@
     },
     {
       "date": "2022-04-09",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-04-10",
       "unRespondedItems": [
         {
           "title": "VScode Edge Devtools - The proactive code completion has changed behavior",
@@ -1289,8 +1325,17 @@
     },
     {
       "date": "2022-04-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-10",
+      "unRespondedItems": [
+        {
+          "title": "file",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1888"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
