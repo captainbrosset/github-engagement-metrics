@@ -1,4 +1,4 @@
-Response rate: 88.76%
+Response rate: 87.90%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -36,7 +36,10 @@ Response rate: 88.76%
   * [Api the make a costum IDisplay handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329)
   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
   * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Ability to edit Webhints browsers](https://github.com/microsoft/vscode-edge-devtools/issues/973)
+  * [It shoe issue after zoom in or out and after resizing the ba...](https://github.com/microsoft/vscode-edge-devtools/issues/972)
+  * [i can't edit my workspace after installing some kind of exte...](https://github.com/microsoft/vscode-edge-devtools/issues/971)
   * [VScode Edge Devtools - The proactive code completion has cha...](https://github.com/microsoft/vscode-edge-devtools/issues/970)
   * [reture](https://github.com/microsoft/vscode-edge-devtools/issues/969)
 * **MicrosoftDocs/edge-developer** - _97.87%_

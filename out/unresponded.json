@@ -166,6 +166,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -370,6 +374,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -541,6 +549,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "91.43"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
         {
           "title": "Unit dropdown and unit horizontal dragging",
@@ -725,6 +737,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -901,6 +917,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
         {
           "title": "[WinUI3][C++/WinRT] WebView2 menu issues",
@@ -1149,7 +1169,23 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
+        {
+          "title": "Ability to edit Webhints browsers",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/973"
+        },
+        {
+          "title": "It shoe issue after zoom in or out and after resizing the bar ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/972"
+        },
+        {
+          "title": "i can't edit my workspace after installing some kind of extensions",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/971"
+        },
         {
           "title": "VScode Edge Devtools - The proactive code completion has changed behavior",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/970"
@@ -1159,7 +1195,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/969"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1329,6 +1365,10 @@
     },
     {
       "date": "2022-04-10",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-11",
       "unRespondedItems": [
         {
           "title": "file",
