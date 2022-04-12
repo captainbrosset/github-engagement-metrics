@@ -1,4 +1,4 @@
-Response rate: 87.90%
+Response rate: 89.70%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,13 +10,14 @@ Response rate: 87.90%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _91.43%_
-  * [Unit dropdown and unit horizontal dragging](https://github.com/MicrosoftEdge/DevTools/issues/35)
-  * [Toggle vertical orientation for console drawer](https://github.com/MicrosoftEdge/DevTools/issues/34)
+* **MicrosoftEdge/DevTools** - _97.14%_
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.91%_
   * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [hope to implement functions similar to cef  IResponseFilter....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2355)
+  * ['WinForms' does not exist in the namespace 'Microsoft.Web.We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2354)
+  * [Does the Consumer download page for WebView2 runtime provide...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2352)
   * [[WinUI3][C++/WinRT] WebView2 menu issues](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2351)
   * [Why is there not just an HTML Text property to show the curr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2350)
   * [Zoom factor has reset when canceling the screen forward](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2349)
@@ -35,12 +36,6 @@ Response rate: 87.90%
   * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
   * [Api the make a costum IDisplay handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329)
   * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
-  * [Webview2 fails to initialize](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2302)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [Ability to edit Webhints browsers](https://github.com/microsoft/vscode-edge-devtools/issues/973)
-  * [It shoe issue after zoom in or out and after resizing the ba...](https://github.com/microsoft/vscode-edge-devtools/issues/972)
-  * [i can't edit my workspace after installing some kind of exte...](https://github.com/microsoft/vscode-edge-devtools/issues/971)
-  * [VScode Edge Devtools - The proactive code completion has cha...](https://github.com/microsoft/vscode-edge-devtools/issues/970)
-  * [reture](https://github.com/microsoft/vscode-edge-devtools/issues/969)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _97.87%_
-  * [file](https://github.com/MicrosoftDocs/edge-developer/issues/1888)
+  * [Added TestGrid](https://github.com/MicrosoftDocs/edge-developer/pull/1890)
