@@ -174,7 +174,15 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [
+        {
+          "title": "fix 8177",
+          "url": "https://github.com/webhintio/hint/issues/5116"
+        },
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
           "url": "https://github.com/webhintio/hint/issues/5082"
@@ -208,7 +216,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -386,6 +394,10 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -565,13 +577,17 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "97.14"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "97.14"
+      "rate": "97.22"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -749,6 +765,10 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "90.91"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
@@ -933,93 +953,29 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [
+        {
+          "title": "Crash with \"Run as admin\" compatibility flag",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2356"
+        },
         {
           "title": "hope to implement functions similar to cef  IResponseFilter.Filter",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2355"
-        },
-        {
-          "title": "'WinForms' does not exist in the namespace 'Microsoft.Web.WebView2' ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2354"
-        },
-        {
-          "title": "Does the Consumer download page for WebView2 runtime provide the Evergreen runtime?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2352"
-        },
-        {
-          "title": "[WinUI3][C++/WinRT] WebView2 menu issues",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2351"
-        },
-        {
-          "title": "Why is there not just an HTML Text property to show the current page source.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2350"
-        },
-        {
-          "title": "Zoom factor has reset when canceling the screen forward",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2349"
-        },
-        {
-          "title": "Help with process errors on Windows Server 2008 R2 on Citrix ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2348"
-        },
-        {
-          "title": "WebView2 Evergreen installation with WSUS/Configuration Manager",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2347"
-        },
-        {
-          "title": "ClientCertificate AllowedCertificateAuthorities returns binary data instead of string list",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2346"
-        },
-        {
-          "title": "Hovering over images triggers visual search",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2345"
-        },
-        {
-          "title": "Websocket connection limit on WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344"
-        },
-        {
-          "title": "Navigation sometimes ignores ordering",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2336"
-        },
-        {
-          "title": "Wrong Install Directory? ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2335"
-        },
-        {
-          "title": "Can the Fixed Version Runtime of WebView2 be installed on a USB flash drive?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2334"
-        },
-        {
-          "title": "Registry key check for WV2 installation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2331"
-        },
-        {
-          "title": "Get Devtools Elements",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2328"
-        },
-        {
-          "title": "Synchronous Runtime Installation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2327"
-        },
-        {
-          "title": "Provide URL to download Fixed Version programmatically",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2326"
         },
         {
           "title": "EnsureCoreWebView2Async error 0x8007139F",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         },
         {
-          "title": "Api the make a costum IDisplay handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2329"
-        },
-        {
           "title": " EmbeddedBrowserWebView.dll error",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310"
         }
       ],
-      "rate": "58.00"
+      "rate": "92.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1197,6 +1153,10 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1376,13 +1336,21 @@
     },
     {
       "date": "2022-04-12",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-13",
       "unRespondedItems": [
+        {
+          "title": "C# code example is incorrect  \\M is unrecognised escape sequence",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1892"
+        },
         {
           "title": "Added TestGrid",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.65"
     }
   ]
 }
