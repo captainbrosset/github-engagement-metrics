@@ -1,7 +1,6 @@
-Response rate: 93.97%
+Response rate: 92.70%
 
-* **webhintio/hint** - _82.00%_
-  * [fix 8177](https://github.com/webhintio/hint/issues/5116)
+* **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
   * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
   * [[Bug] Cross-origin resource needs a 'crossorigin' attribute ...](https://github.com/webhintio/hint/issues/5054)
@@ -11,16 +10,21 @@ Response rate: 93.97%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _97.22%_
+* **MicrosoftEdge/DevTools** - _89.74%_
+  * [The issues panel includes browser extensions](https://github.com/MicrosoftEdge/DevTools/issues/41)
+  * [Ability to do full, deterministic GC](https://github.com/MicrosoftEdge/DevTools/issues/40)
+  * [feature to log history of focus changes](https://github.com/MicrosoftEdge/DevTools/issues/39)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _90.91%_
+* **MicrosoftEdge/EdgeWebDriver** - _91.67%_
   * [Crash Browser and Error with ver99 or higher driver and brow...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8)
-* **MicrosoftEdge/WebView2Feedback** - _92.00%_
+* **MicrosoftEdge/WebView2Feedback** - _90.00%_
+  * [Recent runtime upgrade 100.0.1185.39 failing to bind event C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2362)
+  * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2361)
   * [Crash with "Run as admin" compatibility flag](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2356)
-  * [hope to implement functions similar to cef  IResponseFilter....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2355)
+  * [error on new pre-release when setting costum download folder...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358)
   * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
-  * [ EmbeddedBrowserWebView.dll error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.65%_
-  * [C# code example is incorrect  \M is unrecognised escape sequ...](https://github.com/MicrosoftDocs/edge-developer/issues/1892)
+* **MicrosoftDocs/edge-developer** - _93.48%_
+  * [Local Storage of "Network request blocking" and Wildcards Wi...](https://github.com/MicrosoftDocs/edge-developer/issues/1899)
+  * [Small issue with brackets in `webpack.plugin-symbols.js` cod...](https://github.com/MicrosoftDocs/edge-developer/issues/1898)
   * [Added TestGrid](https://github.com/MicrosoftDocs/edge-developer/pull/1890)

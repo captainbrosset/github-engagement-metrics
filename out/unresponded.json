@@ -178,11 +178,11 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [
-        {
-          "title": "fix 8177",
-          "url": "https://github.com/webhintio/hint/issues/5116"
-        },
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
           "url": "https://github.com/webhintio/hint/issues/5082"
@@ -216,7 +216,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "82.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -398,6 +398,10 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -581,13 +585,29 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "97.22"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [
+        {
+          "title": "The issues panel includes browser extensions",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/41"
+        },
+        {
+          "title": "Ability to do full, deterministic GC",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/40"
+        },
+        {
+          "title": "feature to log history of focus changes",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/39"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "97.22"
+      "rate": "89.74"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -769,13 +789,17 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "90.91"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [
         {
           "title": "Crash Browser and Error with ver99 or higher driver and browser",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8"
         }
       ],
-      "rate": "90.91"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -957,25 +981,33 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [
+        {
+          "title": "Recent runtime upgrade 100.0.1185.39 failing to bind event ClientCertificateRequested.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2362"
+        },
+        {
+          "title": "Webview2 crashes when calling document.write on newly opened window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2361"
+        },
         {
           "title": "Crash with \"Run as admin\" compatibility flag",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2356"
         },
         {
-          "title": "hope to implement functions similar to cef  IResponseFilter.Filter",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2355"
+          "title": "error on new pre-release when setting costum download folder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
         },
         {
           "title": "EnsureCoreWebView2Async error 0x8007139F",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
-        },
-        {
-          "title": " EmbeddedBrowserWebView.dll error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2310"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1157,6 +1189,10 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1340,17 +1376,25 @@
     },
     {
       "date": "2022-04-13",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-04-14",
       "unRespondedItems": [
         {
-          "title": "C# code example is incorrect  \\M is unrecognised escape sequence",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1892"
+          "title": "Local Storage of \"Network request blocking\" and Wildcards Within",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1899"
+        },
+        {
+          "title": "Small issue with brackets in `webpack.plugin-symbols.js` code example",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1898"
         },
         {
           "title": "Added TestGrid",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
         }
       ],
-      "rate": "95.65"
+      "rate": "93.48"
     }
   ]
 }
