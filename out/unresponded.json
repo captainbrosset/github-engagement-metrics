@@ -182,6 +182,10 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -402,6 +406,10 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -589,25 +597,21 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "89.74"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [
-        {
-          "title": "The issues panel includes browser extensions",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/41"
-        },
         {
           "title": "Ability to do full, deterministic GC",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/40"
-        },
-        {
-          "title": "feature to log history of focus changes",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/39"
         },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "89.74"
+      "rate": "94.87"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -793,13 +797,21 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [
         {
-          "title": "Crash Browser and Error with ver99 or higher driver and browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/8"
+          "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/13"
+        },
+        {
+          "title": "Microsoft Edge in IE Mode: On clicking elements its throwing 'org.openqa.selenium.ElementNotInteractableException' error. ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12"
         }
       ],
-      "rate": "91.67"
+      "rate": "84.62"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -985,6 +997,10 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [
         {
           "title": "Recent runtime upgrade 100.0.1185.39 failing to bind event ClientCertificateRequested.",
@@ -1193,8 +1209,21 @@
     },
     {
       "date": "2022-04-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-15",
+      "unRespondedItems": [
+        {
+          "title": "Easy way to set severity to NON like we do in Visual Studio",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/977"
+        },
+        {
+          "title": "VScode Edge Devtools - The proactive code completion has changed behavior",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/970"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1380,21 +1409,17 @@
     },
     {
       "date": "2022-04-14",
+      "rate": "93.48"
+    },
+    {
+      "date": "2022-04-15",
       "unRespondedItems": [
-        {
-          "title": "Local Storage of \"Network request blocking\" and Wildcards Within",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1899"
-        },
-        {
-          "title": "Small issue with brackets in `webpack.plugin-symbols.js` code example",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1898"
-        },
         {
           "title": "Added TestGrid",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
         }
       ],
-      "rate": "93.48"
+      "rate": "97.87"
     }
   ]
 }
