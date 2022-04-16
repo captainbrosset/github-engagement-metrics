@@ -186,6 +186,10 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -410,6 +414,10 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -601,6 +609,10 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "94.87"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
           "title": "Ability to do full, deterministic GC",
@@ -801,6 +813,10 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "84.62"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
           "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
@@ -1001,18 +1017,14 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
-          "title": "Recent runtime upgrade 100.0.1185.39 failing to bind event ClientCertificateRequested.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2362"
-        },
-        {
-          "title": "Webview2 crashes when calling document.write on newly opened window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2361"
-        },
-        {
-          "title": "Crash with \"Run as admin\" compatibility flag",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2356"
+          "title": "CoreWebView2ContextMenuItem.Icon is always null",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2367"
         },
         {
           "title": "error on new pre-release when setting costum download folder",
@@ -1023,7 +1035,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "90.00"
+      "rate": "94.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1213,17 +1225,17 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
           "title": "Easy way to set severity to NON like we do in Visual Studio",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/977"
-        },
-        {
-          "title": "VScode Edge Devtools - The proactive code completion has changed behavior",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/970"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1413,6 +1425,10 @@
     },
     {
       "date": "2022-04-15",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-16",
       "unRespondedItems": [
         {
           "title": "Added TestGrid",
