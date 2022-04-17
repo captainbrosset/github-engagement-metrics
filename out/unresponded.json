@@ -190,6 +190,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -418,6 +422,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -613,7 +621,15 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "94.87"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
+        {
+          "title": "The issues panel includes browser extensions",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/41"
+        },
         {
           "title": "Ability to do full, deterministic GC",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/40"
@@ -623,7 +639,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "94.87"
+      "rate": "92.31"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -817,6 +833,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "84.62"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
         {
           "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
@@ -1021,6 +1041,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
         {
           "title": "CoreWebView2ContextMenuItem.Icon is always null",
@@ -1229,6 +1253,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
         {
           "title": "Easy way to set severity to NON like we do in Visual Studio",
@@ -1429,6 +1457,10 @@
     },
     {
       "date": "2022-04-16",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-17",
       "unRespondedItems": [
         {
           "title": "Added TestGrid",

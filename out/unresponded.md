@@ -1,4 +1,4 @@
-Response rate: 93.34%
+Response rate: 92.97%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -10,7 +10,8 @@ Response rate: 93.34%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.87%_
+* **MicrosoftEdge/DevTools** - _92.31%_
+  * [The issues panel includes browser extensions](https://github.com/MicrosoftEdge/DevTools/issues/41)
   * [Ability to do full, deterministic GC](https://github.com/MicrosoftEdge/DevTools/issues/40)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _84.62%_
