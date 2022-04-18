@@ -194,6 +194,10 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
@@ -426,6 +430,10 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -625,6 +633,10 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "92.31"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
         {
           "title": "The issues panel includes browser extensions",
@@ -837,6 +849,10 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "84.62"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
         {
           "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
@@ -1045,10 +1061,18 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
         {
           "title": "CoreWebView2ContextMenuItem.Icon is always null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2367"
+        },
+        {
+          "title": "Problem with using custom context menu.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2368"
         },
         {
           "title": "error on new pre-release when setting costum download folder",
@@ -1059,7 +1083,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1257,6 +1281,10 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
         {
           "title": "Easy way to set severity to NON like we do in Visual Studio",
@@ -1461,13 +1489,21 @@
     },
     {
       "date": "2022-04-17",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-18",
       "unRespondedItems": [
+        {
+          "title": "Time out exception",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1906"
+        },
         {
           "title": "Added TestGrid",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }

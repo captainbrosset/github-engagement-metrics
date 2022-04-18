@@ -1,4 +1,4 @@
-Response rate: 92.97%
+Response rate: 92.38%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
@@ -17,11 +17,13 @@ Response rate: 92.97%
 * **MicrosoftEdge/EdgeWebDriver** - _84.62%_
   * [Test IE mode in Microsoft Edge with Internet Explorer Driver...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/13)
   * [Microsoft Edge in IE Mode: On clicking elements its throwing...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12)
-* **MicrosoftEdge/WebView2Feedback** - _94.00%_
+* **MicrosoftEdge/WebView2Feedback** - _92.00%_
   * [CoreWebView2ContextMenuItem.Icon is always null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2367)
+  * [Problem with using custom context menu.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2368)
   * [error on new pre-release when setting costum download folder...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358)
   * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [Easy way to set severity to NON like we do in Visual Studio](https://github.com/microsoft/vscode-edge-devtools/issues/977)
-* **MicrosoftDocs/edge-developer** - _97.87%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Time out exception](https://github.com/MicrosoftDocs/edge-developer/issues/1906)
   * [Added TestGrid](https://github.com/MicrosoftDocs/edge-developer/pull/1890)
