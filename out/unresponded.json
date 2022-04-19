@@ -198,7 +198,15 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta element should not be specified as it is not needed. <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">n",
+          "url": "https://github.com/webhintio/hint/issues/5118"
+        },
         {
           "title": "[Bug] Crash if there be a <200b> character in html file",
           "url": "https://github.com/webhintio/hint/issues/5082"
@@ -232,7 +240,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -434,6 +442,10 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -637,7 +649,15 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "92.31"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
+        {
+          "title": "Color picker",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/42"
+        },
         {
           "title": "The issues panel includes browser extensions",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/41"
@@ -651,7 +671,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "92.31"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -853,6 +873,10 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "84.62"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
         {
           "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
@@ -1065,14 +1089,34 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
+        {
+          "title": "Custom context menu items (Remove / Save As / Inspect)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
+        },
+        {
+          "title": "Often gray screen when using WebView2 in UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369"
+        },
         {
           "title": "CoreWebView2ContextMenuItem.Icon is always null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2367"
         },
         {
-          "title": "Problem with using custom context menu.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2368"
+          "title": "Context Menu Item - Hotkey?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2373"
+        },
+        {
+          "title": "Regression: DllNotFoundException: Unable to load DLL 'WebView2Loader.dll'",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2372"
+        },
+        {
+          "title": "Context menu - Separator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2370"
         },
         {
           "title": "error on new pre-release when setting costum download folder",
@@ -1083,7 +1127,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "92.00"
+      "rate": "84.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1285,6 +1329,10 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
         {
           "title": "Easy way to set severity to NON like we do in Visual Studio",
@@ -1493,6 +1541,10 @@
     },
     {
       "date": "2022-04-18",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-04-19",
       "unRespondedItems": [
         {
           "title": "Time out exception",

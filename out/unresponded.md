@@ -1,6 +1,7 @@
-Response rate: 92.38%
+Response rate: 90.62%
 
-* **webhintio/hint** - _84.00%_
+* **webhintio/hint** - _82.00%_
+  * [[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta...](https://github.com/webhintio/hint/issues/5118)
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)
   * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
   * [[Bug] Cross-origin resource needs a 'crossorigin' attribute ...](https://github.com/webhintio/hint/issues/5054)
@@ -10,16 +11,21 @@ Response rate: 92.38%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _92.31%_
+* **MicrosoftEdge/DevTools** - _90.00%_
+  * [Color picker](https://github.com/MicrosoftEdge/DevTools/issues/42)
   * [The issues panel includes browser extensions](https://github.com/MicrosoftEdge/DevTools/issues/41)
   * [Ability to do full, deterministic GC](https://github.com/MicrosoftEdge/DevTools/issues/40)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _84.62%_
   * [Test IE mode in Microsoft Edge with Internet Explorer Driver...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/13)
   * [Microsoft Edge in IE Mode: On clicking elements its throwing...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12)
-* **MicrosoftEdge/WebView2Feedback** - _92.00%_
+* **MicrosoftEdge/WebView2Feedback** - _84.00%_
+  * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
+  * [Often gray screen when using WebView2 in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369)
   * [CoreWebView2ContextMenuItem.Icon is always null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2367)
-  * [Problem with using custom context menu.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2368)
+  * [Context Menu Item - Hotkey?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2373)
+  * [Regression: DllNotFoundException: Unable to load DLL 'WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2372)
+  * [Context menu - Separator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2370)
   * [error on new pre-release when setting costum download folder...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358)
   * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
 * **microsoft/vscode-edge-devtools** - _98.00%_
