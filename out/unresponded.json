@@ -206,7 +206,15 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5127"
+        },
         {
           "title": "[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta element should not be specified as it is not needed. <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">n",
           "url": "https://github.com/webhintio/hint/issues/5118"
@@ -230,10 +238,6 @@
         {
           "title": "[Bug][Intrusive] keep on `npm install hint@latest` on opening folder",
           "url": "https://github.com/webhintio/hint/issues/5034"
-        },
-        {
-          "title": "[Bug][VS Code extension] Environment variables are not respected",
-          "url": "https://github.com/webhintio/hint/issues/4957"
         },
         {
           "title": "[Feature] Option to append cookies to the requests",
@@ -454,6 +458,10 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -665,10 +673,14 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "92.68"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [
         {
-          "title": "Allow friendly names to be added to heap snapshots",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/43"
+          "title": "Provide a way to inspect the layout tree",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/44"
         },
         {
           "title": "Ability to do full, deterministic GC",
@@ -679,7 +691,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "92.68"
+      "rate": "92.86"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -889,17 +901,17 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "84.62"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [
-        {
-          "title": "Test IE mode in Microsoft Edge with Internet Explorer Driver",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/13"
-        },
         {
           "title": "Microsoft Edge in IE Mode: On clicking elements its throwing 'org.openqa.selenium.ElementNotInteractableException' error. ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12"
         }
       ],
-      "rate": "84.62"
+      "rate": "92.86"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1109,10 +1121,18 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [
         {
-          "title": "hyperlink inside iframe hosted in webview2 with WPF not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377"
+          "title": "Evergreen upgrade breaking long running application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379"
+        },
+        {
+          "title": "understanding why links aren't getting marked as visited...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
           "title": "Overriding form resubmission dialog",
@@ -1147,7 +1167,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1357,13 +1377,12 @@
     },
     {
       "date": "2022-04-20",
-      "unRespondedItems": [
-        {
-          "title": "Easy way to set severity to NON like we do in Visual Studio",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/977"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-04-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1573,13 +1592,21 @@
     },
     {
       "date": "2022-04-20",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-04-21",
       "unRespondedItems": [
+        {
+          "title": "IE to Edge updates",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1912"
+        },
         {
           "title": "Added TestGrid",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }
