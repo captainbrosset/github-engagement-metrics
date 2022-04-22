@@ -1,4 +1,4 @@
-Response rate: 91.92%
+Response rate: 93.51%
 
 * **webhintio/hint** - _82.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
@@ -11,24 +11,19 @@ Response rate: 91.92%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _92.86%_
-  * [Provide a way to inspect the layout tree](https://github.com/MicrosoftEdge/DevTools/issues/44)
+* **MicrosoftEdge/DevTools** - _95.24%_
   * [Ability to do full, deterministic GC](https://github.com/MicrosoftEdge/DevTools/issues/40)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _92.86%_
-  * [Microsoft Edge in IE Mode: On clicking elements its throwing...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12)
-* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _93.33%_
+  * [Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15)
+* **MicrosoftEdge/WebView2Feedback** - _84.00%_
+  * [Touchpad navigation gesture](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2382)
   * [Evergreen upgrade breaking long running application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379)
-  * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
   * [Overriding form resubmission dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374)
-  * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
   * [Often gray screen when using WebView2 in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369)
-  * [WebView2 Context Menu - View Page Source ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2376)
-  * [Context Menu Item - Hotkey?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2373)
-  * [Context menu - Separator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2370)
+  * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
   * [error on new pre-release when setting costum download folder...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358)
+  * [Websocket connection limit on WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344)
   * [EnsureCoreWebView2Async error 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.74%_
-  * [IE to Edge updates](https://github.com/MicrosoftDocs/edge-developer/issues/1912)
-  * [Added TestGrid](https://github.com/MicrosoftDocs/edge-developer/pull/1890)
+* **MicrosoftDocs/edge-developer** - _100.00%_

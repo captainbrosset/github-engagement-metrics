@@ -210,6 +210,10 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -462,6 +466,10 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -677,11 +685,11 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [
-        {
-          "title": "Provide a way to inspect the layout tree",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/44"
-        },
         {
           "title": "Ability to do full, deterministic GC",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/40"
@@ -691,7 +699,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "92.86"
+      "rate": "95.24"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -905,13 +913,17 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [
         {
-          "title": "Microsoft Edge in IE Mode: On clicking elements its throwing 'org.openqa.selenium.ElementNotInteractableException' error. ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/12"
+          "title": "Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable to create session when run on locked VDI",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15"
         }
       ],
-      "rate": "92.86"
+      "rate": "93.33"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1125,49 +1137,45 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [
+        {
+          "title": "Touchpad navigation gesture",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2382"
+        },
         {
           "title": "Evergreen upgrade breaking long running application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379"
-        },
-        {
-          "title": "understanding why links aren't getting marked as visited...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
           "title": "Overriding form resubmission dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
         },
         {
-          "title": "Custom context menu items (Remove / Save As / Inspect)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
-        },
-        {
           "title": "Often gray screen when using WebView2 in UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369"
         },
         {
-          "title": "WebView2 Context Menu - View Page Source ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2376"
-        },
-        {
-          "title": "Context Menu Item - Hotkey?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2373"
-        },
-        {
-          "title": "Context menu - Separator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2370"
+          "title": "understanding why links aren't getting marked as visited...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
           "title": "error on new pre-release when setting costum download folder",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
         },
         {
+          "title": "Websocket connection limit on WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344"
+        },
+        {
           "title": "EnsureCoreWebView2Async error 0x8007139F",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "80.00"
+      "rate": "84.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1381,6 +1389,10 @@
     },
     {
       "date": "2022-04-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1596,17 +1608,12 @@
     },
     {
       "date": "2022-04-21",
-      "unRespondedItems": [
-        {
-          "title": "IE to Edge updates",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1912"
-        },
-        {
-          "title": "Added TestGrid",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/1890"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2022-04-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
