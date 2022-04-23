@@ -214,6 +214,10 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -470,6 +474,10 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -689,17 +697,21 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [
         {
-          "title": "Ability to do full, deterministic GC",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/40"
+          "title": "Close tab by middle clicking doesn't switch to next tab",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/45"
         },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "95.24"
+      "rate": "95.35"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -917,6 +929,10 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [
         {
           "title": "Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable to create session when run on locked VDI",
@@ -1141,7 +1157,19 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "84.00"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [
+        {
+          "title": "COMException HRESULT: 0x80004004 (E_ABORT)) during Dispose",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2384"
+        },
+        {
+          "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
+        },
         {
           "title": "Touchpad navigation gesture",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2382"
@@ -1163,6 +1191,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
+          "title": "Get url of an image",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375"
+        },
+        {
+          "title": "Custom context menu items (Remove / Save As / Inspect)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
+        },
+        {
           "title": "error on new pre-release when setting costum download folder",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
         },
@@ -1175,7 +1211,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "84.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1393,8 +1429,17 @@
     },
     {
       "date": "2022-04-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-23",
+      "unRespondedItems": [
+        {
+          "title": "The \"Check32BitScanner\" in AccessAnyWare64.exe.config needs to be set as \"Yes\". 2. The LeadtoolsThunk Server need to be installed and registered.    Copy the LeadtoolsThunk to some folder (for example C:\\LeadtoolsThunk) at the client workstation where AccessAnyWare64 is installed.    Run windows command with administrator privilege, and then run the following command:    C:\\LeadtoolsThunk\\Ltthunkserver.exe /regserver",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/987"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1612,6 +1657,10 @@
     },
     {
       "date": "2022-04-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
