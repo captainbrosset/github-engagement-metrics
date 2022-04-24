@@ -1,6 +1,7 @@
-Response rate: 92.10%
+Response rate: 91.81%
 
-* **webhintio/hint** - _82.00%_
+* **webhintio/hint** - _80.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5132)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
   * [[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta...](https://github.com/webhintio/hint/issues/5118)
   * [[Bug] Crash if there be a <200b> character in html file](https://github.com/webhintio/hint/issues/5082)

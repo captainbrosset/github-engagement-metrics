@@ -218,7 +218,15 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5132"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5127"
@@ -256,7 +264,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -478,6 +486,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -701,6 +713,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [
         {
           "title": "Close tab by middle clicking doesn't switch to next tab",
@@ -933,6 +949,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [
         {
           "title": "Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable to create session when run on locked VDI",
@@ -1161,6 +1181,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [
         {
           "title": "COMException HRESULT: 0x80004004 (E_ABORT)) during Dispose",
@@ -1433,6 +1457,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [
         {
           "title": "The \"Check32BitScanner\" in AccessAnyWare64.exe.config needs to be set as \"Yes\". 2. The LeadtoolsThunk Server need to be installed and registered.    Copy the LeadtoolsThunk to some folder (for example C:\\LeadtoolsThunk) at the client workstation where AccessAnyWare64 is installed.    Run windows command with administrator privilege, and then run the following command:    C:\\LeadtoolsThunk\\Ltthunkserver.exe /regserver",
@@ -1661,6 +1689,10 @@
     },
     {
       "date": "2022-04-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
