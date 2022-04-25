@@ -222,7 +222,15 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Make the VSCode extension compatible with https://vscode.dev and https://github.dev",
+          "url": "https://github.com/webhintio/hint/issues/5133"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5132"
@@ -264,7 +272,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -490,6 +498,10 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -717,6 +729,10 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [
         {
           "title": "Close tab by middle clicking doesn't switch to next tab",
@@ -953,6 +969,10 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [
         {
           "title": "Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable to create session when run on locked VDI",
@@ -1185,7 +1205,15 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [
+        {
+          "title": "Excel Addin -> Custom Pane with Html -> Dragging between 2 screens with different resolutions misplaces the pane content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2386"
+        },
         {
           "title": "COMException HRESULT: 0x80004004 (E_ABORT)) during Dispose",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2384"
@@ -1235,7 +1263,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1461,13 +1489,21 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [
+        {
+          "title": "theme and autometic filling",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/988"
+        },
         {
           "title": "The \"Check32BitScanner\" in AccessAnyWare64.exe.config needs to be set as \"Yes\". 2. The LeadtoolsThunk Server need to be installed and registered.    Copy the LeadtoolsThunk to some folder (for example C:\\LeadtoolsThunk) at the client workstation where AccessAnyWare64 is installed.    Run windows command with administrator privilege, and then run the following command:    C:\\LeadtoolsThunk\\Ltthunkserver.exe /regserver",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/987"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1693,6 +1729,10 @@
     },
     {
       "date": "2022-04-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
