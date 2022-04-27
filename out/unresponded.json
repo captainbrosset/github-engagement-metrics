@@ -230,11 +230,11 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [
-        {
-          "title": "[Feature] Make the VSCode extension compatible with https://vscode.dev and https://github.dev",
-          "url": "https://github.com/webhintio/hint/issues/5133"
-        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5127"
@@ -262,6 +262,10 @@
         {
           "title": "[Bug][Intrusive] keep on `npm install hint@latest` on opening folder",
           "url": "https://github.com/webhintio/hint/issues/5034"
+        },
+        {
+          "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
+          "url": "https://github.com/webhintio/hint/issues/5134"
         },
         {
           "title": "[Feature] Option to append cookies to the requests",
@@ -506,6 +510,10 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -741,21 +749,21 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [
         {
           "title": "Turn off remote debugging to open this site in IE mode otherwise it might not work as expected.",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/46"
         },
         {
-          "title": "Close tab by middle clicking doesn't switch to next tab",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/45"
-        },
-        {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "93.18"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -989,6 +997,10 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [
         {
           "title": "Inconsistent line endings in the Driver_notes inside every single version of web driver package",
@@ -1233,7 +1245,31 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [
+        {
+          "title": "`COMException` 800702E4 during `EnsureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2402"
+        },
+        {
+          "title": "`COMException` 8000FFFF during `EnsureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401"
+        },
+        {
+          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
+        },
+        {
+          "title": "ShortCut and winforms",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2399"
+        },
+        {
+          "title": "Error \"The group or resource is not in the correct state to perform the requested operation\" when doing WebView2.TrySuspendAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2398"
+        },
         {
           "title": "How to add click event to native CoreWebView2ContextMenuItem?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2390"
@@ -1249,10 +1285,6 @@
         {
           "title": "Excel Addin -> Custom Pane with Html -> Dragging between 2 screens with different resolutions misplaces the pane content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2386"
-        },
-        {
-          "title": "COMException HRESULT: 0x80004004 (E_ABORT)) during Dispose",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2384"
         },
         {
           "title": "Touchpad navigation gesture",
@@ -1271,6 +1303,22 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369"
         },
         {
+          "title": "Context Menu - Save as PDF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
+        },
+        {
+          "title": "#1576 ShowWindow(hWnd, SW_HIDE); Null pointer problem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2391"
+        },
+        {
+          "title": "Unable to Print / Save as PDF from Print Dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387"
+        },
+        {
+          "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
+        },
+        {
           "title": "understanding why links aren't getting marked as visited...",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
@@ -1283,19 +1331,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375"
         },
         {
+          "title": "Custom context menu items (Remove / Save As / Inspect)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
+        },
+        {
           "title": "error on new pre-release when setting costum download folder",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
-        },
-        {
-          "title": "Websocket connection limit on WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2344"
-        },
-        {
-          "title": "EnsureCoreWebView2Async error 0x8007139F",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2343"
         }
       ],
-      "rate": "70.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1529,6 +1573,10 @@
     },
     {
       "date": "2022-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1764,8 +1812,17 @@
     },
     {
       "date": "2022-04-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-27",
+      "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1916"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
