@@ -234,6 +234,10 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -514,6 +518,10 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -753,17 +761,17 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [
-        {
-          "title": "Turn off remote debugging to open this site in IE mode otherwise it might not work as expected.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/46"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "95.45"
+      "rate": "97.73"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1001,6 +1009,10 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [
         {
           "title": "Inconsistent line endings in the Driver_notes inside every single version of web driver package",
@@ -1249,7 +1261,27 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [
+        {
+          "title": "Handling CoreWebView2OnPermissionRequested shows WenView2's prompt when using CoreWebView2PermissionState.Default",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2406"
+        },
+        {
+          "title": "Invoke Find from an external application Menu item",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
+        },
+        {
+          "title": "I write a plugin dll.  Sometimes the dll work well and sometimes it crash.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2404"
+        },
+        {
+          "title": "Docking WPF Window ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2403"
+        },
         {
           "title": "`COMException` 800702E4 during `EnsureCoreWebView2Async`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2402"
@@ -1257,10 +1289,6 @@
         {
           "title": "`COMException` 8000FFFF during `EnsureCoreWebView2Async`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401"
-        },
-        {
-          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
         },
         {
           "title": "ShortCut and winforms",
@@ -1279,10 +1307,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
-          "title": "MoveFocus Crash seen with Secondary Dialog on top of EdgeWebView based WPF Window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2388"
-        },
-        {
           "title": "Excel Addin -> Custom Pane with Html -> Dragging between 2 screens with different resolutions misplaces the pane content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2386"
         },
@@ -1299,8 +1323,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
         },
         {
-          "title": "Often gray screen when using WebView2 in UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2369"
+          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
         },
         {
           "title": "Context Menu - Save as PDF",
@@ -1309,10 +1333,6 @@
         {
           "title": "#1576 ShowWindow(hWnd, SW_HIDE); Null pointer problem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2391"
-        },
-        {
-          "title": "Unable to Print / Save as PDF from Print Dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387"
         },
         {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
@@ -1339,7 +1359,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1577,6 +1597,10 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1816,6 +1840,10 @@
     },
     {
       "date": "2022-04-27",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-04-28",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback]",
