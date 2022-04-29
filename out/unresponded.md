@@ -1,4 +1,4 @@
-Response rate: 88.16%
+Response rate: 86.98%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
@@ -12,15 +12,17 @@ Response rate: 88.16%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _97.73%_
+* **MicrosoftEdge/DevTools** - _93.48%_
+  * [Nawab IkramUllah Khan](https://github.com/MicrosoftEdge/DevTools/issues/48)
+  * [INSHA ALLAH  MicrosoftEdge/DevTools](https://github.com/MicrosoftEdge/DevTools/issues/47)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
   * [Inconsistent line endings in the Driver_notes inside every s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/16)
   * [Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [Handling CoreWebView2OnPermissionRequested shows WenView2's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2406)
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [`COMException` 0x80004004 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410)
+  * [WebView2-Change PDF page programmatically (without reloading...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409)
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
-  * [I write a plugin dll.  Sometimes the dll work well and somet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2404)
   * [Docking WPF Window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2403)
   * [`COMException` 800702E4 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2402)
   * [`COMException` 8000FFFF during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401)
@@ -35,12 +37,14 @@ Response rate: 88.16%
   * [`COMException` 800705b4 during `EncureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400)
   * [Context Menu - Save as PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393)
   * [#1576 ShowWindow(hWnd, SW_HIDE); Null pointer problem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2391)
+  * [Unable to Print / Save as PDF from Print Dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387)
   * [When the mouse clicks on webview2, contextmenustrip cannot c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383)
   * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
   * [hyperlink inside iframe hosted in webview2 with WPF not work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377)
   * [Get url of an image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375)
   * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
   * [error on new pre-release when setting costum download folder...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [You should make a ipero disable thing.](https://github.com/microsoft/vscode-edge-devtools/issues/997)
+* **MicrosoftDocs/edge-developer** - _97.87%_
   * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/1916)

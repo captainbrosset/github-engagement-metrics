@@ -238,6 +238,10 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -522,6 +526,10 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -765,13 +773,25 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [
+        {
+          "title": "Nawab IkramUllah Khan",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/48"
+        },
+        {
+          "title": "INSHA ALLAH  MicrosoftEdge/DevTools",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/47"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "97.73"
+      "rate": "93.48"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1013,6 +1033,10 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [
         {
           "title": "Inconsistent line endings in the Driver_notes inside every single version of web driver package",
@@ -1265,18 +1289,22 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [
         {
-          "title": "Handling CoreWebView2OnPermissionRequested shows WenView2's prompt when using CoreWebView2PermissionState.Default",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2406"
+          "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
+        },
+        {
+          "title": "WebView2-Change PDF page programmatically (without reloading pdf document)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
         },
         {
           "title": "Invoke Find from an external application Menu item",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
-        },
-        {
-          "title": "I write a plugin dll.  Sometimes the dll work well and sometimes it crash.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2404"
         },
         {
           "title": "Docking WPF Window ",
@@ -1335,6 +1363,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2391"
         },
         {
+          "title": "Unable to Print / Save as PDF from Print Dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387"
+        },
+        {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
         },
@@ -1359,7 +1391,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2358"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1601,8 +1633,17 @@
     },
     {
       "date": "2022-04-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-04-29",
+      "unRespondedItems": [
+        {
+          "title": "You should make a ipero disable thing.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/997"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1844,13 +1885,17 @@
     },
     {
       "date": "2022-04-28",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-04-29",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1916"
         }
       ],
-      "rate": "97.92"
+      "rate": "97.87"
     }
   ]
 }
