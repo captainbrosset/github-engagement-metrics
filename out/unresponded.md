@@ -1,4 +1,4 @@
-Response rate: 90.28%
+Response rate: 88.69%
 
 * **webhintio/hint** - _82.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
@@ -11,9 +11,11 @@ Response rate: 90.28%
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _97.83%_
+* **MicrosoftEdge/DevTools** - _95.74%_
+  * [Misleading interactions in Breakpoint section](https://github.com/MicrosoftEdge/DevTools/issues/49)
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _88.24%_
+* **MicrosoftEdge/EdgeWebDriver** - _83.33%_
+  * [Is Edge WebDriver open source?](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/18)
   * [Inconsistent line endings in the Driver_notes inside every s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/16)
   * [Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15)
 * **MicrosoftEdge/WebView2Feedback** - _68.00%_
@@ -33,7 +35,9 @@ Response rate: 90.28%
   * [hyperlink inside iframe hosted in webview2 with WPF not work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377)
   * [Get url of an image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375)
   * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [my](https://github.com/microsoft/vscode-edge-devtools/issues/1002)
   * [the bug](https://github.com/microsoft/vscode-edge-devtools/issues/1001)
-* **MicrosoftDocs/edge-developer** - _97.87%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/1923)
   * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/1916)
