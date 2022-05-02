@@ -1,4 +1,4 @@
-Response rate: 88.69%
+Response rate: 88.12%
 
 * **webhintio/hint** - _82.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
@@ -18,19 +18,21 @@ Response rate: 88.69%
   * [Is Edge WebDriver open source?](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/18)
   * [Inconsistent line endings in the Driver_notes inside every s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/16)
   * [Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [add_StatusBarTextChanged crashes WebView2 Runtime 101.0.1210...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2414)
+  * [About WebSocet communication ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413)
   * [I cannot change the size of WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411)
   * [`COMException` 0x80004004 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410)
   * [WebView2-Change PDF page programmatically (without reloading...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409)
-  * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
   * [ShortCut and winforms](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2399)
-  * [How to add click event to native CoreWebView2ContextMenuItem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2390)
   * [Setting printer settings page sizes and margins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389)
   * [Excel Addin -> Custom Pane with Html -> Dragging between 2 s...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2386)
   * [Overriding form resubmission dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374)
+  * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
   * [Context Menu - Save as PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393)
   * [Unable to Print / Save as PDF from Print Dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387)
   * [When the mouse clicks on webview2, contextmenustrip cannot c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383)
+  * [Evergreen upgrade breaking long running application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379)
   * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
   * [hyperlink inside iframe hosted in webview2 with WPF not work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377)
   * [Get url of an image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375)

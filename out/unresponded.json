@@ -250,6 +250,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -542,6 +546,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -797,6 +805,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
         {
           "title": "Misleading interactions in Breakpoint section",
@@ -1061,6 +1073,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "83.33"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
         {
           "title": "Is Edge WebDriver open source?",
@@ -1329,7 +1345,19 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
+        {
+          "title": "add_StatusBarTextChanged crashes WebView2 Runtime 101.0.1210.32",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2414"
+        },
+        {
+          "title": "About WebSocet communication ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413"
+        },
         {
           "title": "I cannot change the size of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
@@ -1343,16 +1371,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
         },
         {
-          "title": "Invoke Find from an external application Menu item",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
-        },
-        {
           "title": "ShortCut and winforms",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2399"
-        },
-        {
-          "title": "How to add click event to native CoreWebView2ContextMenuItem?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2390"
         },
         {
           "title": "Setting printer settings page sizes and margins",
@@ -1367,6 +1387,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
         },
         {
+          "title": "Invoke Find from an external application Menu item",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
+        },
+        {
           "title": "Context Menu - Save as PDF",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
         },
@@ -1377,6 +1401,10 @@
         {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
+        },
+        {
+          "title": "Evergreen upgrade breaking long running application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379"
         },
         {
           "title": "understanding why links aren't getting marked as visited...",
@@ -1395,7 +1423,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1649,6 +1677,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
         {
           "title": "my",
@@ -1913,6 +1945,10 @@
     },
     {
       "date": "2022-05-01",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-05-02",
       "unRespondedItems": [
         {
           "title": "References to old Edge versions detected",
