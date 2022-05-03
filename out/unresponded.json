@@ -254,6 +254,10 @@
     },
     {
       "date": "2022-05-02",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-05-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -550,6 +554,10 @@
     },
     {
       "date": "2022-05-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -809,17 +817,17 @@
     },
     {
       "date": "2022-05-02",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-05-03",
       "unRespondedItems": [
-        {
-          "title": "Misleading interactions in Breakpoint section",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/49"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "95.74"
+      "rate": "97.87"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1077,21 +1085,12 @@
     },
     {
       "date": "2022-05-02",
-      "unRespondedItems": [
-        {
-          "title": "Is Edge WebDriver open source?",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/18"
-        },
-        {
-          "title": "Inconsistent line endings in the Driver_notes inside every single version of web driver package",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/16"
-        },
-        {
-          "title": "Selenium Edge with IEMode( IEDriverServer (4.0.0.0) Unable to create session when run on locked VDI",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/15"
-        }
-      ],
       "rate": "83.33"
+    },
+    {
+      "date": "2022-05-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1349,11 +1348,11 @@
     },
     {
       "date": "2022-05-02",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-05-03",
       "unRespondedItems": [
-        {
-          "title": "add_StatusBarTextChanged crashes WebView2 Runtime 101.0.1210.32",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2414"
-        },
         {
           "title": "About WebSocet communication ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413"
@@ -1363,48 +1362,40 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
         },
         {
-          "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
-        },
-        {
           "title": "WebView2-Change PDF page programmatically (without reloading pdf document)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
-        },
-        {
-          "title": "ShortCut and winforms",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2399"
         },
         {
           "title": "Setting printer settings page sizes and margins",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
-          "title": "Excel Addin -> Custom Pane with Html -> Dragging between 2 screens with different resolutions misplaces the pane content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2386"
-        },
-        {
           "title": "Overriding form resubmission dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
+        },
+        {
+          "title": "Hanging on call to PrintToPdfAsync on a displayed file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2415"
+        },
+        {
+          "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
         },
         {
           "title": "Invoke Find from an external application Menu item",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
         },
         {
-          "title": "Context Menu - Save as PDF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
+          "title": "`COMException` 8000FFFF during `EnsureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401"
         },
         {
-          "title": "Unable to Print / Save as PDF from Print Dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2387"
+          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
         },
         {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
-        },
-        {
-          "title": "Evergreen upgrade breaking long running application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2379"
         },
         {
           "title": "understanding why links aren't getting marked as visited...",
@@ -1423,7 +1414,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "64.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1681,17 +1672,12 @@
     },
     {
       "date": "2022-05-02",
-      "unRespondedItems": [
-        {
-          "title": "my",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1002"
-        },
-        {
-          "title": "the bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1001"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-05-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -1949,17 +1935,17 @@
     },
     {
       "date": "2022-05-02",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-05-03",
       "unRespondedItems": [
         {
           "title": "References to old Edge versions detected",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1923"
-        },
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1916"
         }
       ],
-      "rate": "95.74"
+      "rate": "97.92"
     }
   ]
 }
