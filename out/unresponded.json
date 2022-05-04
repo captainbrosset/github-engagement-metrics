@@ -258,6 +258,10 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -558,6 +562,10 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -821,6 +829,10 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -1089,6 +1101,10 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1352,7 +1368,15 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [
+        {
+          "title": "IStream is null when body is there for mostly when large/compressed for ICoreWebView2WebResourceResponseViewGetContentCompletedHandler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2417"
+        },
         {
           "title": "About WebSocet communication ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413"
@@ -1374,10 +1398,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
         },
         {
-          "title": "Hanging on call to PrintToPdfAsync on a displayed file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2415"
-        },
-        {
           "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
         },
@@ -1386,12 +1406,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
         },
         {
-          "title": "`COMException` 8000FFFF during `EnsureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401"
-        },
-        {
-          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
+          "title": "Context Menu - Save as PDF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
         },
         {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
@@ -1402,10 +1418,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
-          "title": "hyperlink inside iframe hosted in webview2 with WPF not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377"
-        },
-        {
           "title": "Get url of an image",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375"
         },
@@ -1414,7 +1426,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "70.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1676,6 +1688,10 @@
     },
     {
       "date": "2022-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1939,13 +1955,12 @@
     },
     {
       "date": "2022-05-03",
-      "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1923"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2022-05-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

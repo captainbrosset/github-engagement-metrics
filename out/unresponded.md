@@ -1,4 +1,4 @@
-Response rate: 92.54%
+Response rate: 93.41%
 
 * **webhintio/hint** - _82.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
@@ -14,22 +14,19 @@ Response rate: 92.54%
 * **MicrosoftEdge/DevTools** - _97.87%_
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _100.00%_
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [IStream is null when body is there for mostly when large/com...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2417)
   * [About WebSocet communication ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413)
   * [I cannot change the size of WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411)
   * [WebView2-Change PDF page programmatically (without reloading...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409)
   * [Setting printer settings page sizes and margins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389)
   * [Overriding form resubmission dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374)
-  * [Hanging on call to PrintToPdfAsync on a displayed file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2415)
   * [`COMException` 0x80004004 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410)
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
-  * [`COMException` 8000FFFF during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2401)
-  * [`COMException` 800705b4 during `EncureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400)
+  * [Context Menu - Save as PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393)
   * [When the mouse clicks on webview2, contextmenustrip cannot c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383)
   * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
-  * [hyperlink inside iframe hosted in webview2 with WPF not work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377)
   * [Get url of an image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375)
   * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.92%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/1923)
+* **MicrosoftDocs/edge-developer** - _100.00%_
