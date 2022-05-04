@@ -145,7 +145,7 @@
             type: "datetime",
             labels: {
               formatter: function () {
-                return Highcharts.dateFormat("%b/%e/%Y", this.value);
+                return Highcharts.dateFormat("%m/%e/%y", this.value);
               },
             },
             categories: repoMetrics.map((item) => new Date(item.date)),
@@ -160,7 +160,7 @@
             type: "datetime",
             labels: {
               formatter: function () {
-                return Highcharts.dateFormat("%b/%e/%Y", this.value);
+                return Highcharts.dateFormat("%m/%e/%y", this.value);
               },
             },
             categories: repoResponseRate.map((item) => new Date(item.date)),
@@ -234,7 +234,7 @@
           chart,
           title: { text: "Response rate 🥰" },
           xAxis: getResponseRateXAxisDateConfig(),
-          yAxis: { title: { text: "Response rate" } },
+          yAxis: { title: { text: "Response rate %" }, min: 0, max: 100 },
           plotOptions: getPlotOptions(),
           legend: { enabled: false },
           series: [
