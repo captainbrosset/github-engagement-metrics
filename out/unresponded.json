@@ -262,7 +262,15 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Custom severity overrides do not work",
+          "url": "https://github.com/webhintio/hint/issues/5155"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5127"
@@ -292,6 +300,10 @@
           "url": "https://github.com/webhintio/hint/issues/5034"
         },
         {
+          "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
+          "url": "https://github.com/webhintio/hint/issues/5134"
+        },
+        {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
         },
@@ -300,7 +312,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "82.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -566,6 +578,10 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -833,13 +849,25 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [
+        {
+          "title": "Add 'Scroll into view' option to Source panel context menu for DOM elements",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/51"
+        },
+        {
+          "title": "Tailor context menus to developer needs",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/50"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "97.87"
+      "rate": "93.88"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1105,6 +1133,10 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1372,7 +1404,19 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Disposal method throws an unhandled InvalidCastException when called from the HwndHost Finalizer ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2420"
+        },
+        {
+          "title": "WebView2 cannot  actually be transparent.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2419"
+        },
         {
           "title": "IStream is null when body is there for mostly when large/compressed for ICoreWebView2WebResourceResponseViewGetContentCompletedHandler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2417"
@@ -1380,10 +1424,6 @@
         {
           "title": "About WebSocet communication ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413"
-        },
-        {
-          "title": "I cannot change the size of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
         },
         {
           "title": "WebView2-Change PDF page programmatically (without reloading pdf document)",
@@ -1406,6 +1446,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
         },
         {
+          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
+        },
+        {
           "title": "Context Menu - Save as PDF",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
         },
@@ -1426,7 +1470,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1692,6 +1736,10 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1959,6 +2007,10 @@
     },
     {
       "date": "2022-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
