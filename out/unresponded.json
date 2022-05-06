@@ -266,6 +266,10 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Custom severity overrides do not work",
@@ -312,7 +316,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "78.00"
+      "rate": "77.55"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -582,6 +586,10 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -853,21 +861,17 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [
-        {
-          "title": "Add 'Scroll into view' option to Source panel context menu for DOM elements",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/51"
-        },
-        {
-          "title": "Tailor context menus to developer needs",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/50"
-        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "93.88"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1137,6 +1141,10 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1408,7 +1416,15 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [
+        {
+          "title": "Graphics corruption in all apps using WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2421"
+        },
         {
           "title": "WebView2 Disposal method throws an unhandled InvalidCastException when called from the HwndHost Finalizer ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2420"
@@ -1462,15 +1478,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         },
         {
-          "title": "Get url of an image",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2375"
+          "title": "hyperlink inside iframe hosted in webview2 with WPF not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377"
         },
         {
           "title": "Custom context menu items (Remove / Save As / Inspect)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1740,6 +1756,10 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2011,6 +2031,10 @@
     },
     {
       "date": "2022-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
