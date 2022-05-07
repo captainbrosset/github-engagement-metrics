@@ -270,6 +270,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "77.55"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Custom severity overrides do not work",
@@ -590,6 +594,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -865,6 +873,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -1145,6 +1157,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1420,7 +1436,31 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [
+        {
+          "title": "Javascript stops working after a form submit",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2430"
+        },
+        {
+          "title": "ProcessFailed ExitCode 40",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429"
+        },
+        {
+          "title": "Feature request: Device or permission \"in use\" event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2428"
+        },
+        {
+          "title": "Feature request: Permissions API",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2427"
+        },
+        {
+          "title": "Webview2 New Popup window requested but opened in external browser window and not focused in UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425"
+        },
         {
           "title": "Graphics corruption in all apps using WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2421"
@@ -1450,10 +1490,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
-          "title": "Overriding form resubmission dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374"
-        },
-        {
           "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
         },
@@ -1476,17 +1512,9 @@
         {
           "title": "understanding why links aren't getting marked as visited...",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
-        },
-        {
-          "title": "hyperlink inside iframe hosted in webview2 with WPF not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377"
-        },
-        {
-          "title": "Custom context menu items (Remove / Save As / Inspect)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1760,6 +1788,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2035,6 +2067,10 @@
     },
     {
       "date": "2022-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }

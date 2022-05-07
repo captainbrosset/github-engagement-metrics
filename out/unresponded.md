@@ -1,4 +1,4 @@
-Response rate: 91.94%
+Response rate: 91.36%
 
 * **webhintio/hint** - _77.55%_
   * [[Bug] Custom severity overrides do not work](https://github.com/webhintio/hint/issues/5155)
@@ -16,7 +16,12 @@ Response rate: 91.94%
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _100.00%_
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [Javascript stops working after a form submit](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2430)
+  * [ProcessFailed ExitCode 40](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429)
+  * [Feature request: Device or permission "in use" event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2428)
+  * [Feature request: Permissions API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2427)
+  * [Webview2 New Popup window requested but opened in external b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425)
   * [Graphics corruption in all apps using WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2421)
   * [WebView2 Disposal method throws an unhandled InvalidCastExce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2420)
   * [WebView2 cannot  actually be transparent.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2419)
@@ -24,14 +29,11 @@ Response rate: 91.94%
   * [About WebSocet communication ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413)
   * [WebView2-Change PDF page programmatically (without reloading...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409)
   * [Setting printer settings page sizes and margins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389)
-  * [Overriding form resubmission dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2374)
   * [`COMException` 0x80004004 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410)
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
   * [`COMException` 800705b4 during `EncureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400)
   * [Context Menu - Save as PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393)
   * [When the mouse clicks on webview2, contextmenustrip cannot c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383)
   * [understanding why links aren't getting marked as visited...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378)
-  * [hyperlink inside iframe hosted in webview2 with WPF not work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2377)
-  * [Custom context menu items (Remove / Save As / Inspect)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2371)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _100.00%_
