@@ -1,6 +1,7 @@
-Response rate: 91.36%
+Response rate: 90.79%
 
-* **webhintio/hint** - _77.55%_
+* **webhintio/hint** - _75.51%_
+  * [ARIA-Hidden Elements ](https://github.com/webhintio/hint/issues/5157)
   * [[Bug] Custom severity overrides do not work](https://github.com/webhintio/hint/issues/5155)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5127)
   * [[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta...](https://github.com/webhintio/hint/issues/5118)
@@ -16,7 +17,7 @@ Response rate: 91.36%
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
 * **MicrosoftEdge/EdgeWebDriver** - _100.00%_
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [Javascript stops working after a form submit](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2430)
   * [ProcessFailed ExitCode 40](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429)
   * [Feature request: Device or permission "in use" event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2428)
@@ -29,6 +30,7 @@ Response rate: 91.36%
   * [About WebSocet communication ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413)
   * [WebView2-Change PDF page programmatically (without reloading...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409)
   * [Setting printer settings page sizes and margins](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389)
+  * [I cannot change the size of WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411)
   * [`COMException` 0x80004004 during `EnsureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410)
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
   * [`COMException` 800705b4 during `EncureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400)

@@ -274,7 +274,15 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "77.55"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [
+        {
+          "title": "ARIA-Hidden Elements ",
+          "url": "https://github.com/webhintio/hint/issues/5157"
+        },
         {
           "title": "[Bug] Custom severity overrides do not work",
           "url": "https://github.com/webhintio/hint/issues/5155"
@@ -320,7 +328,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "77.55"
+      "rate": "75.51"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -598,6 +606,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -877,6 +889,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -1161,6 +1177,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1440,6 +1460,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [
         {
           "title": "Javascript stops working after a form submit",
@@ -1490,6 +1514,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
+          "title": "I cannot change the size of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
+        },
+        {
           "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
         },
@@ -1514,7 +1542,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1792,6 +1820,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2071,6 +2103,10 @@
     },
     {
       "date": "2022-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
