@@ -278,6 +278,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "75.51"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [
         {
           "title": "ARIA-Hidden Elements ",
@@ -610,6 +614,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -893,6 +901,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -1181,6 +1193,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1464,6 +1480,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [
         {
           "title": "Javascript stops working after a form submit",
@@ -1514,6 +1534,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
+          "title": "Port 80 is being probed for proxy information via ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2432"
+        },
+        {
           "title": "I cannot change the size of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
         },
@@ -1542,7 +1566,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1824,6 +1848,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2107,6 +2135,10 @@
     },
     {
       "date": "2022-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
