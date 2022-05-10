@@ -282,35 +282,11 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "75.51"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [
-        {
-          "title": "ARIA-Hidden Elements ",
-          "url": "https://github.com/webhintio/hint/issues/5157"
-        },
-        {
-          "title": "[Bug] Custom severity overrides do not work",
-          "url": "https://github.com/webhintio/hint/issues/5155"
-        },
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5127"
-        },
-        {
-          "title": "[Bug] Bug descriptioCompatibility The 'x-ua-compatible' meta element should not be specified as it is not needed. <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">n",
-          "url": "https://github.com/webhintio/hint/issues/5118"
-        },
-        {
-          "title": "[Bug] Crash if there be a <200b> character in html file",
-          "url": "https://github.com/webhintio/hint/issues/5082"
-        },
-        {
-          "title": "JSON output is not valid JSON",
-          "url": "https://github.com/webhintio/hint/issues/5081"
-        },
-        {
-          "title": "[Bug] Cross-origin resource needs a 'crossorigin' attribute even though crossorigin is specified",
-          "url": "https://github.com/webhintio/hint/issues/5054"
-        },
         {
           "title": "[Bug] Does not seems to support `extends` from tsconfig.json",
           "url": "https://github.com/webhintio/hint/issues/5035"
@@ -330,9 +306,13 @@
         {
           "title": "Extension suddenly stopped working: e is undefined",
           "url": "https://github.com/webhintio/hint/issues/5078"
+        },
+        {
+          "title": "[Bug] Cross-origin resource needs a 'crossorigin' attribute even though crossorigin is specified",
+          "url": "https://github.com/webhintio/hint/issues/5054"
         }
       ],
-      "rate": "75.51"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -618,6 +598,10 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -905,6 +889,10 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
@@ -1197,6 +1185,10 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1484,26 +1476,18 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [
         {
-          "title": "Javascript stops working after a form submit",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2430"
+          "title": "Error occurs when using GetSaveFileName() API in Custom Download function",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2433"
         },
         {
           "title": "ProcessFailed ExitCode 40",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429"
-        },
-        {
-          "title": "Feature request: Device or permission \"in use\" event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2428"
-        },
-        {
-          "title": "Feature request: Permissions API",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2427"
-        },
-        {
-          "title": "Webview2 New Popup window requested but opened in external browser window and not focused in UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425"
         },
         {
           "title": "Graphics corruption in all apps using WebView2",
@@ -1534,12 +1518,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
         },
         {
-          "title": "Port 80 is being probed for proxy information via ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2432"
-        },
-        {
-          "title": "I cannot change the size of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2411"
+          "title": "Got ProcessFailed on CoreWebView2 when fixed runtime is installed in a folder with Chinese characters ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         },
         {
           "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
@@ -1560,13 +1540,9 @@
         {
           "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
-        },
-        {
-          "title": "understanding why links aren't getting marked as visited...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2378"
         }
       ],
-      "rate": "60.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1852,6 +1828,10 @@
     },
     {
       "date": "2022-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2139,8 +2119,17 @@
     },
     {
       "date": "2022-05-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-10",
+      "unRespondedItems": [
+        {
+          "title": "Water Fall",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1935"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
