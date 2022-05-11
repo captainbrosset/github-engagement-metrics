@@ -286,6 +286,10 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "87.76"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Does not seems to support `extends` from tsconfig.json",
@@ -294,6 +298,10 @@
         {
           "title": "[Bug][Intrusive] keep on `npm install hint@latest` on opening folder",
           "url": "https://github.com/webhintio/hint/issues/5034"
+        },
+        {
+          "title": "[Bug] Custom severity overrides do not work",
+          "url": "https://github.com/webhintio/hint/issues/5155"
         },
         {
           "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
@@ -312,7 +320,7 @@
           "url": "https://github.com/webhintio/hint/issues/5054"
         }
       ],
-      "rate": "87.76"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -602,6 +610,10 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -893,13 +905,21 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [
+        {
+          "title": "No contrast information available",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/54"
+        },
         {
           "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1189,6 +1209,10 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1480,7 +1504,15 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [
+        {
+          "title": "Screen share is not working in Google Meet",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
+        },
         {
           "title": "Error occurs when using GetSaveFileName() API in Custom Download function",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2433"
@@ -1542,7 +1574,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1832,6 +1864,10 @@
     },
     {
       "date": "2022-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2123,13 +2159,12 @@
     },
     {
       "date": "2022-05-10",
-      "unRespondedItems": [
-        {
-          "title": "Water Fall",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1935"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2022-05-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
