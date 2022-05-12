@@ -290,19 +290,11 @@
     },
     {
       "date": "2022-05-11",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-05-12",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Does not seems to support `extends` from tsconfig.json",
-          "url": "https://github.com/webhintio/hint/issues/5035"
-        },
-        {
-          "title": "[Bug][Intrusive] keep on `npm install hint@latest` on opening folder",
-          "url": "https://github.com/webhintio/hint/issues/5034"
-        },
-        {
-          "title": "[Bug] Custom severity overrides do not work",
-          "url": "https://github.com/webhintio/hint/issues/5155"
-        },
         {
           "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
           "url": "https://github.com/webhintio/hint/issues/5134"
@@ -320,7 +312,7 @@
           "url": "https://github.com/webhintio/hint/issues/5054"
         }
       ],
-      "rate": "85.71"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -614,6 +606,10 @@
     },
     {
       "date": "2022-05-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -909,17 +905,12 @@
     },
     {
       "date": "2022-05-11",
-      "unRespondedItems": [
-        {
-          "title": "No contrast information available",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/54"
-        },
-        {
-          "title": "enable-throttle-display-none-and-visibility-hidden-cross-origin-iframes flag",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/3"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-05-12",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1213,8 +1204,17 @@
     },
     {
       "date": "2022-05-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-12",
+      "unRespondedItems": [
+        {
+          "title": "Session timeout exception while launching Edge in IE mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
+        }
+      ],
+      "rate": "95.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1508,14 +1508,22 @@
     },
     {
       "date": "2022-05-11",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-05-12",
       "unRespondedItems": [
         {
-          "title": "Screen share is not working in Google Meet",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
+          "title": "System.Runtime.InteropServices.COMException HRESULT: 0x800700AA",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2446"
         },
         {
-          "title": "Error occurs when using GetSaveFileName() API in Custom Download function",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2433"
+          "title": "Replace CrashPad handler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2445"
+        },
+        {
+          "title": "Partial screen share request is not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
         },
         {
           "title": "ProcessFailed ExitCode 40",
@@ -1568,10 +1576,6 @@
         {
           "title": "Context Menu - Save as PDF",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
-        },
-        {
-          "title": "When the mouse clicks on webview2, contextmenustrip cannot close automatically",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383"
         }
       ],
       "rate": "68.00"
@@ -1868,8 +1872,17 @@
     },
     {
       "date": "2022-05-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-12",
+      "unRespondedItems": [
+        {
+          "title": "DIDWW Webtechnicom Project",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1029"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2163,8 +2176,21 @@
     },
     {
       "date": "2022-05-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-12",
+      "unRespondedItems": [
+        {
+          "title": "Documentation short on prerequisites",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1940"
+        },
+        {
+          "title": "Wrong Windows Target and Minimum version",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1939"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }

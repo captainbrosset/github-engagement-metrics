@@ -1,21 +1,18 @@
-Response rate: 92.82%
+Response rate: 92.65%
 
-* **webhintio/hint** - _85.71%_
-  * [[Bug] Does not seems to support `extends` from tsconfig.json...](https://github.com/webhintio/hint/issues/5035)
-  * [[Bug][Intrusive] keep on `npm install hint@latest` on openin...](https://github.com/webhintio/hint/issues/5034)
-  * [[Bug] Custom severity overrides do not work](https://github.com/webhintio/hint/issues/5155)
+* **webhintio/hint** - _91.84%_
   * [[Docs Bug] Custom, sharable configuration with private, scop...](https://github.com/webhintio/hint/issues/5134)
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
   * [[Bug] Cross-origin resource needs a 'crossorigin' attribute ...](https://github.com/webhintio/hint/issues/5054)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
-  * [No contrast information available](https://github.com/MicrosoftEdge/DevTools/issues/54)
-  * [enable-throttle-display-none-and-visibility-hidden-cross-ori...](https://github.com/MicrosoftEdge/DevTools/issues/3)
-* **MicrosoftEdge/EdgeWebDriver** - _100.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _95.00%_
+  * [Session timeout exception while launching Edge in IE mode](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20)
 * **MicrosoftEdge/WebView2Feedback** - _68.00%_
-  * [Screen share is not working in Google Meet](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441)
-  * [Error occurs when using GetSaveFileName() API in Custom Down...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2433)
+  * [System.Runtime.InteropServices.COMException HRESULT: 0x80070...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2446)
+  * [Replace CrashPad handler](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2445)
+  * [Partial screen share request is not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441)
   * [ProcessFailed ExitCode 40](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429)
   * [Graphics corruption in all apps using WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2421)
   * [WebView2 Disposal method throws an unhandled InvalidCastExce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2420)
@@ -29,6 +26,8 @@ Response rate: 92.82%
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
   * [`COMException` 800705b4 during `EncureCoreWebView2Async`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400)
   * [Context Menu - Save as PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393)
-  * [When the mouse clicks on webview2, contextmenustrip cannot c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2383)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [DIDWW Webtechnicom Project](https://github.com/microsoft/vscode-edge-devtools/issues/1029)
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Documentation short on prerequisites](https://github.com/MicrosoftDocs/edge-developer/issues/1940)
+  * [Wrong Windows Target and Minimum version](https://github.com/MicrosoftDocs/edge-developer/issues/1939)
