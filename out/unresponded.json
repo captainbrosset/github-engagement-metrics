@@ -294,10 +294,18 @@
     },
     {
       "date": "2022-05-12",
+      "rate": "91.84"
+    },
+    {
+      "date": "2022-05-13",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
           "url": "https://github.com/webhintio/hint/issues/5134"
+        },
+        {
+          "title": "JSON output is not valid JSON",
+          "url": "https://github.com/webhintio/hint/issues/5081"
         },
         {
           "title": "[Feature] Option to append cookies to the requests",
@@ -306,13 +314,9 @@
         {
           "title": "Extension suddenly stopped working: e is undefined",
           "url": "https://github.com/webhintio/hint/issues/5078"
-        },
-        {
-          "title": "[Bug] Cross-origin resource needs a 'crossorigin' attribute even though crossorigin is specified",
-          "url": "https://github.com/webhintio/hint/issues/5054"
         }
       ],
-      "rate": "91.84"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -610,6 +614,10 @@
     },
     {
       "date": "2022-05-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -909,6 +917,10 @@
     },
     {
       "date": "2022-05-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1208,13 +1220,12 @@
     },
     {
       "date": "2022-05-12",
-      "unRespondedItems": [
-        {
-          "title": "Session timeout exception while launching Edge in IE mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
-        }
-      ],
       "rate": "95.00"
+    },
+    {
+      "date": "2022-05-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1512,7 +1523,19 @@
     },
     {
       "date": "2022-05-12",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-05-13",
       "unRespondedItems": [
+        {
+          "title": "How to support ZoneTransfer ZoneId=3 when download file from inernet",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2452"
+        },
+        {
+          "title": "How to preserve zoom applied by the user on navigation to new page?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2451"
+        },
         {
           "title": "System.Runtime.InteropServices.COMException HRESULT: 0x800700AA",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2446"
@@ -1554,16 +1577,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
         },
         {
-          "title": "Setting printer settings page sizes and margins",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2389"
-        },
-        {
           "title": "Got ProcessFailed on CoreWebView2 when fixed runtime is installed in a folder with Chinese characters ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
-        },
-        {
-          "title": "`COMException` 0x80004004 during `EnsureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2410"
         },
         {
           "title": "Invoke Find from an external application Menu item",
@@ -1876,13 +1891,12 @@
     },
     {
       "date": "2022-05-12",
-      "unRespondedItems": [
-        {
-          "title": "DIDWW Webtechnicom Project",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1029"
-        }
-      ],
       "rate": "97.96"
+    },
+    {
+      "date": "2022-05-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2180,17 +2194,12 @@
     },
     {
       "date": "2022-05-12",
-      "unRespondedItems": [
-        {
-          "title": "Documentation short on prerequisites",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1940"
-        },
-        {
-          "title": "Wrong Windows Target and Minimum version",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1939"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2022-05-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
