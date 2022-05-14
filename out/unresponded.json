@@ -298,15 +298,11 @@
     },
     {
       "date": "2022-05-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-05-14",
       "unRespondedItems": [
-        {
-          "title": "[Docs Bug] Custom, sharable configuration with private, scoped repos",
-          "url": "https://github.com/webhintio/hint/issues/5134"
-        },
-        {
-          "title": "JSON output is not valid JSON",
-          "url": "https://github.com/webhintio/hint/issues/5081"
-        },
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
@@ -316,7 +312,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -618,6 +614,10 @@
     },
     {
       "date": "2022-05-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -921,6 +921,10 @@
     },
     {
       "date": "2022-05-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1224,8 +1228,17 @@
     },
     {
       "date": "2022-05-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-14",
+      "unRespondedItems": [
+        {
+          "title": "Session timeout exception while launching Edge in IE mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
+        }
+      ],
+      "rate": "95.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1527,7 +1540,15 @@
     },
     {
       "date": "2022-05-13",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-05-14",
       "unRespondedItems": [
+        {
+          "title": "Built-in screen share behavior",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2458"
+        },
         {
           "title": "How to support ZoneTransfer ZoneId=3 when download file from inernet",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2452"
@@ -1535,10 +1556,6 @@
         {
           "title": "How to preserve zoom applied by the user on navigation to new page?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2451"
-        },
-        {
-          "title": "System.Runtime.InteropServices.COMException HRESULT: 0x800700AA",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2446"
         },
         {
           "title": "Replace CrashPad handler",
@@ -1569,10 +1586,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2417"
         },
         {
-          "title": "About WebSocet communication ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2413"
-        },
-        {
           "title": "WebView2-Change PDF page programmatically (without reloading pdf document)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
         },
@@ -1583,17 +1596,9 @@
         {
           "title": "Invoke Find from an external application Menu item",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
-        },
-        {
-          "title": "`COMException` 800705b4 during `EncureCoreWebView2Async`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2400"
-        },
-        {
-          "title": "Context Menu - Save as PDF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2393"
         }
       ],
-      "rate": "68.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1895,6 +1900,10 @@
     },
     {
       "date": "2022-05-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2198,8 +2207,17 @@
     },
     {
       "date": "2022-05-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-14",
+      "unRespondedItems": [
+        {
+          "title": "Capability msedge.msedgedriverVersion is wrong",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1941"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
