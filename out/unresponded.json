@@ -302,6 +302,10 @@
     },
     {
       "date": "2022-05-14",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-05-15",
       "unRespondedItems": [
         {
           "title": "[Feature] Option to append cookies to the requests",
@@ -618,6 +622,10 @@
     },
     {
       "date": "2022-05-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -925,8 +933,17 @@
     },
     {
       "date": "2022-05-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-15",
+      "unRespondedItems": [
+        {
+          "title": "image",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/57"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1232,6 +1249,10 @@
     },
     {
       "date": "2022-05-14",
+      "rate": "95.00"
+    },
+    {
+      "date": "2022-05-15",
       "unRespondedItems": [
         {
           "title": "Session timeout exception while launching Edge in IE mode",
@@ -1544,6 +1565,10 @@
     },
     {
       "date": "2022-05-14",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-15",
       "unRespondedItems": [
         {
           "title": "Built-in screen share behavior",
@@ -1590,6 +1615,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2409"
         },
         {
+          "title": "\"Microsoft​ Edge\" window name contains special invisible character, why?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2455"
+        },
+        {
           "title": "Got ProcessFailed on CoreWebView2 when fixed runtime is installed in a folder with Chinese characters ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         },
@@ -1598,7 +1627,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1904,8 +1933,17 @@
     },
     {
       "date": "2022-05-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-15",
+      "unRespondedItems": [
+        {
+          "title": "Code not running",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1033"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2211,6 +2249,10 @@
     },
     {
       "date": "2022-05-14",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-05-15",
       "unRespondedItems": [
         {
           "title": "Capability msedge.msedgedriverVersion is wrong",
