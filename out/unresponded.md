@@ -1,14 +1,17 @@
-Response rate: 93.84%
+Response rate: 92.34%
 
-* **webhintio/hint** - _96.00%_
+* **webhintio/hint** - _94.00%_
+  * [JSON output is not valid JSON](https://github.com/webhintio/hint/issues/5081)
   * [[Feature] Option to append cookies to the requests](https://github.com/webhintio/hint/issues/5079)
   * [Extension suddenly stopped working: e is undefined](https://github.com/webhintio/hint/issues/5078)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [image](https://github.com/MicrosoftEdge/DevTools/issues/57)
-* **MicrosoftEdge/EdgeWebDriver** - _95.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.48%_
+  * [Bug in either Webdriver 103.*.* or Edge 103.*.* - unexpected...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/21)
   * [Session timeout exception while launching Edge in IE mode](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [Webview2Loader.dll is taking more memory](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2460)
   * [Built-in screen share behavior](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2458)
   * [How to support ZoneTransfer ZoneId=3 when download file from...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2452)
   * [How to preserve zoom applied by the user on navigation to ne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2451)
@@ -23,7 +26,8 @@ Response rate: 93.84%
   * ["Microsoft​ Edge" window name contains special invisible cha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2455)
   * [Got ProcessFailed on CoreWebView2 when fixed runtime is inst...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423)
   * [Invoke Find from an external application Menu item](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [debug toolbar](https://github.com/microsoft/vscode-edge-devtools/issues/1034)
   * [Code not running](https://github.com/microsoft/vscode-edge-devtools/issues/1033)
 * **MicrosoftDocs/edge-developer** - _97.87%_
   * [Capability msedge.msedgedriverVersion is wrong](https://github.com/MicrosoftDocs/edge-developer/issues/1941)

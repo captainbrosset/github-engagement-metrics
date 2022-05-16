@@ -306,7 +306,15 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
+        {
+          "title": "JSON output is not valid JSON",
+          "url": "https://github.com/webhintio/hint/issues/5081"
+        },
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
@@ -316,7 +324,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -626,6 +634,10 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -937,6 +949,10 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
         {
           "title": "image",
@@ -1253,13 +1269,21 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "95.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
+        {
+          "title": "Bug in either Webdriver 103.*.* or Edge 103.*.* - unexpected command response",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/21"
+        },
         {
           "title": "Session timeout exception while launching Edge in IE mode",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
         }
       ],
-      "rate": "95.00"
+      "rate": "90.48"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1569,7 +1593,15 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
+        {
+          "title": "Webview2Loader.dll is taking more memory",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2460"
+        },
         {
           "title": "Built-in screen share behavior",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2458"
@@ -1627,7 +1659,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2405"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -1937,13 +1969,21 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
+        {
+          "title": "debug toolbar",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1034"
+        },
         {
           "title": "Code not running",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1033"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2253,6 +2293,10 @@
     },
     {
       "date": "2022-05-15",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-05-16",
       "unRespondedItems": [
         {
           "title": "Capability msedge.msedgedriverVersion is wrong",
