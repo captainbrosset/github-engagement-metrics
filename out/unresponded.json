@@ -322,7 +322,15 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [
+        {
+          "title": "sorry i'll figure it out on my own, its just i'm starting out in trying this. and i will get it. <html> element must have a lang attribute: The <html> element does not have a lang attribute. i don't even what to send this because i know it something small i just need to keep looking i didn't take the 101 on any of this.",
+          "url": "https://github.com/webhintio/hint/issues/5172"
+        },
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
@@ -332,7 +340,7 @@
           "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -658,6 +666,10 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -985,6 +997,10 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1312,6 +1328,10 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [
         {
           "title": "Session timeout exception while launching Edge in IE mode",
@@ -1644,7 +1664,19 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [
+        {
+          "title": "WebResourceResponseReceived isn't fired for fetch requests",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
+        },
+        {
+          "title": "Selenium Grid not working with WebView2 application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
+        },
         {
           "title": "Unable to use two office add-ins using Edge Webview2 at the same time - This add-in could not be started.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2469"
@@ -1674,10 +1706,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2419"
         },
         {
-          "title": "IStream is null when body is there for mostly when large/compressed for ICoreWebView2WebResourceResponseViewGetContentCompletedHandler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2417"
-        },
-        {
           "title": "Linking with WebView2LoaderStatic.lib produces corrupted DLL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462"
         },
@@ -1686,11 +1714,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         },
         {
+          "title": "Webview2 New Popup window requested but opened in external browser window and not focused in UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425"
+        },
+        {
           "title": "Got ProcessFailed on CoreWebView2 when fixed runtime is installed in a folder with Chinese characters ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         }
       ],
-      "rate": "78.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2016,6 +2048,10 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [
         {
           "title": "Question: can I add React devtools into vscode-edge-devtools?",
@@ -2348,17 +2384,17 @@
     },
     {
       "date": "2022-05-19",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-05-20",
       "unRespondedItems": [
         {
           "title": "Possible errata",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1949"
-        },
-        {
-          "title": "distribution.md: Broken link",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1947"
         }
       ],
-      "rate": "95.65"
+      "rate": "97.83"
     }
   ]
 }
