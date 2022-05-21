@@ -326,10 +326,14 @@
     },
     {
       "date": "2022-05-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-21",
       "unRespondedItems": [
         {
-          "title": "sorry i'll figure it out on my own, its just i'm starting out in trying this. and i will get it. <html> element must have a lang attribute: The <html> element does not have a lang attribute. i don't even what to send this because i know it something small i just need to keep looking i didn't take the 101 on any of this.",
-          "url": "https://github.com/webhintio/hint/issues/5172"
+          "title": "*hint -v",
+          "url": "https://github.com/webhintio/hint/issues/5174"
         },
         {
           "title": "[Feature] Option to append cookies to the requests",
@@ -670,6 +674,10 @@
     },
     {
       "date": "2022-05-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1001,6 +1009,10 @@
     },
     {
       "date": "2022-05-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1332,6 +1344,10 @@
     },
     {
       "date": "2022-05-20",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-05-21",
       "unRespondedItems": [
         {
           "title": "Session timeout exception while launching Edge in IE mode",
@@ -1668,7 +1684,15 @@
     },
     {
       "date": "2022-05-20",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-21",
       "unRespondedItems": [
+        {
+          "title": "WebView2 WPF application - running without admin rights",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2472"
+        },
         {
           "title": "WebResourceResponseReceived isn't fired for fetch requests",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
@@ -1714,6 +1738,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         },
         {
+          "title": "ProcessFailed ExitCode 40",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429"
+        },
+        {
           "title": "Webview2 New Popup window requested but opened in external browser window and not focused in UWP app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425"
         },
@@ -1722,7 +1750,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2052,13 +2080,12 @@
     },
     {
       "date": "2022-05-20",
-      "unRespondedItems": [
-        {
-          "title": "Question: can I add React devtools into vscode-edge-devtools?",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1039"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-05-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2388,13 +2415,12 @@
     },
     {
       "date": "2022-05-20",
-      "unRespondedItems": [
-        {
-          "title": "Possible errata",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1949"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2022-05-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
