@@ -330,6 +330,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -678,6 +682,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1013,6 +1021,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1348,6 +1360,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [
         {
           "title": "Session timeout exception while launching Edge in IE mode",
@@ -1688,6 +1704,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [
         {
           "title": "WebView2 WPF application - running without admin rights",
@@ -2084,6 +2104,10 @@
     },
     {
       "date": "2022-05-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2419,8 +2443,17 @@
     },
     {
       "date": "2022-05-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-22",
+      "unRespondedItems": [
+        {
+          "title": "No documentation on RegEx options/flags for search",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1960"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }

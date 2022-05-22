@@ -1,4 +1,4 @@
-Response rate: 94.18%
+Response rate: 93.87%
 
 * **webhintio/hint** - _94.00%_
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
@@ -25,4 +25,5 @@ Response rate: 94.18%
   * [Webview2 New Popup window requested but opened in external b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425)
   * [Got ProcessFailed on CoreWebView2 when fixed runtime is inst...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [No documentation on RegEx options/flags for search](https://github.com/MicrosoftDocs/edge-developer/issues/1960)
