@@ -334,6 +334,10 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -686,6 +690,10 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1025,6 +1033,10 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1364,13 +1376,21 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [
+        {
+          "title": "Download office files instead of opening them in a new Tab",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/22"
+        },
         {
           "title": "Session timeout exception while launching Edge in IE mode",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
         }
       ],
-      "rate": "95.24"
+      "rate": "90.91"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1708,7 +1728,23 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [
+        {
+          "title": "Long loading after turning off the computer.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475"
+        },
+        {
+          "title": "WPF Webview2 application unittesting help wanted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2474"
+        },
+        {
+          "title": "Deploying WebView2Runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2473"
+        },
         {
           "title": "WebView2 WPF application - running without admin rights",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2472"
@@ -1770,7 +1806,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         }
       ],
-      "rate": "70.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2108,8 +2144,17 @@
     },
     {
       "date": "2022-05-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-23",
+      "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1044"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2447,13 +2492,21 @@
     },
     {
       "date": "2022-05-22",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-05-23",
       "unRespondedItems": [
+        {
+          "title": "hello world",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1962"
+        },
         {
           "title": "No documentation on RegEx options/flags for search",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1960"
         }
       ],
-      "rate": "97.83"
+      "rate": "95.65"
     }
   ]
 }
