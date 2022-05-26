@@ -346,6 +346,10 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -710,6 +714,10 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1061,6 +1069,10 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1412,17 +1424,12 @@
     },
     {
       "date": "2022-05-25",
-      "unRespondedItems": [
-        {
-          "title": "Download office files instead of opening them in a new Tab",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/22"
-        },
-        {
-          "title": "Session timeout exception while launching Edge in IE mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/20"
-        }
-      ],
       "rate": "90.91"
+    },
+    {
+      "date": "2022-05-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1772,6 +1779,10 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [
         {
           "title": "Selenium Grid not working with WebView2 application",
@@ -1798,16 +1809,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2479"
         },
         {
-          "title": "Deploying WebView2Runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2473"
-        },
-        {
           "title": "WebResourceResponseReceived isn't fired for fetch requests",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
-        },
-        {
-          "title": "Linking with WebView2LoaderStatic.lib produces corrupted DLL",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462"
         },
         {
           "title": "Failed to load resource ERR_CACHE_READ_FAILURE",
@@ -1826,7 +1829,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2423"
         }
       ],
-      "rate": "74.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2176,10 +2179,14 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [
         {
-          "title": "edge isnt doing what its suposed to",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1048"
+          "title": "Microsoft Edge Tools for VS Code - What is this error and how do I fix it?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1049"
         }
       ],
       "rate": "98.00"
@@ -2532,13 +2539,17 @@
     },
     {
       "date": "2022-05-25",
+      "rate": "97.78"
+    },
+    {
+      "date": "2022-05-26",
       "unRespondedItems": [
         {
           "title": "Error when installing Edge via apt install microsoft-edge-stable",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1969"
         }
       ],
-      "rate": "97.78"
+      "rate": "97.73"
     }
   ]
 }
