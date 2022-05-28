@@ -354,6 +354,10 @@
     },
     {
       "date": "2022-05-27",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-28",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -726,6 +730,10 @@
     },
     {
       "date": "2022-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1085,6 +1093,10 @@
     },
     {
       "date": "2022-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1444,6 +1456,10 @@
     },
     {
       "date": "2022-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1803,7 +1819,19 @@
     },
     {
       "date": "2022-05-27",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-28",
       "unRespondedItems": [
+        {
+          "title": "Inappropriate messages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2485"
+        },
+        {
+          "title": "[Documentation] List the behaviors of all possible switches that CoreWebView2EnvironmentOptions.AdditionalBrowserArguments accepts",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2484"
+        },
         {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
@@ -1817,16 +1845,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
         },
         {
-          "title": "Webview2Loader is consuming more memory when WebResourceResponseReceived event is raised multiple times",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2460"
-        },
-        {
-          "title": "How to support ZoneTransfer ZoneId=3 when download file from inernet",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2452"
-        },
-        {
           "title": "Partial screen share request is not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
+        },
+        {
+          "title": "How to increase concurrent connection in Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2486"
         },
         {
           "title": "Unable to save as PDF from the Print Preview window (when app has elevation)",
@@ -1851,10 +1875,6 @@
         {
           "title": "ProcessFailed ExitCode 40",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429"
-        },
-        {
-          "title": "Webview2 New Popup window requested but opened in external browser window and not focused in UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2425"
         }
       ],
       "rate": "74.00"
@@ -2215,8 +2235,25 @@
     },
     {
       "date": "2022-05-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-28",
+      "unRespondedItems": [
+        {
+          "title": "PQ[BOLTS",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1053"
+        },
+        {
+          "title": "POsssiiblllty xuu VXop|",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1052"
+        },
+        {
+          "title": "POsssiiblllty xuu VXop|",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1051"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2574,13 +2611,12 @@
     },
     {
       "date": "2022-05-27",
-      "unRespondedItems": [
-        {
-          "title": "Error when installing Edge via apt install microsoft-edge-stable",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1969"
-        }
-      ],
       "rate": "97.62"
+    },
+    {
+      "date": "2022-05-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
