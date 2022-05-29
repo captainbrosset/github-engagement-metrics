@@ -358,6 +358,10 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -734,6 +738,10 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1097,6 +1105,10 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1460,6 +1472,10 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1823,14 +1839,14 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [
         {
-          "title": "Inappropriate messages",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2485"
-        },
-        {
-          "title": "[Documentation] List the behaviors of all possible switches that CoreWebView2EnvironmentOptions.AdditionalBrowserArguments accepts",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2484"
+          "title": "WebView blocks WM_KEYDOWN/WM_KEYUP from parent window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2487"
         },
         {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
@@ -1851,6 +1867,10 @@
         {
           "title": "How to increase concurrent connection in Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2486"
+        },
+        {
+          "title": "Inappropriate messages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2485"
         },
         {
           "title": "Unable to save as PDF from the Print Preview window (when app has elevation)",
@@ -2239,7 +2259,15 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1054"
+        },
         {
           "title": "PQ[BOLTS",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1053"
@@ -2253,7 +2281,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1051"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2615,6 +2643,10 @@
     },
     {
       "date": "2022-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
