@@ -362,6 +362,10 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [
         {
           "title": "*hint -v",
@@ -742,6 +746,10 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1109,6 +1117,10 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1476,6 +1488,10 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1843,10 +1859,18 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [
         {
-          "title": "WebView blocks WM_KEYDOWN/WM_KEYUP from parent window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2487"
+          "title": "The download start event does not fire when re-downloading",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2489"
+        },
+        {
+          "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
         },
         {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
@@ -1891,10 +1915,6 @@
         {
           "title": "Failed to load resource ERR_CACHE_READ_FAILURE",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
-        },
-        {
-          "title": "ProcessFailed ExitCode 40",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2429"
         }
       ],
       "rate": "74.00"
@@ -2263,7 +2283,15 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [
+        {
+          "title": "g",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1056"
+        },
         {
           "title": "html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1054"
@@ -2279,9 +2307,13 @@
         {
           "title": "POsssiiblllty xuu VXop|",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1051"
+        },
+        {
+          "title": "Visual Code Error",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1055"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2647,6 +2679,10 @@
     },
     {
       "date": "2022-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
