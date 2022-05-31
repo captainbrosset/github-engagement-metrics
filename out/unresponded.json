@@ -366,7 +366,15 @@
     },
     {
       "date": "2022-05-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-05-31",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Add a connector to use playwright",
+          "url": "https://github.com/webhintio/hint/issues/5183"
+        },
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
@@ -374,10 +382,6 @@
         {
           "title": "[Feature] Option to append cookies to the requests",
           "url": "https://github.com/webhintio/hint/issues/5079"
-        },
-        {
-          "title": "Extension suddenly stopped working: e is undefined",
-          "url": "https://github.com/webhintio/hint/issues/5078"
         }
       ],
       "rate": "94.00"
@@ -750,6 +754,10 @@
     },
     {
       "date": "2022-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1121,6 +1129,10 @@
     },
     {
       "date": "2022-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1492,8 +1504,21 @@
     },
     {
       "date": "2022-05-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-05-31",
+      "unRespondedItems": [
+        {
+          "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
+        },
+        {
+          "title": "Download office files instead of opening them in a new Tab",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/22"
+        }
+      ],
+      "rate": "91.30"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1863,7 +1888,15 @@
     },
     {
       "date": "2022-05-30",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-05-31",
       "unRespondedItems": [
+        {
+          "title": "Webview2 without subprocess",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2490"
+        },
         {
           "title": "The download start event does not fire when re-downloading",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2489"
@@ -1871,10 +1904,6 @@
         {
           "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
-        },
-        {
-          "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
         },
         {
           "title": "Touchpad horizontal scroll doesn't work ",
@@ -1889,12 +1918,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
         },
         {
-          "title": "How to increase concurrent connection in Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2486"
-        },
-        {
           "title": "Inappropriate messages",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2485"
+        },
+        {
+          "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
         },
         {
           "title": "Unable to save as PDF from the Print Preview window (when app has elevation)",
@@ -2287,33 +2316,12 @@
     },
     {
       "date": "2022-05-30",
-      "unRespondedItems": [
-        {
-          "title": "g",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1056"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1054"
-        },
-        {
-          "title": "PQ[BOLTS",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1053"
-        },
-        {
-          "title": "POsssiiblllty xuu VXop|",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1052"
-        },
-        {
-          "title": "POsssiiblllty xuu VXop|",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1051"
-        },
-        {
-          "title": "Visual Code Error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1055"
-        }
-      ],
       "rate": "88.00"
+    },
+    {
+      "date": "2022-05-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2683,6 +2691,10 @@
     },
     {
       "date": "2022-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
