@@ -370,6 +370,10 @@
     },
     {
       "date": "2022-05-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-06-01",
       "unRespondedItems": [
         {
           "title": "[Feature] Add a connector to use playwright",
@@ -758,6 +762,10 @@
     },
     {
       "date": "2022-05-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1133,8 +1141,21 @@
     },
     {
       "date": "2022-05-31",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-01",
+      "unRespondedItems": [
+        {
+          "title": "Devtools cannot group JS files by folder on windows",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/60"
+        },
+        {
+          "title": "Edge DevTools Profiler Bug No Longer Producing JS Callstacks",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/59"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1508,6 +1529,10 @@
     },
     {
       "date": "2022-05-31",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-06-01",
       "unRespondedItems": [
         {
           "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
@@ -1892,15 +1917,11 @@
     },
     {
       "date": "2022-05-31",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-06-01",
       "unRespondedItems": [
-        {
-          "title": "Webview2 without subprocess",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2490"
-        },
-        {
-          "title": "The download start event does not fire when re-downloading",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2489"
-        },
         {
           "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
@@ -1946,7 +1967,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         }
       ],
-      "rate": "74.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2320,6 +2341,10 @@
     },
     {
       "date": "2022-05-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2695,8 +2720,17 @@
     },
     {
       "date": "2022-05-31",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-01",
+      "unRespondedItems": [
+        {
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1983"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
