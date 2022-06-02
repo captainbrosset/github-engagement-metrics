@@ -374,6 +374,10 @@
     },
     {
       "date": "2022-06-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-06-02",
       "unRespondedItems": [
         {
           "title": "[Feature] Add a connector to use playwright",
@@ -382,13 +386,9 @@
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
-        },
-        {
-          "title": "[Feature] Option to append cookies to the requests",
-          "url": "https://github.com/webhintio/hint/issues/5079"
         }
       ],
-      "rate": "94.00"
+      "rate": "95.74"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -766,6 +766,10 @@
     },
     {
       "date": "2022-06-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1145,17 +1149,12 @@
     },
     {
       "date": "2022-06-01",
-      "unRespondedItems": [
-        {
-          "title": "Devtools cannot group JS files by folder on windows",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/60"
-        },
-        {
-          "title": "Edge DevTools Profiler Bug No Longer Producing JS Callstacks",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/59"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-06-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1533,7 +1532,15 @@
     },
     {
       "date": "2022-06-01",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-06-02",
       "unRespondedItems": [
+        {
+          "title": "Release Notes for Edge WebDriver?",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/24"
+        },
         {
           "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
@@ -1543,7 +1550,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/22"
         }
       ],
-      "rate": "91.30"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -1921,14 +1928,14 @@
     },
     {
       "date": "2022-06-01",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-06-02",
       "unRespondedItems": [
         {
           "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
-        },
-        {
-          "title": "Touchpad horizontal scroll doesn't work ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2482"
         },
         {
           "title": "Selenium Grid not working with WebView2 application",
@@ -1937,10 +1944,6 @@
         {
           "title": "Partial screen share request is not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
-        },
-        {
-          "title": "Inappropriate messages",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2485"
         },
         {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
@@ -1967,7 +1970,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         }
       ],
-      "rate": "78.00"
+      "rate": "82.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2345,8 +2348,21 @@
     },
     {
       "date": "2022-06-01",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-02",
+      "unRespondedItems": [
+        {
+          "title": "node js development",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1059"
+        },
+        {
+          "title": "node",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1058"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2724,13 +2740,12 @@
     },
     {
       "date": "2022-06-01",
-      "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1983"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2022-06-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
