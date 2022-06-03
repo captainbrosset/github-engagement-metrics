@@ -378,6 +378,10 @@
     },
     {
       "date": "2022-06-02",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-06-03",
       "unRespondedItems": [
         {
           "title": "[Feature] Add a connector to use playwright",
@@ -770,6 +774,10 @@
     },
     {
       "date": "2022-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1153,6 +1161,10 @@
     },
     {
       "date": "2022-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1536,6 +1548,10 @@
     },
     {
       "date": "2022-06-02",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-06-03",
       "unRespondedItems": [
         {
           "title": "Release Notes for Edge WebDriver?",
@@ -1932,7 +1948,15 @@
     },
     {
       "date": "2022-06-02",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-06-03",
       "unRespondedItems": [
+        {
+          "title": "Dpi change when lock screen did not work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
+        },
         {
           "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
@@ -1970,7 +1994,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2352,17 +2376,12 @@
     },
     {
       "date": "2022-06-02",
-      "unRespondedItems": [
-        {
-          "title": "node js development",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1059"
-        },
-        {
-          "title": "node",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1058"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-06-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2744,8 +2763,17 @@
     },
     {
       "date": "2022-06-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-03",
+      "unRespondedItems": [
+        {
+          "title": "Obsolete information",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1986"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
