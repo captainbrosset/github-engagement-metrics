@@ -1,10 +1,12 @@
-Response rate: 94.44%
+Response rate: 93.01%
 
-* **webhintio/hint** - _95.74%_
+* **webhintio/hint** - _93.75%_
+  * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5195)
   * [[Feature] Add a connector to use playwright](https://github.com/webhintio/hint/issues/5183)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [I need to be able to parse my heap snapshots with minified c...](https://github.com/MicrosoftEdge/DevTools/issues/61)
 * **MicrosoftEdge/EdgeWebDriver** - _87.50%_
   * [Release Notes for Edge WebDriver?](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/24)
   * [MSEdgeDriver returns non W3C WebDriver compliant caps when c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23)
@@ -20,6 +22,9 @@ Response rate: 94.44%
   * [WebResourceResponseReceived isn't fired for fetch requests](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471)
   * [Linking with WebView2LoaderStatic.lib produces corrupted DLL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462)
   * [Failed to load resource ERR_CACHE_READ_FAILURE](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [01.01.2002](https://github.com/microsoft/vscode-edge-devtools/issues/1062)
+  * [location Mahamat Idriss Deby](https://github.com/microsoft/vscode-edge-devtools/issues/1061)
+  * [Detach Edge instance to seperate window](https://github.com/microsoft/vscode-edge-devtools/issues/1060)
 * **MicrosoftDocs/edge-developer** - _97.83%_
   * [Obsolete information](https://github.com/MicrosoftDocs/edge-developer/issues/1986)

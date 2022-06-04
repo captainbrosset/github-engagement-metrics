@@ -382,7 +382,15 @@
     },
     {
       "date": "2022-06-03",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-06-04",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Add feature description here",
+          "url": "https://github.com/webhintio/hint/issues/5195"
+        },
         {
           "title": "[Feature] Add a connector to use playwright",
           "url": "https://github.com/webhintio/hint/issues/5183"
@@ -392,7 +400,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.74"
+      "rate": "93.75"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -778,6 +786,10 @@
     },
     {
       "date": "2022-06-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1165,8 +1177,17 @@
     },
     {
       "date": "2022-06-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-04",
+      "unRespondedItems": [
+        {
+          "title": "I need to be able to parse my heap snapshots with minified code",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/61"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1552,6 +1573,10 @@
     },
     {
       "date": "2022-06-03",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-06-04",
       "unRespondedItems": [
         {
           "title": "Release Notes for Edge WebDriver?",
@@ -1952,6 +1977,10 @@
     },
     {
       "date": "2022-06-03",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-06-04",
       "unRespondedItems": [
         {
           "title": "Dpi change when lock screen did not work",
@@ -2380,8 +2409,25 @@
     },
     {
       "date": "2022-06-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-04",
+      "unRespondedItems": [
+        {
+          "title": "01.01.2002",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1062"
+        },
+        {
+          "title": "location Mahamat Idriss Deby",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1061"
+        },
+        {
+          "title": "Detach Edge instance to seperate window",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1060"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2767,6 +2813,10 @@
     },
     {
       "date": "2022-06-03",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-06-04",
       "unRespondedItems": [
         {
           "title": "Obsolete information",
