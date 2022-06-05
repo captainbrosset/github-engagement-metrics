@@ -386,7 +386,15 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5196"
+        },
         {
           "title": "[Feature] Add feature description here",
           "url": "https://github.com/webhintio/hint/issues/5195"
@@ -400,7 +408,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "93.75"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -790,6 +798,10 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1181,6 +1193,10 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
         {
           "title": "I need to be able to parse my heap snapshots with minified code",
@@ -1577,6 +1593,10 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
         {
           "title": "Release Notes for Edge WebDriver?",
@@ -1981,6 +2001,10 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
         {
           "title": "Dpi change when lock screen did not work",
@@ -2413,11 +2437,11 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
-        {
-          "title": "01.01.2002",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1062"
-        },
         {
           "title": "location Mahamat Idriss Deby",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1061"
@@ -2427,7 +2451,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1060"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2817,6 +2841,10 @@
     },
     {
       "date": "2022-06-04",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-06-05",
       "unRespondedItems": [
         {
           "title": "Obsolete information",

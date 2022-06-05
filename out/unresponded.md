@@ -1,6 +1,7 @@
-Response rate: 93.01%
+Response rate: 93.00%
 
-* **webhintio/hint** - _93.75%_
+* **webhintio/hint** - _91.67%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5196)
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5195)
   * [[Feature] Add a connector to use playwright](https://github.com/webhintio/hint/issues/5183)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
@@ -22,8 +23,7 @@ Response rate: 93.01%
   * [WebResourceResponseReceived isn't fired for fetch requests](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471)
   * [Linking with WebView2LoaderStatic.lib produces corrupted DLL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462)
   * [Failed to load resource ERR_CACHE_READ_FAILURE](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [01.01.2002](https://github.com/microsoft/vscode-edge-devtools/issues/1062)
+* **microsoft/vscode-edge-devtools** - _96.00%_
   * [location Mahamat Idriss Deby](https://github.com/microsoft/vscode-edge-devtools/issues/1061)
   * [Detach Edge instance to seperate window](https://github.com/microsoft/vscode-edge-devtools/issues/1060)
 * **MicrosoftDocs/edge-developer** - _97.83%_
