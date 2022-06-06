@@ -390,6 +390,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -802,6 +806,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1197,6 +1205,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "I need to be able to parse my heap snapshots with minified code",
@@ -1597,6 +1609,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "Release Notes for Edge WebDriver?",
@@ -2005,6 +2021,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "Dpi change when lock screen did not work",
@@ -2021,6 +2041,10 @@
         {
           "title": "Partial screen share request is not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
+        },
+        {
+          "title": "COMException 0x8007139F calling EnsureCoreWebView2Async",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         },
         {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
@@ -2047,7 +2071,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2441,6 +2465,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "location Mahamat Idriss Deby",
@@ -2845,6 +2873,10 @@
     },
     {
       "date": "2022-06-05",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-06-06",
       "unRespondedItems": [
         {
           "title": "Obsolete information",
