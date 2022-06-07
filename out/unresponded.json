@@ -394,25 +394,21 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5196"
         },
         {
-          "title": "[Feature] Add feature description here",
-          "url": "https://github.com/webhintio/hint/issues/5195"
-        },
-        {
-          "title": "[Feature] Add a connector to use playwright",
-          "url": "https://github.com/webhintio/hint/issues/5183"
-        },
-        {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "91.67"
+      "rate": "95.83"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -810,6 +806,10 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1209,6 +1209,10 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [
         {
           "title": "I need to be able to parse my heap snapshots with minified code",
@@ -1613,21 +1617,12 @@
     },
     {
       "date": "2022-06-06",
-      "unRespondedItems": [
-        {
-          "title": "Release Notes for Edge WebDriver?",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/24"
-        },
-        {
-          "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
-        },
-        {
-          "title": "Download office files instead of opening them in a new Tab",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/22"
-        }
-      ],
       "rate": "87.50"
+    },
+    {
+      "date": "2022-06-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2025,7 +2020,23 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [
+        {
+          "title": "WebView2: Calling ExecuteScriptAsync method as sync.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2498"
+        },
+        {
+          "title": "[file api 4 desktop application] allow conditional enable file path of file api like electronjs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2497"
+        },
+        {
+          "title": "Word crash - EmbeddedBrowserWebView.dll!embedded_browser_webview_current::internal::RemoteObjectWrapper::~RemoteObjectWrapper(void)\t",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496"
+        },
         {
           "title": "Dpi change when lock screen did not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
@@ -2039,20 +2050,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
         },
         {
-          "title": "Partial screen share request is not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2441"
-        },
-        {
-          "title": "COMException 0x8007139F calling EnsureCoreWebView2Async",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
-        },
-        {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
-        },
-        {
-          "title": "Unable to save as PDF from the Print Preview window (when app has elevation)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2479"
         },
         {
           "title": "Long loading after turning off the computer.",
@@ -2469,17 +2468,17 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [
         {
-          "title": "location Mahamat Idriss Deby",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1061"
-        },
-        {
-          "title": "Detach Edge instance to seperate window",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1060"
+          "title": "gggg",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1063"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2877,13 +2876,21 @@
     },
     {
       "date": "2022-06-06",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-06-07",
       "unRespondedItems": [
+        {
+          "title": "Selenium Edge Driver Automation with pre-launched WebView2 application in remote machine",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1989"
+        },
         {
           "title": "Obsolete information",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1986"
         }
       ],
-      "rate": "97.83"
+      "rate": "95.65"
     }
   ]
 }
