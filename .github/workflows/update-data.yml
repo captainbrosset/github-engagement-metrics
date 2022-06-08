@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-      - uses: borales/actions-yarn@v2.3.0
+      - uses: borales/actions-yarn@latest
         with:
           cmd: install
       - name: Set environment
