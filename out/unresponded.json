@@ -398,10 +398,14 @@
     },
     {
       "date": "2022-06-07",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-06-08",
       "unRespondedItems": [
         {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5196"
+          "title": "[Bug] Perpetual prompting with yarn package manager",
+          "url": "https://github.com/webhintio/hint/issues/5198"
         },
         {
           "title": "*hint -v",
@@ -810,6 +814,10 @@
     },
     {
       "date": "2022-06-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1213,13 +1221,12 @@
     },
     {
       "date": "2022-06-07",
-      "unRespondedItems": [
-        {
-          "title": "I need to be able to parse my heap snapshots with minified code",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/61"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-06-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1621,8 +1628,25 @@
     },
     {
       "date": "2022-06-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-08",
+      "unRespondedItems": [
+        {
+          "title": "Running Selenium tests in EdgeInIE Mode on VM does not work unless the remote machine is connected.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/27"
+        },
+        {
+          "title": "Problem with selecting OPTION element within a SELECT",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26"
+        },
+        {
+          "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
+        }
+      ],
+      "rate": "88.89"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2024,10 +2048,22 @@
     },
     {
       "date": "2022-06-07",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-06-08",
       "unRespondedItems": [
         {
-          "title": "WebView2: Calling ExecuteScriptAsync method as sync.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2498"
+          "title": "Clarification on sharing user data folder among processes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2503"
+        },
+        {
+          "title": "Meschanism to add in new compression schemes/content types",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2502"
+        },
+        {
+          "title": "Vulnerability in MicrosoftEdgeWebView2RuntimeInstallerX86.exe",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2501"
         },
         {
           "title": "[file api 4 desktop application] allow conditional enable file path of file api like electronjs",
@@ -2050,6 +2086,18 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
         },
         {
+          "title": "Setting HardmarginX and Hardmargin Y",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504"
+        },
+        {
+          "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500"
+        },
+        {
+          "title": "How to inject custom javascript to new windows requested by window.open?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2491"
+        },
+        {
           "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
         },
@@ -2070,7 +2118,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2457"
         }
       ],
-      "rate": "78.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2472,10 +2520,14 @@
     },
     {
       "date": "2022-06-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-08",
       "unRespondedItems": [
         {
-          "title": "gggg",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1063"
+          "title": "all loading feature at the top `Edge Devtools: Browser`",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1064"
         }
       ],
       "rate": "98.00"
@@ -2880,17 +2932,12 @@
     },
     {
       "date": "2022-06-07",
-      "unRespondedItems": [
-        {
-          "title": "Selenium Edge Driver Automation with pre-launched WebView2 application in remote machine",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1989"
-        },
-        {
-          "title": "Obsolete information",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1986"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2022-06-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
