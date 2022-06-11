@@ -410,6 +410,10 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "95.56"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Perpetual prompting with yarn package manager",
@@ -420,7 +424,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.56"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -834,6 +838,10 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1249,6 +1257,10 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1664,6 +1676,10 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [
         {
           "title": "Edge Driver does not work in Headless mode for SSO",
@@ -2096,18 +2112,18 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [
         {
-          "title": "How can you use browser policies within WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2507"
+          "title": "`CoreWebView2` does not close stream `content`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
         },
         {
           "title": "IWebBrowser->Navigate API fails to submit POST Data to Edge on Windows Server 2016, even with Edge Version 101",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2505"
-        },
-        {
-          "title": "Word crash - EmbeddedBrowserWebView.dll!embedded_browser_webview_current::internal::RemoteObjectWrapper::~RemoteObjectWrapper(void)\t",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496"
         },
         {
           "title": "Dpi change when lock screen did not work",
@@ -2126,8 +2142,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504"
         },
         {
-          "title": "Clarification on sharing user data folder among processes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2503"
+          "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500"
+        },
+        {
+          "title": "Word crash - EmbeddedBrowserWebView.dll!embedded_browser_webview_current::internal::RemoteObjectWrapper::~RemoteObjectWrapper(void)\t",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496"
         },
         {
           "title": "COMException 0x8007139F calling EnsureCoreWebView2Async",
@@ -2564,13 +2584,25 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [
         {
-          "title": "didww",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1069"
+          "title": " b",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1071"
+        },
+        {
+          "title": "[BUG] webhint ignores .browserslistrc in angular application",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1065"
+        },
+        {
+          "title": "all loading feature at the top `Edge Devtools: Browser`",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1064"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -2984,17 +3016,17 @@
     },
     {
       "date": "2022-06-10",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-06-11",
       "unRespondedItems": [
         {
-          "title": "Documentation missing for using EdgeDriver to drive Edge on an Android phone",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1997"
-        },
-        {
-          "title": "[DevTools Docs Feedback] The Javascript example of the Selenium Internet Explorer Driver is not working ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/1996"
+          "title": "User Data Folder guidance for WinUI 3 needs updating",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2001"
         }
       ],
-      "rate": "95.83"
+      "rate": "97.92"
     }
   ]
 }
