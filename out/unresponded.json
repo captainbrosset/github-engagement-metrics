@@ -414,6 +414,10 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Perpetual prompting with yarn package manager",
@@ -842,6 +846,10 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1261,6 +1269,10 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1680,6 +1692,10 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [
         {
           "title": "Edge Driver does not work in Headless mode for SSO",
@@ -2116,7 +2132,15 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [
+        {
+          "title": "Who is using WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
+        },
         {
           "title": "`CoreWebView2` does not close stream `content`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
@@ -2136,6 +2160,10 @@
         {
           "title": "Selenium Grid not working with WebView2 application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
+        },
+        {
+          "title": "Why doesn't WebView2 run when an unpackaged WinUI3 desktop app is run as as single instance",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
         },
         {
           "title": "Setting HardmarginX and Hardmargin Y",
@@ -2170,7 +2198,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2588,7 +2616,15 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [
+        {
+          "title": "look",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1072"
+        },
         {
           "title": " b",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1071"
@@ -2602,7 +2638,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1064"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3020,13 +3056,21 @@
     },
     {
       "date": "2022-06-11",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-06-12",
       "unRespondedItems": [
+        {
+          "title": "Edge browser inspection query for public and private websites",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2003"
+        },
         {
           "title": "User Data Folder guidance for WinUI 3 needs updating",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2001"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
