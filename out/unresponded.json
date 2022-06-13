@@ -418,6 +418,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Perpetual prompting with yarn package manager",
@@ -850,6 +854,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1273,6 +1281,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1696,6 +1708,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [
         {
           "title": "Edge Driver does not work in Headless mode for SSO",
@@ -2136,7 +2152,15 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [
+        {
+          "title": "WinForms.EnsureCoreWebView2Async E_NOINTERFACE exception for AllowExternalDrop",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2517"
+        },
         {
           "title": "Who is using WebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
@@ -2192,10 +2216,6 @@
         {
           "title": "WebResourceResponseReceived isn't fired for fetch requests",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
-        },
-        {
-          "title": "Linking with WebView2LoaderStatic.lib produces corrupted DLL",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462"
         }
       ],
       "rate": "70.00"
@@ -2620,6 +2640,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [
         {
           "title": "look",
@@ -3060,6 +3084,10 @@
     },
     {
       "date": "2022-06-12",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-06-13",
       "unRespondedItems": [
         {
           "title": "Edge browser inspection query for public and private websites",

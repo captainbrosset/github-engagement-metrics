@@ -11,6 +11,7 @@ Response rate: 91.28%
   * [Problem with selecting OPTION element within a SELECT](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26)
   * [MSEdgeDriver returns non W3C WebDriver compliant caps when c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23)
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [WinForms.EnsureCoreWebView2Async E_NOINTERFACE exception for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2517)
   * [Who is using WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514)
   * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
   * [IWebBrowser->Navigate API fails to submit POST Data to Edge ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2505)
@@ -25,7 +26,6 @@ Response rate: 91.28%
   * [Some CSS styles can't be set using ExecuteScriptAsync?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483)
   * [Long loading after turning off the computer.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475)
   * [WebResourceResponseReceived isn't fired for fetch requests](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471)
-  * [Linking with WebView2LoaderStatic.lib produces corrupted DLL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2462)
 * **microsoft/vscode-edge-devtools** - _92.00%_
   * [look](https://github.com/microsoft/vscode-edge-devtools/issues/1072)
   * [ b](https://github.com/microsoft/vscode-edge-devtools/issues/1071)
