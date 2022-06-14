@@ -1,7 +1,6 @@
-Response rate: 91.28%
+Response rate: 92.49%
 
-* **webhintio/hint** - _95.45%_
-  * [[Bug] Perpetual prompting with yarn package manager](https://github.com/webhintio/hint/issues/5198)
+* **webhintio/hint** - _97.73%_
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
@@ -10,7 +9,9 @@ Response rate: 91.28%
   * [Running Selenium tests in EdgeInIE Mode on VM does not work ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/27)
   * [Problem with selecting OPTION element within a SELECT](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26)
   * [MSEdgeDriver returns non W3C WebDriver compliant caps when c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Multiple Profile](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2520)
+  * [Error - Source Property cannot be set to null.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2518)
   * [WinForms.EnsureCoreWebView2Async E_NOINTERFACE exception for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2517)
   * [Who is using WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514)
   * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
@@ -26,11 +27,6 @@ Response rate: 91.28%
   * [Some CSS styles can't be set using ExecuteScriptAsync?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483)
   * [Long loading after turning off the computer.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475)
   * [WebResourceResponseReceived isn't fired for fetch requests](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [look](https://github.com/microsoft/vscode-edge-devtools/issues/1072)
-  * [ b](https://github.com/microsoft/vscode-edge-devtools/issues/1071)
-  * [[BUG] webhint ignores .browserslistrc in angular application...](https://github.com/microsoft/vscode-edge-devtools/issues/1065)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [all loading feature at the top `Edge Devtools: Browser`](https://github.com/microsoft/vscode-edge-devtools/issues/1064)
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [Edge browser inspection query for public and private website...](https://github.com/MicrosoftDocs/edge-developer/issues/2003)
-  * [User Data Folder guidance for WinUI 3 needs updating](https://github.com/MicrosoftDocs/edge-developer/issues/2001)
+* **MicrosoftDocs/edge-developer** - _100.00%_

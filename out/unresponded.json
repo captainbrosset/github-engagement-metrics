@@ -422,17 +422,17 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Perpetual prompting with yarn package manager",
-          "url": "https://github.com/webhintio/hint/issues/5198"
-        },
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.45"
+      "rate": "97.73"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -858,6 +858,10 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1285,6 +1289,10 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1712,6 +1720,10 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [
         {
           "title": "Edge Driver does not work in Headless mode for SSO",
@@ -2156,7 +2168,19 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [
+        {
+          "title": "Multiple Profile",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2520"
+        },
+        {
+          "title": "Error - Source Property cannot be set to null.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2518"
+        },
         {
           "title": "WinForms.EnsureCoreWebView2Async E_NOINTERFACE exception for AllowExternalDrop",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2517"
@@ -2218,7 +2242,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2644,25 +2668,17 @@
     },
     {
       "date": "2022-06-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-06-14",
       "unRespondedItems": [
-        {
-          "title": "look",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1072"
-        },
-        {
-          "title": " b",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1071"
-        },
-        {
-          "title": "[BUG] webhint ignores .browserslistrc in angular application",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1065"
-        },
         {
           "title": "all loading feature at the top `Edge Devtools: Browser`",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1064"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3088,17 +3104,12 @@
     },
     {
       "date": "2022-06-13",
-      "unRespondedItems": [
-        {
-          "title": "Edge browser inspection query for public and private websites",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2003"
-        },
-        {
-          "title": "User Data Folder guidance for WinUI 3 needs updating",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2001"
-        }
-      ],
       "rate": "95.83"
+    },
+    {
+      "date": "2022-06-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
