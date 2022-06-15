@@ -426,13 +426,17 @@
     },
     {
       "date": "2022-06-14",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-06-15",
       "unRespondedItems": [
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "97.73"
+      "rate": "97.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -862,6 +866,10 @@
     },
     {
       "date": "2022-06-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1293,6 +1301,10 @@
     },
     {
       "date": "2022-06-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1724,7 +1736,19 @@
     },
     {
       "date": "2022-06-14",
+      "rate": "85.71"
+    },
+    {
+      "date": "2022-06-15",
       "unRespondedItems": [
+        {
+          "title": "IE Edge Mode: Delete history and all data after data after a test is completed.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/30"
+        },
+        {
+          "title": "Ability to pass user data directory argument to IEDriverServer for use automating Edge legacy mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/29"
+        },
         {
           "title": "Edge Driver does not work in Headless mode for SSO",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/28"
@@ -1742,7 +1766,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
         }
       ],
-      "rate": "85.71"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2172,7 +2196,27 @@
     },
     {
       "date": "2022-06-14",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-06-15",
       "unRespondedItems": [
+        {
+          "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528"
+        },
+        {
+          "title": "Drag & Drop File into WebView on WPF/WinForms Results in File Opening in Default App",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2527"
+        },
+        {
+          "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
+        },
+        {
+          "title": "Why webview2 print dialoag reset the scale to fit to printable everytime and zoom also reset on navigating to another or page reload",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2523"
+        },
         {
           "title": "Multiple Profile",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2520"
@@ -2180,14 +2224,6 @@
         {
           "title": "Error - Source Property cannot be set to null.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2518"
-        },
-        {
-          "title": "WinForms.EnsureCoreWebView2Async E_NOINTERFACE exception for AllowExternalDrop",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2517"
-        },
-        {
-          "title": "Who is using WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
         },
         {
           "title": "`CoreWebView2` does not close stream `content`",
@@ -2206,16 +2242,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
         },
         {
-          "title": "Selenium Grid not working with WebView2 application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2470"
+          "title": "Who is using WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
         },
         {
           "title": "Why doesn't WebView2 run when an unpackaged WinUI3 desktop app is run as as single instance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
-        },
-        {
-          "title": "Setting HardmarginX and Hardmargin Y",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504"
         },
         {
           "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
@@ -2236,10 +2268,6 @@
         {
           "title": "Long loading after turning off the computer.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475"
-        },
-        {
-          "title": "WebResourceResponseReceived isn't fired for fetch requests",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2471"
         }
       ],
       "rate": "66.00"
@@ -2672,13 +2700,12 @@
     },
     {
       "date": "2022-06-14",
-      "unRespondedItems": [
-        {
-          "title": "all loading feature at the top `Edge Devtools: Browser`",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1064"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-06-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3108,8 +3135,17 @@
     },
     {
       "date": "2022-06-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-15",
+      "unRespondedItems": [
+        {
+          "title": "Omnifood",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2005"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
