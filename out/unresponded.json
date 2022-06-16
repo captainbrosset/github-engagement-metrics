@@ -430,13 +430,17 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "97.67"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "97.67"
+      "rate": "97.62"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -870,6 +874,10 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1305,6 +1313,10 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1740,7 +1752,15 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [
+        {
+          "title": "Download Page Changed, Missing Link to 102.0.1245.39",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/31"
+        },
         {
           "title": "IE Edge Mode: Delete history and all data after data after a test is completed.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/30"
@@ -1766,7 +1786,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
         }
       ],
-      "rate": "80.00"
+      "rate": "77.42"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2200,14 +2220,14 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [
         {
           "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528"
-        },
-        {
-          "title": "Drag & Drop File into WebView on WPF/WinForms Results in File Opening in Default App",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2527"
         },
         {
           "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
@@ -2222,10 +2242,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2520"
         },
         {
-          "title": "Error - Source Property cannot be set to null.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2518"
-        },
-        {
           "title": "`CoreWebView2` does not close stream `content`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
         },
@@ -2236,10 +2252,6 @@
         {
           "title": "Dpi change when lock screen did not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
-        },
-        {
-          "title": "DevToolsProtocolExtension's Network.Headers type is wrongly defined",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2488"
         },
         {
           "title": "Who is using WebView2?",
@@ -2262,15 +2274,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         },
         {
-          "title": "Some CSS styles can't be set using ExecuteScriptAsync?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2483"
-        },
-        {
           "title": "Long loading after turning off the computer.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475"
         }
       ],
-      "rate": "66.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2704,8 +2712,17 @@
     },
     {
       "date": "2022-06-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-16",
+      "unRespondedItems": [
+        {
+          "title": "html const lang=\"vi\">",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1078"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3139,13 +3156,21 @@
     },
     {
       "date": "2022-06-15",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-06-16",
       "unRespondedItems": [
         {
-          "title": "Omnifood",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2005"
+          "title": "Update extension tutorial to use Manifest V3",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2014"
+        },
+        {
+          "title": "Update tutorial to use Manifest V3",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2012"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
