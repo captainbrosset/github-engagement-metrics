@@ -434,13 +434,17 @@
     },
     {
       "date": "2022-06-16",
+      "rate": "97.62"
+    },
+    {
+      "date": "2022-06-17",
       "unRespondedItems": [
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "97.62"
+      "rate": "97.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -878,6 +882,10 @@
     },
     {
       "date": "2022-06-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1317,8 +1325,17 @@
     },
     {
       "date": "2022-06-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-17",
+      "unRespondedItems": [
+        {
+          "title": "New dev tools 102 cannot have console and source code displayed at same time",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/64"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1756,7 +1773,15 @@
     },
     {
       "date": "2022-06-16",
+      "rate": "77.42"
+    },
+    {
+      "date": "2022-06-17",
       "unRespondedItems": [
+        {
+          "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/32"
+        },
         {
           "title": "Download Page Changed, Missing Link to 102.0.1245.39",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/31"
@@ -1786,7 +1811,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
         }
       ],
-      "rate": "77.42"
+      "rate": "75.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2224,14 +2249,18 @@
     },
     {
       "date": "2022-06-16",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-06-17",
       "unRespondedItems": [
         {
-          "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528"
+          "title": "Webview2 embedded  inside wpf application focus issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531"
         },
         {
-          "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
+          "title": "CoreWebView2.AddHostObjectToScript throws System.Exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2529"
         },
         {
           "title": "Why webview2 print dialoag reset the scale to fit to printable everytime and zoom also reset on navigating to another or page reload",
@@ -2254,6 +2283,18 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
         },
         {
+          "title": "IE Mode freezes for sites in 'Internet Explorer mode pages' on Windows 7",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2530"
+        },
+        {
+          "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528"
+        },
+        {
+          "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
+        },
+        {
           "title": "Who is using WebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
         },
@@ -2272,13 +2313,9 @@
         {
           "title": "COMException 0x8007139F calling EnsureCoreWebView2Async",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
-        },
-        {
-          "title": "Long loading after turning off the computer.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2475"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2716,10 +2753,14 @@
     },
     {
       "date": "2022-06-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-17",
       "unRespondedItems": [
         {
-          "title": "html const lang=\"vi\">",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1078"
+          "title": "sasa",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1079"
         }
       ],
       "rate": "98.00"
@@ -3160,17 +3201,12 @@
     },
     {
       "date": "2022-06-16",
-      "unRespondedItems": [
-        {
-          "title": "Update extension tutorial to use Manifest V3",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2014"
-        },
-        {
-          "title": "Update tutorial to use Manifest V3",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2012"
-        }
-      ],
       "rate": "95.83"
+    },
+    {
+      "date": "2022-06-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
