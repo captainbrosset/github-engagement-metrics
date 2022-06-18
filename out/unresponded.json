@@ -438,13 +438,25 @@
     },
     {
       "date": "2022-06-17",
+      "rate": "97.67"
+    },
+    {
+      "date": "2022-06-18",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5218"
+        },
+        {
+          "title": "[Bug] Make it easier to export report to PDF",
+          "url": "https://github.com/webhintio/hint/issues/5217"
+        },
         {
           "title": "*hint -v",
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "97.67"
+      "rate": "93.02"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -886,6 +898,10 @@
     },
     {
       "date": "2022-06-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1329,13 +1345,12 @@
     },
     {
       "date": "2022-06-17",
-      "unRespondedItems": [
-        {
-          "title": "New dev tools 102 cannot have console and source code displayed at same time",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/64"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-06-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1777,6 +1792,10 @@
     },
     {
       "date": "2022-06-17",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-18",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2253,7 +2272,15 @@
     },
     {
       "date": "2022-06-17",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-06-18",
       "unRespondedItems": [
+        {
+          "title": "offline and online event listeners don't seem to fire when network is disconnected/reconnected",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2533"
+        },
         {
           "title": "Webview2 embedded  inside wpf application focus issue",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531"
@@ -2265,10 +2292,6 @@
         {
           "title": "Why webview2 print dialoag reset the scale to fit to printable everytime and zoom also reset on navigating to another or page reload",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2523"
-        },
-        {
-          "title": "Multiple Profile",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2520"
         },
         {
           "title": "`CoreWebView2` does not close stream `content`",
@@ -2283,8 +2306,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
         },
         {
-          "title": "IE Mode freezes for sites in 'Internet Explorer mode pages' on Windows 7",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2530"
+          "title": "Using a dedicated authenticated proxy for a Winforms .net 4.8 application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2532"
         },
         {
           "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
@@ -2303,6 +2326,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
         },
         {
+          "title": "Setting HardmarginX and Hardmargin Y",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504"
+        },
+        {
           "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500"
         },
@@ -2315,7 +2342,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2757,10 +2784,14 @@
     },
     {
       "date": "2022-06-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-18",
       "unRespondedItems": [
         {
-          "title": "sasa",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1079"
+          "title": "`skipFiles` not passed on to Edge's DevTools and no other way to ignore source files in console output",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1080"
         }
       ],
       "rate": "98.00"
@@ -3205,8 +3236,17 @@
     },
     {
       "date": "2022-06-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-18",
+      "unRespondedItems": [
+        {
+          "title": "Please add C# example for each parts",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2018"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
