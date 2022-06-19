@@ -442,6 +442,10 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "93.02"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -902,6 +906,10 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1349,8 +1357,17 @@
     },
     {
       "date": "2022-06-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-19",
+      "unRespondedItems": [
+        {
+          "title": "SECURITY ADDVISOR",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/70"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1796,6 +1813,10 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2276,7 +2297,15 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [
+        {
+          "title": "WebView2RuntimeNotFoundException on .net 5",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534"
+        },
         {
           "title": "offline and online event listeners don't seem to fire when network is disconnected/reconnected",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2533"
@@ -2342,7 +2371,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2788,13 +2817,21 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [
+        {
+          "title": "dsad",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1081"
+        },
         {
           "title": "`skipFiles` not passed on to Edge's DevTools and no other way to ignore source files in console output",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1080"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3240,6 +3277,10 @@
     },
     {
       "date": "2022-06-18",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-06-19",
       "unRespondedItems": [
         {
           "title": "Please add C# example for each parts",
