@@ -1,12 +1,11 @@
-Response rate: 89.42%
+Response rate: 88.84%
 
 * **webhintio/hint** - _93.02%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5218)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [SECURITY ADDVISOR](https://github.com/MicrosoftEdge/DevTools/issues/70)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _75.00%_
   * [Selenium Edge IE Mode - Unable to create new session in Amaz...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/32)
   * [Download Page Changed, Missing Link to 102.0.1245.39](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/31)
@@ -16,7 +15,8 @@ Response rate: 89.42%
   * [Running Selenium tests in EdgeInIE Mode on VM does not work ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/27)
   * [Problem with selecting OPTION element within a SELECT](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26)
   * [MSEdgeDriver returns non W3C WebDriver compliant caps when c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [Finding target id for cross domain iframe](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2535)
   * [WebView2RuntimeNotFoundException on .net 5](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534)
   * [offline and online event listeners don't seem to fire when n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2533)
   * [Webview2 embedded  inside wpf application focus issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531)
@@ -34,8 +34,10 @@ Response rate: 89.42%
   * [low integrity process under Win 7/2008R2 - WebView2 creation...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500)
   * [Word crash - EmbeddedBrowserWebView.dll!embedded_browser_web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496)
   * [COMException 0x8007139F calling EnsureCoreWebView2Async](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [ldp](https://github.com/microsoft/vscode-edge-devtools/issues/1082)
   * [dsad](https://github.com/microsoft/vscode-edge-devtools/issues/1081)
   * [`skipFiles` not passed on to Edge's DevTools and no other wa...](https://github.com/microsoft/vscode-edge-devtools/issues/1080)
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **MicrosoftDocs/edge-developer** - _95.83%_
   * [Please add C# example for each parts](https://github.com/MicrosoftDocs/edge-developer/issues/2018)
+  * [Added Repo ReadMe Steps to WebView2 Deployment Visual Studio...](https://github.com/MicrosoftDocs/edge-developer/pull/2017)

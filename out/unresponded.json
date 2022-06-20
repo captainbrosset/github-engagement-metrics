@@ -446,6 +446,10 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "93.02"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -910,6 +914,10 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1361,13 +1369,12 @@
     },
     {
       "date": "2022-06-19",
-      "unRespondedItems": [
-        {
-          "title": "SECURITY ADDVISOR",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/70"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-06-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1817,6 +1824,10 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2301,7 +2312,15 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [
+        {
+          "title": "Finding target id for cross domain iframe",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2535"
+        },
         {
           "title": "WebView2RuntimeNotFoundException on .net 5",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534"
@@ -2371,7 +2390,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2821,7 +2840,15 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [
+        {
+          "title": "ldp",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1082"
+        },
         {
           "title": "dsad",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1081"
@@ -2831,7 +2858,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1080"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3281,13 +3308,21 @@
     },
     {
       "date": "2022-06-19",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-06-20",
       "unRespondedItems": [
         {
           "title": "Please add C# example for each parts",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2018"
+        },
+        {
+          "title": "Added Repo ReadMe Steps to WebView2 Deployment Visual Studio installer",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2017"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
