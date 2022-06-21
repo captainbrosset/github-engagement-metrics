@@ -1,11 +1,12 @@
-Response rate: 88.84%
+Response rate: 88.55%
 
 * **webhintio/hint** - _93.02%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5218)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [opera sidebar and multiple workspace](https://github.com/MicrosoftEdge/DevTools/issues/72)
 * **MicrosoftEdge/EdgeWebDriver** - _75.00%_
   * [Selenium Edge IE Mode - Unable to create new session in Amaz...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/32)
   * [Download Page Changed, Missing Link to 102.0.1245.39](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/31)
@@ -16,6 +17,8 @@ Response rate: 88.84%
   * [Problem with selecting OPTION element within a SELECT](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26)
   * [MSEdgeDriver returns non W3C WebDriver compliant caps when c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23)
 * **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [Add ways to distinguish between different NewWindowRequested...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2539)
+  * [Invoking zoom programmatically under UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2538)
   * [Finding target id for cross domain iframe](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2535)
   * [WebView2RuntimeNotFoundException on .net 5](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534)
   * [offline and online event listeners don't seem to fire when n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2533)
@@ -28,9 +31,7 @@ Response rate: 88.84%
   * [Using a dedicated authenticated proxy for a Winforms .net 4....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2532)
   * [[BUG] ClientCertificateRequested event does not use the sele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528)
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
-  * [Who is using WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514)
   * [Why doesn't WebView2 run when an unpackaged WinUI3 desktop a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511)
-  * [Setting HardmarginX and Hardmargin Y](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504)
   * [low integrity process under Win 7/2008R2 - WebView2 creation...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500)
   * [Word crash - EmbeddedBrowserWebView.dll!embedded_browser_web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496)
   * [COMException 0x8007139F calling EnsureCoreWebView2Async](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495)

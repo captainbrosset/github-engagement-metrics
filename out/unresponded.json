@@ -450,6 +450,10 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "93.02"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -918,6 +922,10 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1373,8 +1381,17 @@
     },
     {
       "date": "2022-06-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-21",
+      "unRespondedItems": [
+        {
+          "title": "opera sidebar and multiple workspace",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/72"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1828,6 +1845,10 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2316,7 +2337,19 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [
+        {
+          "title": "Add ways to distinguish between different NewWindowRequested scenarios",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2539"
+        },
+        {
+          "title": "Invoking zoom programmatically under UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2538"
+        },
         {
           "title": "Finding target id for cross domain iframe",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2535"
@@ -2366,16 +2399,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
         },
         {
-          "title": "Who is using WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2514"
-        },
-        {
           "title": "Why doesn't WebView2 run when an unpackaged WinUI3 desktop app is run as as single instance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
-        },
-        {
-          "title": "Setting HardmarginX and Hardmargin Y",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2504"
         },
         {
           "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
@@ -2844,6 +2869,10 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [
         {
           "title": "ldp",
@@ -3312,6 +3341,10 @@
     },
     {
       "date": "2022-06-20",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-06-21",
       "unRespondedItems": [
         {
           "title": "Please add C# example for each parts",
