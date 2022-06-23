@@ -458,6 +458,10 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "95.12"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -468,7 +472,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.12"
+      "rate": "95.35"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -930,6 +934,10 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1393,8 +1401,17 @@
     },
     {
       "date": "2022-06-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-23",
+      "unRespondedItems": [
+        {
+          "title": "Linking DevTools & VSCode: Any change breaks their connection",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/74"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1856,6 +1873,10 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2352,7 +2373,31 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [
+        {
+          "title": "Cannot drop files from Explorer into WebView2 in a WinUI3 app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2546"
+        },
+        {
+          "title": "`GetAvailableBrowserVersionString` fails on UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2545"
+        },
+        {
+          "title": "WebView2 full fill window cannot stretch",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
+        },
+        {
+          "title": "exe has exited with code 2147483651 (0x80000003)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2542"
+        },
+        {
+          "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
+        },
         {
           "title": "WebView2 CodeIntegrity Error with SEP version 14.2.1031.0100 on Windows Server 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2540"
@@ -2370,16 +2415,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534"
         },
         {
-          "title": "offline and online event listeners don't seem to fire when network is disconnected/reconnected",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2533"
-        },
-        {
           "title": "IWebBrowser->Navigate API fails to submit POST Data to Edge on Windows Server 2016, even with Edge Version 101",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2505"
         },
         {
-          "title": "Dpi change when lock screen did not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2493"
+          "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544"
+        },
+        {
+          "title": "Using a dedicated authenticated proxy for a Winforms .net 4.8 application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2532"
         },
         {
           "title": "Webview2 embedded  inside wpf application focus issue",
@@ -2418,7 +2463,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "68.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2880,6 +2925,10 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3343,13 +3392,21 @@
     },
     {
       "date": "2022-06-22",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-06-23",
       "unRespondedItems": [
         {
-          "title": "Added Repo ReadMe Steps to WebView2 Deployment Visual Studio installer",
+          "title": "This page is out of date",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2024"
+        },
+        {
+          "title": "Add Readme steps to \"Sample: WebView2 Deployment VS installer\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2017"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.74"
     }
   ]
 }
