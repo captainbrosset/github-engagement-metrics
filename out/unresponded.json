@@ -462,6 +462,10 @@
     },
     {
       "date": "2022-06-23",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-06-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -938,6 +942,10 @@
     },
     {
       "date": "2022-06-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1405,13 +1413,12 @@
     },
     {
       "date": "2022-06-23",
-      "unRespondedItems": [
-        {
-          "title": "Linking DevTools & VSCode: Any change breaks their connection",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/74"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-06-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1877,6 +1884,10 @@
     },
     {
       "date": "2022-06-23",
+      "rate": "75.00"
+    },
+    {
+      "date": "2022-06-24",
       "unRespondedItems": [
         {
           "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
@@ -2377,6 +2388,10 @@
     },
     {
       "date": "2022-06-23",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-06-24",
       "unRespondedItems": [
         {
           "title": "Cannot drop files from Explorer into WebView2 in a WinUI3 app",
@@ -2391,36 +2406,28 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
         },
         {
-          "title": "exe has exited with code 2147483651 (0x80000003)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2542"
-        },
-        {
           "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
-        },
-        {
-          "title": "WebView2 CodeIntegrity Error with SEP version 14.2.1031.0100 on Windows Server 2016",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2540"
         },
         {
           "title": "Invoking zoom programmatically under UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2538"
         },
         {
-          "title": "Finding target id for cross domain iframe",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2535"
-        },
-        {
           "title": "WebView2RuntimeNotFoundException on .net 5",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2534"
         },
         {
-          "title": "IWebBrowser->Navigate API fails to submit POST Data to Edge on Windows Server 2016, even with Edge Version 101",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2505"
-        },
-        {
           "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544"
+        },
+        {
+          "title": "exe has exited with code 2147483651 (0x80000003)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2542"
+        },
+        {
+          "title": "Position of Scrollbar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
         },
         {
           "title": "Using a dedicated authenticated proxy for a Winforms .net 4.8 application",
@@ -2433,10 +2440,6 @@
         {
           "title": "IE Mode freezes for sites in 'Internet Explorer mode pages' on Windows 7",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2530"
-        },
-        {
-          "title": "[BUG] ClientCertificateRequested event does not use the selected certificate",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2528"
         },
         {
           "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
@@ -2463,7 +2466,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "58.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2929,8 +2932,17 @@
     },
     {
       "date": "2022-06-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-24",
+      "unRespondedItems": [
+        {
+          "title": "NOT GOT 100M YET",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1088"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3396,6 +3408,10 @@
     },
     {
       "date": "2022-06-23",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-06-24",
       "unRespondedItems": [
         {
           "title": "This page is out of date",
