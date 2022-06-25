@@ -466,6 +466,10 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -946,6 +950,10 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1417,6 +1425,10 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1888,41 +1900,12 @@
     },
     {
       "date": "2022-06-24",
-      "unRespondedItems": [
-        {
-          "title": "Selenium Edge IE Mode - Unable to create new session in Amazon workspaces. (Cloud Based Windows Machines)",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/32"
-        },
-        {
-          "title": "Download Page Changed, Missing Link to 102.0.1245.39",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/31"
-        },
-        {
-          "title": "IE Edge Mode: Delete history and all data after data after a test is completed.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/30"
-        },
-        {
-          "title": "Ability to pass user data directory argument to IEDriverServer for use automating Edge legacy mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/29"
-        },
-        {
-          "title": "Edge Driver does not work in Headless mode for SSO",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/28"
-        },
-        {
-          "title": "Running Selenium tests in EdgeInIE Mode on VM does not work unless the remote machine is connected.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/27"
-        },
-        {
-          "title": "Problem with selecting OPTION element within a SELECT",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/26"
-        },
-        {
-          "title": "MSEdgeDriver returns non W3C WebDriver compliant caps when creating a session.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/23"
-        }
-      ],
       "rate": "75.00"
+    },
+    {
+      "date": "2022-06-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2392,7 +2375,15 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [
+        {
+          "title": "Webview2 component is out of sync with window size,PostWebMessageAsJson pass data js cannot receive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547"
+        },
         {
           "title": "Cannot drop files from Explorer into WebView2 in a WinUI3 app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2546"
@@ -2466,7 +2457,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2936,10 +2927,14 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [
         {
-          "title": "NOT GOT 100M YET",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1088"
+          "title": "issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1089"
         }
       ],
       "rate": "98.00"
@@ -3412,17 +3407,21 @@
     },
     {
       "date": "2022-06-24",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-06-25",
       "unRespondedItems": [
         {
-          "title": "This page is out of date",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2024"
+          "title": "let script = document.createElement('script'); script.src = 'https://code.jquery.com/jquery-3.2.1.min.js'; script.crossOrigin = 'anonymous'; script.integrity = 'sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4='; document.head.appendChild(script);",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2028"
         },
         {
           "title": "Add Readme steps to \"Sample: WebView2 Deployment VS installer\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2017"
         }
       ],
-      "rate": "95.74"
+      "rate": "95.83"
     }
   ]
 }
