@@ -470,6 +470,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -954,6 +958,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1429,6 +1437,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1904,6 +1916,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2379,6 +2395,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [
         {
           "title": "Webview2 component is out of sync with window size,PostWebMessageAsJson pass data js cannot receive",
@@ -2931,6 +2951,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [
         {
           "title": "issue",
@@ -3411,6 +3435,10 @@
     },
     {
       "date": "2022-06-25",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-06-26",
       "unRespondedItems": [
         {
           "title": "let script = document.createElement('script'); script.src = 'https://code.jquery.com/jquery-3.2.1.min.js'; script.crossOrigin = 'anonymous'; script.integrity = 'sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4='; document.head.appendChild(script);",
