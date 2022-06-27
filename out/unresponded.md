@@ -1,4 +1,4 @@
-Response rate: 93.03%
+Response rate: 92.45%
 
 * **webhintio/hint** - _95.35%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -7,6 +7,7 @@ Response rate: 93.03%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _100.00%_
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Blank page when minimizing a maximized frameless window with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2549)
   * [Webview2 component is out of sync with window size,PostWebMe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547)
   * [Cannot drop files from Explorer into WebView2 in a WinUI3 ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2546)
   * [`GetAvailableBrowserVersionString` fails on UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2545)
@@ -25,9 +26,10 @@ Response rate: 93.03%
   * [Why doesn't WebView2 run when an unpackaged WinUI3 desktop a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511)
   * [low integrity process under Win 7/2008R2 - WebView2 creation...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500)
   * [Word crash - EmbeddedBrowserWebView.dll!embedded_browser_web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2496)
-  * [COMException 0x8007139F calling EnsureCoreWebView2Async](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2495)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [is](https://github.com/microsoft/vscode-edge-devtools/issues/1090)
   * [issue](https://github.com/microsoft/vscode-edge-devtools/issues/1089)
+  * [vezual](https://github.com/microsoft/vscode-edge-devtools/issues/1091)
 * **MicrosoftDocs/edge-developer** - _95.83%_
   * [let script = document.createElement('script'); script.src = ...](https://github.com/MicrosoftDocs/edge-developer/issues/2028)
   * [Add Readme steps to "Sample: WebView2 Deployment VS installe...](https://github.com/MicrosoftDocs/edge-developer/pull/2017)
