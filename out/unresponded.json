@@ -482,6 +482,10 @@
     },
     {
       "date": "2022-06-28",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-06-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -492,7 +496,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.35"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -978,6 +982,10 @@
     },
     {
       "date": "2022-06-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1465,8 +1473,17 @@
     },
     {
       "date": "2022-06-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-29",
+      "unRespondedItems": [
+        {
+          "title": "Extensions reinstall every 15-30 minutes, signed out and then hidden from Edge toolbar",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/76"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -1952,8 +1969,21 @@
     },
     {
       "date": "2022-06-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-06-29",
+      "unRespondedItems": [
+        {
+          "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35"
+        },
+        {
+          "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
+        }
+      ],
+      "rate": "94.29"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2439,14 +2469,22 @@
     },
     {
       "date": "2022-06-28",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-06-29",
       "unRespondedItems": [
+        {
+          "title": "In some POST transmissions using NavigateWithWebResourceRequest, HTTP headers are not reflected correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2556"
+        },
+        {
+          "title": "When calling 'CreateCoreWebView2Controller' in Webview2, it takes about 3 seconds, but I want to reduce it to 1 second. I wonder if there is a better way",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2555"
+        },
         {
           "title": "Only Source is shown and not the HTML",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554"
-        },
-        {
-          "title": "Detecting if app already running and reuse same window if app already running",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2553"
         },
         {
           "title": "Blank page when minimizing a maximized frameless window with multi-monitor setup",
@@ -2461,20 +2499,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2546"
         },
         {
-          "title": "`GetAvailableBrowserVersionString` fails on UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2545"
-        },
-        {
           "title": "WebView2 full fill window cannot stretch",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
         },
         {
-          "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
-        },
-        {
           "title": "Invoking zoom programmatically under UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2538"
+        },
+        {
+          "title": "Detecting if app already running and reuse same window if app already running",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2553"
+        },
+        {
+          "title": "WebView2 In Win11 not support Google Login. Error Message: This browser or app may not be secure.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552"
         },
         {
           "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
@@ -2485,16 +2523,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
         },
         {
-          "title": "Using a dedicated authenticated proxy for a Winforms .net 4.8 application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2532"
-        },
-        {
           "title": "Webview2 embedded  inside wpf application focus issue",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531"
-        },
-        {
-          "title": "IE Mode freezes for sites in 'Internet Explorer mode pages' on Windows 7",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2530"
         },
         {
           "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
@@ -2507,13 +2537,9 @@
         {
           "title": "Why doesn't WebView2 run when an unpackaged WinUI3 desktop app is run as as single instance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
-        },
-        {
-          "title": "low integrity process under Win 7/2008R2 - WebView2 creation failure ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2500"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -2999,33 +3025,21 @@
     },
     {
       "date": "2022-06-28",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-06-29",
       "unRespondedItems": [
         {
-          "title": "[BugFix] Fix theme fallback being always default systemPreferred",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1094"
+          "title": "preview",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1095"
         },
         {
-          "title": "Theme auto-detection fallback is always system theme",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1093"
-        },
-        {
-          "title": "M3nn",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1092"
-        },
-        {
-          "title": "is",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1090"
-        },
-        {
-          "title": "issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1089"
-        },
-        {
-          "title": "vezual",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1091"
+          "title": "i tried installing a vs code extension like a browser i'd be using within visual code and i dont seem to get it right. And this has made running and debugging a bit difficult for me. Please help me out",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1096"
         }
       ],
-      "rate": "88.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3511,21 +3525,12 @@
     },
     {
       "date": "2022-06-28",
-      "unRespondedItems": [
-        {
-          "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2033"
-        },
-        {
-          "title": "let script = document.createElement('script'); script.src = 'https://code.jquery.com/jquery-3.2.1.min.js'; script.crossOrigin = 'anonymous'; script.integrity = 'sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4='; document.head.appendChild(script);",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2028"
-        },
-        {
-          "title": "Add Readme steps to \"Sample: WebView2 Deployment VS installer\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2017"
-        }
-      ],
       "rate": "93.62"
+    },
+    {
+      "date": "2022-06-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
