@@ -486,6 +486,10 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -496,7 +500,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.45"
+      "rate": "95.24"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -986,6 +990,10 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1477,6 +1485,10 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [
         {
           "title": "Extensions reinstall every 15-30 minutes, signed out and then hidden from Edge toolbar",
@@ -1973,6 +1985,10 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [
         {
           "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
@@ -2473,7 +2489,23 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [
+        {
+          "title": "Post data with NavigateWithWebResourceRequest and BasicAuthenticationRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2561"
+        },
+        {
+          "title": "Digital verification of Microsoft before installation of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
+        },
+        {
+          "title": "Is it possible to expose an API that turns off the `same origin policy`?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2558"
+        },
         {
           "title": "In some POST transmissions using NavigateWithWebResourceRequest, HTTP headers are not reflected correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2556"
@@ -2539,7 +2571,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
         }
       ],
-      "rate": "68.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3029,17 +3061,12 @@
     },
     {
       "date": "2022-06-29",
-      "unRespondedItems": [
-        {
-          "title": "preview",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1095"
-        },
-        {
-          "title": "i tried installing a vs code extension like a browser i'd be using within visual code and i dont seem to get it right. And this has made running and debugging a bit difficult for me. Please help me out",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1096"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-06-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3529,6 +3556,10 @@
     },
     {
       "date": "2022-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }

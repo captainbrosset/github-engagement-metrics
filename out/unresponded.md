@@ -1,6 +1,6 @@
-Response rate: 93.11%
+Response rate: 92.79%
 
-* **webhintio/hint** - _95.45%_
+* **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -9,7 +9,10 @@ Response rate: 93.11%
 * **MicrosoftEdge/EdgeWebDriver** - _94.29%_
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Post data with NavigateWithWebResourceRequest and BasicAuthe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2561)
+  * [Digital verification of Microsoft before installation of Web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559)
+  * [Is it possible to expose an API that turns off the `same ori...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2558)
   * [In some POST transmissions using NavigateWithWebResourceRequ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2556)
   * [When calling 'CreateCoreWebView2Controller' in Webview2, it ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2555)
   * [Only Source is shown and not the HTML](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554)
@@ -26,7 +29,5 @@ Response rate: 93.11%
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
   * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
   * [Why doesn't WebView2 run when an unpackaged WinUI3 desktop a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1095)
-  * [i tried installing a vs code extension like a browser i'd be...](https://github.com/microsoft/vscode-edge-devtools/issues/1096)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _100.00%_
