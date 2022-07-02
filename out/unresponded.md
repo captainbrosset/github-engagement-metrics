@@ -1,6 +1,6 @@
-Response rate: 92.49%
+Response rate: 93.36%
 
-* **webhintio/hint** - _95.35%_
+* **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -8,11 +8,10 @@ Response rate: 92.49%
 * **MicrosoftEdge/EdgeWebDriver** - _94.29%_
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
-  * [Webview2 integration issue.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2563)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [How to detect that the WebView2 control is in a closed state...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566)
   * [custom CoreWebView2ContextMenuItem.Icon not show](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562)
   * [Digital verification of Microsoft before installation of Web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559)
-  * [Is it possible to expose an API that turns off the `same ori...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2558)
   * [In some POST transmissions using NavigateWithWebResourceRequ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2556)
   * [When calling 'CreateCoreWebView2Controller' in Webview2, it ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2555)
   * [Only Source is shown and not the HTML](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554)
@@ -28,7 +27,5 @@ Response rate: 92.49%
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
   * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
   * [Why doesn't WebView2 run when an unpackaged WinUI3 desktop a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [chinese filename can't open](https://github.com/microsoft/vscode-edge-devtools/issues/1097)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2042)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_

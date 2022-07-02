@@ -494,6 +494,10 @@
     },
     {
       "date": "2022-07-01",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-07-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -504,7 +508,7 @@
           "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.35"
+      "rate": "95.24"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1002,6 +1006,10 @@
     },
     {
       "date": "2022-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1501,6 +1509,10 @@
     },
     {
       "date": "2022-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2000,6 +2012,10 @@
     },
     {
       "date": "2022-07-01",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-07-02",
       "unRespondedItems": [
         {
           "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
@@ -2508,10 +2524,14 @@
     },
     {
       "date": "2022-07-01",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-07-02",
       "unRespondedItems": [
         {
-          "title": "Webview2 integration issue.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2563"
+          "title": "How to detect that the WebView2 control is in a closed state",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566"
         },
         {
           "title": "custom CoreWebView2ContextMenuItem.Icon not show",
@@ -2520,10 +2540,6 @@
         {
           "title": "Digital verification of Microsoft before installation of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
-        },
-        {
-          "title": "Is it possible to expose an API that turns off the `same origin policy`?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2558"
         },
         {
           "title": "In some POST transmissions using NavigateWithWebResourceRequest, HTTP headers are not reflected correctly",
@@ -2586,7 +2602,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3084,13 +3100,12 @@
     },
     {
       "date": "2022-07-01",
-      "unRespondedItems": [
-        {
-          "title": "chinese filename can't open",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1097"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-07-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3588,13 +3603,12 @@
     },
     {
       "date": "2022-07-01",
-      "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2042"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2022-07-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
