@@ -498,6 +498,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1010,6 +1014,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1513,6 +1521,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2016,6 +2028,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [
         {
           "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
@@ -2528,7 +2544,19 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [
+        {
+          "title": "Webview2 crashes after calling FileSystemWatcher function",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2568"
+        },
+        {
+          "title": "WebView2 Control doesn't render on one machine.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567"
+        },
         {
           "title": "How to detect that the WebView2 control is in a closed state",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566"
@@ -2596,13 +2624,9 @@
         {
           "title": "`CoreWebView2` does not close stream `content`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
-        },
-        {
-          "title": "Why doesn't WebView2 run when an unpackaged WinUI3 desktop app is run as as single instance",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3104,6 +3128,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3607,6 +3635,10 @@
     },
     {
       "date": "2022-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }

@@ -1,4 +1,4 @@
-Response rate: 93.36%
+Response rate: 93.08%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -8,7 +8,9 @@ Response rate: 93.36%
 * **MicrosoftEdge/EdgeWebDriver** - _94.29%_
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Webview2 crashes after calling FileSystemWatcher function](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2568)
+  * [WebView2 Control doesn't render on one machine.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567)
   * [How to detect that the WebView2 control is in a closed state...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566)
   * [custom CoreWebView2ContextMenuItem.Icon not show](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562)
   * [Digital verification of Microsoft before installation of Web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559)
@@ -26,6 +28,5 @@ Response rate: 93.36%
   * [Webview2 embedded  inside wpf application focus issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531)
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
   * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
-  * [Why doesn't WebView2 run when an unpackaged WinUI3 desktop a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2511)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _100.00%_
