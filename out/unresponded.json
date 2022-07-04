@@ -502,6 +502,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1018,6 +1022,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1525,6 +1533,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2032,6 +2044,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [
         {
           "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
@@ -2548,11 +2564,11 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [
-        {
-          "title": "Webview2 crashes after calling FileSystemWatcher function",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2568"
-        },
         {
           "title": "WebView2 Control doesn't render on one machine.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567"
@@ -2626,7 +2642,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3132,6 +3148,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3639,6 +3659,10 @@
     },
     {
       "date": "2022-07-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }

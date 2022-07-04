@@ -1,4 +1,4 @@
-Response rate: 93.08%
+Response rate: 93.36%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -8,8 +8,7 @@ Response rate: 93.08%
 * **MicrosoftEdge/EdgeWebDriver** - _94.29%_
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
-  * [Webview2 crashes after calling FileSystemWatcher function](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2568)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [WebView2 Control doesn't render on one machine.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567)
   * [How to detect that the WebView2 control is in a closed state...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566)
   * [custom CoreWebView2ContextMenuItem.Icon not show](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562)
