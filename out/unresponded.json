@@ -506,6 +506,10 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1026,6 +1030,10 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1537,6 +1545,10 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2048,7 +2060,19 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "94.29"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [
+        {
+          "title": "unknown error: cannot determine loading status from unknown error: unexpected command response (Session info: MicrosoftEdge=103.0.1264.44)",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/37"
+        },
+        {
+          "title": "Handle \"disable popup blocker\" does not work in Edge with IE-Mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/36"
+        },
         {
           "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35"
@@ -2058,7 +2082,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.29"
+      "rate": "89.19"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2568,7 +2592,19 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [
+        {
+          "title": "Get ICoreWebView2 reference in CDP callbacks and avoid callback hell",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2571"
+        },
+        {
+          "title": "Text selection always show context menu with broken \"menu settings\" option.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2569"
+        },
         {
           "title": "WebView2 Control doesn't render on one machine.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567"
@@ -2636,13 +2672,9 @@
         {
           "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
-        },
-        {
-          "title": "`CoreWebView2` does not close stream `content`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3152,8 +3184,21 @@
     },
     {
       "date": "2022-07-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-05",
+      "unRespondedItems": [
+        {
+          "title": "microsoft edge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1100"
+        },
+        {
+          "title": "individual personal portal linked together througha company goal. ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1099"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3663,6 +3708,10 @@
     },
     {
       "date": "2022-07-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }

@@ -1,14 +1,18 @@
-Response rate: 93.36%
+Response rate: 91.78%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
   * [*hint -v](https://github.com/webhintio/hint/issues/5174)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _94.29%_
+* **MicrosoftEdge/EdgeWebDriver** - _89.19%_
+  * [unknown error: cannot determine loading status from unknown ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/37)
+  * [Handle "disable popup blocker" does not work in Edge with IE...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/36)
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Get ICoreWebView2 reference in CDP callbacks and avoid callb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2571)
+  * [Text selection always show context menu with broken "menu se...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2569)
   * [WebView2 Control doesn't render on one machine.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567)
   * [How to detect that the WebView2 control is in a closed state...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566)
   * [custom CoreWebView2ContextMenuItem.Icon not show](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562)
@@ -26,6 +30,7 @@ Response rate: 93.36%
   * [Position of Scrollbar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537)
   * [Webview2 embedded  inside wpf application focus issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2531)
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
-  * [`CoreWebView2` does not close stream `content`](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2513)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [microsoft edge](https://github.com/microsoft/vscode-edge-devtools/issues/1100)
+  * [individual personal portal linked together througha company ...](https://github.com/microsoft/vscode-edge-devtools/issues/1099)
 * **MicrosoftDocs/edge-developer** - _100.00%_
