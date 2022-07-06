@@ -510,6 +510,10 @@
     },
     {
       "date": "2022-07-05",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1034,6 +1038,10 @@
     },
     {
       "date": "2022-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1549,6 +1557,10 @@
     },
     {
       "date": "2022-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2064,6 +2076,10 @@
     },
     {
       "date": "2022-07-05",
+      "rate": "89.19"
+    },
+    {
+      "date": "2022-07-06",
       "unRespondedItems": [
         {
           "title": "unknown error: cannot determine loading status from unknown error: unexpected command response (Session info: MicrosoftEdge=103.0.1264.44)",
@@ -2078,11 +2094,15 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35"
         },
         {
+          "title": "WebDriver IE Mode hanging on page load #2047",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/38"
+        },
+        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "89.19"
+      "rate": "86.84"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2596,7 +2616,15 @@
     },
     {
       "date": "2022-07-05",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-07-06",
       "unRespondedItems": [
+        {
+          "title": "Webview can be closed using window.close after first navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573"
+        },
         {
           "title": "Get ICoreWebView2 reference in CDP callbacks and avoid callback hell",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2571"
@@ -2674,7 +2702,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3188,17 +3216,12 @@
     },
     {
       "date": "2022-07-05",
-      "unRespondedItems": [
-        {
-          "title": "microsoft edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1100"
-        },
-        {
-          "title": "individual personal portal linked together througha company goal. ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1099"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-07-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3712,8 +3735,17 @@
     },
     {
       "date": "2022-07-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-06",
+      "unRespondedItems": [
+        {
+          "title": "Explains very clearly",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2045"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
