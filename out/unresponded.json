@@ -518,6 +518,10 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1050,6 +1054,10 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1573,6 +1581,10 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2096,6 +2108,10 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "86.84"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [
         {
           "title": "unknown error: cannot determine loading status from unknown error: unexpected command response (Session info: MicrosoftEdge=103.0.1264.44)",
@@ -2640,7 +2656,31 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [
+        {
+          "title": "Can we run Webview2-Evergreen and CEF 84 together?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
+        },
+        {
+          "title": "WinForms: Big file provided through WebResourceRequested crashes whole app with 32bit build",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2577"
+        },
+        {
+          "title": "Setting `UserAgent` empties `navigator.userAgentData` brands",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2576"
+        },
+        {
+          "title": "A fail fast exception occurred When win32 application exits",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2575"
+        },
+        {
+          "title": "Support Lighthouse CLI",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2574"
+        },
         {
           "title": "Webview can be closed using window.close after first navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573"
@@ -2718,7 +2758,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
         }
       ],
-      "rate": "62.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3240,6 +3280,10 @@
     },
     {
       "date": "2022-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3763,13 +3807,12 @@
     },
     {
       "date": "2022-07-07",
-      "unRespondedItems": [
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2048"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2022-07-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

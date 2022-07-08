@@ -1,4 +1,4 @@
-Response rate: 91.69%
+Response rate: 90.58%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -11,7 +11,12 @@ Response rate: 91.69%
   * [Automation Testing Edge Webview2 with Selenium Python - Thro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35)
   * [WebDriver IE Mode hanging on page load #2047](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/38)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [Can we run Webview2-Evergreen and CEF 84 together?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578)
+  * [WinForms: Big file provided through WebResourceRequested cra...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2577)
+  * [Setting `UserAgent` empties `navigator.userAgentData` brands...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2576)
+  * [A fail fast exception occurred When win32 application exits](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2575)
+  * [Support Lighthouse CLI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2574)
   * [Webview can be closed using window.close after first navigat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573)
   * [Get ICoreWebView2 reference in CDP callbacks and avoid callb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2571)
   * [Text selection always show context menu with broken "menu se...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2569)
@@ -32,5 +37,4 @@ Response rate: 91.69%
   * [Position of Scrollbar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537)
   * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2048)
+* **MicrosoftDocs/edge-developer** - _100.00%_
