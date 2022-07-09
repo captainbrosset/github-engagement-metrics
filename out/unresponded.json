@@ -522,6 +522,10 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1058,6 +1062,10 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1585,6 +1593,10 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2112,29 +2124,17 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "86.84"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [
-        {
-          "title": "unknown error: cannot determine loading status from unknown error: unexpected command response (Session info: MicrosoftEdge=103.0.1264.44)",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/37"
-        },
-        {
-          "title": "Handle \"disable popup blocker\" does not work in Edge with IE-Mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/36"
-        },
-        {
-          "title": "Automation Testing Edge Webview2 with Selenium Python - Throwing error chrome not reachable",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/35"
-        },
-        {
-          "title": "WebDriver IE Mode hanging on page load #2047",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/38"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "86.84"
+      "rate": "97.37"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2660,7 +2660,23 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "52.00"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [
+        {
+          "title": "Using save as image and DownloadStarting event always pops up save dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
+        },
+        {
+          "title": "64-bit WebView2Loader.dll missing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2580"
+        },
+        {
+          "title": "WebView2 Renders over its parent",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2579"
+        },
         {
           "title": "Can we run Webview2-Evergreen and CEF 84 together?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
@@ -2672,14 +2688,6 @@
         {
           "title": "Setting `UserAgent` empties `navigator.userAgentData` brands",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2576"
-        },
-        {
-          "title": "A fail fast exception occurred When win32 application exits",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2575"
-        },
-        {
-          "title": "Support Lighthouse CLI",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2574"
         },
         {
           "title": "Webview can be closed using window.close after first navigation",
@@ -2732,10 +2740,6 @@
         {
           "title": "WebView2 full fill window cannot stretch",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
-        },
-        {
-          "title": "Invoking zoom programmatically under UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2538"
         },
         {
           "title": "Digital verification of Microsoft before installation of WebView2",
@@ -3284,6 +3288,10 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3811,6 +3819,10 @@
     },
     {
       "date": "2022-07-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
