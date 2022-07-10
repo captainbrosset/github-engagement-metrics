@@ -526,6 +526,10 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1066,6 +1070,10 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1597,6 +1605,10 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2128,6 +2140,10 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "97.37"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2664,7 +2680,19 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "52.00"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [
+        {
+          "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
+        },
+        {
+          "title": "Unable to clear user data with ClearBrowsingDataAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
+        },
         {
           "title": "Using save as image and DownloadStarting event always pops up save dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
@@ -2756,13 +2784,9 @@
         {
           "title": "Position of Scrollbar",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
-        },
-        {
-          "title": "> new Date().getTimezoneOffset() is returning different value in command prompt and F12 console of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3292,8 +3316,17 @@
     },
     {
       "date": "2022-07-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-10",
+      "unRespondedItems": [
+        {
+          "title": "I cant start debugging",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1104"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3823,6 +3856,10 @@
     },
     {
       "date": "2022-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }

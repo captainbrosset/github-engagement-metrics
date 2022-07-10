@@ -1,4 +1,4 @@
-Response rate: 92.09%
+Response rate: 91.52%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -7,7 +7,9 @@ Response rate: 92.09%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.37%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [Unable to use Clipboard API to write to clipboard in WinUI 3...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584)
+  * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
   * [Using save as image and DownloadStarting event always pops u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581)
   * [64-bit WebView2Loader.dll missing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2580)
   * [WebView2 Renders over its parent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2579)
@@ -31,6 +33,6 @@ Response rate: 92.09%
   * [Detecting if app already running and reuse same window if ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2553)
   * [All WebView2 controls fire ProcessFailed events and controls...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544)
   * [Position of Scrollbar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537)
-  * [> new Date().getTimezoneOffset() is returning different valu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2526)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [I cant start debugging](https://github.com/microsoft/vscode-edge-devtools/issues/1104)
 * **MicrosoftDocs/edge-developer** - _100.00%_
