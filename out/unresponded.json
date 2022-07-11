@@ -530,6 +530,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1074,6 +1078,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1609,6 +1617,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2144,6 +2156,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "97.37"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2684,7 +2700,19 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [
+        {
+          "title": "DevToolsProtocolExtension Network events dont fire",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2586"
+        },
+        {
+          "title": "Application crash due to navigation without triggering try-catch and crash events",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2585"
+        },
         {
           "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
@@ -2786,7 +2814,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
         }
       ],
-      "rate": "50.00"
+      "rate": "46.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3320,6 +3348,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [
         {
           "title": "I cant start debugging",
@@ -3860,6 +3892,10 @@
     },
     {
       "date": "2022-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }

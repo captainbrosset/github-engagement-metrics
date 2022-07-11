@@ -1,4 +1,4 @@
-Response rate: 91.52%
+Response rate: 90.94%
 
 * **webhintio/hint** - _95.24%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -7,7 +7,9 @@ Response rate: 91.52%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.37%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [DevToolsProtocolExtension Network events dont fire](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2586)
+  * [Application crash due to navigation without triggering try-c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2585)
   * [Unable to use Clipboard API to write to clipboard in WinUI 3...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584)
   * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
   * [Using save as image and DownloadStarting event always pops u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581)
