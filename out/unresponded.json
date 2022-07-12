@@ -534,6 +534,10 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1082,6 +1086,10 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1621,6 +1629,10 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2160,13 +2172,21 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "97.37"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [
+        {
+          "title": "Last Windows 64 Stable API",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/39"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "97.37"
+      "rate": "94.87"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2704,34 +2724,18 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [
-        {
-          "title": "DevToolsProtocolExtension Network events dont fire",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2586"
-        },
         {
           "title": "Application crash due to navigation without triggering try-catch and crash events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2585"
         },
         {
-          "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
-        },
-        {
-          "title": "Unable to clear user data with ClearBrowsingDataAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
-        },
-        {
           "title": "Using save as image and DownloadStarting event always pops up save dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
-        },
-        {
-          "title": "64-bit WebView2Loader.dll missing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2580"
-        },
-        {
-          "title": "WebView2 Renders over its parent",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2579"
         },
         {
           "title": "Can we run Webview2-Evergreen and CEF 84 together?",
@@ -2748,10 +2752,6 @@
         {
           "title": "Webview can be closed using window.close after first navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573"
-        },
-        {
-          "title": "Get ICoreWebView2 reference in CDP callbacks and avoid callback hell",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2571"
         },
         {
           "title": "Text selection always show context menu with broken \"menu settings\" option.",
@@ -2782,20 +2782,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554"
         },
         {
-          "title": "Blank page when minimizing a maximized frameless window with multi-monitor setup",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2549"
-        },
-        {
           "title": "Webview2 component is out of sync with window size,PostWebMessageAsJson pass data js cannot receive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547"
         },
         {
-          "title": "Cannot drop files from Explorer into WebView2 in a WinUI3 app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2546"
-        },
-        {
           "title": "WebView2 full fill window cannot stretch",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
+        },
+        {
+          "title": "NuGet package breaks resource generation in WinForms C# project.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2583"
         },
         {
           "title": "Digital verification of Microsoft before installation of WebView2",
@@ -2810,11 +2806,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544"
         },
         {
+          "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
+        },
+        {
           "title": "Position of Scrollbar",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
         }
       ],
-      "rate": "46.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3352,10 +3352,14 @@
     },
     {
       "date": "2022-07-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-12",
       "unRespondedItems": [
         {
-          "title": "I cant start debugging",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1104"
+          "title": "AnalyzerError: Unable to parse axe results null",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
         }
       ],
       "rate": "98.00"
@@ -3896,8 +3900,17 @@
     },
     {
       "date": "2022-07-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-12",
+      "unRespondedItems": [
+        {
+          "title": "IE had been lock cant use this solution to use IE mode",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2053"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
