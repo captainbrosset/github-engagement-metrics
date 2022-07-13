@@ -538,17 +538,17 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
           "url": "https://github.com/webhintio/hint/issues/5217"
-        },
-        {
-          "title": "*hint -v",
-          "url": "https://github.com/webhintio/hint/issues/5174"
         }
       ],
-      "rate": "95.24"
+      "rate": "97.56"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1090,6 +1090,10 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1633,6 +1637,10 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2176,17 +2184,17 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "94.87"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [
-        {
-          "title": "Last Windows 64 Stable API",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/39"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.87"
+      "rate": "97.50"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2728,11 +2736,11 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [
-        {
-          "title": "Application crash due to navigation without triggering try-catch and crash events",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2585"
-        },
         {
           "title": "Using save as image and DownloadStarting event always pops up save dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
@@ -2790,12 +2798,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
         },
         {
+          "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
+        },
+        {
           "title": "NuGet package breaks resource generation in WinForms C# project.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2583"
         },
         {
-          "title": "Digital verification of Microsoft before installation of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
+          "title": "Unable to clear user data with ClearBrowsingDataAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
         },
         {
           "title": "Detecting if app already running and reuse same window if app already running",
@@ -3356,6 +3368,10 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [
         {
           "title": "AnalyzerError: Unable to parse axe results null",
@@ -3904,13 +3920,21 @@
     },
     {
       "date": "2022-07-12",
+      "rate": "97.78"
+    },
+    {
+      "date": "2022-07-13",
       "unRespondedItems": [
+        {
+          "title": "Does WebView2 development really depend on customers having a \"Preview\" release of Edge?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2055"
+        },
         {
           "title": "IE had been lock cant use this solution to use IE mode",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2053"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ]
 }
