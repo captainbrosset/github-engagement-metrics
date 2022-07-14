@@ -542,6 +542,10 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1094,6 +1098,10 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1641,6 +1649,10 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2188,6 +2200,10 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2740,7 +2756,15 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [
+        {
+          "title": "Getting process infos results in exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589"
+        },
         {
           "title": "Using save as image and DownloadStarting event always pops up save dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
@@ -2778,10 +2802,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562"
         },
         {
-          "title": "In some POST transmissions using NavigateWithWebResourceRequest, HTTP headers are not reflected correctly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2556"
-        },
-        {
           "title": "When calling 'CreateCoreWebView2Controller' in Webview2, it takes about 3 seconds, but I want to reduce it to 1 second. I wonder if there is a better way",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2555"
         },
@@ -2810,8 +2830,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
         },
         {
-          "title": "Detecting if app already running and reuse same window if app already running",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2553"
+          "title": "WebView2 In Win11 not support Google Login. Error Message: This browser or app may not be secure.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552"
         },
         {
           "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
@@ -3372,13 +3392,33 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [
+        {
+          "title": "Check debugs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1110"
+        },
+        {
+          "title": "How to connect to Edge vs version",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
+        },
+        {
+          "title": "Microsoft devtools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1108"
+        },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
+        },
+        {
+          "title": "m",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1107"
         }
       ],
-      "rate": "98.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3924,10 +3964,14 @@
     },
     {
       "date": "2022-07-13",
+      "rate": "95.56"
+    },
+    {
+      "date": "2022-07-14",
       "unRespondedItems": [
         {
-          "title": "Does WebView2 development really depend on customers having a \"Preview\" release of Edge?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2055"
+          "title": " Web Accessibility Checker' does not work Visual Studio 2022",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2059"
         },
         {
           "title": "IE had been lock cant use this solution to use IE mode",
