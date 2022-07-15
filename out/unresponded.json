@@ -546,6 +546,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1102,6 +1106,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1653,6 +1661,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2204,6 +2216,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2760,6 +2776,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [
         {
           "title": "Getting process infos results in exception",
@@ -2818,6 +2838,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
         },
         {
+          "title": "problems with translator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
+        },
+        {
           "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
         },
@@ -2840,10 +2864,6 @@
         {
           "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
-        },
-        {
-          "title": "Position of Scrollbar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2537"
         }
       ],
       "rate": "58.00"
@@ -3396,29 +3416,17 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [
-        {
-          "title": "Check debugs",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1110"
-        },
-        {
-          "title": "How to connect to Edge vs version",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
-        },
-        {
-          "title": "Microsoft devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1108"
-        },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
-        },
-        {
-          "title": "m",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1107"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3968,6 +3976,10 @@
     },
     {
       "date": "2022-07-14",
+      "rate": "95.56"
+    },
+    {
+      "date": "2022-07-15",
       "unRespondedItems": [
         {
           "title": " Web Accessibility Checker' does not work Visual Studio 2022",
@@ -3976,9 +3988,13 @@
         {
           "title": "IE had been lock cant use this solution to use IE mode",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2053"
+        },
+        {
+          "title": "hello",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
         }
       ],
-      "rate": "95.56"
+      "rate": "93.33"
     }
   ]
 }
