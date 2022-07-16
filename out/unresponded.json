@@ -550,6 +550,10 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1110,6 +1114,10 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1665,6 +1673,10 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2220,6 +2232,10 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2780,6 +2796,10 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [
         {
           "title": "Getting process infos results in exception",
@@ -2838,6 +2858,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
         },
         {
+          "title": "hang in webview2 when SetWindowLongPtr",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592"
+        },
+        {
           "title": "problems with translator",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         },
@@ -2866,7 +2890,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3420,13 +3444,21 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
+        },
+        {
+          "title": "How to connect to Edge vs version",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -3980,7 +4012,15 @@
     },
     {
       "date": "2022-07-15",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-07-16",
       "unRespondedItems": [
+        {
+          "title": "https://oem.08.git.my",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2063"
+        },
         {
           "title": " Web Accessibility Checker' does not work Visual Studio 2022",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2059"
@@ -3994,7 +4034,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
         }
       ],
-      "rate": "93.33"
+      "rate": "91.11"
     }
   ]
 }
