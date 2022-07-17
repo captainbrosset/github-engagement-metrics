@@ -554,6 +554,10 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1118,6 +1122,10 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1677,6 +1685,10 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2236,6 +2248,10 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2800,7 +2816,15 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [
+        {
+          "title": "wv2winrt javascript case for static methods projection",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595"
+        },
         {
           "title": "Getting process infos results in exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589"
@@ -2890,7 +2914,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3448,7 +3472,15 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [
+        {
+          "title": "Bugs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1112"
+        },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
@@ -3458,7 +3490,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4016,7 +4048,15 @@
     },
     {
       "date": "2022-07-16",
+      "rate": "91.11"
+    },
+    {
+      "date": "2022-07-17",
       "unRespondedItems": [
+        {
+          "title": "Google Takeout",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2064"
+        },
         {
           "title": "https://oem.08.git.my",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2063"
@@ -4034,7 +4074,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
         }
       ],
-      "rate": "91.11"
+      "rate": "89.13"
     }
   ]
 }

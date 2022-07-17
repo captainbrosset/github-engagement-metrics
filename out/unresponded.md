@@ -1,4 +1,4 @@
-Response rate: 91.17%
+Response rate: 90.31%
 
 * **webhintio/hint** - _97.56%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -6,7 +6,8 @@ Response rate: 91.17%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.50%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [wv2winrt javascript case for static methods projection](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595)
   * [Getting process infos results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589)
   * [Using save as image and DownloadStarting event always pops u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581)
   * [Can we run Webview2-Evergreen and CEF 84 together?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578)
@@ -29,10 +30,12 @@ Response rate: 91.17%
   * [WebView2 In Win11 not support Google Login. Error Message: T...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552)
   * [All WebView2 controls fire ProcessFailed events and controls...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544)
   * [Using Power BI Embedded, WebView2 shows Sign-In button each ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/1112)
   * [AnalyzerError: Unable to parse axe results null](https://github.com/microsoft/vscode-edge-devtools/issues/1105)
   * [How to connect to Edge vs version](https://github.com/microsoft/vscode-edge-devtools/issues/1109)
-* **MicrosoftDocs/edge-developer** - _91.11%_
+* **MicrosoftDocs/edge-developer** - _89.13%_
+  * [Google Takeout](https://github.com/MicrosoftDocs/edge-developer/issues/2064)
   * [https://oem.08.git.my](https://github.com/MicrosoftDocs/edge-developer/issues/2063)
   * [ Web Accessibility Checker' does not work Visual Studio 2022...](https://github.com/MicrosoftDocs/edge-developer/issues/2059)
   * [IE had been lock cant use this solution to use IE mode](https://github.com/MicrosoftDocs/edge-developer/issues/2053)
