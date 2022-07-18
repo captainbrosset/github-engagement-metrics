@@ -558,6 +558,10 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Make it easier to export report to PDF",
@@ -1126,6 +1130,10 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1689,6 +1697,10 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2252,6 +2264,10 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2820,7 +2836,15 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [
+        {
+          "title": "Improve file downloads integration in a UWP app ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2596"
+        },
         {
           "title": "wv2winrt javascript case for static methods projection",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595"
@@ -2908,10 +2932,6 @@
         {
           "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544"
-        },
-        {
-          "title": "Using Power BI Embedded, WebView2 shows Sign-In button each time we close and reopen the app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541"
         }
       ],
       "rate": "54.00"
@@ -3476,7 +3496,19 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [
+        {
+          "title": "Edge Tools and Flatpak: \"Unable to launch browser\"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1114"
+        },
+        {
+          "title": "Cursor property not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1113"
+        },
         {
           "title": "Bugs",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1112"
@@ -3490,7 +3522,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4052,6 +4084,10 @@
     },
     {
       "date": "2022-07-17",
+      "rate": "89.13"
+    },
+    {
+      "date": "2022-07-18",
       "unRespondedItems": [
         {
           "title": "Google Takeout",

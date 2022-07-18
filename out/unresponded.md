@@ -1,4 +1,4 @@
-Response rate: 90.31%
+Response rate: 89.74%
 
 * **webhintio/hint** - _97.56%_
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -7,6 +7,7 @@ Response rate: 90.31%
 * **MicrosoftEdge/EdgeWebDriver** - _97.50%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Improve file downloads integration in a UWP app ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2596)
   * [wv2winrt javascript case for static methods projection](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595)
   * [Getting process infos results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589)
   * [Using save as image and DownloadStarting event always pops u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581)
@@ -29,8 +30,9 @@ Response rate: 90.31%
   * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
   * [WebView2 In Win11 not support Google Login. Error Message: T...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552)
   * [All WebView2 controls fire ProcessFailed events and controls...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544)
-  * [Using Power BI Embedded, WebView2 shows Sign-In button each ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2541)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Edge Tools and Flatpak: "Unable to launch browser"](https://github.com/microsoft/vscode-edge-devtools/issues/1114)
+  * [Cursor property not working](https://github.com/microsoft/vscode-edge-devtools/issues/1113)
   * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/1112)
   * [AnalyzerError: Unable to parse axe results null](https://github.com/microsoft/vscode-edge-devtools/issues/1105)
   * [How to connect to Edge vs version](https://github.com/microsoft/vscode-edge-devtools/issues/1109)
