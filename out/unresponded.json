@@ -562,13 +562,21 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
+          "url": "https://github.com/webhintio/hint/issues/5256"
+        },
         {
           "title": "[Bug] Make it easier to export report to PDF",
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "97.56"
+      "rate": "95.12"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1134,6 +1142,10 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1701,6 +1713,10 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2268,6 +2284,10 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2840,10 +2860,18 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [
         {
-          "title": "Improve file downloads integration in a UWP app ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2596"
+          "title": "PDF Previewer in explorer failing after subsequent updates",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2598"
+        },
+        {
+          "title": "UWP drag and drop file uploads",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2597"
         },
         {
           "title": "wv2winrt javascript case for static methods projection",
@@ -2890,24 +2918,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562"
         },
         {
-          "title": "When calling 'CreateCoreWebView2Controller' in Webview2, it takes about 3 seconds, but I want to reduce it to 1 second. I wonder if there is a better way",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2555"
-        },
-        {
-          "title": "Only Source is shown and not the HTML",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554"
-        },
-        {
           "title": "Webview2 component is out of sync with window size,PostWebMessageAsJson pass data js cannot receive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547"
-        },
-        {
-          "title": "WebView2 full fill window cannot stretch",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2543"
-        },
-        {
-          "title": "hang in webview2 when SetWindowLongPtr",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592"
         },
         {
           "title": "problems with translator",
@@ -2928,13 +2940,9 @@
         {
           "title": "WebView2 In Win11 not support Google Login. Error Message: This browser or app may not be secure.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552"
-        },
-        {
-          "title": "All WebView2 controls fire ProcessFailed events and controls are not responsive",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2544"
         }
       ],
-      "rate": "54.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3500,29 +3508,21 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [
         {
-          "title": "Edge Tools and Flatpak: \"Unable to launch browser\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1114"
-        },
-        {
-          "title": "Cursor property not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1113"
-        },
-        {
-          "title": "Bugs",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1112"
+          "title": "Your Code installation appears to be corrupt. Please reinstall.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1115"
         },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
-        },
-        {
-          "title": "How to connect to Edge vs version",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1109"
         }
       ],
-      "rate": "90.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4088,6 +4088,10 @@
     },
     {
       "date": "2022-07-18",
+      "rate": "89.13"
+    },
+    {
+      "date": "2022-07-19",
       "unRespondedItems": [
         {
           "title": "Google Takeout",
@@ -4110,7 +4114,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
         }
       ],
-      "rate": "89.13"
+      "rate": "89.36"
     }
   ]
 }
