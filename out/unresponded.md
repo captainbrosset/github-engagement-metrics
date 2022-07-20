@@ -1,4 +1,4 @@
-Response rate: 91.43%
+Response rate: 89.63%
 
 * **webhintio/hint** - _95.12%_
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
@@ -7,7 +7,11 @@ Response rate: 91.43%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.50%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Is there a way to add a site through WebView 2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2606)
+  * [WebView2RuntimeNotFoundException thrown with Microsoft Edge ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605)
+  * [Issue in calling script synchronously from webview2 in WPF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603)
+  * [window.print() not work when print html file which contains ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601)
   * [PDF Previewer in explorer failing after subsequent updates](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2598)
   * [UWP drag and drop file uploads](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2597)
   * [wv2winrt javascript case for static methods projection](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595)
@@ -21,16 +25,18 @@ Response rate: 91.43%
   * [WebView2 Control doesn't render on one machine.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567)
   * [How to detect that the WebView2 control is in a closed state...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566)
   * [custom CoreWebView2ContextMenuItem.Icon not show](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562)
-  * [Webview2 component is out of sync with window size,PostWebMe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547)
   * [problems with translator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590)
   * [Unable to use Clipboard API to write to clipboard in WinUI 3...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584)
   * [NuGet package breaks resource generation in WinForms C# proj...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2583)
   * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
-  * [WebView2 In Win11 not support Google Login. Error Message: T...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552)
+  * [Digital verification of Microsoft before installation of Web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559)
+  * [Only Source is shown and not the HTML](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Your Code installation appears to be corrupt. Please reinsta...](https://github.com/microsoft/vscode-edge-devtools/issues/1115)
+  * [Node.js development](https://github.com/microsoft/vscode-edge-devtools/issues/1116)
   * [AnalyzerError: Unable to parse axe results null](https://github.com/microsoft/vscode-edge-devtools/issues/1105)
-* **MicrosoftDocs/edge-developer** - _89.36%_
+* **MicrosoftDocs/edge-developer** - _84.78%_
+  * [Preview edge not needed](https://github.com/MicrosoftDocs/edge-developer/issues/2068)
+  * [Edge IE Mode no option to copy the xpath after doing an insp...](https://github.com/MicrosoftDocs/edge-developer/issues/2067)
   * [Google Takeout](https://github.com/MicrosoftDocs/edge-developer/issues/2064)
   * [https://oem.08.git.my](https://github.com/MicrosoftDocs/edge-developer/issues/2063)
   * [ Web Accessibility Checker' does not work Visual Studio 2022...](https://github.com/MicrosoftDocs/edge-developer/issues/2059)

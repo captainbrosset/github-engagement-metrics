@@ -566,6 +566,10 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "95.12"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
@@ -1146,6 +1150,10 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1717,6 +1725,10 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2288,6 +2300,10 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2864,7 +2880,27 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [
+        {
+          "title": "Is there a way to add a site through WebView 2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2606"
+        },
+        {
+          "title": "WebView2RuntimeNotFoundException thrown with Microsoft Edge WebView2 Runtime installed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605"
+        },
+        {
+          "title": "Issue in calling script synchronously from webview2 in WPF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
+        },
+        {
+          "title": "window.print() not work when print html file which contains embed/object tag",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601"
+        },
         {
           "title": "PDF Previewer in explorer failing after subsequent updates",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2598"
@@ -2918,10 +2954,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562"
         },
         {
-          "title": "Webview2 component is out of sync with window size,PostWebMessageAsJson pass data js cannot receive",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2547"
-        },
-        {
           "title": "problems with translator",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         },
@@ -2938,11 +2970,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
         },
         {
-          "title": "WebView2 In Win11 not support Google Login. Error Message: This browser or app may not be secure.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2552"
+          "title": "Digital verification of Microsoft before installation of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
+        },
+        {
+          "title": "Only Source is shown and not the HTML",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554"
         }
       ],
-      "rate": "62.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3512,10 +3548,14 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [
         {
-          "title": "Your Code installation appears to be corrupt. Please reinstall.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1115"
+          "title": "Node.js development",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1116"
         },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
@@ -4092,7 +4132,19 @@
     },
     {
       "date": "2022-07-19",
+      "rate": "89.36"
+    },
+    {
+      "date": "2022-07-20",
       "unRespondedItems": [
+        {
+          "title": "Preview edge not needed",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2068"
+        },
+        {
+          "title": "Edge IE Mode no option to copy the xpath after doing an inspect element in Developer Tools",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2067"
+        },
         {
           "title": "Google Takeout",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2064"
@@ -4114,7 +4166,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
         }
       ],
-      "rate": "89.36"
+      "rate": "84.78"
     }
   ]
 }
