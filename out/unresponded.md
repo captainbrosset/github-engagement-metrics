@@ -1,4 +1,4 @@
-Response rate: 89.63%
+Response rate: 89.91%
 
 * **webhintio/hint** - _95.12%_
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
@@ -8,7 +8,8 @@ Response rate: 89.63%
 * **MicrosoftEdge/EdgeWebDriver** - _97.50%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [Is there a way to add a site through WebView 2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2606)
+  * [EnsureCoreWebView2Async task never completes if WebView2 is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2609)
+  * [How to customize context menu on WebView2 PDF viewer](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607)
   * [WebView2RuntimeNotFoundException thrown with Microsoft Edge ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605)
   * [Issue in calling script synchronously from webview2 in WPF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603)
   * [window.print() not work when print html file which contains ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601)
@@ -30,15 +31,13 @@ Response rate: 89.63%
   * [NuGet package breaks resource generation in WinForms C# proj...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2583)
   * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
   * [Digital verification of Microsoft before installation of Web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559)
-  * [Only Source is shown and not the HTML](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Node.js development](https://github.com/microsoft/vscode-edge-devtools/issues/1116)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [AnalyzerError: Unable to parse axe results null](https://github.com/microsoft/vscode-edge-devtools/issues/1105)
 * **MicrosoftDocs/edge-developer** - _84.78%_
   * [Preview edge not needed](https://github.com/MicrosoftDocs/edge-developer/issues/2068)
   * [Edge IE Mode no option to copy the xpath after doing an insp...](https://github.com/MicrosoftDocs/edge-developer/issues/2067)
   * [Google Takeout](https://github.com/MicrosoftDocs/edge-developer/issues/2064)
-  * [https://oem.08.git.my](https://github.com/MicrosoftDocs/edge-developer/issues/2063)
   * [ Web Accessibility Checker' does not work Visual Studio 2022...](https://github.com/MicrosoftDocs/edge-developer/issues/2059)
   * [IE had been lock cant use this solution to use IE mode](https://github.com/MicrosoftDocs/edge-developer/issues/2053)
+  * [Consider adding "Quota usage" details to other topics](https://github.com/MicrosoftDocs/edge-developer/issues/2070)
   * [hello](https://github.com/MicrosoftDocs/edge-developer/issues/2060)

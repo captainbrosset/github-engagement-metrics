@@ -570,6 +570,10 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "95.12"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
@@ -1154,6 +1158,10 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1729,6 +1737,10 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2304,6 +2316,10 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2884,10 +2900,18 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [
         {
-          "title": "Is there a way to add a site through WebView 2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2606"
+          "title": "EnsureCoreWebView2Async task never completes if WebView2 is launched as System",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2609"
+        },
+        {
+          "title": "How to customize context menu on WebView2 PDF viewer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
         },
         {
           "title": "WebView2RuntimeNotFoundException thrown with Microsoft Edge WebView2 Runtime installed",
@@ -2972,10 +2996,6 @@
         {
           "title": "Digital verification of Microsoft before installation of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
-        },
-        {
-          "title": "Only Source is shown and not the HTML",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2554"
         }
       ],
       "rate": "54.00"
@@ -3552,17 +3572,17 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [
-        {
-          "title": "Node.js development",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1116"
-        },
         {
           "title": "AnalyzerError: Unable to parse axe results null",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4136,6 +4156,10 @@
     },
     {
       "date": "2022-07-20",
+      "rate": "84.78"
+    },
+    {
+      "date": "2022-07-21",
       "unRespondedItems": [
         {
           "title": "Preview edge not needed",
@@ -4150,16 +4174,16 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2064"
         },
         {
-          "title": "https://oem.08.git.my",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2063"
-        },
-        {
           "title": " Web Accessibility Checker' does not work Visual Studio 2022",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2059"
         },
         {
           "title": "IE had been lock cant use this solution to use IE mode",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2053"
+        },
+        {
+          "title": "Consider adding \"Quota usage\" details to other topics",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2070"
         },
         {
           "title": "hello",
