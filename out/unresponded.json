@@ -574,6 +574,10 @@
     },
     {
       "date": "2022-07-21",
+      "rate": "95.12"
+    },
+    {
+      "date": "2022-07-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
@@ -584,7 +588,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "95.12"
+      "rate": "95.24"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1162,6 +1166,10 @@
     },
     {
       "date": "2022-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1741,6 +1749,10 @@
     },
     {
       "date": "2022-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2320,13 +2332,21 @@
     },
     {
       "date": "2022-07-21",
+      "rate": "97.50"
+    },
+    {
+      "date": "2022-07-22",
       "unRespondedItems": [
+        {
+          "title": "Selenium EdgeDriver debugging mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/41"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "97.50"
+      "rate": "95.12"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2904,11 +2924,11 @@
     },
     {
       "date": "2022-07-21",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-07-22",
       "unRespondedItems": [
-        {
-          "title": "EnsureCoreWebView2Async task never completes if WebView2 is launched as System",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2609"
-        },
         {
           "title": "How to customize context menu on WebView2 PDF viewer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
@@ -2922,10 +2942,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
         },
         {
-          "title": "window.print() not work when print html file which contains embed/object tag",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601"
-        },
-        {
           "title": "PDF Previewer in explorer failing after subsequent updates",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2598"
         },
@@ -2934,20 +2950,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2597"
         },
         {
-          "title": "wv2winrt javascript case for static methods projection",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2595"
-        },
-        {
           "title": "Getting process infos results in exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589"
         },
         {
           "title": "Using save as image and DownloadStarting event always pops up save dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
-        },
-        {
-          "title": "Can we run Webview2-Evergreen and CEF 84 together?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
         },
         {
           "title": "WinForms: Big file provided through WebResourceRequested crashes whole app with 32bit build",
@@ -2994,11 +3002,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
         },
         {
+          "title": "Can we run Webview2-Evergreen and CEF 84 together?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
+        },
+        {
           "title": "Digital verification of Microsoft before installation of WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3576,13 +3588,12 @@
     },
     {
       "date": "2022-07-21",
-      "unRespondedItems": [
-        {
-          "title": "AnalyzerError: Unable to parse axe results null",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1105"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-07-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4160,37 +4171,12 @@
     },
     {
       "date": "2022-07-21",
-      "unRespondedItems": [
-        {
-          "title": "Preview edge not needed",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2068"
-        },
-        {
-          "title": "Edge IE Mode no option to copy the xpath after doing an inspect element in Developer Tools",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2067"
-        },
-        {
-          "title": "Google Takeout",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2064"
-        },
-        {
-          "title": " Web Accessibility Checker' does not work Visual Studio 2022",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2059"
-        },
-        {
-          "title": "IE had been lock cant use this solution to use IE mode",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2053"
-        },
-        {
-          "title": "Consider adding \"Quota usage\" details to other topics",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2070"
-        },
-        {
-          "title": "hello",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2060"
-        }
-      ],
       "rate": "84.78"
+    },
+    {
+      "date": "2022-07-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
