@@ -578,7 +578,15 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
+          "url": "https://github.com/webhintio/hint/issues/5260"
+        },
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
           "url": "https://github.com/webhintio/hint/issues/5256"
@@ -588,7 +596,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "95.24"
+      "rate": "92.86"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1170,6 +1178,10 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1753,6 +1765,10 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2336,17 +2352,17 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "95.12"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [
-        {
-          "title": "Selenium EdgeDriver debugging mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/41"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.12"
+      "rate": "97.56"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -2928,7 +2944,31 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [
+        {
+          "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616"
+        },
+        {
+          "title": "Open DevTools inside current WPF MainWindow.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2615"
+        },
+        {
+          "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
+        },
+        {
+          "title": "When is navigationID unique?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613"
+        },
+        {
+          "title": "Being notified on new versions via GitHub Announcements?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2612"
+        },
         {
           "title": "How to customize context menu on WebView2 PDF viewer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
@@ -2982,8 +3022,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566"
         },
         {
-          "title": "custom CoreWebView2ContextMenuItem.Icon not show",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2562"
+          "title": "XMLHttpRequest() to redirected server not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610"
+        },
+        {
+          "title": "window.print() not work when print html file which contains embed/object tag",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601"
+        },
+        {
+          "title": "hang in webview2 when SetWindowLongPtr",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592"
         },
         {
           "title": "problems with translator",
@@ -3004,13 +3052,9 @@
         {
           "title": "Can we run Webview2-Evergreen and CEF 84 together?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
-        },
-        {
-          "title": "Digital verification of Microsoft before installation of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2559"
         }
       ],
-      "rate": "60.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3592,6 +3636,10 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4175,6 +4223,10 @@
     },
     {
       "date": "2022-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
