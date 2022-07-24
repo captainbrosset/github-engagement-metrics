@@ -1,4 +1,4 @@
-Response rate: 91.20%
+Response rate: 90.88%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -8,9 +8,8 @@ Response rate: 91.20%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.56%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
   * [Webpage does not load when Embbed Webview2 in WinForms' User...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616)
-  * [Open DevTools inside current WPF MainWindow.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2615)
   * ['Operation not supported. Unknown Error 0x800700d8' in Debug...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614)
   * [When is navigationID unique?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613)
   * [Being notified on new versions via GitHub Announcements?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2612)
@@ -36,4 +35,6 @@ Response rate: 91.20%
   * [Unable to clear user data with ClearBrowsingDataAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582)
   * [Can we run Webview2-Evergreen and CEF 84 together?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [samples](https://github.com/MicrosoftDocs/edge-developer/issues/2075)
+  * [notifications@github.com](https://github.com/MicrosoftDocs/edge-developer/issues/2076)

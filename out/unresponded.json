@@ -582,6 +582,10 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1182,6 +1186,10 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1769,6 +1777,10 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2356,6 +2368,10 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2948,14 +2964,14 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [
         {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616"
-        },
-        {
-          "title": "Open DevTools inside current WPF MainWindow.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2615"
         },
         {
           "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
@@ -3054,7 +3070,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
         }
       ],
-      "rate": "48.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3640,6 +3656,10 @@
     },
     {
       "date": "2022-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4227,8 +4247,21 @@
     },
     {
       "date": "2022-07-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-24",
+      "unRespondedItems": [
+        {
+          "title": "samples",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2075"
+        },
+        {
+          "title": "notifications@github.com",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2076"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }
