@@ -586,6 +586,10 @@
     },
     {
       "date": "2022-07-24",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1190,6 +1194,10 @@
     },
     {
       "date": "2022-07-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1781,8 +1789,17 @@
     },
     {
       "date": "2022-07-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-25",
+      "unRespondedItems": [
+        {
+          "title": "Eyedropper not on by default & harder to use",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/85"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2372,6 +2389,10 @@
     },
     {
       "date": "2022-07-24",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-25",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2968,7 +2989,23 @@
     },
     {
       "date": "2022-07-24",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-07-25",
       "unRespondedItems": [
+        {
+          "title": "adblocker feature",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619"
+        },
+        {
+          "title": "google login problems",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2618"
+        },
+        {
+          "title": "SetLanguage is not working with COM API",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617"
+        },
         {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616"
@@ -3030,14 +3067,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2569"
         },
         {
-          "title": "WebView2 Control doesn't render on one machine.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2567"
-        },
-        {
-          "title": "How to detect that the WebView2 control is in a closed state",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2566"
-        },
-        {
           "title": "XMLHttpRequest() to redirected server not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610"
         },
@@ -3070,7 +3099,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3660,8 +3689,21 @@
     },
     {
       "date": "2022-07-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-25",
+      "unRespondedItems": [
+        {
+          "title": "the preview section should not be on top of the terminal, it should reduce the terminal size and display the entire content of the page/  zoom also not available/ instance should launch from main code like live server ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1121"
+        },
+        {
+          "title": "Error while fetching list of available targets No available targets to attach.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1120"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4251,6 +4293,10 @@
     },
     {
       "date": "2022-07-24",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-07-25",
       "unRespondedItems": [
         {
           "title": "samples",
