@@ -590,6 +590,10 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1198,6 +1202,10 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1793,6 +1801,10 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [
         {
           "title": "Eyedropper not on by default & harder to use",
@@ -2393,6 +2405,10 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -2993,18 +3009,26 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [
         {
-          "title": "adblocker feature",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619"
+          "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
+        },
+        {
+          "title": "When exactly should ClientCertificateRequested be called?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2622"
+        },
+        {
+          "title": "Clearing profile history does not correctly affect CanGoX properties",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2620"
         },
         {
           "title": "google login problems",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2618"
-        },
-        {
-          "title": "SetLanguage is not working with COM API",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617"
         },
         {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
@@ -3019,10 +3043,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613"
         },
         {
-          "title": "Being notified on new versions via GitHub Announcements?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2612"
-        },
-        {
           "title": "How to customize context menu on WebView2 PDF viewer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
         },
@@ -3033,10 +3053,6 @@
         {
           "title": "Issue in calling script synchronously from webview2 in WPF",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
-        },
-        {
-          "title": "PDF Previewer in explorer failing after subsequent updates",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2598"
         },
         {
           "title": "UWP drag and drop file uploads",
@@ -3063,8 +3079,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573"
         },
         {
-          "title": "Text selection always show context menu with broken \"menu settings\" option.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2569"
+          "title": "adblocker feature",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619"
+        },
+        {
+          "title": "SetLanguage is not working with COM API",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617"
+        },
+        {
+          "title": "WebView 2 does not render anything after resolution scale change and opening a new browser window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         },
         {
           "title": "XMLHttpRequest() to redirected server not working",
@@ -3085,10 +3109,6 @@
         {
           "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
-        },
-        {
-          "title": "NuGet package breaks resource generation in WinForms C# project.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2583"
         },
         {
           "title": "Unable to clear user data with ClearBrowsingDataAsync",
@@ -3693,17 +3713,12 @@
     },
     {
       "date": "2022-07-25",
-      "unRespondedItems": [
-        {
-          "title": "the preview section should not be on top of the terminal, it should reduce the terminal size and display the entire content of the page/  zoom also not available/ instance should launch from main code like live server ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1121"
-        },
-        {
-          "title": "Error while fetching list of available targets No available targets to attach.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1120"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-07-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4297,10 +4312,14 @@
     },
     {
       "date": "2022-07-25",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-07-26",
       "unRespondedItems": [
         {
-          "title": "samples",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2075"
+          "title": "Get info about the latest version of Evergreen Bootstrapper",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2077"
         },
         {
           "title": "notifications@github.com",
