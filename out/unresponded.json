@@ -594,6 +594,10 @@
     },
     {
       "date": "2022-07-26",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1206,6 +1210,10 @@
     },
     {
       "date": "2022-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1805,13 +1813,12 @@
     },
     {
       "date": "2022-07-26",
-      "unRespondedItems": [
-        {
-          "title": "Eyedropper not on by default & harder to use",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/85"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-07-27",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2409,13 +2416,17 @@
     },
     {
       "date": "2022-07-26",
+      "rate": "97.56"
+    },
+    {
+      "date": "2022-07-27",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "97.56"
+      "rate": "97.62"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3013,22 +3024,30 @@
     },
     {
       "date": "2022-07-26",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-07-27",
       "unRespondedItems": [
+        {
+          "title": "VSTO Outlook Addin - 0x8007139F error on multiple Webview2 instances created - Windows Server 2016",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626"
+        },
+        {
+          "title": "Get info about the latest version of Evergreen Bootstrapper",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625"
+        },
+        {
+          "title": "iOS - Download File through POST-Request saves file with 0 KB",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624"
+        },
         {
           "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         },
         {
-          "title": "When exactly should ClientCertificateRequested be called?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2622"
-        },
-        {
           "title": "Clearing profile history does not correctly affect CanGoX properties",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2620"
-        },
-        {
-          "title": "google login problems",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2618"
         },
         {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
@@ -3071,14 +3090,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2577"
         },
         {
-          "title": "Setting `UserAgent` empties `navigator.userAgentData` brands",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2576"
-        },
-        {
-          "title": "Webview can be closed using window.close after first navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2573"
-        },
-        {
           "title": "adblocker feature",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619"
         },
@@ -3095,10 +3106,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610"
         },
         {
-          "title": "window.print() not work when print html file which contains embed/object tag",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2601"
-        },
-        {
           "title": "hang in webview2 when SetWindowLongPtr",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592"
         },
@@ -3107,19 +3114,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         },
         {
-          "title": "Unable to use Clipboard API to write to clipboard in WinUI 3 app with WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2584"
-        },
-        {
-          "title": "Unable to clear user data with ClearBrowsingDataAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2582"
-        },
-        {
           "title": "Can we run Webview2-Evergreen and CEF 84 together?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
         }
       ],
-      "rate": "48.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3717,6 +3716,10 @@
     },
     {
       "date": "2022-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4316,17 +4319,12 @@
     },
     {
       "date": "2022-07-26",
-      "unRespondedItems": [
-        {
-          "title": "Get info about the latest version of Evergreen Bootstrapper",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2077"
-        },
-        {
-          "title": "notifications@github.com",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2076"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2022-07-27",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
