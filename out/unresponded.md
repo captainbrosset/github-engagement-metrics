@@ -1,4 +1,4 @@
-Response rate: 92.35%
+Response rate: 91.73%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -6,9 +6,11 @@ Response rate: 92.35%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _97.62%_
+* **MicrosoftEdge/EdgeWebDriver** - _95.24%_
+  * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Is there API to disable Service Worker support in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2629)
   * [VSTO Outlook Addin - 0x8007139F error on multiple Webview2 i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626)
   * [Get info about the latest version of Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625)
   * [iOS - Download File through POST-Request saves file with 0 K...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624)
@@ -23,7 +25,7 @@ Response rate: 92.35%
   * [UWP drag and drop file uploads](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2597)
   * [Getting process infos results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589)
   * [Using save as image and DownloadStarting event always pops u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581)
-  * [WinForms: Big file provided through WebResourceRequested cra...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2577)
+  * [Random Quiet Abends using WebBrowser2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627)
   * [adblocker feature](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619)
   * [SetLanguage is not working with COM API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617)
   * [WebView 2 does not render anything after resolution scale ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611)
