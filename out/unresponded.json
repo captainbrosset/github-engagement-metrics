@@ -602,6 +602,10 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1222,6 +1226,10 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1829,6 +1837,10 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2436,7 +2448,15 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "95.24"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [
+        {
+          "title": "unable to download file in headless edge",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/43"
+        },
         {
           "title": "Edge Browser Closes Immediately",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
@@ -2446,7 +2466,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.24"
+      "rate": "93.02"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3052,7 +3072,19 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [
+        {
+          "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
+        },
+        {
+          "title": "CallBack in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630"
+        },
         {
           "title": "Is there API to disable Service Worker support in WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2629"
@@ -3140,13 +3172,9 @@
         {
           "title": "problems with translator",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
-        },
-        {
-          "title": "Can we run Webview2-Evergreen and CEF 84 together?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3752,8 +3780,21 @@
     },
     {
       "date": "2022-07-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-29",
+      "unRespondedItems": [
+        {
+          "title": "Extension issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1128"
+        },
+        {
+          "title": "Microsoft Edge could not be found - Unable to launch a file",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1127"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4359,6 +4400,10 @@
     },
     {
       "date": "2022-07-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }

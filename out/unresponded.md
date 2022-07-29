@@ -1,4 +1,4 @@
-Response rate: 91.73%
+Response rate: 90.55%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -6,10 +6,13 @@ Response rate: 91.73%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _95.24%_
+* **MicrosoftEdge/EdgeWebDriver** - _93.02%_
+  * [unable to download file in headless edge](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/43)
   * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [WebView2 corespondent for CefSharp IJavascriptCallback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632)
+  * [CallBack in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630)
   * [Is there API to disable Service Worker support in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2629)
   * [VSTO Outlook Addin - 0x8007139F error on multiple Webview2 i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626)
   * [Get info about the latest version of Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625)
@@ -32,6 +35,7 @@ Response rate: 91.73%
   * [XMLHttpRequest() to redirected server not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610)
   * [hang in webview2 when SetWindowLongPtr](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592)
   * [problems with translator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590)
-  * [Can we run Webview2-Evergreen and CEF 84 together?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2578)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Extension issue](https://github.com/microsoft/vscode-edge-devtools/issues/1128)
+  * [Microsoft Edge could not be found - Unable to launch a file](https://github.com/microsoft/vscode-edge-devtools/issues/1127)
 * **MicrosoftDocs/edge-developer** - _100.00%_
