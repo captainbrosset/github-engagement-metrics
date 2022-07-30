@@ -606,6 +606,10 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1230,6 +1234,10 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1841,6 +1849,10 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2452,21 +2464,17 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "93.02"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [
-        {
-          "title": "unable to download file in headless edge",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/43"
-        },
-        {
-          "title": "Edge Browser Closes Immediately",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.02"
+      "rate": "97.67"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3076,7 +3084,19 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "52.00"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [
+        {
+          "title": "Browser Cache not working with self-signed certificate",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2634"
+        },
+        {
+          "title": "Print screen turned to white blank screen after setting PrintingEnabled group policy value",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2633"
+        },
         {
           "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
@@ -3106,16 +3126,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         },
         {
-          "title": "Clearing profile history does not correctly affect CanGoX properties",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2620"
-        },
-        {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616"
-        },
-        {
-          "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
         },
         {
           "title": "When is navigationID unique?",
@@ -3134,16 +3146,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
         },
         {
-          "title": "UWP drag and drop file uploads",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2597"
-        },
-        {
           "title": "Getting process infos results in exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589"
-        },
-        {
-          "title": "Using save as image and DownloadStarting event always pops up save dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2581"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
@@ -3174,7 +3178,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         }
       ],
-      "rate": "52.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3784,17 +3788,12 @@
     },
     {
       "date": "2022-07-29",
-      "unRespondedItems": [
-        {
-          "title": "Extension issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1128"
-        },
-        {
-          "title": "Microsoft Edge could not be found - Unable to launch a file",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1127"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-07-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4404,6 +4403,10 @@
     },
     {
       "date": "2022-07-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
