@@ -1,4 +1,4 @@
-Response rate: 92.36%
+Response rate: 91.50%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -31,5 +31,8 @@ Response rate: 92.36%
   * [XMLHttpRequest() to redirected server not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610)
   * [hang in webview2 when SetWindowLongPtr](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592)
   * [problems with translator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/1133)
+  * [ccsu](https://github.com/microsoft/vscode-edge-devtools/issues/1132)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1131)
 * **MicrosoftDocs/edge-developer** - _100.00%_

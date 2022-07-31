@@ -610,6 +610,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1238,6 +1242,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1853,6 +1861,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2468,6 +2480,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "97.67"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -3088,6 +3104,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [
         {
           "title": "Browser Cache not working with self-signed certificate",
@@ -3792,8 +3812,25 @@
     },
     {
       "date": "2022-07-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-07-31",
+      "unRespondedItems": [
+        {
+          "title": "Bugs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1133"
+        },
+        {
+          "title": "ccsu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1132"
+        },
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1131"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4407,6 +4444,10 @@
     },
     {
       "date": "2022-07-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-07-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
