@@ -614,6 +614,10 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1246,6 +1250,10 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1865,6 +1873,10 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2484,13 +2496,21 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "97.67"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [
+        {
+          "title": "Edge Browser Closes Immediately",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "97.67"
+      "rate": "95.35"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3108,15 +3128,11 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [
-        {
-          "title": "Browser Cache not working with self-signed certificate",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2634"
-        },
-        {
-          "title": "Print screen turned to white blank screen after setting PrintingEnabled group policy value",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2633"
-        },
         {
           "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
@@ -3198,7 +3214,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         }
       ],
-      "rate": "56.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3816,6 +3832,10 @@
     },
     {
       "date": "2022-07-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-08-01",
       "unRespondedItems": [
         {
           "title": "Bugs",
@@ -4448,8 +4468,25 @@
     },
     {
       "date": "2022-07-31",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-01",
+      "unRespondedItems": [
+        {
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2085"
+        },
+        {
+          "title": "brb, bex here",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2084"
+        },
+        {
+          "title": "Chi532013@outlook.co.th",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2083"
+        }
+      ],
+      "rate": "93.62"
     }
   ]
 }

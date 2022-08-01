@@ -1,4 +1,4 @@
-Response rate: 91.50%
+Response rate: 90.83%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -6,11 +6,10 @@ Response rate: 91.50%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _97.67%_
+* **MicrosoftEdge/EdgeWebDriver** - _95.35%_
+  * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [Browser Cache not working with self-signed certificate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2634)
-  * [Print screen turned to white blank screen after setting Prin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2633)
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [WebView2 corespondent for CefSharp IJavascriptCallback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632)
   * [CallBack in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630)
   * [Is there API to disable Service Worker support in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2629)
@@ -35,4 +34,7 @@ Response rate: 91.50%
   * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/1133)
   * [ccsu](https://github.com/microsoft/vscode-edge-devtools/issues/1132)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1131)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _93.62%_
+  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2085)
+  * [brb, bex here](https://github.com/MicrosoftDocs/edge-developer/issues/2084)
+  * [Chi532013@outlook.co.th](https://github.com/MicrosoftDocs/edge-developer/issues/2083)
