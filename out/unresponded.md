@@ -1,4 +1,4 @@
-Response rate: 90.83%
+Response rate: 91.70%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -6,13 +6,16 @@ Response rate: 90.83%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _95.35%_
+* **MicrosoftEdge/EdgeWebDriver** - _93.18%_
+  * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [Any Chance of a "WebView2 Lite" Version?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2637)
+  * [How to Embed WebView2 Runtimes in .NET Framework Class Libra...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2636)
+  * [WebView2 - WinForms (VB.Net) - Blank webpage looks like cont...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635)
   * [WebView2 corespondent for CefSharp IJavascriptCallback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632)
   * [CallBack in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630)
-  * [Is there API to disable Service Worker support in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2629)
   * [VSTO Outlook Addin - 0x8007139F error on multiple Webview2 i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626)
   * [Get info about the latest version of Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625)
   * [iOS - Download File through POST-Request saves file with 0 K...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624)
@@ -27,14 +30,8 @@ Response rate: 90.83%
   * [adblocker feature](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619)
   * [SetLanguage is not working with COM API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617)
   * [WebView 2 does not render anything after resolution scale ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611)
-  * [XMLHttpRequest() to redirected server not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2610)
   * [hang in webview2 when SetWindowLongPtr](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592)
   * [problems with translator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/1133)
-  * [ccsu](https://github.com/microsoft/vscode-edge-devtools/issues/1132)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1131)
-* **MicrosoftDocs/edge-developer** - _93.62%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2085)
-  * [brb, bex here](https://github.com/MicrosoftDocs/edge-developer/issues/2084)
-  * [Chi532013@outlook.co.th](https://github.com/MicrosoftDocs/edge-developer/issues/2083)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [ Web Accessibility Checker' does not work Visual Studio 2022...](https://github.com/MicrosoftDocs/edge-developer/issues/2059)
