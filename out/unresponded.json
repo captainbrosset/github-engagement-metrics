@@ -622,6 +622,10 @@
     },
     {
       "date": "2022-08-02",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1262,6 +1266,10 @@
     },
     {
       "date": "2022-08-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1889,6 +1897,10 @@
     },
     {
       "date": "2022-08-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2516,6 +2528,10 @@
     },
     {
       "date": "2022-08-02",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-08-03",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3156,7 +3172,43 @@
     },
     {
       "date": "2022-08-02",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-08-03",
       "unRespondedItems": [
+        {
+          "title": "WPF Popup/Window with Trasparent Background Color and WebView2 content transparent",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648"
+        },
+        {
+          "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
+        },
+        {
+          "title": "ClearBrowsingDataAll not working?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2644"
+        },
+        {
+          "title": "DOM.requestNode returns 0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
+        },
+        {
+          "title": "Getting and displaying connection \"is secure\" and certificate validity - which API?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2642"
+        },
+        {
+          "title": "Winforms WebView2 with fixed runtime not working from shared folder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
+        },
+        {
+          "title": "UWP reports \"file not found\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
+        },
+        {
+          "title": "How to disable print, save and download options in the Webview2 browser for certain pages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2638"
+        },
         {
           "title": "Any Chance of a \"WebView2 Lite\" Version?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2637"
@@ -3178,20 +3230,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630"
         },
         {
-          "title": "VSTO Outlook Addin - 0x8007139F error on multiple Webview2 instances created - Windows Server 2016",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626"
-        },
-        {
           "title": "Get info about the latest version of Evergreen Bootstrapper",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625"
         },
         {
           "title": "iOS - Download File through POST-Request saves file with 0 KB",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624"
-        },
-        {
-          "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         },
         {
           "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
@@ -3214,8 +3258,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
         },
         {
-          "title": "Getting process infos results in exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2589"
+          "title": "WebView2Rules Causes NRE in Application Settings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2647"
+        },
+        {
+          "title": "In dotnet4.6 wpf application, webview2 displays a blank screen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2639"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
@@ -3232,17 +3280,9 @@
         {
           "title": "WebView 2 does not render anything after resolution scale change and opening a new browser window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
-        },
-        {
-          "title": "hang in webview2 when SetWindowLongPtr",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2592"
-        },
-        {
-          "title": "problems with translator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2590"
         }
       ],
-      "rate": "58.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3868,8 +3908,17 @@
     },
     {
       "date": "2022-08-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-03",
+      "unRespondedItems": [
+        {
+          "title": "Error while fetching list of available targets No available targets to attach.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1120"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4495,13 +4544,12 @@
     },
     {
       "date": "2022-08-02",
-      "unRespondedItems": [
-        {
-          "title": " Web Accessibility Checker' does not work Visual Studio 2022",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2059"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2022-08-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
