@@ -626,6 +626,10 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1270,6 +1274,10 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1901,6 +1909,10 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2532,21 +2544,21 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
         },
         {
-          "title": "Edge Browser Closes Immediately",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
-        },
-        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.18"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3176,6 +3188,10 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [
         {
           "title": "WPF Popup/Window with Trasparent Background Color and WebView2 content transparent",
@@ -3190,18 +3206,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2644"
         },
         {
-          "title": "DOM.requestNode returns 0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
-        },
-        {
-          "title": "Getting and displaying connection \"is secure\" and certificate validity - which API?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2642"
-        },
-        {
-          "title": "Winforms WebView2 with fixed runtime not working from shared folder",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
-        },
-        {
           "title": "UWP reports \"file not found\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
         },
@@ -3210,20 +3214,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2638"
         },
         {
-          "title": "Any Chance of a \"WebView2 Lite\" Version?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2637"
-        },
-        {
-          "title": "How to Embed WebView2 Runtimes in .NET Framework Class Library With Fody Weavers",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2636"
-        },
-        {
           "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
-        },
-        {
-          "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
         },
         {
           "title": "CallBack in WebView2",
@@ -3262,12 +3254,36 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2647"
         },
         {
-          "title": "In dotnet4.6 wpf application, webview2 displays a blank screen",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2639"
+          "title": "Does the runtime folder contain actual runtimes, or loaders for the runtimes?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2645"
+        },
+        {
+          "title": "DOM.requestNode returns 0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
+        },
+        {
+          "title": "Winforms WebView2 with fixed runtime not working from shared folder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
+        },
+        {
+          "title": "How to Embed WebView2 Runtimes in .NET Framework Class Library With Fody Weavers",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2636"
+        },
+        {
+          "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627"
+        },
+        {
+          "title": "VSTO Outlook Addin - 0x8007139F error on multiple Webview2 instances created - Windows Server 2016",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626"
+        },
+        {
+          "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         },
         {
           "title": "adblocker feature",
@@ -3912,10 +3928,14 @@
     },
     {
       "date": "2022-08-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-04",
       "unRespondedItems": [
         {
-          "title": "Error while fetching list of available targets No available targets to attach.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1120"
+          "title": "go live not found",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1136"
         }
       ],
       "rate": "98.00"
@@ -4548,8 +4568,17 @@
     },
     {
       "date": "2022-08-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-04",
+      "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback] RE: MS Edge & MS Webview 2 crashes Photoshop",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2095"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
