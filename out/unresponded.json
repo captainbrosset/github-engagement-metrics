@@ -630,6 +630,10 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1278,6 +1282,10 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1913,6 +1921,10 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2548,17 +2560,25 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
         },
         {
+          "title": "Edge Browser Closes Immediately",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
+        },
+        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.18"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3192,7 +3212,27 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [
+        {
+          "title": "save page method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2654"
+        },
+        {
+          "title": " WPF application which uses edge webview doesn't get focus on first start",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
+        },
+        {
+          "title": "Failed to disable new tab/window popup on Ctrl/Shift + Click, Ctrl/Shift + Enter or Mid wheel click by link/button",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2652"
+        },
+        {
+          "title": "Upload file event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650"
+        },
         {
           "title": "WPF Popup/Window with Trasparent Background Color and WebView2 content transparent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648"
@@ -3202,16 +3242,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
         },
         {
-          "title": "ClearBrowsingDataAll not working?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2644"
-        },
-        {
           "title": "UWP reports \"file not found\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
-        },
-        {
-          "title": "How to disable print, save and download options in the Webview2 browser for certain pages",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2638"
         },
         {
           "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
@@ -3266,10 +3298,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
         },
         {
-          "title": "How to Embed WebView2 Runtimes in .NET Framework Class Library With Fody Weavers",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2636"
-        },
-        {
           "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
         },
@@ -3294,11 +3322,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617"
         },
         {
+          "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
+        },
+        {
           "title": "WebView 2 does not render anything after resolution scale change and opening a new browser window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         }
       ],
-      "rate": "48.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3932,10 +3964,14 @@
     },
     {
       "date": "2022-08-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-05",
       "unRespondedItems": [
         {
-          "title": "go live not found",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1136"
+          "title": "erro",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1137"
         }
       ],
       "rate": "98.00"
@@ -4572,13 +4608,12 @@
     },
     {
       "date": "2022-08-04",
-      "unRespondedItems": [
-        {
-          "title": "[DevTools Docs Feedback] RE: MS Edge & MS Webview 2 crashes Photoshop",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2095"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2022-08-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
