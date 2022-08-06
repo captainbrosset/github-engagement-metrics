@@ -634,6 +634,10 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1286,6 +1290,10 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1925,6 +1933,10 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2564,21 +2576,17 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [
-        {
-          "title": "unknown error: DevToolsActivePort file doesn't exist",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
-        },
-        {
-          "title": "Edge Browser Closes Immediately",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.18"
+      "rate": "97.73"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3216,18 +3224,18 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [
+        {
+          "title": "COMException 0x8000FFFF  InitializeAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2655"
+        },
         {
           "title": "save page method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2654"
-        },
-        {
-          "title": " WPF application which uses edge webview doesn't get focus on first start",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
-        },
-        {
-          "title": "Failed to disable new tab/window popup on Ctrl/Shift + Click, Ctrl/Shift + Enter or Mid wheel click by link/button",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2652"
         },
         {
           "title": "Upload file event",
@@ -3278,8 +3286,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605"
         },
         {
-          "title": "Issue in calling script synchronously from webview2 in WPF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2603"
+          "title": " WPF application which uses edge webview doesn't get focus on first start",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
         },
         {
           "title": "WebView2Rules Causes NRE in Application Settings",
@@ -3330,7 +3338,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         }
       ],
-      "rate": "44.00"
+      "rate": "46.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3968,13 +3976,12 @@
     },
     {
       "date": "2022-08-05",
-      "unRespondedItems": [
-        {
-          "title": "erro",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1137"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4612,6 +4619,10 @@
     },
     {
       "date": "2022-08-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
