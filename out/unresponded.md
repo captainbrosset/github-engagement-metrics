@@ -1,4 +1,4 @@
-Response rate: 90.94%
+Response rate: 91.23%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -8,7 +8,7 @@ Response rate: 90.94%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _97.73%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
   * [COMException 0x8000FFFF  InitializeAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2655)
   * [save page method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2654)
   * [Upload file event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650)
@@ -30,7 +30,6 @@ Response rate: 90.94%
   * [Winforms WebView2 with fixed runtime not working from shared...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641)
   * [WebView2 corespondent for CefSharp IJavascriptCallback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632)
   * [Random Quiet Abends using WebBrowser2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627)
-  * [VSTO Outlook Addin - 0x8007139F error on multiple Webview2 i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626)
   * [With WebView2 what is the equivent of "closing the browser"?...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623)
   * [adblocker feature](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619)
   * [SetLanguage is not working with COM API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617)

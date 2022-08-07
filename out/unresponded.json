@@ -638,6 +638,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1294,6 +1298,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1937,6 +1945,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2580,6 +2592,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -3228,6 +3244,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [
         {
           "title": "COMException 0x8000FFFF  InitializeAsync",
@@ -3314,10 +3334,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627"
         },
         {
-          "title": "VSTO Outlook Addin - 0x8007139F error on multiple Webview2 instances created - Windows Server 2016",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2626"
-        },
-        {
           "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         },
@@ -3338,7 +3354,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         }
       ],
-      "rate": "46.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -3980,6 +3996,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4623,6 +4643,10 @@
     },
     {
       "date": "2022-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
