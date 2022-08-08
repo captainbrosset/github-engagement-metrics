@@ -642,6 +642,10 @@
     },
     {
       "date": "2022-08-07",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1302,6 +1306,10 @@
     },
     {
       "date": "2022-08-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1949,6 +1957,10 @@
     },
     {
       "date": "2022-08-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2596,13 +2608,21 @@
     },
     {
       "date": "2022-08-07",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-08-08",
       "unRespondedItems": [
+        {
+          "title": "Edge Browser Closes Immediately",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "97.73"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3248,7 +3268,15 @@
     },
     {
       "date": "2022-08-07",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-08",
       "unRespondedItems": [
+        {
+          "title": "BrowserProcessExited Issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2656"
+        },
         {
           "title": "COMException 0x8000FFFF  InitializeAsync",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2655"
@@ -3300,10 +3328,6 @@
         {
           "title": "How to customize context menu on WebView2 PDF viewer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
-        },
-        {
-          "title": "WebView2RuntimeNotFoundException thrown with Microsoft Edge WebView2 Runtime installed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605"
         },
         {
           "title": " WPF application which uses edge webview doesn't get focus on first start",
@@ -4000,8 +4024,29 @@
     },
     {
       "date": "2022-08-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-08",
+      "unRespondedItems": [
+        {
+          "title": "new_vue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1143"
+        },
+        {
+          "title": "000",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1142"
+        },
+        {
+          "title": "MRHACKERS",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1141"
+        },
+        {
+          "title": "add auto reload on edge pls ! pls ! pls!",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1140"
+        }
+      ],
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4647,8 +4692,17 @@
     },
     {
       "date": "2022-08-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-08",
+      "unRespondedItems": [
+        {
+          "title": "sucks",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2097"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }

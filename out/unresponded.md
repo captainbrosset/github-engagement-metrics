@@ -1,4 +1,4 @@
-Response rate: 91.23%
+Response rate: 89.46%
 
 * **webhintio/hint** - _92.86%_
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
@@ -6,9 +6,11 @@ Response rate: 91.23%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _97.73%_
+* **MicrosoftEdge/EdgeWebDriver** - _95.45%_
+  * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [BrowserProcessExited Issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2656)
   * [COMException 0x8000FFFF  InitializeAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2655)
   * [save page method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2654)
   * [Upload file event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650)
@@ -22,7 +24,6 @@ Response rate: 91.23%
   * [Webpage does not load when Embbed Webview2 in WinForms' User...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616)
   * [When is navigationID unique?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613)
   * [How to customize context menu on WebView2 PDF viewer](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607)
-  * [WebView2RuntimeNotFoundException thrown with Microsoft Edge ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2605)
   * [ WPF application which uses edge webview doesn't get focus o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653)
   * [WebView2Rules Causes NRE in Application Settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2647)
   * [Does the runtime folder contain actual runtimes, or loaders ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2645)
@@ -35,5 +36,10 @@ Response rate: 91.23%
   * [SetLanguage is not working with COM API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617)
   * ['Operation not supported. Unknown Error 0x800700d8' in Debug...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614)
   * [WebView 2 does not render anything after resolution scale ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [new_vue](https://github.com/microsoft/vscode-edge-devtools/issues/1143)
+  * [000](https://github.com/microsoft/vscode-edge-devtools/issues/1142)
+  * [MRHACKERS](https://github.com/microsoft/vscode-edge-devtools/issues/1141)
+  * [add auto reload on edge pls ! pls ! pls!](https://github.com/microsoft/vscode-edge-devtools/issues/1140)
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [sucks](https://github.com/MicrosoftDocs/edge-developer/issues/2097)
