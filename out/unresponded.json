@@ -646,6 +646,10 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
@@ -1310,6 +1314,10 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1961,6 +1969,10 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2612,7 +2624,15 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [
+        {
+          "title": "unknown error: DevToolsActivePort file doesn't exist",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
+        },
         {
           "title": "Edge Browser Closes Immediately",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
@@ -2622,7 +2642,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.18"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3272,18 +3292,18 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [
+        {
+          "title": "Webview2 DragDrop/DragEnter Events",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658"
+        },
         {
           "title": "BrowserProcessExited Issue",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2656"
-        },
-        {
-          "title": "COMException 0x8000FFFF  InitializeAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2655"
-        },
-        {
-          "title": "save page method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2654"
         },
         {
           "title": "Upload file event",
@@ -3298,16 +3318,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
         },
         {
-          "title": "UWP reports \"file not found\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
-        },
-        {
           "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
-        },
-        {
-          "title": "CallBack in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2630"
         },
         {
           "title": "Get info about the latest version of Evergreen Bootstrapper",
@@ -3326,8 +3338,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613"
         },
         {
-          "title": "How to customize context menu on WebView2 PDF viewer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2607"
+          "title": "Add a method to check whether the DevTools are currently open",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657"
         },
         {
           "title": " WPF application which uses edge webview doesn't get focus on first start",
@@ -3350,8 +3362,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
         },
         {
-          "title": "WebView2 corespondent for CefSharp IJavascriptCallback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2632"
+          "title": "UWP reports \"file not found\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
@@ -3378,7 +3390,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         }
       ],
-      "rate": "48.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4028,25 +4040,17 @@
     },
     {
       "date": "2022-08-08",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-08-09",
       "unRespondedItems": [
         {
-          "title": "new_vue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1143"
-        },
-        {
-          "title": "000",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1142"
-        },
-        {
-          "title": "MRHACKERS",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1141"
-        },
-        {
-          "title": "add auto reload on edge pls ! pls ! pls!",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1140"
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1144"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4696,13 +4700,12 @@
     },
     {
       "date": "2022-08-08",
-      "unRespondedItems": [
-        {
-          "title": "sucks",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2097"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2022-08-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
