@@ -650,7 +650,15 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "92.86"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Allow HTML-only headers for SVG files",
+          "url": "https://github.com/webhintio/hint/issues/5281"
+        },
         {
           "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
           "url": "https://github.com/webhintio/hint/issues/5260"
@@ -664,7 +672,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "92.86"
+      "rate": "90.48"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1318,6 +1326,10 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1973,6 +1985,10 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2628,6 +2644,10 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3296,7 +3316,23 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [
+        {
+          "title": "GPU Process Crash when 64bit webview2 load 32bit cache.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2662"
+        },
+        {
+          "title": "Unity3D support",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2661"
+        },
+        {
+          "title": "WebView2.Print()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2659"
+        },
         {
           "title": "Webview2 DragDrop/DragEnter Events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658"
@@ -3316,10 +3352,6 @@
         {
           "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
-        },
-        {
-          "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
         },
         {
           "title": "Get info about the latest version of Evergreen Bootstrapper",
@@ -3346,14 +3378,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
         },
         {
-          "title": "WebView2Rules Causes NRE in Application Settings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2647"
-        },
-        {
-          "title": "Does the runtime folder contain actual runtimes, or loaders for the runtimes?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2645"
-        },
-        {
           "title": "DOM.requestNode returns 0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
         },
@@ -3364,6 +3388,10 @@
         {
           "title": "UWP reports \"file not found\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
+        },
+        {
+          "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
@@ -3384,10 +3412,6 @@
         {
           "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
-        },
-        {
-          "title": "WebView 2 does not render anything after resolution scale change and opening a new browser window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2611"
         }
       ],
       "rate": "54.00"
@@ -4044,13 +4068,12 @@
     },
     {
       "date": "2022-08-09",
-      "unRespondedItems": [
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1144"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4704,6 +4727,10 @@
     },
     {
       "date": "2022-08-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
