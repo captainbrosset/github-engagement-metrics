@@ -654,6 +654,10 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1330,6 +1334,10 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -1989,8 +1997,17 @@
     },
     {
       "date": "2022-08-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-11",
+      "unRespondedItems": [
+        {
+          "title": "bug in computed tab at the styles section",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/88"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2648,21 +2665,21 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
         },
         {
-          "title": "Edge Browser Closes Immediately",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42"
-        },
-        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.18"
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3320,18 +3337,18 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [
+        {
+          "title": "navigator.virtualKeyboard geometrychange always report 0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663"
+        },
         {
           "title": "GPU Process Crash when 64bit webview2 load 32bit cache.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2662"
-        },
-        {
-          "title": "Unity3D support",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2661"
-        },
-        {
-          "title": "WebView2.Print()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2659"
         },
         {
           "title": "Webview2 DragDrop/DragEnter Events",
@@ -3414,7 +3431,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4072,6 +4089,10 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4731,6 +4752,10 @@
     },
     {
       "date": "2022-08-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }

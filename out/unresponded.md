@@ -1,4 +1,4 @@
-Response rate: 91.09%
+Response rate: 91.42%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -6,15 +6,14 @@ Response rate: 91.09%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _93.18%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [bug in computed tab at the styles section](https://github.com/MicrosoftEdge/DevTools/issues/88)
+* **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
-  * [Edge Browser Closes Immediately](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/42)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [navigator.virtualKeyboard geometrychange always report 0](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663)
   * [GPU Process Crash when 64bit webview2 load 32bit cache.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2662)
-  * [Unity3D support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2661)
-  * [WebView2.Print()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2659)
   * [Webview2 DragDrop/DragEnter Events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658)
   * [BrowserProcessExited Issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2656)
   * [Upload file event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650)
