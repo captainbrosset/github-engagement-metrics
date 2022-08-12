@@ -658,6 +658,10 @@
     },
     {
       "date": "2022-08-11",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-12",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1338,6 +1342,10 @@
     },
     {
       "date": "2022-08-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2001,6 +2009,10 @@
     },
     {
       "date": "2022-08-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-12",
       "unRespondedItems": [
         {
           "title": "bug in computed tab at the styles section",
@@ -2669,6 +2681,10 @@
     },
     {
       "date": "2022-08-11",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-12",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3341,7 +3357,31 @@
     },
     {
       "date": "2022-08-11",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-12",
       "unRespondedItems": [
+        {
+          "title": "Navigation Events not firing on Youtube",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2675"
+        },
+        {
+          "title": "How to get webview2 runtime earlier fixed version is 100.0.1185.29.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673"
+        },
+        {
+          "title": "Webview2 installed without permission",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670"
+        },
+        {
+          "title": "Working of ExecuteScriptAsync() when used in a connected hostObject's method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
+        },
+        {
+          "title": "Crash after ExecuteScriptAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668"
+        },
         {
           "title": "navigator.virtualKeyboard geometrychange always report 0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663"
@@ -3379,14 +3419,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624"
         },
         {
-          "title": "Webpage does not load when Embbed Webview2 in WinForms' Usercontrol (.net framework 4.7.2)  ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2616"
-        },
-        {
-          "title": "When is navigationID unique?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2613"
-        },
-        {
           "title": "Add a method to check whether the DevTools are currently open",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657"
         },
@@ -3417,18 +3449,6 @@
         {
           "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
-        },
-        {
-          "title": "adblocker feature",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2619"
-        },
-        {
-          "title": "SetLanguage is not working with COM API",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2617"
-        },
-        {
-          "title": "'Operation not supported. Unknown Error 0x800700d8' in Debug mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2614"
         }
       ],
       "rate": "56.00"
@@ -4093,8 +4113,17 @@
     },
     {
       "date": "2022-08-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-12",
+      "unRespondedItems": [
+        {
+          "title": "Edge tools for vs code  || node and npm ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1145"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4756,8 +4785,29 @@
     },
     {
       "date": "2022-08-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-12",
+      "unRespondedItems": [
+        {
+          "title": "Add documentation for os regional settings feature",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2113"
+        },
+        {
+          "title": "Is there a plan for 32 bit UWP apps to support WebView 2 in the future?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2104"
+        },
+        {
+          "title": "How does the distribution of the WebView2 runtime work with the WinUI 2 WebView2 and the Microsoft Store?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2103"
+        },
+        {
+          "title": "Updated images and doc for showing workspaces in DevTools focus mode",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2114"
+        }
+      ],
+      "rate": "90.91"
     }
   ]
 }
