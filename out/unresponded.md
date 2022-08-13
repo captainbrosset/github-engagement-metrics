@@ -1,4 +1,4 @@
-Response rate: 89.83%
+Response rate: 90.77%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -7,11 +7,12 @@ Response rate: 89.83%
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
-  * [bug in computed tab at the styles section](https://github.com/MicrosoftEdge/DevTools/issues/88)
+  * [Why does it occupy so much storage space](https://github.com/MicrosoftEdge/DevTools/issues/89)
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [Latest version of Microsoft.Web.WebView2 in WPF integration ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676)
   * [Navigation Events not firing on Youtube](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2675)
   * [How to get webview2 runtime earlier fixed version is 100.0.1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673)
   * [Webview2 installed without permission](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670)
@@ -25,7 +26,7 @@ Response rate: 89.83%
   * [WPF Popup/Window with Trasparent Background Color and WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648)
   * [Looking for doc about which Windows Settings (and/or MS Edge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646)
   * [Get info about the latest version of Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625)
-  * [iOS - Download File through POST-Request saves file with 0 K...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624)
+  * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
   * [Add a method to check whether the DevTools are currently ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657)
   * [ WPF application which uses edge webview doesn't get focus o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653)
   * [DOM.requestNode returns 0](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643)
@@ -33,11 +34,7 @@ Response rate: 89.83%
   * [UWP reports "file not found"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640)
   * [WebView2 - WinForms (VB.Net) - Blank webpage looks like cont...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635)
   * [Random Quiet Abends using WebBrowser2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627)
-  * [With WebView2 what is the equivent of "closing the browser"?...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Edge tools for vs code  || node and npm ](https://github.com/microsoft/vscode-edge-devtools/issues/1145)
-* **MicrosoftDocs/edge-developer** - _90.91%_
-  * [Add documentation for os regional settings feature](https://github.com/MicrosoftDocs/edge-developer/pull/2113)
-  * [Is there a plan for 32 bit UWP apps to support WebView 2 in ...](https://github.com/MicrosoftDocs/edge-developer/issues/2104)
-  * [How does the distribution of the WebView2 runtime work with ...](https://github.com/MicrosoftDocs/edge-developer/issues/2103)
-  * [Updated images and doc for showing workspaces in DevTools fo...](https://github.com/MicrosoftDocs/edge-developer/pull/2114)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.45%_
+  * [Confusing instructions for WPF - .Net Core or Framework](https://github.com/MicrosoftDocs/edge-developer/issues/2123)
+  * [Send CORS preflight requests for private network access need...](https://github.com/MicrosoftDocs/edge-developer/issues/2121)

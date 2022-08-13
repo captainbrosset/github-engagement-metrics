@@ -662,6 +662,10 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1346,6 +1350,10 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2013,10 +2021,14 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [
         {
-          "title": "bug in computed tab at the styles section",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/88"
+          "title": "Why does it occupy so much storage space",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/89"
         }
       ],
       "rate": "98.00"
@@ -2685,6 +2697,10 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3361,7 +3377,15 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [
+        {
+          "title": "Latest version of Microsoft.Web.WebView2 in WPF integration breaks existing Application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676"
+        },
         {
           "title": "Navigation Events not firing on Youtube",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2675"
@@ -3415,8 +3439,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625"
         },
         {
-          "title": "iOS - Download File through POST-Request saves file with 0 KB",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2624"
+          "title": "Webview2 issue - pbix",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674"
         },
         {
           "title": "Add a method to check whether the DevTools are currently open",
@@ -3439,16 +3463,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
         },
         {
-          "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine...",
+          "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine... RDP issue (fine on physical PC)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
         },
         {
           "title": "Random Quiet Abends using WebBrowser2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627"
-        },
-        {
-          "title": "With WebView2 what is the equivent of \"closing the browser\"?  ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2623"
         }
       ],
       "rate": "56.00"
@@ -4117,13 +4137,12 @@
     },
     {
       "date": "2022-08-12",
-      "unRespondedItems": [
-        {
-          "title": "Edge tools for vs code  || node and npm ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1145"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4789,25 +4808,21 @@
     },
     {
       "date": "2022-08-12",
+      "rate": "90.91"
+    },
+    {
+      "date": "2022-08-13",
       "unRespondedItems": [
         {
-          "title": "Add documentation for os regional settings feature",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2113"
+          "title": "Confusing instructions for WPF - .Net Core or Framework",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2123"
         },
         {
-          "title": "Is there a plan for 32 bit UWP apps to support WebView 2 in the future?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2104"
-        },
-        {
-          "title": "How does the distribution of the WebView2 runtime work with the WinUI 2 WebView2 and the Microsoft Store?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2103"
-        },
-        {
-          "title": "Updated images and doc for showing workspaces in DevTools focus mode",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2114"
+          "title": "Send CORS preflight requests for private network access needs updating",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2121"
         }
       ],
-      "rate": "90.91"
+      "rate": "95.45"
     }
   ]
 }
