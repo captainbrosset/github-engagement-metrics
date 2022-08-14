@@ -666,6 +666,10 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1354,6 +1358,10 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2025,6 +2033,10 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [
         {
           "title": "Why does it occupy so much storage space",
@@ -2701,6 +2713,10 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3381,7 +3397,15 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [
+        {
+          "title": "synchronous call issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678"
+        },
         {
           "title": "Latest version of Microsoft.Web.WebView2 in WPF integration breaks existing Application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676"
@@ -3433,10 +3457,6 @@
         {
           "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
-        },
-        {
-          "title": "Get info about the latest version of Evergreen Bootstrapper",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625"
         },
         {
           "title": "Webview2 issue - pbix",
@@ -4141,8 +4161,17 @@
     },
     {
       "date": "2022-08-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-14",
+      "unRespondedItems": [
+        {
+          "title": "vs won't run my code in chrome always shows msg \" can;t find the adapter \"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1147"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4812,6 +4841,10 @@
     },
     {
       "date": "2022-08-13",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-14",
       "unRespondedItems": [
         {
           "title": "Confusing instructions for WPF - .Net Core or Framework",

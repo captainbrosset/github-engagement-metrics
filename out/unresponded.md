@@ -1,4 +1,4 @@
-Response rate: 90.77%
+Response rate: 90.48%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -12,6 +12,7 @@ Response rate: 90.77%
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [synchronous call issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678)
   * [Latest version of Microsoft.Web.WebView2 in WPF integration ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676)
   * [Navigation Events not firing on Youtube](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2675)
   * [How to get webview2 runtime earlier fixed version is 100.0.1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673)
@@ -25,7 +26,6 @@ Response rate: 90.77%
   * [Upload file event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650)
   * [WPF Popup/Window with Trasparent Background Color and WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648)
   * [Looking for doc about which Windows Settings (and/or MS Edge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646)
-  * [Get info about the latest version of Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2625)
   * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
   * [Add a method to check whether the DevTools are currently ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657)
   * [ WPF application which uses edge webview doesn't get focus o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653)
@@ -34,7 +34,8 @@ Response rate: 90.77%
   * [UWP reports "file not found"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640)
   * [WebView2 - WinForms (VB.Net) - Blank webpage looks like cont...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635)
   * [Random Quiet Abends using WebBrowser2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [vs won't run my code in chrome always shows msg " can;t find...](https://github.com/microsoft/vscode-edge-devtools/issues/1147)
 * **MicrosoftDocs/edge-developer** - _95.45%_
   * [Confusing instructions for WPF - .Net Core or Framework](https://github.com/MicrosoftDocs/edge-developer/issues/2123)
   * [Send CORS preflight requests for private network access need...](https://github.com/MicrosoftDocs/edge-developer/issues/2121)
