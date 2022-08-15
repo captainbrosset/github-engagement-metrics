@@ -1,4 +1,4 @@
-Response rate: 90.48%
+Response rate: 89.91%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -11,7 +11,8 @@ Response rate: 90.48%
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Cannot view local media files in video tag](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679)
   * [synchronous call issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678)
   * [Latest version of Microsoft.Web.WebView2 in WPF integration ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676)
   * [Navigation Events not firing on Youtube](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2675)
@@ -34,7 +35,8 @@ Response rate: 90.48%
   * [UWP reports "file not found"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640)
   * [WebView2 - WinForms (VB.Net) - Blank webpage looks like cont...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635)
   * [Random Quiet Abends using WebBrowser2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [note vs code](https://github.com/microsoft/vscode-edge-devtools/issues/1148)
   * [vs won't run my code in chrome always shows msg " can;t find...](https://github.com/microsoft/vscode-edge-devtools/issues/1147)
 * **MicrosoftDocs/edge-developer** - _95.45%_
   * [Confusing instructions for WPF - .Net Core or Framework](https://github.com/MicrosoftDocs/edge-developer/issues/2123)

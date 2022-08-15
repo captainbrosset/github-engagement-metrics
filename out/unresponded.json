@@ -670,6 +670,10 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1362,6 +1366,10 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2037,6 +2045,10 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
         {
           "title": "Why does it occupy so much storage space",
@@ -2717,6 +2729,10 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3401,7 +3417,15 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
+        {
+          "title": "Cannot view local media files in video tag",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679"
+        },
         {
           "title": "synchronous call issue",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678"
@@ -3491,7 +3515,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4165,13 +4189,21 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
+        {
+          "title": "note vs code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1148"
+        },
         {
           "title": "vs won't run my code in chrome always shows msg \" can;t find the adapter \"",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1147"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4845,6 +4877,10 @@
     },
     {
       "date": "2022-08-14",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-15",
       "unRespondedItems": [
         {
           "title": "Confusing instructions for WPF - .Net Core or Framework",
