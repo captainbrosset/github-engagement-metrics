@@ -674,6 +674,10 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1370,6 +1374,10 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2049,6 +2057,10 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [
         {
           "title": "Why does it occupy so much storage space",
@@ -2733,6 +2745,10 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3421,7 +3437,15 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [
+        {
+          "title": "document.visibilitychanged event not fired",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681"
+        },
         {
           "title": "Cannot view local media files in video tag",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679"
@@ -3467,14 +3491,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658"
         },
         {
-          "title": "BrowserProcessExited Issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2656"
-        },
-        {
-          "title": "Upload file event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2650"
-        },
-        {
           "title": "WPF Popup/Window with Trasparent Background Color and WebView2 content transparent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648"
         },
@@ -3499,23 +3515,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
         },
         {
-          "title": "Winforms WebView2 with fixed runtime not working from shared folder",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2641"
-        },
-        {
           "title": "UWP reports \"file not found\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
         },
         {
           "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine... RDP issue (fine on physical PC)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
-        },
-        {
-          "title": "Random Quiet Abends using WebBrowser2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2627"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4193,17 +4201,12 @@
     },
     {
       "date": "2022-08-15",
-      "unRespondedItems": [
-        {
-          "title": "note vs code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1148"
-        },
-        {
-          "title": "vs won't run my code in chrome always shows msg \" can;t find the adapter \"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1147"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-08-16",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4881,7 +4884,15 @@
     },
     {
       "date": "2022-08-15",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-16",
       "unRespondedItems": [
+        {
+          "title": "Updating screenshots for focus mode docs bash",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2127"
+        },
         {
           "title": "Confusing instructions for WPF - .Net Core or Framework",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2123"
@@ -4891,7 +4902,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2121"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.33"
     }
   ]
 }
