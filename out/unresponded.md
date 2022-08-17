@@ -1,4 +1,4 @@
-Response rate: 91.04%
+Response rate: 91.42%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -6,12 +6,13 @@ Response rate: 91.04%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Why does it occupy so much storage space](https://github.com/MicrosoftEdge/DevTools/issues/89)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686)
+  * [SetVirtualHostNameToFolderMapping  and WebResourceRequested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2685)
   * [document.visibilitychanged event not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681)
   * [Cannot view local media files in video tag](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679)
   * [synchronous call issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678)
@@ -22,18 +23,16 @@ Response rate: 91.04%
   * [Working of ExecuteScriptAsync() when used in a connected hos...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669)
   * [Crash after ExecuteScriptAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668)
   * [navigator.virtualKeyboard geometrychange always report 0](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663)
-  * [GPU Process Crash when 64bit webview2 load 32bit cache.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2662)
   * [Webview2 DragDrop/DragEnter Events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658)
   * [WPF Popup/Window with Trasparent Background Color and WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648)
   * [Looking for doc about which Windows Settings (and/or MS Edge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646)
+  * [CoreWebView2CreateCoreWebView2ControllerCompletedHandler cal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2687)
+  * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
   * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
   * [Add a method to check whether the DevTools are currently ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657)
   * [ WPF application which uses edge webview doesn't get focus o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653)
   * [DOM.requestNode returns 0](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643)
   * [UWP reports "file not found"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640)
-  * [WebView2 - WinForms (VB.Net) - Blank webpage looks like cont...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _93.33%_
-  * [Updating screenshots for focus mode docs bash](https://github.com/MicrosoftDocs/edge-developer/pull/2127)
-  * [Confusing instructions for WPF - .Net Core or Framework](https://github.com/MicrosoftDocs/edge-developer/issues/2123)
-  * [Send CORS preflight requests for private network access need...](https://github.com/MicrosoftDocs/edge-developer/issues/2121)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [GooD SHiT](https://github.com/microsoft/vscode-edge-devtools/issues/1149)
+* **MicrosoftDocs/edge-developer** - _100.00%_

@@ -678,6 +678,10 @@
     },
     {
       "date": "2022-08-16",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-17",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1378,6 +1382,10 @@
     },
     {
       "date": "2022-08-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2061,13 +2069,12 @@
     },
     {
       "date": "2022-08-16",
-      "unRespondedItems": [
-        {
-          "title": "Why does it occupy so much storage space",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/89"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2749,6 +2756,10 @@
     },
     {
       "date": "2022-08-16",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-17",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3441,7 +3452,19 @@
     },
     {
       "date": "2022-08-16",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-08-17",
       "unRespondedItems": [
+        {
+          "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
+        },
+        {
+          "title": "SetVirtualHostNameToFolderMapping  and WebResourceRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2685"
+        },
         {
           "title": "document.visibilitychanged event not fired",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681"
@@ -3483,10 +3506,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663"
         },
         {
-          "title": "GPU Process Crash when 64bit webview2 load 32bit cache.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2662"
-        },
-        {
           "title": "Webview2 DragDrop/DragEnter Events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658"
         },
@@ -3497,6 +3516,14 @@
         {
           "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
+        },
+        {
+          "title": "CoreWebView2CreateCoreWebView2ControllerCompletedHandler called with NULL controller on Windows 11",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2687"
+        },
+        {
+          "title": "WebView2 control is not reflecting the correct point when the System Scale is not set to 100%",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683"
         },
         {
           "title": "Webview2 issue - pbix",
@@ -3517,13 +3544,9 @@
         {
           "title": "UWP reports \"file not found\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
-        },
-        {
-          "title": "WebView2 - WinForms (VB.Net) - Blank webpage looks like control hasn't loaded, sometimes works fine... RDP issue (fine on physical PC)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2635"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4205,8 +4228,17 @@
     },
     {
       "date": "2022-08-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-17",
+      "unRespondedItems": [
+        {
+          "title": "GooD SHiT",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1149"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4888,21 +4920,12 @@
     },
     {
       "date": "2022-08-16",
-      "unRespondedItems": [
-        {
-          "title": "Updating screenshots for focus mode docs bash",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2127"
-        },
-        {
-          "title": "Confusing instructions for WPF - .Net Core or Framework",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2123"
-        },
-        {
-          "title": "Send CORS preflight requests for private network access needs updating",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2121"
-        }
-      ],
       "rate": "93.33"
+    },
+    {
+      "date": "2022-08-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
