@@ -682,6 +682,10 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1386,6 +1390,10 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2073,6 +2081,10 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2760,6 +2772,10 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3456,7 +3472,35 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [
+        {
+          "title": "[Request] Set spell checking language via API",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2695"
+        },
+        {
+          "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694"
+        },
+        {
+          "title": "CoreWebView2Settings.IsStatusBar not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
+        },
+        {
+          "title": "SessionEnding event is raised when WebView2 is uninstalled",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692"
+        },
+        {
+          "title": "Dragging from WebView2 to any WPF control doesn't work if a WPF Popup is opened",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690"
+        },
+        {
+          "title": "For fixed version, are those Locales files (*.pak) needed?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
+        },
         {
           "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
@@ -3506,16 +3550,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663"
         },
         {
-          "title": "Webview2 DragDrop/DragEnter Events",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2658"
-        },
-        {
           "title": "WPF Popup/Window with Trasparent Background Color and WebView2 content transparent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648"
         },
         {
           "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
+        },
+        {
+          "title": "Side-by-side 32 and 64bit fixed version, 64bit stops working if 32bit has been used once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2688"
         },
         {
           "title": "CoreWebView2CreateCoreWebView2ControllerCompletedHandler called with NULL controller on Windows 11",
@@ -3540,13 +3584,9 @@
         {
           "title": "DOM.requestNode returns 0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
-        },
-        {
-          "title": "UWP reports \"file not found\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2640"
         }
       ],
-      "rate": "56.00"
+      "rate": "46.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4232,13 +4272,12 @@
     },
     {
       "date": "2022-08-17",
-      "unRespondedItems": [
-        {
-          "title": "GooD SHiT",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1149"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -4924,6 +4963,10 @@
     },
     {
       "date": "2022-08-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
