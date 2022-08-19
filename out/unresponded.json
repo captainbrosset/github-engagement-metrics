@@ -686,6 +686,10 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1394,6 +1398,10 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2085,8 +2093,17 @@
     },
     {
       "date": "2022-08-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-19",
+      "unRespondedItems": [
+        {
+          "title": "Jump to @keyframe definition",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/90"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2776,6 +2793,10 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3476,10 +3497,18 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [
         {
-          "title": "[Request] Set spell checking language via API",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2695"
+          "title": "OnCreateCoreWebView2ControllerCompleted HRESULT 0x80080005",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2698"
+        },
+        {
+          "title": "Unable to import element from an msxml2 domdocument into one passed in from the parent page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697"
         },
         {
           "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
@@ -3496,14 +3525,6 @@
         {
           "title": "Dragging from WebView2 to any WPF control doesn't work if a WPF Popup is opened",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690"
-        },
-        {
-          "title": "For fixed version, are those Locales files (*.pak) needed?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
-        },
-        {
-          "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
         },
         {
           "title": "SetVirtualHostNameToFolderMapping  and WebResourceRequested",
@@ -3554,14 +3575,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2648"
         },
         {
-          "title": "Looking for doc about which Windows Settings (and/or MS Edge Settings) affect the WebView2 browsing experience",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2646"
-        },
-        {
-          "title": "Side-by-side 32 and 64bit fixed version, 64bit stops working if 32bit has been used once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2688"
-        },
-        {
           "title": "CoreWebView2CreateCoreWebView2ControllerCompletedHandler called with NULL controller on Windows 11",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2687"
         },
@@ -3580,13 +3593,9 @@
         {
           "title": " WPF application which uses edge webview doesn't get focus on first start",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
-        },
-        {
-          "title": "DOM.requestNode returns 0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2643"
         }
       ],
-      "rate": "46.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4276,6 +4285,10 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4967,6 +4980,10 @@
     },
     {
       "date": "2022-08-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
