@@ -694,6 +694,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1410,6 +1414,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2109,6 +2117,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2808,6 +2820,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3516,6 +3532,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [
         {
           "title": "Creating Multiple WebView2 Instances causes 0x8007139f error on one Instance",
@@ -4320,6 +4340,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5019,6 +5043,10 @@
     },
     {
       "date": "2022-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
