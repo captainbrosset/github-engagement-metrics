@@ -1,6 +1,7 @@
-Response rate: 90.56%
+Response rate: 89.94%
 
-* **webhintio/hint** - _90.48%_
+* **webhintio/hint** - _88.10%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5282)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
@@ -10,8 +11,7 @@ Response rate: 90.56%
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
-  * [Creating Multiple WebView2 Instances causes 0x8007139f error...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2703)
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
   * [VSTO: WebView2  CoreWebView2 is null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702)
   * [UWP - 1.0.0-experimental1 Webview2 Issues](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2700)
   * [OnCreateCoreWebView2ControllerCompleted HRESULT 0x80080005](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2698)
@@ -37,5 +37,7 @@ Response rate: 90.56%
   * [Working of ExecuteScriptAsync() when used in a connected hos...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669)
   * [Add a method to check whether the DevTools are currently ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657)
   * [ WPF application which uses edge webview doesn't get focus o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [corrupt ios file](https://github.com/microsoft/vscode-edge-devtools/issues/1155)
+  * [yangilanish](https://github.com/microsoft/vscode-edge-devtools/issues/1154)
 * **MicrosoftDocs/edge-developer** - _100.00%_

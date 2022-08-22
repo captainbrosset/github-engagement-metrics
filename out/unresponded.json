@@ -698,7 +698,15 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5282"
+        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -716,7 +724,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "90.48"
+      "rate": "88.10"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1418,6 +1426,10 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2121,6 +2133,10 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2824,6 +2840,10 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3536,11 +3556,11 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [
-        {
-          "title": "Creating Multiple WebView2 Instances causes 0x8007139f error on one Instance",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2703"
-        },
         {
           "title": "VSTO: WebView2  CoreWebView2 is null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702"
@@ -3642,7 +3662,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
         }
       ],
-      "rate": "48.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4344,8 +4364,21 @@
     },
     {
       "date": "2022-08-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-22",
+      "unRespondedItems": [
+        {
+          "title": "corrupt ios file",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1155"
+        },
+        {
+          "title": "yangilanish",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1154"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5047,6 +5080,10 @@
     },
     {
       "date": "2022-08-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
