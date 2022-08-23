@@ -702,11 +702,11 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "88.10"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5282"
-        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -724,7 +724,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "88.10"
+      "rate": "90.48"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1430,6 +1430,10 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2137,6 +2141,10 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2844,6 +2852,10 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3560,10 +3572,14 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [
         {
-          "title": "VSTO: WebView2  CoreWebView2 is null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702"
+          "title": "Ver.105 of WebView2 has wrong offset when gdiScaling is true on High DPI Monitor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2704"
         },
         {
           "title": "UWP - 1.0.0-experimental1 Webview2 Issues",
@@ -3582,20 +3598,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694"
         },
         {
-          "title": "CoreWebView2Settings.IsStatusBar not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
-        },
-        {
           "title": "SessionEnding event is raised when WebView2 is uninstalled",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692"
         },
         {
           "title": "Dragging from WebView2 to any WPF control doesn't work if a WPF Popup is opened",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690"
-        },
-        {
-          "title": "SetVirtualHostNameToFolderMapping  and WebResourceRequested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2685"
         },
         {
           "title": "document.visibilitychanged event not fired",
@@ -3626,20 +3634,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668"
         },
         {
-          "title": "navigator.virtualKeyboard geometrychange always report 0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2663"
+          "title": "WebView2 breaks window message processing in some way",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2707"
+        },
+        {
+          "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
         },
         {
           "title": "For fixed version, are those Locales files (*.pak) needed?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
         },
         {
-          "title": "CoreWebView2CreateCoreWebView2ControllerCompletedHandler called with NULL controller on Windows 11",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2687"
-        },
-        {
           "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
+        },
+        {
+          "title": "SetVirtualHostNameToFolderMapping  and WebResourceRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2685"
         },
         {
           "title": "WebView2 control is not reflecting the correct point when the System Scale is not set to 100%",
@@ -3656,13 +3668,9 @@
         {
           "title": "Add a method to check whether the DevTools are currently open",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657"
-        },
-        {
-          "title": " WPF application which uses edge webview doesn't get focus on first start",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2653"
         }
       ],
-      "rate": "50.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4368,17 +4376,17 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [
         {
-          "title": "corrupt ios file",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1155"
-        },
-        {
-          "title": "yangilanish",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1154"
+          "title": "NPM reload ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5084,6 +5092,10 @@
     },
     {
       "date": "2022-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
