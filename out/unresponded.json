@@ -706,6 +706,10 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1434,6 +1438,10 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2145,6 +2153,10 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2856,6 +2868,10 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3576,7 +3592,19 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [
+        {
+          "title": "Unable to access external site when local proxy is set",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711"
+        },
+        {
+          "title": "Handle the NewWindow Request from a URI=about:blank#blocked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2710"
+        },
         {
           "title": "Ver.105 of WebView2 has wrong offset when gdiScaling is true on High DPI Monitor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2704"
@@ -3642,16 +3670,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
         },
         {
+          "title": "CoreWebView2Settings.IsStatusBar not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
+        },
+        {
           "title": "For fixed version, are those Locales files (*.pak) needed?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
         },
         {
           "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
-        },
-        {
-          "title": "SetVirtualHostNameToFolderMapping  and WebResourceRequested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2685"
         },
         {
           "title": "WebView2 control is not reflecting the correct point when the System Scale is not set to 100%",
@@ -3664,13 +3692,9 @@
         {
           "title": "Working of ExecuteScriptAsync() when used in a connected hostObject's method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
-        },
-        {
-          "title": "Add a method to check whether the DevTools are currently open",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2657"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4380,13 +4404,21 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [
+        {
+          "title": "http://127.0.0.1:8000/",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1159"
+        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5096,6 +5128,10 @@
     },
     {
       "date": "2022-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
