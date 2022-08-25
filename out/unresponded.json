@@ -710,6 +710,10 @@
     },
     {
       "date": "2022-08-24",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-25",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1442,8 +1446,17 @@
     },
     {
       "date": "2022-08-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-25",
+      "unRespondedItems": [
+        {
+          "title": "The Todo demo's Readme needs a link to rendered demo page at github.io",
+          "url": "https://github.com/MicrosoftEdge/Demos/issues/9"
+        }
+      ],
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -2157,8 +2170,17 @@
     },
     {
       "date": "2022-08-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-25",
+      "unRespondedItems": [
+        {
+          "title": "[Feedback] Sustainability Feature Explainer",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/92"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2872,6 +2894,10 @@
     },
     {
       "date": "2022-08-24",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-25",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3596,7 +3622,19 @@
     },
     {
       "date": "2022-08-24",
+      "rate": "52.00"
+    },
+    {
+      "date": "2022-08-25",
       "unRespondedItems": [
+        {
+          "title": "How to Invoke a JS function on a JS object from native code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
+        },
+        {
+          "title": "How to force utf-8 encoding on WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2713"
+        },
         {
           "title": "Unable to access external site when local proxy is set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711"
@@ -3620,10 +3658,6 @@
         {
           "title": "Unable to import element from an msxml2 domdocument into one passed in from the parent page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697"
-        },
-        {
-          "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694"
         },
         {
           "title": "SessionEnding event is raised when WebView2 is uninstalled",
@@ -3662,12 +3696,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668"
         },
         {
+          "title": "Resizing without window menu causes visual bugs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715"
+        },
+        {
           "title": "WebView2 breaks window message processing in some way",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2707"
         },
         {
           "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
+        },
+        {
+          "title": "VSTO: WebView2  CoreWebView2 is null",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702"
+        },
+        {
+          "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694"
         },
         {
           "title": "CoreWebView2Settings.IsStatusBar not working",
@@ -3694,7 +3740,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
         }
       ],
-      "rate": "52.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4408,17 +4454,29 @@
     },
     {
       "date": "2022-08-24",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-08-25",
       "unRespondedItems": [
         {
-          "title": "http://127.0.0.1:8000/",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1159"
+          "title": "The compiler option \"strict\" should be enabled to reduce type errors",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1162"
+        },
+        {
+          "title": "EMG",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1161"
+        },
+        {
+          "title": "divy",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1160"
         },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5132,6 +5190,10 @@
     },
     {
       "date": "2022-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
