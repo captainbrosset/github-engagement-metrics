@@ -714,6 +714,10 @@
     },
     {
       "date": "2022-08-25",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-26",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1450,13 +1454,12 @@
     },
     {
       "date": "2022-08-25",
-      "unRespondedItems": [
-        {
-          "title": "The Todo demo's Readme needs a link to rendered demo page at github.io",
-          "url": "https://github.com/MicrosoftEdge/Demos/issues/9"
-        }
-      ],
       "rate": "87.50"
+    },
+    {
+      "date": "2022-08-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -2174,13 +2177,12 @@
     },
     {
       "date": "2022-08-25",
-      "unRespondedItems": [
-        {
-          "title": "[Feedback] Sustainability Feature Explainer",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/92"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2898,6 +2900,10 @@
     },
     {
       "date": "2022-08-25",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-26",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3626,10 +3632,22 @@
     },
     {
       "date": "2022-08-25",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-08-26",
       "unRespondedItems": [
         {
-          "title": "How to Invoke a JS function on a JS object from native code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
+          "title": "WebView2 trims relative paths from href definitions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719"
+        },
+        {
+          "title": "WinForms/C#/WebView2 app built for x86 architecture fails package validation because WebView2Loader.dll is x64.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718"
+        },
+        {
+          "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
         },
         {
           "title": "How to force utf-8 encoding on WebView2?",
@@ -3696,8 +3714,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668"
         },
         {
+          "title": "How to Invoke a JS function on a JS object from native code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
+        },
+        {
           "title": "Resizing without window menu causes visual bugs",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715"
+        },
+        {
+          "title": "webview2-about PDF display",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712"
+        },
+        {
+          "title": "WebView2 Save password",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709"
         },
         {
           "title": "WebView2 breaks window message processing in some way",
@@ -3724,10 +3754,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
         },
         {
-          "title": "Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF Core Scaffold-DbContext",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686"
-        },
-        {
           "title": "WebView2 control is not reflecting the correct point when the System Scale is not set to 100%",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683"
         },
@@ -3740,7 +3766,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
         }
       ],
-      "rate": "44.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4458,25 +4484,25 @@
     },
     {
       "date": "2022-08-25",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-08-26",
       "unRespondedItems": [
+        {
+          "title": "It does not go to https://localhost:3000. Instead it takes it to http://https//localhost:3000.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1163"
+        },
         {
           "title": "The compiler option \"strict\" should be enabled to reduce type errors",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1162"
-        },
-        {
-          "title": "EMG",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1161"
-        },
-        {
-          "title": "divy",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1160"
         },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5194,8 +5220,17 @@
     },
     {
       "date": "2022-08-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-26",
+      "unRespondedItems": [
+        {
+          "title": "The Flashs",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2140"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }

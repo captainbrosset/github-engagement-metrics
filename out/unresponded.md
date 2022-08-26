@@ -1,19 +1,19 @@
-Response rate: 86.78%
+Response rate: 87.69%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Vulnerability CVE-2022-33987 affecting code base](https://github.com/webhintio/hint/issues/5260)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
-* **MicrosoftEdge/demos** - _87.50%_
-  * [The Todo demo's Readme needs a link to rendered demo page at...](https://github.com/MicrosoftEdge/Demos/issues/9)
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [[Feedback] Sustainability Feature Explainer](https://github.com/MicrosoftEdge/DevTools/issues/92)
+* **MicrosoftEdge/demos** - _100.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
-  * [How to Invoke a JS function on a JS object from native code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716)
+* **MicrosoftEdge/WebView2Feedback** - _36.00%_
+  * [WebView2 trims relative paths from href definitions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719)
+  * [WinForms/C#/WebView2 app built for x86 architecture fails pa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718)
+  * [How to achieve await like functionality in Win32/C++ for Exe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717)
   * [How to force utf-8 encoding on WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2713)
   * [Unable to access external site when local proxy is set](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711)
   * [Handle the NewWindow Request from a URI=about:blank#blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2710)
@@ -30,20 +30,22 @@ Response rate: 86.78%
   * [How to get webview2 runtime earlier fixed version is 100.0.1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673)
   * [Webview2 installed without permission](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670)
   * [Crash after ExecuteScriptAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668)
+  * [How to Invoke a JS function on a JS object from native code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716)
   * [Resizing without window menu causes visual bugs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715)
+  * [webview2-about PDF display](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712)
+  * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
   * [WebView2 breaks window message processing in some way](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2707)
   * [WinForms (DpiUnawareGdiScaled): control renders in wrong loc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705)
   * [VSTO: WebView2  CoreWebView2 is null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702)
   * [Virtual keyboard is not working when used UWP app on Kiosk m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694)
   * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
   * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
-  * [Microsoft.Web.WebView2 versions after 1.0.1245.22 break EF C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2686)
   * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
   * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
   * [Working of ExecuteScriptAsync() when used in a connected hos...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [It does not go to https://localhost:3000. Instead it takes i...](https://github.com/microsoft/vscode-edge-devtools/issues/1163)
   * [The compiler option "strict" should be enabled to reduce typ...](https://github.com/microsoft/vscode-edge-devtools/issues/1162)
-  * [EMG](https://github.com/microsoft/vscode-edge-devtools/issues/1161)
-  * [divy](https://github.com/microsoft/vscode-edge-devtools/issues/1160)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [The Flashs](https://github.com/MicrosoftDocs/edge-developer/issues/2140)
