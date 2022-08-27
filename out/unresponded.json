@@ -718,6 +718,10 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1458,6 +1462,10 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2181,6 +2189,10 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2904,6 +2916,10 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3636,6 +3652,10 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "36.00"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [
         {
           "title": "WebView2 trims relative paths from href definitions",
@@ -3698,24 +3718,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678"
         },
         {
-          "title": "Latest version of Microsoft.Web.WebView2 in WPF integration breaks existing Application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2676"
-        },
-        {
-          "title": "How to get webview2 runtime earlier fixed version is 100.0.1185.29.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2673"
-        },
-        {
           "title": "Webview2 installed without permission",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670"
         },
         {
-          "title": "Crash after ExecuteScriptAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2668"
-        },
-        {
-          "title": "How to Invoke a JS function on a JS object from native code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
+          "title": "Release notes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2720"
         },
         {
           "title": "Resizing without window menu causes visual bugs",
@@ -3736,10 +3744,6 @@
         {
           "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
-        },
-        {
-          "title": "VSTO: WebView2  CoreWebView2 is null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2702"
         },
         {
           "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
@@ -3766,7 +3770,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
         }
       ],
-      "rate": "36.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4488,11 +4492,11 @@
     },
     {
       "date": "2022-08-26",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-08-27",
       "unRespondedItems": [
-        {
-          "title": "It does not go to https://localhost:3000. Instead it takes it to http://https//localhost:3000.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1163"
-        },
         {
           "title": "The compiler option \"strict\" should be enabled to reduce type errors",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1162"
@@ -4502,7 +4506,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5224,13 +5228,12 @@
     },
     {
       "date": "2022-08-26",
-      "unRespondedItems": [
-        {
-          "title": "The Flashs",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2140"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2022-08-27",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
