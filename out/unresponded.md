@@ -1,4 +1,4 @@
-Response rate: 89.42%
+Response rate: 88.83%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -10,7 +10,9 @@ Response rate: 89.42%
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [CreateWebViewEnvironmentWithOptionsInternal fails with STATU...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722)
+  * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
   * [WebView2 trims relative paths from href definitions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719)
   * [WinForms/C#/WebView2 app built for x86 architecture fails pa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718)
   * [How to achieve await like functionality in Win32/C++ for Exe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717)
@@ -26,8 +28,8 @@ Response rate: 89.42%
   * [document.visibilitychanged event not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681)
   * [Cannot view local media files in video tag](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679)
   * [synchronous call issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678)
-  * [Webview2 installed without permission](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670)
   * [Release notes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2720)
+  * [How to Invoke a JS function on a JS object from native code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716)
   * [Resizing without window menu causes visual bugs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715)
   * [webview2-about PDF display](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712)
   * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
@@ -38,8 +40,8 @@ Response rate: 89.42%
   * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
   * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
   * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
-  * [Working of ExecuteScriptAsync() when used in a connected hos...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669)
 * **microsoft/vscode-edge-devtools** - _96.00%_
   * [The compiler option "strict" should be enabled to reduce typ...](https://github.com/microsoft/vscode-edge-devtools/issues/1162)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [Extension API for search engine management](https://github.com/MicrosoftDocs/edge-developer/issues/2141)

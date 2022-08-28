@@ -722,6 +722,10 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1466,6 +1470,10 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2193,6 +2201,10 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2920,6 +2932,10 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3656,7 +3672,19 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [
+        {
+          "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
+        },
+        {
+          "title": "Mfa webview2 leak youtube working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
+        },
         {
           "title": "WebView2 trims relative paths from href definitions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719"
@@ -3718,12 +3746,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678"
         },
         {
-          "title": "Webview2 installed without permission",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2670"
-        },
-        {
           "title": "Release notes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2720"
+        },
+        {
+          "title": "How to Invoke a JS function on a JS object from native code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
         },
         {
           "title": "Resizing without window menu causes visual bugs",
@@ -3764,13 +3792,9 @@
         {
           "title": "Webview2 issue - pbix",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674"
-        },
-        {
-          "title": "Working of ExecuteScriptAsync() when used in a connected hostObject's method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2669"
         }
       ],
-      "rate": "44.00"
+      "rate": "42.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4496,6 +4520,10 @@
     },
     {
       "date": "2022-08-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-08-28",
       "unRespondedItems": [
         {
           "title": "The compiler option \"strict\" should be enabled to reduce type errors",
@@ -5232,8 +5260,17 @@
     },
     {
       "date": "2022-08-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-28",
+      "unRespondedItems": [
+        {
+          "title": "Extension API for search engine management",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2141"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
