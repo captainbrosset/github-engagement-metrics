@@ -1,4 +1,4 @@
-Response rate: 88.83%
+Response rate: 87.97%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -10,7 +10,8 @@ Response rate: 88.83%
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [CreateWebViewEnvironmentWithOptionsInternal fails with STATU...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
   * [WebView2 trims relative paths from href definitions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719)
@@ -40,7 +41,9 @@ Response rate: 88.83%
   * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
   * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
   * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [console](https://github.com/microsoft/vscode-edge-devtools/issues/1165)
+  * [запрос функции](https://github.com/microsoft/vscode-edge-devtools/issues/1164)
   * [The compiler option "strict" should be enabled to reduce typ...](https://github.com/microsoft/vscode-edge-devtools/issues/1162)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
 * **MicrosoftDocs/edge-developer** - _97.87%_

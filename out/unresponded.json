@@ -726,6 +726,10 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1474,6 +1478,10 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2205,6 +2213,10 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2936,6 +2948,10 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3676,7 +3692,15 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "42.00"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [
+        {
+          "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
+        },
         {
           "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
@@ -3794,7 +3818,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4524,7 +4548,19 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [
+        {
+          "title": "console",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1165"
+        },
+        {
+          "title": "запрос функции",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1164"
+        },
         {
           "title": "The compiler option \"strict\" should be enabled to reduce type errors",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1162"
@@ -4534,7 +4570,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5264,6 +5300,10 @@
     },
     {
       "date": "2022-08-28",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-08-29",
       "unRespondedItems": [
         {
           "title": "Extension API for search engine management",
