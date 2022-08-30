@@ -1,4 +1,4 @@
-Response rate: 87.97%
+Response rate: 88.85%
 
 * **webhintio/hint** - _90.48%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -6,18 +6,20 @@ Response rate: 87.97%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Resize/move animations in Animations panel immediately switc...](https://github.com/MicrosoftEdge/DevTools/issues/96)
 * **MicrosoftEdge/EdgeWebDriver** - _95.45%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [WebView2 runtime not recognized after windows update](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2727)
+  * [Debugging web-code in DevTools while native code is paused i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2726)
+  * [How to debug multiple webview2 instances in one app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724)
   * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [CreateWebViewEnvironmentWithOptionsInternal fails with STATU...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
-  * [WebView2 trims relative paths from href definitions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2719)
   * [WinForms/C#/WebView2 app built for x86 architecture fails pa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718)
   * [How to achieve await like functionality in Win32/C++ for Exe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717)
-  * [How to force utf-8 encoding on WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2713)
   * [Unable to access external site when local proxy is set](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711)
   * [Handle the NewWindow Request from a URI=about:blank#blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2710)
   * [Ver.105 of WebView2 has wrong offset when gdiScaling is true...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2704)
@@ -29,7 +31,6 @@ Response rate: 87.97%
   * [document.visibilitychanged event not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681)
   * [Cannot view local media files in video tag](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679)
   * [synchronous call issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678)
-  * [Release notes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2720)
   * [How to Invoke a JS function on a JS object from native code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716)
   * [Resizing without window menu causes visual bugs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715)
   * [webview2-about PDF display](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712)
@@ -40,11 +41,7 @@ Response rate: 87.97%
   * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
   * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
   * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
-  * [Webview2 issue - pbix](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2674)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [console](https://github.com/microsoft/vscode-edge-devtools/issues/1165)
-  * [запрос функции](https://github.com/microsoft/vscode-edge-devtools/issues/1164)
+* **microsoft/vscode-edge-devtools** - _96.00%_
   * [The compiler option "strict" should be enabled to reduce typ...](https://github.com/microsoft/vscode-edge-devtools/issues/1162)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Extension API for search engine management](https://github.com/MicrosoftDocs/edge-developer/issues/2141)
+* **MicrosoftDocs/edge-developer** - _100.00%_
