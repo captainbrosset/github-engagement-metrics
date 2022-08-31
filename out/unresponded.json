@@ -734,7 +734,19 @@
     },
     {
       "date": "2022-08-30",
+      "rate": "90.48"
+    },
+    {
+      "date": "2022-08-31",
       "unRespondedItems": [
+        {
+          "title": "[Docs Bug] Add docs improvement idea here",
+          "url": "https://github.com/webhintio/hint/issues/5284"
+        },
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5283"
+        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -752,7 +764,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "90.48"
+      "rate": "86.36"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1490,6 +1502,10 @@
     },
     {
       "date": "2022-08-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-08-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2229,13 +2245,12 @@
     },
     {
       "date": "2022-08-30",
-      "unRespondedItems": [
-        {
-          "title": "Resize/move animations in Animations panel immediately switches to Elements panel",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/96"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-08-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -2973,7 +2988,15 @@
     },
     {
       "date": "2022-08-30",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-08-31",
       "unRespondedItems": [
+        {
+          "title": "Microsoft Edge failed to start: crashed",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45"
+        },
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
@@ -2983,7 +3006,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.33"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3721,18 +3744,14 @@
     },
     {
       "date": "2022-08-30",
+      "rate": "42.00"
+    },
+    {
+      "date": "2022-08-31",
       "unRespondedItems": [
         {
-          "title": "WebView2 runtime not recognized after windows update",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2727"
-        },
-        {
-          "title": "Debugging web-code in DevTools while native code is paused in a breakpoint ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2726"
-        },
-        {
-          "title": "How to debug multiple webview2 instances in one app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724"
+          "title": "\"WebView2APISample\" CANNOT load webview2, error:COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731"
         },
         {
           "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
@@ -3749,10 +3768,6 @@
         {
           "title": "WinForms/C#/WebView2 app built for x86 architecture fails package validation because WebView2Loader.dll is x64.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718"
-        },
-        {
-          "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
         },
         {
           "title": "Unable to access external site when local proxy is set",
@@ -3791,12 +3806,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681"
         },
         {
-          "title": "Cannot view local media files in video tag",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2679"
+          "title": "Crash on \"Page.fileChooserOpened\" event callback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2733"
         },
         {
-          "title": "synchronous call issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2678"
+          "title": "Get responsed json of specified request.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732"
+        },
+        {
+          "title": "CoreWebView2PdfToolbarItems lacks members for \"enter full screen\" and \"Settings and more\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
+        },
+        {
+          "title": "How to debug multiple webview2 instances in one app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724"
+        },
+        {
+          "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
         },
         {
           "title": "How to Invoke a JS function on a JS object from native code",
@@ -3813,10 +3840,6 @@
         {
           "title": "WebView2 Save password",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709"
-        },
-        {
-          "title": "WebView2 breaks window message processing in some way",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2707"
         },
         {
           "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
@@ -3839,7 +3862,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683"
         }
       ],
-      "rate": "42.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4577,17 +4600,17 @@
     },
     {
       "date": "2022-08-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-08-31",
       "unRespondedItems": [
-        {
-          "title": "The compiler option \"strict\" should be enabled to reduce type errors",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1162"
-        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5325,8 +5348,21 @@
     },
     {
       "date": "2022-08-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-08-31",
+      "unRespondedItems": [
+        {
+          "title": "Not opening in IE Mode",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2143"
+        },
+        {
+          "title": "Webview2 - Fixed version : sometimes \"not found\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2142"
+        }
+      ],
+      "rate": "95.83"
     }
   ]
 }
