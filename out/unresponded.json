@@ -738,22 +738,18 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "86.36"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Add docs improvement idea here",
           "url": "https://github.com/webhintio/hint/issues/5284"
         },
         {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5283"
-        },
-        {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
-        },
-        {
-          "title": "[Bug] Vulnerability CVE-2022-33987 affecting code base",
-          "url": "https://github.com/webhintio/hint/issues/5260"
         },
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
@@ -764,7 +760,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "86.36"
+      "rate": "91.30"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1506,6 +1502,10 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2249,6 +2249,10 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2992,6 +2996,10 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [
         {
           "title": "Microsoft Edge failed to start: crashed",
@@ -3748,18 +3756,14 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [
-        {
-          "title": "\"WebView2APISample\" CANNOT load webview2, error:COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731"
-        },
         {
           "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
-        },
-        {
-          "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
         },
         {
           "title": "Mfa webview2 leak youtube working",
@@ -3802,10 +3806,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690"
         },
         {
-          "title": "document.visibilitychanged event not fired",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2681"
-        },
-        {
           "title": "Crash on \"Page.fileChooserOpened\" event callback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2733"
         },
@@ -3822,6 +3822,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724"
         },
         {
+          "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
+        },
+        {
           "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
         },
@@ -3834,7 +3838,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715"
         },
         {
-          "title": "webview2-about PDF display",
+          "title": "webview2- reopen PDF at last viewed location",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712"
         },
         {
@@ -3862,7 +3866,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683"
         }
       ],
-      "rate": "44.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4604,6 +4608,10 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [
         {
           "title": "NPM reload ",
@@ -5352,17 +5360,17 @@
     },
     {
       "date": "2022-08-31",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-01",
       "unRespondedItems": [
         {
-          "title": "Not opening in IE Mode",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2143"
-        },
-        {
-          "title": "Webview2 - Fixed version : sometimes \"not found\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2142"
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2145"
         }
       ],
-      "rate": "95.83"
+      "rate": "97.92"
     }
   ]
 }
