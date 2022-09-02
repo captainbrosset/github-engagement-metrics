@@ -742,11 +742,11 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [
-        {
-          "title": "[Docs Bug] Add docs improvement idea here",
-          "url": "https://github.com/webhintio/hint/issues/5284"
-        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -760,7 +760,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "91.30"
+      "rate": "93.62"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1506,6 +1506,10 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2253,6 +2257,10 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3000,7 +3008,15 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "93.33"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [
+        {
+          "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/46"
+        },
         {
           "title": "Microsoft Edge failed to start: crashed",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45"
@@ -3014,7 +3030,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.33"
+      "rate": "91.30"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3760,7 +3776,23 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "48.00"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [
+        {
+          "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741"
+        },
+        {
+          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
+        },
+        {
+          "title": "Are multiple calls to ExecuteScript queued?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738"
+        },
         {
           "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
@@ -3814,6 +3846,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732"
         },
         {
+          "title": "\"WebView2APISample\" CANNOT load webview2, error:COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731"
+        },
+        {
           "title": "CoreWebView2PdfToolbarItems lacks members for \"enter full screen\" and \"Settings and more\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
         },
@@ -3850,23 +3886,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
         },
         {
-          "title": "Virtual keyboard is not working when used UWP app on Kiosk mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694"
-        },
-        {
           "title": "CoreWebView2Settings.IsStatusBar not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
         },
         {
           "title": "For fixed version, are those Locales files (*.pak) needed?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
-        },
-        {
-          "title": "WebView2 control is not reflecting the correct point when the System Scale is not set to 100%",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683"
         }
       ],
-      "rate": "48.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4612,6 +4640,10 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [
         {
           "title": "NPM reload ",
@@ -5364,10 +5396,14 @@
     },
     {
       "date": "2022-09-01",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-09-02",
       "unRespondedItems": [
         {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2145"
+          "title": "[Edge WebDriver Docs Feedback] How to run WebDriverIO (TypeScript) with MS Edge in IE Mode ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2148"
         }
       ],
       "rate": "97.92"

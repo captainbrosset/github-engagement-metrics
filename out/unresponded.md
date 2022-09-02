@@ -1,17 +1,20 @@
-Response rate: 89.79%
+Response rate: 89.26%
 
-* **webhintio/hint** - _91.30%_
-  * [[Docs Bug] Add docs improvement idea here](https://github.com/webhintio/hint/issues/5284)
+* **webhintio/hint** - _93.62%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _93.33%_
+* **MicrosoftEdge/EdgeWebDriver** - _91.30%_
+  * [How to run WebDriverIO (TypeScript) with MS Edge in IE Mode](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/46)
   * [Microsoft Edge failed to start: crashed](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45)
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [Get a return value Synchronously by executing web-code, thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741)
+  * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
+  * [Are multiple calls to ExecuteScript queued?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738)
   * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
   * [WinForms/C#/WebView2 app built for x86 architecture fails pa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718)
@@ -25,6 +28,7 @@ Response rate: 89.79%
   * [Dragging from WebView2 to any WPF control doesn't work if a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690)
   * [Crash on "Page.fileChooserOpened" event callback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2733)
   * [Get responsed json of specified request.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732)
+  * ["WebView2APISample" CANNOT load webview2, error:COREWEBVIEW2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731)
   * [CoreWebView2PdfToolbarItems lacks members for "enter full sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728)
   * [How to debug multiple webview2 instances in one app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724)
   * [CreateWebViewEnvironmentWithOptionsInternal fails with STATU...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722)
@@ -34,11 +38,9 @@ Response rate: 89.79%
   * [webview2- reopen PDF at last viewed location](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712)
   * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
   * [WinForms (DpiUnawareGdiScaled): control renders in wrong loc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705)
-  * [Virtual keyboard is not working when used UWP app on Kiosk m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2694)
   * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
   * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
-  * [WebView2 control is not reflecting the correct point when th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2683)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
 * **MicrosoftDocs/edge-developer** - _97.92%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2145)
+  * [[Edge WebDriver Docs Feedback] How to run WebDriverIO (TypeS...](https://github.com/MicrosoftDocs/edge-developer/issues/2148)
