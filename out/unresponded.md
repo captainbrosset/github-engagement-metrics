@@ -1,4 +1,4 @@
-Response rate: 89.26%
+Response rate: 89.85%
 
 * **webhintio/hint** - _93.62%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -11,9 +11,9 @@ Response rate: 89.26%
   * [Microsoft Edge failed to start: crashed](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45)
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
-  * [Get a return value Synchronously by executing web-code, thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741)
-  * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [Insert text in a website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2749)
+  * [Webview Content was blank when virtualkoard was shown](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745)
   * [Are multiple calls to ExecuteScript queued?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738)
   * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
@@ -25,8 +25,8 @@ Response rate: 89.26%
   * [OnCreateCoreWebView2ControllerCompleted HRESULT 0x80080005](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2698)
   * [Unable to import element from an msxml2 domdocument into one...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697)
   * [SessionEnding event is raised when WebView2 is uninstalled](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692)
-  * [Dragging from WebView2 to any WPF control doesn't work if a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690)
-  * [Crash on "Page.fileChooserOpened" event callback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2733)
+  * [Get a return value Synchronously by executing web-code, thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741)
+  * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
   * [Get responsed json of specified request.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732)
   * ["WebView2APISample" CANNOT load webview2, error:COREWEBVIEW2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731)
   * [CoreWebView2PdfToolbarItems lacks members for "enter full sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728)
@@ -39,8 +39,6 @@ Response rate: 89.26%
   * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
   * [WinForms (DpiUnawareGdiScaled): control renders in wrong loc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705)
   * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
-  * [For fixed version, are those Locales files (*.pak) needed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _97.92%_
-  * [[Edge WebDriver Docs Feedback] How to run WebDriverIO (TypeS...](https://github.com/MicrosoftDocs/edge-developer/issues/2148)
+* **MicrosoftDocs/edge-developer** - _100.00%_

@@ -746,6 +746,10 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "93.62"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1510,6 +1514,10 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2261,6 +2269,10 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3012,6 +3024,10 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [
         {
           "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
@@ -3780,14 +3796,18 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [
         {
-          "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741"
+          "title": "Insert text in a website",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2749"
         },
         {
-          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
+          "title": "Webview Content was blank when virtualkoard was shown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
         },
         {
           "title": "Are multiple calls to ExecuteScript queued?",
@@ -3834,12 +3854,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692"
         },
         {
-          "title": "Dragging from WebView2 to any WPF control doesn't work if a WPF Popup is opened",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2690"
+          "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741"
         },
         {
-          "title": "Crash on \"Page.fileChooserOpened\" event callback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2733"
+          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         },
         {
           "title": "Get responsed json of specified request.",
@@ -3888,13 +3908,9 @@
         {
           "title": "CoreWebView2Settings.IsStatusBar not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
-        },
-        {
-          "title": "For fixed version, are those Locales files (*.pak) needed?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2689"
         }
       ],
-      "rate": "44.00"
+      "rate": "46.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4644,6 +4660,10 @@
     },
     {
       "date": "2022-09-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-03",
       "unRespondedItems": [
         {
           "title": "NPM reload ",
@@ -5400,13 +5420,12 @@
     },
     {
       "date": "2022-09-02",
-      "unRespondedItems": [
-        {
-          "title": "[Edge WebDriver Docs Feedback] How to run WebDriverIO (TypeScript) with MS Edge in IE Mode ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2148"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2022-09-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
