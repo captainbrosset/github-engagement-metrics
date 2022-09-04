@@ -750,7 +750,15 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "93.62"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5307"
+        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -764,7 +772,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "93.62"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1518,6 +1526,10 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2273,6 +2285,10 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3028,6 +3044,10 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [
         {
           "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
@@ -3800,6 +3820,10 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [
         {
           "title": "Insert text in a website",
@@ -4664,13 +4688,21 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [
+        {
+          "title": "C:\\Windows\\AppReadiness\\S-1-5-21-1619065065-2187187050-3738180804-1001",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1167"
+        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5424,6 +5456,10 @@
     },
     {
       "date": "2022-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }

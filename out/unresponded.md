@@ -1,6 +1,7 @@
-Response rate: 89.85%
+Response rate: 89.28%
 
-* **webhintio/hint** - _93.62%_
+* **webhintio/hint** - _91.67%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
@@ -39,6 +40,7 @@ Response rate: 89.85%
   * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
   * [WinForms (DpiUnawareGdiScaled): control renders in wrong loc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705)
   * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [C:\Windows\AppReadiness\S-1-5-21-1619065065-2187187050-37381...](https://github.com/microsoft/vscode-edge-devtools/issues/1167)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
 * **MicrosoftDocs/edge-developer** - _100.00%_
