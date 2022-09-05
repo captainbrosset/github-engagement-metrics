@@ -754,6 +754,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1530,6 +1534,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2289,8 +2297,17 @@
     },
     {
       "date": "2022-09-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-05",
+      "unRespondedItems": [
+        {
+          "title": "Hovering over elements does not reveal them on the webpage",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/94"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3048,6 +3065,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [
         {
           "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
@@ -3824,6 +3845,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [
         {
           "title": "Insert text in a website",
@@ -4692,6 +4717,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [
         {
           "title": "C:\\Windows\\AppReadiness\\S-1-5-21-1619065065-2187187050-3738180804-1001",
@@ -5460,6 +5489,10 @@
     },
     {
       "date": "2022-09-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }

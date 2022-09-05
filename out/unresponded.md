@@ -1,4 +1,4 @@
-Response rate: 89.28%
+Response rate: 89.00%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -6,7 +6,8 @@ Response rate: 89.28%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Hovering over elements does not reveal them on the webpage](https://github.com/MicrosoftEdge/DevTools/issues/94)
 * **MicrosoftEdge/EdgeWebDriver** - _91.30%_
   * [How to run WebDriverIO (TypeScript) with MS Edge in IE Mode](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/46)
   * [Microsoft Edge failed to start: crashed](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45)
