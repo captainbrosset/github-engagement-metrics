@@ -758,6 +758,10 @@
     },
     {
       "date": "2022-09-05",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1538,6 +1542,10 @@
     },
     {
       "date": "2022-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2301,13 +2309,12 @@
     },
     {
       "date": "2022-09-05",
-      "unRespondedItems": [
-        {
-          "title": "Hovering over elements does not reveal them on the webpage",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/94"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-09-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3069,6 +3076,10 @@
     },
     {
       "date": "2022-09-05",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-06",
       "unRespondedItems": [
         {
           "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
@@ -3849,14 +3860,30 @@
     },
     {
       "date": "2022-09-05",
+      "rate": "46.00"
+    },
+    {
+      "date": "2022-09-06",
       "unRespondedItems": [
+        {
+          "title": "In edge://downloads/all is \"open downloads folder\" and \"downloads settings\" intended?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2753"
+        },
+        {
+          "title": "When web-code returns a string; extra double quotes are included in the return value from ExecuteScriptAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2752"
+        },
+        {
+          "title": "About:blank might be already in the navigation history for newly opened windows",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751"
+        },
+        {
+          "title": "WebView2 wpf control remote debugging port can't work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750"
+        },
         {
           "title": "Insert text in a website",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2749"
-        },
-        {
-          "title": "Webview Content was blank when virtualkoard was shown",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
         },
         {
           "title": "Are multiple calls to ExecuteScript queued?",
@@ -3899,8 +3926,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697"
         },
         {
-          "title": "SessionEnding event is raised when WebView2 is uninstalled",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692"
+          "title": "Webview Content was blank when virtualkoard was shown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
         },
         {
           "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
@@ -3953,13 +3980,9 @@
         {
           "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
-        },
-        {
-          "title": "CoreWebView2Settings.IsStatusBar not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693"
         }
       ],
-      "rate": "46.00"
+      "rate": "42.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4721,17 +4744,33 @@
     },
     {
       "date": "2022-09-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-06",
       "unRespondedItems": [
         {
-          "title": "C:\\Windows\\AppReadiness\\S-1-5-21-1619065065-2187187050-3738180804-1001",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1167"
+          "title": "i cant run html or css or... ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1171"
+        },
+        {
+          "title": "Extension issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1170"
+        },
+        {
+          "title": "i hobe, i can the Page Source in vs viewing ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1169"
+        },
+        {
+          "title": "Skip tests",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1168"
         },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5493,8 +5532,21 @@
     },
     {
       "date": "2022-09-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-06",
+      "unRespondedItems": [
+        {
+          "title": "Clarifications",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2152"
+        },
+        {
+          "title": "Clarify that XBox is not yet supported for UWP",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2151"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }

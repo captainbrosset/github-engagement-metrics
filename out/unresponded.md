@@ -1,4 +1,4 @@
-Response rate: 89.00%
+Response rate: 87.24%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -6,16 +6,18 @@ Response rate: 89.00%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Hovering over elements does not reveal them on the webpage](https://github.com/MicrosoftEdge/DevTools/issues/94)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _91.30%_
   * [How to run WebDriverIO (TypeScript) with MS Edge in IE Mode](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/46)
   * [Microsoft Edge failed to start: crashed](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45)
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [In edge://downloads/all is "open downloads folder" and "down...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2753)
+  * [When web-code returns a string; extra double quotes are incl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2752)
+  * [About:blank might be already in the navigation history for n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751)
+  * [WebView2 wpf control remote debugging port can't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750)
   * [Insert text in a website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2749)
-  * [Webview Content was blank when virtualkoard was shown](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745)
   * [Are multiple calls to ExecuteScript queued?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738)
   * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
@@ -26,7 +28,7 @@ Response rate: 89.00%
   * [UWP - 1.0.0-experimental1 Webview2 Issues](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2700)
   * [OnCreateCoreWebView2ControllerCompleted HRESULT 0x80080005](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2698)
   * [Unable to import element from an msxml2 domdocument into one...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697)
-  * [SessionEnding event is raised when WebView2 is uninstalled](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2692)
+  * [Webview Content was blank when virtualkoard was shown](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745)
   * [Get a return value Synchronously by executing web-code, thro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741)
   * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
   * [Get responsed json of specified request.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732)
@@ -40,8 +42,12 @@ Response rate: 89.00%
   * [webview2- reopen PDF at last viewed location](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712)
   * [WebView2 Save password](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709)
   * [WinForms (DpiUnawareGdiScaled): control renders in wrong loc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705)
-  * [CoreWebView2Settings.IsStatusBar not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2693)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [C:\Windows\AppReadiness\S-1-5-21-1619065065-2187187050-37381...](https://github.com/microsoft/vscode-edge-devtools/issues/1167)
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [i cant run html or css or... ](https://github.com/microsoft/vscode-edge-devtools/issues/1171)
+  * [Extension issue](https://github.com/microsoft/vscode-edge-devtools/issues/1170)
+  * [i hobe, i can the Page Source in vs viewing ](https://github.com/microsoft/vscode-edge-devtools/issues/1169)
+  * [Skip tests](https://github.com/microsoft/vscode-edge-devtools/issues/1168)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Clarifications](https://github.com/MicrosoftDocs/edge-developer/issues/2152)
+  * [Clarify that XBox is not yet supported for UWP](https://github.com/MicrosoftDocs/edge-developer/issues/2151)
