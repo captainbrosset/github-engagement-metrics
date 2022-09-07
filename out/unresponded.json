@@ -762,6 +762,10 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1546,6 +1550,10 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2313,6 +2321,10 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3080,11 +3092,11 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [
-        {
-          "title": "How to run WebDriverIO (TypeScript) with MS Edge in IE Mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/46"
-        },
         {
           "title": "Microsoft Edge failed to start: crashed",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45"
@@ -3098,7 +3110,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "91.30"
+      "rate": "93.48"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3864,7 +3876,39 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "42.00"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [
+        {
+          "title": "Control when to open new/external window in webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
+        },
+        {
+          "title": "Having trouble linking/loading local JavaScript file in Win32 app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2759"
+        },
+        {
+          "title": "Input Method (IME) doesn't work in most cases after using ICoreWebView2CompositionController",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2758"
+        },
+        {
+          "title": "How would you implement Navigate's timeout handling?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2757"
+        },
+        {
+          "title": "Invalid Window Handle error from CreateCoreWebView2Controller",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2756"
+        },
+        {
+          "title": "webview2 installation failed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2755"
+        },
+        {
+          "title": "CoreWebView2.AddHostObjectToScript throws exception \"The group or resource is not in the correct state to perform the requested operation.\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2754"
+        },
         {
           "title": "In edge://downloads/all is \"open downloads folder\" and \"downloads settings\" intended?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2753"
@@ -3898,10 +3942,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
         },
         {
-          "title": "WinForms/C#/WebView2 app built for x86 architecture fails package validation because WebView2Loader.dll is x64.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718"
-        },
-        {
           "title": "Unable to access external site when local proxy is set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711"
         },
@@ -3912,22 +3952,6 @@
         {
           "title": "Ver.105 of WebView2 has wrong offset when gdiScaling is true on High DPI Monitor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2704"
-        },
-        {
-          "title": "UWP - 1.0.0-experimental1 Webview2 Issues",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2700"
-        },
-        {
-          "title": "OnCreateCoreWebView2ControllerCompleted HRESULT 0x80080005",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2698"
-        },
-        {
-          "title": "Unable to import element from an msxml2 domdocument into one passed in from the parent page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2697"
-        },
-        {
-          "title": "Webview Content was blank when virtualkoard was shown",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
         },
         {
           "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
@@ -3958,16 +3982,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
         },
         {
+          "title": "WinForms/C#/WebView2 app built for x86 architecture fails package validation because WebView2Loader.dll is x64.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718"
+        },
+        {
           "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
         },
         {
           "title": "How to Invoke a JS function on a JS object from native code",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
-        },
-        {
-          "title": "Resizing without window menu causes visual bugs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2715"
         },
         {
           "title": "webview2- reopen PDF at last viewed location",
@@ -3982,7 +4006,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
         }
       ],
-      "rate": "42.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4748,29 +4772,17 @@
     },
     {
       "date": "2022-09-06",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-09-07",
       "unRespondedItems": [
-        {
-          "title": "i cant run html or css or... ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1171"
-        },
-        {
-          "title": "Extension issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1170"
-        },
-        {
-          "title": "i hobe, i can the Page Source in vs viewing ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1169"
-        },
-        {
-          "title": "Skip tests",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1168"
-        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5536,17 +5548,12 @@
     },
     {
       "date": "2022-09-06",
-      "unRespondedItems": [
-        {
-          "title": "Clarifications",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2152"
-        },
-        {
-          "title": "Clarify that XBox is not yet supported for UWP",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2151"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2022-09-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
