@@ -766,6 +766,10 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1554,6 +1558,10 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2325,6 +2333,10 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3096,6 +3108,10 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "93.48"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [
         {
           "title": "Microsoft Edge failed to start: crashed",
@@ -3880,7 +3896,39 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [
+        {
+          "title": "How to prevent the \"Escape\" key from exiting fullscreen mode?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770"
+        },
+        {
+          "title": "wv2winrt generated code fails to compile in c++ projects",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2768"
+        },
+        {
+          "title": "Not all CSS cursor properties are functional",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
+        },
+        {
+          "title": "WebView2 NuGet package: remove empty dependency groups",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2765"
+        },
+        {
+          "title": "Support clearing browsing data for a specific domain only with `ClearBrowsingDataAsync`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2764"
+        },
+        {
+          "title": "WebView2 froze when switch user Sessions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
+        },
+        {
+          "title": "WebView2_Child process failed ExitCode:-1073740760",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
+        },
         {
           "title": "Control when to open new/external window in webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
@@ -3914,10 +3962,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2753"
         },
         {
-          "title": "When web-code returns a string; extra double quotes are included in the return value from ExecuteScriptAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2752"
-        },
-        {
           "title": "About:blank might be already in the navigation history for newly opened windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751"
         },
@@ -3942,22 +3986,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
         },
         {
-          "title": "Unable to access external site when local proxy is set",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2711"
-        },
-        {
-          "title": "Handle the NewWindow Request from a URI=about:blank#blocked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2710"
-        },
-        {
-          "title": "Ver.105 of WebView2 has wrong offset when gdiScaling is true on High DPI Monitor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2704"
-        },
-        {
-          "title": "Get a return value Synchronously by executing web-code, through a clear built-in method in WebView2 ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2741"
-        },
-        {
           "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         },
@@ -3972,10 +4000,6 @@
         {
           "title": "CoreWebView2PdfToolbarItems lacks members for \"enter full screen\" and \"Settings and more\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
-        },
-        {
-          "title": "How to debug multiple webview2 instances in one app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2724"
         },
         {
           "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
@@ -3996,17 +4020,9 @@
         {
           "title": "webview2- reopen PDF at last viewed location",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712"
-        },
-        {
-          "title": "WebView2 Save password",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2709"
-        },
-        {
-          "title": "WinForms (DpiUnawareGdiScaled): control renders in wrong location on scaled monitor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2705"
         }
       ],
-      "rate": "38.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4776,6 +4792,10 @@
     },
     {
       "date": "2022-09-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-08",
       "unRespondedItems": [
         {
           "title": "NPM reload ",
@@ -5552,8 +5572,21 @@
     },
     {
       "date": "2022-09-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-08",
+      "unRespondedItems": [
+        {
+          "title": "Debugging documentation doesn't address virtual host name mapping",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2157"
+        },
+        {
+          "title": "url_handlers vs scope_extensions",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2155"
+        }
+      ],
+      "rate": "95.83"
     }
   ]
 }
