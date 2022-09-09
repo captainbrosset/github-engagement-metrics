@@ -770,6 +770,10 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1562,6 +1566,10 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2337,6 +2345,10 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3112,6 +3124,10 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "93.48"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [
         {
           "title": "Microsoft Edge failed to start: crashed",
@@ -3900,7 +3916,27 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "40.00"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [
+        {
+          "title": "WebView2 creates at wrong size (possible regression?)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776"
+        },
+        {
+          "title": "EnsureCoreWebView2Async signatur change breaks BindingRedirects",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2775"
+        },
+        {
+          "title": "Cannot open local office files ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2774"
+        },
+        {
+          "title": "CoreWebView2 crash due to use context menu Open link in new window (WPF)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771"
+        },
         {
           "title": "How to prevent the \"Escape\" key from exiting fullscreen mode?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770"
@@ -3914,20 +3950,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         },
         {
-          "title": "WebView2 NuGet package: remove empty dependency groups",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2765"
-        },
-        {
-          "title": "Support clearing browsing data for a specific domain only with `ClearBrowsingDataAsync`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2764"
-        },
-        {
           "title": "WebView2 froze when switch user Sessions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
-        },
-        {
-          "title": "WebView2_Child process failed ExitCode:-1073740760",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         },
         {
           "title": "Control when to open new/external window in webview2",
@@ -3946,32 +3970,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2757"
         },
         {
-          "title": "Invalid Window Handle error from CreateCoreWebView2Controller",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2756"
-        },
-        {
-          "title": "webview2 installation failed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2755"
-        },
-        {
-          "title": "CoreWebView2.AddHostObjectToScript throws exception \"The group or resource is not in the correct state to perform the requested operation.\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2754"
-        },
-        {
-          "title": "In edge://downloads/all is \"open downloads folder\" and \"downloads settings\" intended?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2753"
-        },
-        {
           "title": "About:blank might be already in the navigation history for newly opened windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751"
         },
         {
           "title": "WebView2 wpf control remote debugging port can't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750"
-        },
-        {
-          "title": "Insert text in a website",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2749"
         },
         {
           "title": "Are multiple calls to ExecuteScript queued?",
@@ -4004,25 +4008,9 @@
         {
           "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
-        },
-        {
-          "title": "WinForms/C#/WebView2 app built for x86 architecture fails package validation because WebView2Loader.dll is x64.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2718"
-        },
-        {
-          "title": "How to achieve await like functionality in Win32/C++ for ExecuteScript handler?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2717"
-        },
-        {
-          "title": "How to Invoke a JS function on a JS object from native code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2716"
-        },
-        {
-          "title": "webview2- reopen PDF at last viewed location",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2712"
         }
       ],
-      "rate": "40.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4796,13 +4784,21 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [
+        {
+          "title": "replit",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1179"
+        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5576,17 +5572,29 @@
     },
     {
       "date": "2022-09-08",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-09",
       "unRespondedItems": [
         {
-          "title": "Debugging documentation doesn't address virtual host name mapping",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2157"
+          "title": "Added videos to \"Customize DevTools\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2161"
+        },
+        {
+          "title": "[Add-ons API]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2160"
+        },
+        {
+          "title": "[Add-ons API]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2159"
         },
         {
           "title": "url_handlers vs scope_extensions",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2155"
         }
       ],
-      "rate": "95.83"
+      "rate": "91.67"
     }
   ]
 }
