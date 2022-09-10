@@ -774,6 +774,10 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1570,6 +1574,10 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2349,6 +2357,10 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3128,11 +3140,11 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "93.48"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [
-        {
-          "title": "Microsoft Edge failed to start: crashed",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/45"
-        },
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
@@ -3142,7 +3154,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.48"
+      "rate": "95.65"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -3920,7 +3932,19 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [
+        {
+          "title": "wpf webview2 not support for win7?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
+        },
+        {
+          "title": "Element not found COMException during initialization",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2780"
+        },
         {
           "title": "WebView2 creates at wrong size (possible regression?)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776"
@@ -3944,10 +3968,6 @@
         {
           "title": "wv2winrt generated code fails to compile in c++ projects",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2768"
-        },
-        {
-          "title": "Not all CSS cursor properties are functional",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         },
         {
           "title": "WebView2 froze when switch user Sessions",
@@ -3982,10 +4002,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738"
         },
         {
-          "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
-        },
-        {
           "title": "Mfa webview2 leak youtube working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
         },
@@ -4006,11 +4022,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
         },
         {
+          "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
+        },
+        {
           "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4788,10 +4808,14 @@
     },
     {
       "date": "2022-09-09",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-10",
       "unRespondedItems": [
         {
-          "title": "replit",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1179"
+          "title": "Parameter",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1180"
         },
         {
           "title": "NPM reload ",
@@ -5576,25 +5600,12 @@
     },
     {
       "date": "2022-09-09",
-      "unRespondedItems": [
-        {
-          "title": "Added videos to \"Customize DevTools\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2161"
-        },
-        {
-          "title": "[Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2160"
-        },
-        {
-          "title": "[Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2159"
-        },
-        {
-          "title": "url_handlers vs scope_extensions",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2155"
-        }
-      ],
       "rate": "91.67"
+    },
+    {
+      "date": "2022-09-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
