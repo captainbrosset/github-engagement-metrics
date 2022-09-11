@@ -778,6 +778,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1578,6 +1582,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2361,6 +2369,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3144,6 +3156,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3936,6 +3952,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [
         {
           "title": "wpf webview2 not support for win7?",
@@ -4812,6 +4832,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [
         {
           "title": "Parameter",
@@ -5604,6 +5628,10 @@
     },
     {
       "date": "2022-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
