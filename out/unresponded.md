@@ -1,4 +1,4 @@
-Response rate: 91.05%
+Response rate: 90.19%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -10,7 +10,7 @@ Response rate: 91.05%
 * **MicrosoftEdge/EdgeWebDriver** - _95.65%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
   * [wpf webview2 not support for win7?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782)
   * [Element not found COMException during initialization](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2780)
   * [WebView2 creates at wrong size (possible regression?)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776)
@@ -28,13 +28,16 @@ Response rate: 91.05%
   * [WebView2 wpf control remote debugging port can't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750)
   * [Are multiple calls to ExecuteScript queued?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738)
   * [Mfa webview2 leak youtube working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721)
+  * [WebView2_Child process failed ExitCode:-1073740760](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761)
   * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
   * [Get responsed json of specified request.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732)
   * ["WebView2APISample" CANNOT load webview2, error:COREWEBVIEW2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731)
   * [CoreWebView2PdfToolbarItems lacks members for "enter full sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728)
   * [How to disable the auto-suggestion and multiple eye icon in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723)
   * [CreateWebViewEnvironmentWithOptionsInternal fails with STATU...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [[Changelog]: Updating to 2.1.1](https://github.com/microsoft/vscode-edge-devtools/pull/1183)
+  * [See](https://github.com/microsoft/vscode-edge-devtools/issues/1182)
   * [Parameter](https://github.com/microsoft/vscode-edge-devtools/issues/1180)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
 * **MicrosoftDocs/edge-developer** - _100.00%_

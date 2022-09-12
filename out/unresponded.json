@@ -782,6 +782,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1586,6 +1590,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2373,6 +2381,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3160,6 +3172,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3956,6 +3972,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [
         {
           "title": "wpf webview2 not support for win7?",
@@ -4026,6 +4046,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
         },
         {
+          "title": "WebView2_Child process failed ExitCode:-1073740760",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
+        },
+        {
           "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         },
@@ -4050,7 +4074,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4836,7 +4860,19 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [
+        {
+          "title": "[Changelog]: Updating to 2.1.1",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1183"
+        },
+        {
+          "title": "See",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1182"
+        },
         {
           "title": "Parameter",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1180"
@@ -4846,7 +4882,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5632,6 +5668,10 @@
     },
     {
       "date": "2022-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
