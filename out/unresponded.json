@@ -786,6 +786,10 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1594,6 +1598,10 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2385,6 +2393,10 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3176,6 +3188,10 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3976,14 +3992,22 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "52.00"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [
         {
-          "title": "wpf webview2 not support for win7?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
+          "title": "How to Check if a host object has been properly added?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785"
         },
         {
-          "title": "Element not found COMException during initialization",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2780"
+          "title": "Visibility bug (overflow-x: scroll)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2784"
+        },
+        {
+          "title": "Static download link Evergreen Bootstrapper",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783"
         },
         {
           "title": "WebView2 creates at wrong size (possible regression?)",
@@ -4042,8 +4066,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738"
         },
         {
-          "title": "Mfa webview2 leak youtube working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2721"
+          "title": "Not all CSS cursor properties are functional",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         },
         {
           "title": "WebView2_Child process failed ExitCode:-1073740760",
@@ -4064,17 +4088,9 @@
         {
           "title": "CoreWebView2PdfToolbarItems lacks members for \"enter full screen\" and \"Settings and more\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
-        },
-        {
-          "title": "How to disable the auto-suggestion and multiple eye icon in password field in the login form",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2723"
-        },
-        {
-          "title": "CreateWebViewEnvironmentWithOptionsInternal fails with STATUS_BUFFER_TOO_SMALL",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2722"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4864,25 +4880,25 @@
     },
     {
       "date": "2022-09-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-09-13",
       "unRespondedItems": [
+        {
+          "title": "request",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1185"
+        },
         {
           "title": "[Changelog]: Updating to 2.1.1",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1183"
-        },
-        {
-          "title": "See",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1182"
-        },
-        {
-          "title": "Parameter",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1180"
         },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5672,8 +5688,17 @@
     },
     {
       "date": "2022-09-12",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-13",
+      "unRespondedItems": [
+        {
+          "title": "https://thegolden7.com/",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2169"
+        }
+      ],
+      "rate": "97.96"
     }
   ]
 }
