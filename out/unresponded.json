@@ -790,6 +790,10 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1602,6 +1606,10 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2397,6 +2405,10 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3192,6 +3204,10 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3996,7 +4012,23 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [
+        {
+          "title": "Using pre-release webview2 sdk conflict with windows app sdk (winui3) in C++ WinRT",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2788"
+        },
+        {
+          "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787"
+        },
+        {
+          "title": "PowerPoint Add-in with WebView2 gives error on Windows authentication",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2786"
+        },
         {
           "title": "How to Check if a host object has been properly added?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785"
@@ -4030,10 +4062,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770"
         },
         {
-          "title": "wv2winrt generated code fails to compile in c++ projects",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2768"
-        },
-        {
           "title": "WebView2 froze when switch user Sessions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
         },
@@ -4044,10 +4072,6 @@
         {
           "title": "Having trouble linking/loading local JavaScript file in Win32 app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2759"
-        },
-        {
-          "title": "Input Method (IME) doesn't work in most cases after using ICoreWebView2CompositionController",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2758"
         },
         {
           "title": "How would you implement Navigate's timeout handling?",
@@ -4074,6 +4098,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         },
         {
+          "title": "Webview Content was blank when virtualkoard was shown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
+        },
+        {
           "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         },
@@ -4090,7 +4118,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
         }
       ],
-      "rate": "54.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4884,21 +4912,17 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [
-        {
-          "title": "request",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1185"
-        },
-        {
-          "title": "[Changelog]: Updating to 2.1.1",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1183"
-        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5692,13 +5716,21 @@
     },
     {
       "date": "2022-09-13",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-09-14",
       "unRespondedItems": [
         {
-          "title": "https://thegolden7.com/",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2169"
+          "title": "[WIP] Add documentation for heap snapshot schema",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2173"
+        },
+        {
+          "title": "حل",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2171"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.74"
     }
   ]
 }
