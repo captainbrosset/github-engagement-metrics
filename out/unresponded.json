@@ -794,6 +794,10 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1610,6 +1614,10 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2409,6 +2417,10 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3208,6 +3220,10 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3218,7 +3234,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.65"
+      "rate": "95.74"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4016,7 +4032,19 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [
+        {
+          "title": "Minor bug: CTRL + F -> CTRL + T puts the cursor to the incorrect search field.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2790"
+        },
+        {
+          "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
+        },
         {
           "title": "Using pre-release webview2 sdk conflict with windows app sdk (winui3) in C++ WinRT",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2788"
@@ -4090,6 +4118,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738"
         },
         {
+          "title": "WebView2 runtime requirement for MSN Weather",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2791"
+        },
+        {
           "title": "Not all CSS cursor properties are functional",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         },
@@ -4098,24 +4130,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         },
         {
-          "title": "Webview Content was blank when virtualkoard was shown",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
-        },
-        {
           "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         },
         {
           "title": "Get responsed json of specified request.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732"
-        },
-        {
-          "title": "\"WebView2APISample\" CANNOT load webview2, error:COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2731"
-        },
-        {
-          "title": "CoreWebView2PdfToolbarItems lacks members for \"enter full screen\" and \"Settings and more\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2728"
         }
       ],
       "rate": "50.00"
@@ -4916,6 +4936,10 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [
         {
           "title": "NPM reload ",
@@ -5720,17 +5744,21 @@
     },
     {
       "date": "2022-09-14",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-15",
       "unRespondedItems": [
+        {
+          "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
+        },
         {
           "title": "[WIP] Add documentation for heap snapshot schema",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2173"
-        },
-        {
-          "title": "حل",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2171"
         }
       ],
-      "rate": "95.74"
+      "rate": "95.65"
     }
   ]
 }
