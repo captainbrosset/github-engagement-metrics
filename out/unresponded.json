@@ -798,6 +798,10 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1618,6 +1622,10 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2421,6 +2429,10 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3224,6 +3236,10 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4036,10 +4052,18 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [
         {
-          "title": "Minor bug: CTRL + F -> CTRL + T puts the cursor to the incorrect search field.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2790"
+          "title": "WinUI RenderAsync method doesn't work for making screenshots of WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2799"
+        },
+        {
+          "title": "CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'Unexpected'",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793"
         },
         {
           "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
@@ -4052,10 +4076,6 @@
         {
           "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787"
-        },
-        {
-          "title": "PowerPoint Add-in with WebView2 gives error on Windows authentication",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2786"
         },
         {
           "title": "How to Check if a host object has been properly added?",
@@ -4114,31 +4134,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750"
         },
         {
-          "title": "Are multiple calls to ExecuteScript queued?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738"
-        },
-        {
-          "title": "WebView2 runtime requirement for MSN Weather",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2791"
-        },
-        {
-          "title": "Not all CSS cursor properties are functional",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
-        },
-        {
           "title": "WebView2_Child process failed ExitCode:-1073740760",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         },
         {
-          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
+          "title": "Webview Content was blank when virtualkoard was shown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
         },
         {
-          "title": "Get responsed json of specified request.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732"
+          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         }
       ],
-      "rate": "50.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4940,13 +4948,21 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [
+        {
+          "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
+        },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5748,7 +5764,19 @@
     },
     {
       "date": "2022-09-15",
+      "rate": "95.65"
+    },
+    {
+      "date": "2022-09-16",
       "unRespondedItems": [
+        {
+          "title": "https://johnsonssdlccompany.com/",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2181"
+        },
+        {
+          "title": "STARGATE08 46 9.083 + 06 20 48.06",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2180"
+        },
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
@@ -5758,7 +5786,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2173"
         }
       ],
-      "rate": "95.65"
+      "rate": "91.30"
     }
   ]
 }

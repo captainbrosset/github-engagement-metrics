@@ -1,4 +1,4 @@
-Response rate: 90.15%
+Response rate: 90.10%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -10,12 +10,12 @@ Response rate: 90.15%
 * **MicrosoftEdge/EdgeWebDriver** - _95.74%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [Minor bug: CTRL + F -> CTRL + T puts the cursor to the incor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2790)
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [WinUI RenderAsync method doesn't work for making screenshots...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2799)
+  * [CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793)
   * [Issue handing Webview2 a custom Response in WebResourceReque...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789)
   * [Using pre-release webview2 sdk conflict with windows app sdk...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2788)
   * [System.ArgumentException after call HostObject method that r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787)
-  * [PowerPoint Add-in with WebView2 gives error on Windows authe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2786)
   * [How to Check if a host object has been properly added?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785)
   * [Visibility bug (overflow-x: scroll)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2784)
   * [Static download link Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783)
@@ -30,14 +30,14 @@ Response rate: 90.15%
   * [How would you implement Navigate's timeout handling?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2757)
   * [About:blank might be already in the navigation history for n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751)
   * [WebView2 wpf control remote debugging port can't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750)
-  * [Are multiple calls to ExecuteScript queued?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2738)
-  * [WebView2 runtime requirement for MSN Weather](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2791)
-  * [Not all CSS cursor properties are functional](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766)
   * [WebView2_Child process failed ExitCode:-1073740760](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761)
+  * [Webview Content was blank when virtualkoard was shown](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745)
   * [COMException 0x8000FFFF would be thrown if calling EnsureCor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740)
-  * [Get responsed json of specified request.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2732)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _91.30%_
+  * [https://johnsonssdlccompany.com/](https://github.com/MicrosoftDocs/edge-developer/issues/2181)
+  * [STARGATE08 46 9.083 + 06 20 48.06](https://github.com/MicrosoftDocs/edge-developer/issues/2180)
   * [Fork into PR "Fix button name, state support in "Get started...](https://github.com/MicrosoftDocs/edge-developer/pull/2174)
   * [[WIP] Add documentation for heap snapshot schema](https://github.com/MicrosoftDocs/edge-developer/pull/2173)
