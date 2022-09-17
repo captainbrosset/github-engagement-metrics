@@ -802,6 +802,10 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1626,6 +1630,10 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2433,6 +2441,10 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3240,6 +3252,10 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4056,26 +4072,34 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [
         {
-          "title": "WinUI RenderAsync method doesn't work for making screenshots of WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2799"
+          "title": "JavaScript drag/drop events not working in WinUI specifically (WPF is fine)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2805"
+        },
+        {
+          "title": "C# WPF - Are there timeouts on HostObjects-Promise Calls that crashes the whole Application?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2803"
+        },
+        {
+          "title": "webview2 iss with wpf browser project",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
+        },
+        {
+          "title": "header Proxy-Authorization which my customized seems not to work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2800"
         },
         {
           "title": "CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'Unexpected'",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793"
         },
         {
-          "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
-        },
-        {
           "title": "Using pre-release webview2 sdk conflict with windows app sdk (winui3) in C++ WinRT",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2788"
-        },
-        {
-          "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787"
         },
         {
           "title": "How to Check if a host object has been properly added?",
@@ -4098,10 +4122,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2775"
         },
         {
-          "title": "Cannot open local office files ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2774"
-        },
-        {
           "title": "CoreWebView2 crash due to use context menu Open link in new window (WPF)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771"
         },
@@ -4118,35 +4138,23 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
         },
         {
-          "title": "Having trouble linking/loading local JavaScript file in Win32 app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2759"
-        },
-        {
-          "title": "How would you implement Navigate's timeout handling?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2757"
-        },
-        {
           "title": "About:blank might be already in the navigation history for newly opened windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751"
         },
         {
-          "title": "WebView2 wpf control remote debugging port can't work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2750"
+          "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787"
+        },
+        {
+          "title": "Not all CSS cursor properties are functional",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         },
         {
           "title": "WebView2_Child process failed ExitCode:-1073740760",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
-        },
-        {
-          "title": "Webview Content was blank when virtualkoard was shown",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2745"
-        },
-        {
-          "title": "COMException 0x8000FFFF would be thrown if calling EnsureCoreWebView2Async",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2740"
         }
       ],
-      "rate": "56.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4952,6 +4960,10 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -5768,25 +5780,17 @@
     },
     {
       "date": "2022-09-16",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-09-17",
       "unRespondedItems": [
-        {
-          "title": "https://johnsonssdlccompany.com/",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2181"
-        },
-        {
-          "title": "STARGATE08 46 9.083 + 06 20 48.06",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2180"
-        },
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
-        },
-        {
-          "title": "[WIP] Add documentation for heap snapshot schema",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2173"
         }
       ],
-      "rate": "91.30"
+      "rate": "97.87"
     }
   ]
 }
