@@ -806,6 +806,10 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1634,6 +1638,10 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2445,8 +2453,17 @@
     },
     {
       "date": "2022-09-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-18",
+      "unRespondedItems": [
+        {
+          "title": "Two commands to launch Sensors in the Command Menu",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/101"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3256,6 +3273,10 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4076,10 +4097,22 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [
         {
-          "title": "JavaScript drag/drop events not working in WinUI specifically (WPF is fine)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2805"
+          "title": "What is the purpose of, or which frame caused a FrameNavigationStarting or FrameNavigationCompleted to fire?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2808"
+        },
+        {
+          "title": "WebView2 crash when CTRL+F search is open and webview is disposed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2807"
+        },
+        {
+          "title": "Installing WebView2 breaks namespace generation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806"
         },
         {
           "title": "C# WPF - Are there timeouts on HostObjects-Promise Calls that crashes the whole Application?",
@@ -4138,8 +4171,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
         },
         {
-          "title": "About:blank might be already in the navigation history for newly opened windows",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2751"
+          "title": "Setting \"CreationProperties\" property give exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2804"
+        },
+        {
+          "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
         },
         {
           "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
@@ -4154,7 +4191,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         }
       ],
-      "rate": "62.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -4964,6 +5001,10 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -5784,13 +5825,21 @@
     },
     {
       "date": "2022-09-17",
+      "rate": "97.87"
+    },
+    {
+      "date": "2022-09-18",
       "unRespondedItems": [
+        {
+          "title": "Show Sensors is listed as a Drawer (not Panel)",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2184"
+        },
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }
