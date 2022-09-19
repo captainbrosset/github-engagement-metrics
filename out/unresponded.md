@@ -1,4 +1,4 @@
-Response rate: 90.45%
+Response rate: 89.59%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -6,12 +6,15 @@ Response rate: 90.45%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
   * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [JavaScript Tooltip disappear in Console](https://github.com/MicrosoftEdge/DevTools/issues/102)
   * [Two commands to launch Sensors in the Command Menu](https://github.com/MicrosoftEdge/DevTools/issues/101)
 * **MicrosoftEdge/EdgeWebDriver** - _95.74%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Opening link in the same window from NewWindowRequested caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2810)
+  * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
   * [What is the purpose of, or which frame caused a FrameNavigat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2808)
   * [WebView2 crash when CTRL+F search is open and webview is dis...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2807)
   * [Installing WebView2 breaks namespace generation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806)
@@ -29,12 +32,12 @@ Response rate: 90.45%
   * [How to prevent the "Escape" key from exiting fullscreen mode...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770)
   * [WebView2 froze when switch user Sessions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762)
   * [Control when to open new/external window in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760)
-  * [Setting "CreationProperties" property give exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2804)
   * [Issue handing Webview2 a custom Response in WebResourceReque...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789)
   * [System.ArgumentException after call HostObject method that r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787)
   * [Not all CSS cursor properties are functional](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766)
   * [WebView2_Child process failed ExitCode:-1073740760](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [Add live server](https://github.com/microsoft/vscode-edge-devtools/issues/1189)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
 * **MicrosoftDocs/edge-developer** - _95.74%_

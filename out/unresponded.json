@@ -810,6 +810,10 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1642,6 +1646,10 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2457,13 +2465,21 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
+        {
+          "title": "JavaScript Tooltip disappear in Console",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/102"
+        },
         {
           "title": "Two commands to launch Sensors in the Command Menu",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/101"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3277,6 +3293,10 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4101,7 +4121,19 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
+        {
+          "title": "Opening link in the same window from NewWindowRequested causes System.InvalidOperationException",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2810"
+        },
+        {
+          "title": "Ability to dynamically change Proxy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
+        },
         {
           "title": "What is the purpose of, or which frame caused a FrameNavigationStarting or FrameNavigationCompleted to fire?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2808"
@@ -4171,10 +4203,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
         },
         {
-          "title": "Setting \"CreationProperties\" property give exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2804"
-        },
-        {
           "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
         },
@@ -4191,7 +4219,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5005,7 +5033,15 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
+        {
+          "title": "Add live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1189"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5015,7 +5051,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5829,6 +5865,10 @@
     },
     {
       "date": "2022-09-18",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-19",
       "unRespondedItems": [
         {
           "title": "Show Sensors is listed as a Drawer (not Panel)",
