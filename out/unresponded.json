@@ -814,6 +814,10 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1650,6 +1654,10 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2469,17 +2477,12 @@
     },
     {
       "date": "2022-09-19",
-      "unRespondedItems": [
-        {
-          "title": "JavaScript Tooltip disappear in Console",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/102"
-        },
-        {
-          "title": "Two commands to launch Sensors in the Command Menu",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/101"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-09-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3297,6 +3300,10 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4125,7 +4132,15 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [
+        {
+          "title": "UWP Touch keyboard not working in Webview 2 after Task.delay",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
+        },
         {
           "title": "Opening link in the same window from NewWindowRequested causes System.InvalidOperationException",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2810"
@@ -4155,24 +4170,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
         },
         {
-          "title": "header Proxy-Authorization which my customized seems not to work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2800"
-        },
-        {
           "title": "CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'Unexpected'",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793"
         },
         {
-          "title": "Using pre-release webview2 sdk conflict with windows app sdk (winui3) in C++ WinRT",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2788"
-        },
-        {
           "title": "How to Check if a host object has been properly added?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785"
-        },
-        {
-          "title": "Visibility bug (overflow-x: scroll)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2784"
         },
         {
           "title": "Static download link Evergreen Bootstrapper",
@@ -4181,10 +4184,6 @@
         {
           "title": "WebView2 creates at wrong size (possible regression?)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776"
-        },
-        {
-          "title": "EnsureCoreWebView2Async signatur change breaks BindingRedirects",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2775"
         },
         {
           "title": "CoreWebView2 crash due to use context menu Open link in new window (WPF)",
@@ -4199,16 +4198,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
         },
         {
-          "title": "Control when to open new/external window in webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2760"
-        },
-        {
           "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
-        },
-        {
-          "title": "System.ArgumentException after call HostObject method that returns non-generic Task",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2787"
         },
         {
           "title": "Not all CSS cursor properties are functional",
@@ -4219,7 +4210,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         }
       ],
-      "rate": "54.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5037,11 +5028,11 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [
-        {
-          "title": "Add live server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1189"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5051,7 +5042,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5869,17 +5860,21 @@
     },
     {
       "date": "2022-09-19",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-20",
       "unRespondedItems": [
         {
-          "title": "Show Sensors is listed as a Drawer (not Panel)",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2184"
+          "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
         },
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
         }
       ],
-      "rate": "95.74"
+      "rate": "95.83"
     }
   ]
 }
