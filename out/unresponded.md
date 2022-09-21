@@ -1,4 +1,4 @@
-Response rate: 91.89%
+Response rate: 91.33%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -13,8 +13,6 @@ Response rate: 91.89%
 * **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [UWP Touch keyboard not working in Webview 2 after Task.delay...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811)
   * [Opening link in the same window from NewWindowRequested caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2810)
-  * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
-  * [What is the purpose of, or which frame caused a FrameNavigat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2808)
   * [WebView2 crash when CTRL+F search is open and webview is dis...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2807)
   * [Installing WebView2 breaks namespace generation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806)
   * [C# WPF - Are there timeouts on HostObjects-Promise Calls tha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2803)
@@ -26,12 +24,16 @@ Response rate: 91.89%
   * [CoreWebView2 crash due to use context menu Open link in new ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771)
   * [How to prevent the "Escape" key from exiting fullscreen mode...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770)
   * [WebView2 froze when switch user Sessions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762)
+  * [Bootstrapper installs x86 WebView2 on a 64-bit version of Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2794)
   * [Issue handing Webview2 a custom Response in WebResourceReque...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789)
+  * [wpf webview2 not support for win7?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782)
   * [Not all CSS cursor properties are functional](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766)
   * [WebView2_Child process failed ExitCode:-1073740760](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
+  * [Page looks blurry on retina screen](https://github.com/microsoft/vscode-edge-devtools/issues/1190)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _95.83%_
+* **MicrosoftDocs/edge-developer** - _93.88%_
   * [What's New 106 & updated Experiments (Stable 105, Canary 107...](https://github.com/MicrosoftDocs/edge-developer/pull/2186)
   * [Fork into PR "Fix button name, state support in "Get started...](https://github.com/MicrosoftDocs/edge-developer/pull/2174)
+  * [Fixed keyboard shortcut to open settings](https://github.com/MicrosoftDocs/edge-developer/pull/2190)

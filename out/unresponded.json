@@ -818,6 +818,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1658,6 +1662,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2481,6 +2489,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3304,6 +3316,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4136,6 +4152,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [
         {
           "title": "UWP Touch keyboard not working in Webview 2 after Task.delay",
@@ -4144,14 +4164,6 @@
         {
           "title": "Opening link in the same window from NewWindowRequested causes System.InvalidOperationException",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2810"
-        },
-        {
-          "title": "Ability to dynamically change Proxy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
-        },
-        {
-          "title": "What is the purpose of, or which frame caused a FrameNavigationStarting or FrameNavigationCompleted to fire?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2808"
         },
         {
           "title": "WebView2 crash when CTRL+F search is open and webview is disposed.",
@@ -4198,8 +4210,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
         },
         {
+          "title": "Bootstrapper installs x86 WebView2 on a 64-bit version of Windows",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2794"
+        },
+        {
           "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2789"
+        },
+        {
+          "title": "wpf webview2 not support for win7?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
         },
         {
           "title": "Not all CSS cursor properties are functional",
@@ -5032,17 +5052,25 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         },
         {
+          "title": "Page looks blurry on retina screen",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1190"
+        },
+        {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5864,6 +5892,10 @@
     },
     {
       "date": "2022-09-20",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-21",
       "unRespondedItems": [
         {
           "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
@@ -5872,9 +5904,13 @@
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
+        },
+        {
+          "title": "Fixed keyboard shortcut to open settings",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2190"
         }
       ],
-      "rate": "95.83"
+      "rate": "93.88"
     }
   ]
 }
