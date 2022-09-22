@@ -822,7 +822,15 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5315"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5307"
@@ -840,7 +848,7 @@
           "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
-      "rate": "91.67"
+      "rate": "89.58"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1666,6 +1674,10 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2493,8 +2505,17 @@
     },
     {
       "date": "2022-09-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-22",
+      "unRespondedItems": [
+        {
+          "title": "Copy feature for Computed styles",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/104"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3320,6 +3341,10 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3330,7 +3355,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "95.74"
+      "rate": "95.83"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4156,7 +4181,23 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [
+        {
+          "title": "WebView2 flickers when resizing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2815"
+        },
+        {
+          "title": "Can we use MSEdge policies in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2814"
+        },
+        {
+          "title": "1 pixel line added to right-hand side of window affecting window.innerWidth",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2813"
+        },
         {
           "title": "UWP Touch keyboard not working in Webview 2 after Task.delay",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
@@ -4172,10 +4213,6 @@
         {
           "title": "Installing WebView2 breaks namespace generation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806"
-        },
-        {
-          "title": "C# WPF - Are there timeouts on HostObjects-Promise Calls that crashes the whole Application?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2803"
         },
         {
           "title": "webview2 iss with wpf browser project",
@@ -4210,8 +4247,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2762"
         },
         {
-          "title": "Bootstrapper installs x86 WebView2 on a 64-bit version of Windows",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2794"
+          "title": "Ability to dynamically change Proxy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         },
         {
           "title": "Issue handing Webview2 a custom Response in WebResourceRequested",
@@ -4230,7 +4267,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2761"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5056,21 +5093,29 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [
+        {
+          "title": "full image display on website header",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1192"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         },
         {
-          "title": "Page looks blurry on retina screen",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1190"
+          "title": "Add live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1189"
         },
         {
           "title": "NPM reload ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5896,11 +5941,11 @@
     },
     {
       "date": "2022-09-21",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-09-22",
       "unRespondedItems": [
-        {
-          "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
-        },
         {
           "title": "Fork into PR \"Fix button name, state support in \"Get started WPF\"\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2174"
@@ -5910,7 +5955,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2190"
         }
       ],
-      "rate": "93.88"
+      "rate": "95.83"
     }
   ]
 }
