@@ -830,6 +830,10 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1682,6 +1686,10 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2517,13 +2525,21 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [
+        {
+          "title": "Breakpoints assigned to wrong line in Typescript file.",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/106"
+        },
         {
           "title": "Microsoft Edge dev tools search function takes a long time indexing",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/105"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3357,6 +3373,10 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4201,14 +4221,18 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [
+        {
+          "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820"
+        },
         {
           "title": "CoreWebView2Environment.GetAvailableBrowserVersionString() will throw System.DllNotFoundException: Unable to load DLL 'WebView2Loader.dll' when attempting to load from a path with UNICODE characters.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2819"
-        },
-        {
-          "title": "Are there any logs available from WPF WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2817"
         },
         {
           "title": "WebView2 flickers when resizing",
@@ -4261,13 +4285,9 @@
         {
           "title": "wpf webview2 not support for win7?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
-        },
-        {
-          "title": "Not all CSS cursor properties are functional",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2766"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5101,7 +5121,19 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [
+        {
+          "title": "clang",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1194"
+        },
+        {
+          "title": "converting php to html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1193"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5111,7 +5143,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -5945,6 +5977,10 @@
     },
     {
       "date": "2022-09-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
