@@ -834,6 +834,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1690,6 +1694,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2529,6 +2537,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [
         {
           "title": "Breakpoints assigned to wrong line in Typescript file.",
@@ -3377,6 +3389,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4225,6 +4241,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
@@ -5125,6 +5145,10 @@
     },
     {
       "date": "2022-09-24",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-09-25",
       "unRespondedItems": [
         {
           "title": "clang",
@@ -5981,8 +6005,17 @@
     },
     {
       "date": "2022-09-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-25",
+      "unRespondedItems": [
+        {
+          "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 92.21%
+Response rate: 91.92%
 
 * **webhintio/hint** - _91.67%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
@@ -33,4 +33,5 @@ Response rate: 92.21%
   * [converting php to html](https://github.com/microsoft/vscode-edge-devtools/issues/1193)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [What's New 106 & updated Experiments (Stable 105, Canary 107...](https://github.com/MicrosoftDocs/edge-developer/pull/2186)
