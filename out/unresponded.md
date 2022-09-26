@@ -1,10 +1,10 @@
-Response rate: 91.92%
+Response rate: 91.35%
 
 * **webhintio/hint** - _91.67%_
+  * [Fix: Requester breaking when mixing http and https](https://github.com/webhintio/hint/pull/5317)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
-  * [[Bug] Make it easier to export report to PDF](https://github.com/webhintio/hint/issues/5217)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _96.00%_
   * [Breakpoints assigned to wrong line in Typescript file.](https://github.com/MicrosoftEdge/DevTools/issues/106)
@@ -12,7 +12,10 @@ Response rate: 91.92%
 * **MicrosoftEdge/EdgeWebDriver** - _95.83%_
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [InvalidCastException when Environment.Exit()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824)
+  * [The registered host objects can't be reached sometimes. ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2823)
+  * [About runtime WebView2Loader.dll](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2822)
   * [System.DllNotFoundException at Microsoft.Web.WebView2.Core.C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820)
   * [CoreWebView2Environment.GetAvailableBrowserVersionString() w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2819)
   * [WebView2 flickers when resizing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2815)
@@ -25,7 +28,6 @@ Response rate: 91.92%
   * [Static download link Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783)
   * [WebView2 creates at wrong size (possible regression?)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776)
   * [CoreWebView2 crash due to use context menu Open link in new ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771)
-  * [How to prevent the "Escape" key from exiting fullscreen mode...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770)
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
   * [wpf webview2 not support for win7?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782)
 * **microsoft/vscode-edge-devtools** - _92.00%_

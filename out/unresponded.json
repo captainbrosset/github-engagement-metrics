@@ -838,7 +838,15 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
+        {
+          "title": "Fix: Requester breaking when mixing http and https",
+          "url": "https://github.com/webhintio/hint/pull/5317"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5307"
@@ -850,10 +858,6 @@
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
           "url": "https://github.com/webhintio/hint/issues/5256"
-        },
-        {
-          "title": "[Bug] Make it easier to export report to PDF",
-          "url": "https://github.com/webhintio/hint/issues/5217"
         }
       ],
       "rate": "91.67"
@@ -1698,6 +1702,10 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2541,6 +2549,10 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
         {
           "title": "Breakpoints assigned to wrong line in Typescript file.",
@@ -3393,6 +3405,10 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4245,7 +4261,23 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
+        {
+          "title": "InvalidCastException when Environment.Exit()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
+        },
+        {
+          "title": "The registered host objects can't be reached sometimes. ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2823"
+        },
+        {
+          "title": "About runtime WebView2Loader.dll",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2822"
+        },
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820"
@@ -4295,10 +4327,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771"
         },
         {
-          "title": "How to prevent the \"Escape\" key from exiting fullscreen mode?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2770"
-        },
-        {
           "title": "Ability to dynamically change Proxy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         },
@@ -4307,7 +4335,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5149,6 +5177,10 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
         {
           "title": "clang",
@@ -6009,6 +6041,10 @@
     },
     {
       "date": "2022-09-25",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-09-26",
       "unRespondedItems": [
         {
           "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
