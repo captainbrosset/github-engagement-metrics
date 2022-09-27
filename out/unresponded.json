@@ -842,7 +842,19 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Add feature description here",
+          "url": "https://github.com/webhintio/hint/issues/5319"
+        },
+        {
+          "title": "[Bug] Describe your bug here",
+          "url": "https://github.com/webhintio/hint/issues/5318"
+        },
         {
           "title": "Fix: Requester breaking when mixing http and https",
           "url": "https://github.com/webhintio/hint/pull/5317"
@@ -860,7 +872,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "91.67"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1706,6 +1718,10 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2553,17 +2569,12 @@
     },
     {
       "date": "2022-09-26",
-      "unRespondedItems": [
-        {
-          "title": "Breakpoints assigned to wrong line in Typescript file.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/106"
-        },
-        {
-          "title": "Microsoft Edge dev tools search function takes a long time indexing",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/105"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-09-27",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3409,6 +3420,10 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4265,14 +4280,34 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [
+        {
+          "title": "Visual studio installer projects and webview runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2829"
+        },
+        {
+          "title": "Visual studio installer projects and webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2828"
+        },
+        {
+          "title": "MissingMethodException with SDK version 1.0.1343.22 if UserDataFolder is set",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2827"
+        },
+        {
+          "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826"
+        },
+        {
+          "title": "class=\"notranslate\" on the html element no longer prevents translation in browser.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2825"
+        },
         {
           "title": "InvalidCastException when Environment.Exit()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
-        },
-        {
-          "title": "The registered host objects can't be reached sometimes. ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2823"
         },
         {
           "title": "About runtime WebView2Loader.dll",
@@ -4281,10 +4316,6 @@
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820"
-        },
-        {
-          "title": "CoreWebView2Environment.GetAvailableBrowserVersionString() will throw System.DllNotFoundException: Unable to load DLL 'WebView2Loader.dll' when attempting to load from a path with UNICODE characters.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2819"
         },
         {
           "title": "WebView2 flickers when resizing",
@@ -4323,8 +4354,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776"
         },
         {
-          "title": "CoreWebView2 crash due to use context menu Open link in new window (WPF)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2771"
+          "title": "The registered host objects can't be reached sometimes. ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2823"
         },
         {
           "title": "Ability to dynamically change Proxy",
@@ -4335,7 +4366,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
         }
       ],
-      "rate": "66.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5181,15 +5212,11 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [
-        {
-          "title": "clang",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1194"
-        },
-        {
-          "title": "converting php to html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1193"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5199,7 +5226,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6045,13 +6072,21 @@
     },
     {
       "date": "2022-09-26",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-09-27",
       "unRespondedItems": [
+        {
+          "title": "New article \"Windowed vs. visual hosting of WebView2\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
+        },
         {
           "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
