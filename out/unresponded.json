@@ -846,15 +846,11 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "87.50"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [
-        {
-          "title": "[Feature] Add feature description here",
-          "url": "https://github.com/webhintio/hint/issues/5319"
-        },
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5318"
-        },
         {
           "title": "Fix: Requester breaking when mixing http and https",
           "url": "https://github.com/webhintio/hint/pull/5317"
@@ -872,7 +868,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "87.50"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1722,6 +1718,10 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2573,6 +2573,10 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3424,6 +3428,10 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4284,34 +4292,22 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [
+        {
+          "title": "Disable Secure DNS (DNS over HTTPS) for WebView2 embedded browser",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2830"
+        },
         {
           "title": "Visual studio installer projects and webview runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2829"
         },
         {
-          "title": "Visual studio installer projects and webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2828"
-        },
-        {
           "title": "MissingMethodException with SDK version 1.0.1343.22 if UserDataFolder is set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2827"
-        },
-        {
-          "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826"
-        },
-        {
-          "title": "class=\"notranslate\" on the html element no longer prevents translation in browser.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2825"
-        },
-        {
-          "title": "InvalidCastException when Environment.Exit()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
-        },
-        {
-          "title": "About runtime WebView2Loader.dll",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2822"
         },
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
@@ -4350,12 +4346,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783"
         },
         {
-          "title": "WebView2 creates at wrong size (possible regression?)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2776"
-        },
-        {
-          "title": "The registered host objects can't be reached sometimes. ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2823"
+          "title": "Locked UI - after async/await",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2832"
         },
         {
           "title": "Ability to dynamically change Proxy",
@@ -4366,7 +4358,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782"
         }
       ],
-      "rate": "60.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5216,7 +5208,15 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [
+        {
+          "title": "belajar website",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1195"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5226,7 +5226,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6076,6 +6076,10 @@
     },
     {
       "date": "2022-09-27",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-28",
       "unRespondedItems": [
         {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
@@ -6086,7 +6090,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
         }
       ],
-      "rate": "95.83"
+      "rate": "95.65"
     }
   ]
 }
