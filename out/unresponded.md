@@ -1,8 +1,7 @@
-Response rate: 92.45%
+Response rate: 91.75%
 
-* **webhintio/hint** - _91.67%_
+* **webhintio/hint** - _93.75%_
   * [Fix: Requester breaking when mixing http and https](https://github.com/webhintio/hint/pull/5317)
-  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5307)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -11,7 +10,6 @@ Response rate: 92.45%
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [Disable Secure DNS (DNS over HTTPS) for WebView2 embedded br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2830)
   * [Visual studio installer projects and webview runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2829)
   * [MissingMethodException with SDK version 1.0.1343.22 if UserD...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2827)
   * [System.DllNotFoundException at Microsoft.Web.WebView2.Core.C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820)
@@ -24,12 +22,16 @@ Response rate: 92.45%
   * [How to Check if a host object has been properly added?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785)
   * [Static download link Evergreen Bootstrapper](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783)
   * [Locked UI - after async/await](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2832)
+  * [In-Page Drag & Drop via Javascript is not working for UWP Ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826)
+  * [InvalidCastException when Environment.Exit()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824)
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
-  * [wpf webview2 not support for win7?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2782)
 * **microsoft/vscode-edge-devtools** - _94.00%_
-  * [belajar website](https://github.com/microsoft/vscode-edge-devtools/issues/1195)
+  * [[Screencast] Fix entering https url](https://github.com/microsoft/vscode-edge-devtools/pull/1198)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _88.64%_
+  * [Explicitly state changes in the Release SDK](https://github.com/MicrosoftDocs/edge-developer/pull/2216)
+  * [Where are the release notes for 1.0.1343.22?](https://github.com/MicrosoftDocs/edge-developer/issues/2215)
+  * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2213)
   * [New article "Windowed vs. visual hosting of WebView2"](https://github.com/MicrosoftDocs/edge-developer/pull/2205)
   * [What's New 106 & updated Experiments (Stable 105, Canary 107...](https://github.com/MicrosoftDocs/edge-developer/pull/2186)
