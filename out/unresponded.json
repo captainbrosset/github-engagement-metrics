@@ -854,11 +854,11 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [
-        {
-          "title": "Fix: Requester breaking when mixing http and https",
-          "url": "https://github.com/webhintio/hint/pull/5317"
-        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -868,7 +868,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "93.75"
+      "rate": "95.92"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1726,6 +1726,10 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2585,8 +2589,17 @@
     },
     {
       "date": "2022-09-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-09-30",
+      "unRespondedItems": [
+        {
+          "title": "Rendering of particular part of application page extremely slow only for Edge Canary but not for other browsers",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/107"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3444,6 +3457,10 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -4312,14 +4329,22 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [
+        {
+          "title": "nested iframe postmessage don't fired the message event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2836"
+        },
+        {
+          "title": "Shift+tab traps focus inside WinForms WebView2 control when wrapped in a ContainerControl",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2835"
+        },
         {
           "title": "Visual studio installer projects and webview runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2829"
-        },
-        {
-          "title": "MissingMethodException with SDK version 1.0.1343.22 if UserDataFolder is set",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2827"
         },
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
@@ -4350,18 +4375,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793"
         },
         {
-          "title": "How to Check if a host object has been properly added?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2785"
-        },
-        {
-          "title": "Static download link Evergreen Bootstrapper",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2783"
-        },
-        {
-          "title": "Locked UI - after async/await",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2832"
-        },
-        {
           "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826"
         },
@@ -4374,7 +4387,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "70.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5232,11 +5245,11 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [
-        {
-          "title": "[Screencast] Fix entering https url",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1198"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
@@ -5246,7 +5259,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6104,29 +6117,33 @@
     },
     {
       "date": "2022-09-29",
+      "rate": "88.64"
+    },
+    {
+      "date": "2022-09-30",
       "unRespondedItems": [
+        {
+          "title": "Getting started guide shows outdated Manifest V2",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2219"
+        },
+        {
+          "title": "Update index.md for Python",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2218"
+        },
+        {
+          "title": "Update publish-source-maps-to-azure.md",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2217"
+        },
         {
           "title": "Explicitly state changes in the Release SDK",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2216"
         },
         {
-          "title": "Where are the release notes for 1.0.1343.22?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2215"
-        },
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
-        },
-        {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
-        },
-        {
-          "title": "What's New 106 & updated Experiments (Stable 105, Canary 107)",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2186"
         }
       ],
-      "rate": "88.64"
+      "rate": "89.13"
     }
   ]
 }
