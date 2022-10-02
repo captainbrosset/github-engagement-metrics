@@ -862,6 +862,10 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1738,6 +1742,10 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2605,6 +2613,10 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
         {
           "title": "控制台自动完成列表位置异常",
@@ -3477,6 +3489,10 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
         {
           "title": "EDGE_IDENTITY: Get Default OS Account failed:",
@@ -4357,7 +4373,15 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
+        {
+          "title": "Could you tell what 0x8007139F means ? ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
+        },
         {
           "title": "Chrome DevTools Protocol Fetch.enable cannot receive RequestPattern parameters - System.ArgumentException",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842"
@@ -4415,7 +4439,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5281,6 +5305,10 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
         {
           "title": "bug",
@@ -6161,7 +6189,23 @@
     },
     {
       "date": "2022-10-01",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-10-02",
       "unRespondedItems": [
+        {
+          "title": "Is it correct that 32 bit WebView2 is not supported for UWP?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2224"
+        },
+        {
+          "title": "Please do no embrace Manifest V3 in Edge Browser",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2223"
+        },
+        {
+          "title": "Implement Google's updated Manifest v3 rollout",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2222"
+        },
         {
           "title": "References to old Edge versions detected",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2221"
@@ -6179,7 +6223,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2177"
         }
       ],
-      "rate": "91.30"
+      "rate": "84.78"
     }
   ]
 }
