@@ -1,4 +1,4 @@
-Response rate: 90.94%
+Response rate: 90.34%
 
 * **webhintio/hint** - _95.92%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -11,6 +11,7 @@ Response rate: 90.94%
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [How do I listen for sub-page requests？](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2845)
   * [Could you tell what 0x8007139F means ? ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843)
   * [Chrome DevTools Protocol Fetch.enable cannot receive Request...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842)
   * [COMException when calling method on host object](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2840)
@@ -22,15 +23,16 @@ Response rate: 90.94%
   * [UWP Touch keyboard not working in Webview 2 after Task.delay...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811)
   * [Installing WebView2 breaks namespace generation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806)
   * [webview2 iss with wpf browser project](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801)
-  * [CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793)
   * [In-Page Drag & Drop via Javascript is not working for UWP Ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826)
   * [InvalidCastException when Environment.Exit()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824)
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [title](https://github.com/microsoft/vscode-edge-devtools/issues/1204)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/1203)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
   * [NPM reload ](https://github.com/microsoft/vscode-edge-devtools/issues/1156)
-* **MicrosoftDocs/edge-developer** - _84.78%_
+* **MicrosoftDocs/edge-developer** - _82.61%_
+  * [Update consume-source-maps-from-azure.md](https://github.com/MicrosoftDocs/edge-developer/pull/2225)
   * [Is it correct that 32 bit WebView2 is not supported for UWP?...](https://github.com/MicrosoftDocs/edge-developer/issues/2224)
   * [Please do no embrace Manifest V3 in Edge Browser](https://github.com/MicrosoftDocs/edge-developer/issues/2223)
   * [Implement Google's updated Manifest v3 rollout](https://github.com/MicrosoftDocs/edge-developer/issues/2222)

@@ -866,6 +866,10 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1746,6 +1750,10 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2617,6 +2625,10 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
         {
           "title": "控制台自动完成列表位置异常",
@@ -3493,6 +3505,10 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
         {
           "title": "EDGE_IDENTITY: Get Default OS Account failed:",
@@ -4377,7 +4393,15 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
+        {
+          "title": "How do I listen for sub-page requests？",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2845"
+        },
         {
           "title": "Could you tell what 0x8007139F means ? ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
@@ -4421,10 +4445,6 @@
         {
           "title": "webview2 iss with wpf browser project",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
-        },
-        {
-          "title": "CoreWebView2_ProcessFailed event ExitCode: '259'  Reason: 'Unexpected'",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2793"
         },
         {
           "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
@@ -5309,7 +5329,15 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
+        {
+          "title": "title",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1204"
+        },
         {
           "title": "bug",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1203"
@@ -5323,7 +5351,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6193,7 +6221,15 @@
     },
     {
       "date": "2022-10-02",
+      "rate": "84.78"
+    },
+    {
+      "date": "2022-10-03",
       "unRespondedItems": [
+        {
+          "title": "Update consume-source-maps-from-azure.md",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2225"
+        },
         {
           "title": "Is it correct that 32 bit WebView2 is not supported for UWP?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2224"
@@ -6223,7 +6259,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2177"
         }
       ],
-      "rate": "84.78"
+      "rate": "82.61"
     }
   ]
 }
