@@ -870,6 +870,10 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1754,6 +1758,10 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2629,13 +2637,12 @@
     },
     {
       "date": "2022-10-03",
-      "unRespondedItems": [
-        {
-          "title": "控制台自动完成列表位置异常",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/108"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-10-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3509,7 +3516,15 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [
+        {
+          "title": "Edge Browser launch issue",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/50"
+        },
         {
           "title": "EDGE_IDENTITY: Get Default OS Account failed:",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/49"
@@ -3523,7 +3538,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "93.88"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4397,7 +4412,23 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [
+        {
+          "title": "WebView2 and launching file dialog (WPF/C#)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2849"
+        },
+        {
+          "title": "Opening a link in a PDF in a new window opens a new Edge popup window ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2848"
+        },
+        {
+          "title": "[BUG report] strange behaviour on ajax POST message",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2847"
+        },
         {
           "title": "How do I listen for sub-page requests？",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2845"
@@ -4405,26 +4436,6 @@
         {
           "title": "Could you tell what 0x8007139F means ? ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
-        },
-        {
-          "title": "Chrome DevTools Protocol Fetch.enable cannot receive RequestPattern parameters - System.ArgumentException",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842"
-        },
-        {
-          "title": "COMException when calling method on host object",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2840"
-        },
-        {
-          "title": "C++ Restarting program CreateCoreWebView2Controller gives null pointer when WebViewController pauses unexpectedly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2839"
-        },
-        {
-          "title": "Some files and folders of the cache directories have different permissions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
-        },
-        {
-          "title": "Visual studio installer projects and webview runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2829"
         },
         {
           "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
@@ -4445,6 +4456,14 @@
         {
           "title": "webview2 iss with wpf browser project",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
+        },
+        {
+          "title": "C++ Restarting program CreateCoreWebView2Controller gives null pointer when WebViewController pauses unexpectedly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2839"
+        },
+        {
+          "title": "Some files and folders of the cache directories have different permissions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
         },
         {
           "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
@@ -5333,18 +5352,22 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [
         {
-          "title": "title",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1204"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1203"
+          "title": "repo",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1210"
         },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
+        },
+        {
+          "title": "repo",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1206"
         },
         {
           "title": "NPM reload ",
@@ -6225,27 +6248,11 @@
     },
     {
       "date": "2022-10-03",
+      "rate": "82.61"
+    },
+    {
+      "date": "2022-10-04",
       "unRespondedItems": [
-        {
-          "title": "Update consume-source-maps-from-azure.md",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2225"
-        },
-        {
-          "title": "Is it correct that 32 bit WebView2 is not supported for UWP?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2224"
-        },
-        {
-          "title": "Please do no embrace Manifest V3 in Edge Browser",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2223"
-        },
-        {
-          "title": "Implement Google's updated Manifest v3 rollout",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2222"
-        },
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2221"
-        },
         {
           "title": "Explicitly state changes in the Release SDK",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2216"
@@ -6253,13 +6260,9 @@
         {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
-        },
-        {
-          "title": "Redesigned docs for DevTools extension",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2177"
         }
       ],
-      "rate": "82.61"
+      "rate": "95.83"
     }
   ]
 }
