@@ -874,6 +874,10 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1762,6 +1766,10 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2641,6 +2649,10 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3520,15 +3532,11 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [
-        {
-          "title": "Edge Browser launch issue",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/50"
-        },
-        {
-          "title": "EDGE_IDENTITY: Get Default OS Account failed:",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/49"
-        },
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
@@ -3538,7 +3546,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4416,7 +4424,19 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [
+        {
+          "title": "PrintToPDF - Default URI in footer is missing ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2851"
+        },
+        {
+          "title": "Custom Schemes should avoid CSP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
+        },
         {
           "title": "WebView2 and launching file dialog (WPF/C#)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2849"
@@ -4450,10 +4470,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
         },
         {
-          "title": "Installing WebView2 breaks namespace generation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2806"
-        },
-        {
           "title": "webview2 iss with wpf browser project",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
         },
@@ -4478,7 +4494,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5356,22 +5372,26 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [
         {
-          "title": "repo",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1210"
+          "title": "Instead of closing embedded Edge devtools on debug stop, return to previous Live Preview instance",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1214"
+        },
+        {
+          "title": "problem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1213"
+        },
+        {
+          "title": "Reporting of HTMLElement[\"ariaHasPopup\"] in Dev Tools are false positive returning a Type Issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1212"
         },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
-        },
-        {
-          "title": "repo",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1206"
-        },
-        {
-          "title": "NPM reload ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1156"
         }
       ],
       "rate": "92.00"
@@ -6252,7 +6272,15 @@
     },
     {
       "date": "2022-10-04",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-10-05",
       "unRespondedItems": [
+        {
+          "title": "Limit to use \"Publish Status\" API ? ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2231"
+        },
         {
           "title": "Explicitly state changes in the Release SDK",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2216"
@@ -6262,7 +6290,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
         }
       ],
-      "rate": "95.83"
+      "rate": "93.75"
     }
   ]
 }
