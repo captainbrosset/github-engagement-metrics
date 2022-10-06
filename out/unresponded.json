@@ -878,6 +878,10 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1770,6 +1774,10 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2653,6 +2661,10 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3536,7 +3548,15 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [
+        {
+          "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/51"
+        },
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44"
@@ -3546,7 +3566,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4428,14 +4448,18 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [
         {
-          "title": "PrintToPDF - Default URI in footer is missing ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2851"
+          "title": "How to use DOMContentLoaded in WinForms VB.NET?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855"
         },
         {
-          "title": "Custom Schemes should avoid CSP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
+          "title": "Cannot find a method when using VSTO WPF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2852"
         },
         {
           "title": "WebView2 and launching file dialog (WPF/C#)",
@@ -4448,10 +4472,6 @@
         {
           "title": "[BUG report] strange behaviour on ajax POST message",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2847"
-        },
-        {
-          "title": "How do I listen for sub-page requests？",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2845"
         },
         {
           "title": "Could you tell what 0x8007139F means ? ",
@@ -4468,10 +4488,6 @@
         {
           "title": "UWP Touch keyboard not working in Webview 2 after Task.delay",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
-        },
-        {
-          "title": "webview2 iss with wpf browser project",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2801"
         },
         {
           "title": "C++ Restarting program CreateCoreWebView2Controller gives null pointer when WebViewController pauses unexpectedly",
@@ -4494,7 +4510,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "68.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5376,25 +5392,21 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [
         {
-          "title": "Instead of closing embedded Edge devtools on debug stop, return to previous Live Preview instance",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1214"
-        },
-        {
-          "title": "problem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1213"
-        },
-        {
-          "title": "Reporting of HTMLElement[\"ariaHasPopup\"] in Dev Tools are false positive returning a Type Issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1212"
+          "title": "Cannot close targets",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1215"
         },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6276,6 +6288,10 @@
     },
     {
       "date": "2022-10-05",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-10-06",
       "unRespondedItems": [
         {
           "title": "Limit to use \"Publish Status\" API ? ",
