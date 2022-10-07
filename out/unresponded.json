@@ -882,6 +882,10 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1778,6 +1782,10 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2665,6 +2673,10 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3552,6 +3564,10 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [
         {
           "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
@@ -4452,7 +4468,23 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [
+        {
+          "title": "updating an element value",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2859"
+        },
+        {
+          "title": "CoInitialize error when trying to initialize a webview2 component from a DLL",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857"
+        },
+        {
+          "title": "Setting DefaultBackgroundColor on WebView2 affects Web add-ins",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
+        },
         {
           "title": "How to use DOMContentLoaded in WinForms VB.NET?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855"
@@ -4490,12 +4522,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
         },
         {
-          "title": "C++ Restarting program CreateCoreWebView2Controller gives null pointer when WebViewController pauses unexpectedly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2839"
-        },
-        {
-          "title": "Some files and folders of the cache directories have different permissions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
+          "title": "Custom Schemes should avoid CSP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         },
         {
           "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
@@ -4510,7 +4538,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "72.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5396,17 +5424,17 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [
-        {
-          "title": "Cannot close targets",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1215"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6292,6 +6320,10 @@
     },
     {
       "date": "2022-10-06",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-10-07",
       "unRespondedItems": [
         {
           "title": "Limit to use \"Publish Status\" API ? ",

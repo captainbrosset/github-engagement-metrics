@@ -1,4 +1,4 @@
-Response rate: 93.10%
+Response rate: 92.81%
 
 * **webhintio/hint** - _95.92%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -9,7 +9,10 @@ Response rate: 93.10%
   * [MS_Edge "EdgeShoppingAssistantEnabled"](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/51)
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [updating an element value](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2859)
+  * [CoInitialize error when trying to initialize a webview2 comp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857)
+  * [Setting DefaultBackgroundColor on WebView2 affects Web add-i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856)
   * [How to use DOMContentLoaded in WinForms VB.NET?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855)
   * [Cannot find a method when using VSTO WPF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2852)
   * [WebView2 and launching file dialog (WPF/C#)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2849)
@@ -19,13 +22,11 @@ Response rate: 93.10%
   * [System.DllNotFoundException at Microsoft.Web.WebView2.Core.C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820)
   * [WebView2 flickers when resizing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2815)
   * [UWP Touch keyboard not working in Webview 2 after Task.delay...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811)
-  * [C++ Restarting program CreateCoreWebView2Controller gives nu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2839)
-  * [Some files and folders of the cache directories have differe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838)
+  * [Custom Schemes should avoid CSP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850)
   * [In-Page Drag & Drop via Javascript is not working for UWP Ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826)
   * [InvalidCastException when Environment.Exit()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824)
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Cannot close targets](https://github.com/microsoft/vscode-edge-devtools/issues/1215)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
 * **MicrosoftDocs/edge-developer** - _93.75%_
   * [Limit to use "Publish Status" API ? ](https://github.com/MicrosoftDocs/edge-developer/issues/2231)
