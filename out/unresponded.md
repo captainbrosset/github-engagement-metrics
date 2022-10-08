@@ -1,6 +1,7 @@
-Response rate: 92.81%
+Response rate: 92.52%
 
-* **webhintio/hint** - _95.92%_
+* **webhintio/hint** - _93.88%_
+  * [[Feature] How to use Webhint on a Wordpress based website?](https://github.com/webhintio/hint/issues/5345)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -9,8 +10,7 @@ Response rate: 92.81%
   * [MS_Edge "EdgeShoppingAssistantEnabled"](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/51)
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
-  * [updating an element value](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2859)
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
   * [CoInitialize error when trying to initialize a webview2 comp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857)
   * [Setting DefaultBackgroundColor on WebView2 affects Web add-i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856)
   * [How to use DOMContentLoaded in WinForms VB.NET?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855)
@@ -23,12 +23,13 @@ Response rate: 92.81%
   * [WebView2 flickers when resizing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2815)
   * [UWP Touch keyboard not working in Webview 2 after Task.delay...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811)
   * [Custom Schemes should avoid CSP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850)
+  * [Chrome DevTools Protocol Fetch.enable cannot receive Request...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842)
+  * [Some files and folders of the cache directories have differe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838)
   * [In-Page Drag & Drop via Javascript is not working for UWP Ap...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826)
   * [InvalidCastException when Environment.Exit()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824)
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
-* **MicrosoftDocs/edge-developer** - _93.75%_
-  * [Limit to use "Publish Status" API ? ](https://github.com/MicrosoftDocs/edge-developer/issues/2231)
-  * [Explicitly state changes in the Release SDK](https://github.com/MicrosoftDocs/edge-developer/pull/2216)
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Set current MSAL token in Request Header and get logged in s...](https://github.com/MicrosoftDocs/edge-developer/issues/2234)
   * [New article "Windowed vs. visual hosting of WebView2"](https://github.com/MicrosoftDocs/edge-developer/pull/2205)

@@ -886,7 +886,15 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [
+        {
+          "title": "[Feature] How to use Webhint on a Wordpress based website?",
+          "url": "https://github.com/webhintio/hint/issues/5345"
+        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -896,7 +904,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1786,6 +1794,10 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2677,6 +2689,10 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3568,6 +3584,10 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [
         {
           "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
@@ -4472,11 +4492,11 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [
-        {
-          "title": "updating an element value",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2859"
-        },
         {
           "title": "CoInitialize error when trying to initialize a webview2 component from a DLL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857"
@@ -4526,6 +4546,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         },
         {
+          "title": "Chrome DevTools Protocol Fetch.enable cannot receive RequestPattern parameters - System.ArgumentException",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842"
+        },
+        {
+          "title": "Some files and folders of the cache directories have different permissions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
+        },
+        {
           "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826"
         },
@@ -4538,7 +4566,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5428,6 +5456,10 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -6324,21 +6356,21 @@
     },
     {
       "date": "2022-10-07",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-10-08",
       "unRespondedItems": [
         {
-          "title": "Limit to use \"Publish Status\" API ? ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2231"
-        },
-        {
-          "title": "Explicitly state changes in the Release SDK",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2216"
+          "title": "Set current MSAL token in Request Header and get logged in silently in React App.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2234"
         },
         {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
         }
       ],
-      "rate": "93.75"
+      "rate": "95.74"
     }
   ]
 }
