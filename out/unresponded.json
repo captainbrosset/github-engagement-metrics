@@ -890,6 +890,10 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [
         {
           "title": "[Feature] How to use Webhint on a Wordpress based website?",
@@ -1798,6 +1802,10 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2693,6 +2701,10 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3588,6 +3600,10 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [
         {
           "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
@@ -4496,7 +4512,15 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [
+        {
+          "title": "Windows file preview shows ERR_FILE_NOT_FOUND when file path contains `€` character",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2860"
+        },
         {
           "title": "CoInitialize error when trying to initialize a webview2 component from a DLL",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857"
@@ -4504,10 +4528,6 @@
         {
           "title": "Setting DefaultBackgroundColor on WebView2 affects Web add-ins",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
-        },
-        {
-          "title": "How to use DOMContentLoaded in WinForms VB.NET?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855"
         },
         {
           "title": "Cannot find a method when using VSTO WPF",
@@ -5460,6 +5480,10 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -6360,7 +6384,15 @@
     },
     {
       "date": "2022-10-08",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-10-09",
       "unRespondedItems": [
+        {
+          "title": "summits ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2239"
+        },
         {
           "title": "Set current MSAL token in Request Header and get logged in silently in React App.",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2234"
@@ -6370,7 +6402,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
         }
       ],
-      "rate": "95.74"
+      "rate": "93.62"
     }
   ]
 }

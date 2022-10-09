@@ -1,4 +1,4 @@
-Response rate: 92.52%
+Response rate: 92.21%
 
 * **webhintio/hint** - _93.88%_
   * [[Feature] How to use Webhint on a Wordpress based website?](https://github.com/webhintio/hint/issues/5345)
@@ -11,9 +11,9 @@ Response rate: 92.52%
   * [unknown error: DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/44)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Windows file preview shows ERR_FILE_NOT_FOUND when file path...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2860)
   * [CoInitialize error when trying to initialize a webview2 comp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857)
   * [Setting DefaultBackgroundColor on WebView2 affects Web add-i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856)
-  * [How to use DOMContentLoaded in WinForms VB.NET?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2855)
   * [Cannot find a method when using VSTO WPF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2852)
   * [WebView2 and launching file dialog (WPF/C#)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2849)
   * [Opening a link in a PDF in a new window opens a new Edge pop...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2848)
@@ -30,6 +30,7 @@ Response rate: 92.52%
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **MicrosoftDocs/edge-developer** - _93.62%_
+  * [summits ](https://github.com/MicrosoftDocs/edge-developer/issues/2239)
   * [Set current MSAL token in Request Header and get logged in s...](https://github.com/MicrosoftDocs/edge-developer/issues/2234)
   * [New article "Windowed vs. visual hosting of WebView2"](https://github.com/MicrosoftDocs/edge-developer/pull/2205)
