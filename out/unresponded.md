@@ -1,4 +1,4 @@
-Response rate: 92.21%
+Response rate: 91.91%
 
 * **webhintio/hint** - _93.88%_
   * [[Feature] How to use Webhint on a Wordpress based website?](https://github.com/webhintio/hint/issues/5345)
@@ -30,7 +30,8 @@ Response rate: 92.21%
   * [Ability to dynamically change Proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
-* **MicrosoftDocs/edge-developer** - _93.62%_
+* **MicrosoftDocs/edge-developer** - _91.49%_
+  * [Fixed the case to represent the placeholder](https://github.com/MicrosoftDocs/edge-developer/pull/2240)
   * [summits ](https://github.com/MicrosoftDocs/edge-developer/issues/2239)
   * [Set current MSAL token in Request Header and get logged in s...](https://github.com/MicrosoftDocs/edge-developer/issues/2234)
   * [New article "Windowed vs. visual hosting of WebView2"](https://github.com/MicrosoftDocs/edge-developer/pull/2205)
