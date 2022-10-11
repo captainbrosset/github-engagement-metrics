@@ -898,6 +898,10 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [
         {
           "title": "[Feature] How to use Webhint on a Wordpress based website?",
@@ -1814,6 +1818,10 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2717,6 +2725,10 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3620,6 +3632,10 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [
         {
           "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
@@ -4536,18 +4552,18 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [
         {
-          "title": "Windows file preview shows ERR_FILE_NOT_FOUND when file path contains `€` character",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2860"
+          "title": "Where is the changelog?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2863"
         },
         {
-          "title": "CoInitialize error when trying to initialize a webview2 component from a DLL",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2857"
-        },
-        {
-          "title": "Setting DefaultBackgroundColor on WebView2 affects Web add-ins",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
+          "title": "Mixed-content inconsistent behavior, cannot find workaround",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2861"
         },
         {
           "title": "Cannot find a method when using VSTO WPF",
@@ -4600,13 +4616,9 @@
         {
           "title": "InvalidCastException when Environment.Exit()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
-        },
-        {
-          "title": "Ability to dynamically change Proxy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2809"
         }
       ],
-      "rate": "66.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5508,6 +5520,10 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -6416,25 +6432,17 @@
     },
     {
       "date": "2022-10-10",
+      "rate": "91.49"
+    },
+    {
+      "date": "2022-10-11",
       "unRespondedItems": [
-        {
-          "title": "Fixed the case to represent the placeholder",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2240"
-        },
-        {
-          "title": "summits ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2239"
-        },
-        {
-          "title": "Set current MSAL token in Request Header and get logged in silently in React App.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2234"
-        },
         {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
         }
       ],
-      "rate": "91.49"
+      "rate": "97.83"
     }
   ]
 }
