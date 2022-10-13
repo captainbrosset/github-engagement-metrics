@@ -902,10 +902,14 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [
         {
-          "title": "[Feature] How to use Webhint on a Wordpress based website?",
-          "url": "https://github.com/webhintio/hint/issues/5345"
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5346"
         },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1822,6 +1826,10 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2729,6 +2737,10 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3636,10 +3648,18 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [
         {
           "title": "MS_Edge \"EdgeShoppingAssistantEnabled\"",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/51"
+        },
+        {
+          "title": "Edge Browser launch issue",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/50"
         },
         {
           "title": "unknown error: DevToolsActivePort file doesn't exist",
@@ -3650,7 +3670,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4556,10 +4576,46 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [
         {
-          "title": "Where is the changelog?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2863"
+          "title": "The drag and drop API in WinForms",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
+        },
+        {
+          "title": "CoreWebView2 members cannot be accessed after the WebView2 control is disposed Exception in CoreWebView2.Reload",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2872"
+        },
+        {
+          "title": "Max message content size? ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2871"
+        },
+        {
+          "title": "WebView2Loader referenced from loading sequence of dll",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2870"
+        },
+        {
+          "title": "WebView2 initialization timeout when launched on the Winlogon lock/login screen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2868"
+        },
+        {
+          "title": "Configure slide-in animation for pdf-viewer-toolbar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2867"
+        },
+        {
+          "title": "CoreWebView2.Settings.HiddenPdfToolbarItems: When hidingBookmarks, Search and PageSelector the toolbar gets lost",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2866"
+        },
+        {
+          "title": "WebView2 sending typed form contents to nleditor.osi.office.net",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2865"
+        },
+        {
+          "title": "WebVew2: BrowserExecutableFolder is not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2864"
         },
         {
           "title": "Mixed-content inconsistent behavior, cannot find workaround",
@@ -4586,16 +4642,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
         },
         {
-          "title": "System.DllNotFoundException at Microsoft.Web.WebView2.Core.CoreWebView2Environment.CreateCoreWebView2EnvironmentWithOptions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2820"
-        },
-        {
-          "title": "WebView2 flickers when resizing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2815"
-        },
-        {
-          "title": "UWP Touch keyboard not working in Webview 2 after Task.delay",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2811"
+          "title": "Setting UserAgent not effective on first navigation.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
         },
         {
           "title": "Custom Schemes should avoid CSP",
@@ -4618,7 +4666,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
         }
       ],
-      "rate": "70.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5524,13 +5572,21 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
+        },
+        {
+          "title": "Não funciona nenhum comando",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1222"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6436,13 +6492,17 @@
     },
     {
       "date": "2022-10-11",
+      "rate": "97.83"
+    },
+    {
+      "date": "2022-10-13",
       "unRespondedItems": [
         {
           "title": "New article \"Windowed vs. visual hosting of WebView2\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
         }
       ],
-      "rate": "97.83"
+      "rate": "97.78"
     }
   ]
 }
