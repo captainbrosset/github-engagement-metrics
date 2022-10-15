@@ -910,6 +910,10 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1838,6 +1842,10 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2753,6 +2761,10 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3668,13 +3680,21 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [
+        {
+          "title": "Edge Browser launch issue",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/50"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4588,10 +4608,22 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [
         {
-          "title": "Cannot find a method when using VSTO WPF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2852"
+          "title": "How to provide an instance of MyObject via AddHostObjectToScript and not only a namespace ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2879"
+        },
+        {
+          "title": "It takes uncertainly long time between NavigationStarting event and WebResourceRequested event when first run Webview2 in application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2878"
+        },
+        {
+          "title": " MFC MDI app using WebView2 not responding",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877"
         },
         {
           "title": "WebView2 and launching file dialog (WPF/C#)",
@@ -4618,19 +4650,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         },
         {
+          "title": "Chrome DevTools Protocol Fetch.enable cannot receive RequestPattern parameters - System.ArgumentException",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842"
+        },
+        {
+          "title": "COMException when calling method on host object",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2840"
+        },
+        {
           "title": "Some files and folders of the cache directories have different permissions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
-        },
-        {
-          "title": "In-Page Drag & Drop via Javascript is not working for UWP Applications",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2826"
-        },
-        {
-          "title": "InvalidCastException when Environment.Exit()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2824"
         }
       ],
-      "rate": "80.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5544,6 +5576,10 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
@@ -6464,18 +6500,22 @@
     },
     {
       "date": "2022-10-14",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-10-15",
       "unRespondedItems": [
         {
-          "title": "[Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2250"
+          "title": "TakeAll",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2255"
         },
         {
-          "title": "False statement in docmentation",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2248"
+          "title": "theory@",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2254"
         },
         {
-          "title": "New article \"Windowed vs. visual hosting of WebView2\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2205"
+          "title": "ht4569#",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2253"
         }
       ],
       "rate": "93.18"
