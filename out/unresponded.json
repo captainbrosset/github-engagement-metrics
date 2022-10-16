@@ -914,6 +914,10 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1846,6 +1850,10 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2765,6 +2773,10 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3684,6 +3696,10 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [
         {
           "title": "Edge Browser launch issue",
@@ -4612,7 +4628,19 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [
+        {
+          "title": "White flash between page navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2881"
+        },
+        {
+          "title": "How to differentiate between a browser automatically downloading a file and downloading a file from a users manual PDF Save/Save image Choice?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2880"
+        },
         {
           "title": "How to provide an instance of MyObject via AddHostObjectToScript and not only a namespace ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2879"
@@ -4662,7 +4690,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
         }
       ],
-      "rate": "76.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5580,13 +5608,25 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [
+        {
+          "title": "Feature request",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1226"
+        },
+        {
+          "title": "You've not added any folder in the workspace",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1225"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6504,6 +6544,10 @@
     },
     {
       "date": "2022-10-15",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-10-16",
       "unRespondedItems": [
         {
           "title": "TakeAll",
@@ -6516,9 +6560,13 @@
         {
           "title": "ht4569#",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2253"
+        },
+        {
+          "title": "[Edge WebDriver Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "93.18"
+      "rate": "90.91"
     }
   ]
 }
