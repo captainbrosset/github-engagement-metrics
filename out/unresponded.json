@@ -918,6 +918,10 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1854,6 +1858,10 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2777,6 +2785,10 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3700,6 +3712,10 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [
         {
           "title": "Edge Browser launch issue",
@@ -4632,7 +4648,23 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [
+        {
+          "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
+        },
+        {
+          "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
+        },
+        {
+          "title": "Support for XSLT2 transformations (and newer)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2882"
+        },
         {
           "title": "White flash between page navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2881"
@@ -4690,7 +4722,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
         }
       ],
-      "rate": "72.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5612,7 +5644,15 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [
+        {
+          "title": "Launch Project silently fails with faulty vscode-edge-devtools.defaultUrl setting",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1227"
+        },
         {
           "title": "Feature request",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1226"
@@ -5626,7 +5666,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6548,7 +6588,19 @@
     },
     {
       "date": "2022-10-16",
+      "rate": "90.91"
+    },
+    {
+      "date": "2022-10-17",
       "unRespondedItems": [
+        {
+          "title": "yo",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2257"
+        },
+        {
+          "title": "ma78945",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2256"
+        },
         {
           "title": "TakeAll",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2255"
@@ -6566,7 +6618,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "90.91"
+      "rate": "86.36"
     }
   ]
 }
