@@ -922,11 +922,11 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5346"
-        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -936,7 +936,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "93.88"
+      "rate": "95.92"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1862,6 +1862,10 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2789,6 +2793,10 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3716,6 +3724,10 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [
         {
           "title": "Edge Browser launch issue",
@@ -4652,7 +4664,15 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [
+        {
+          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
+        },
         {
           "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
@@ -4678,18 +4698,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2879"
         },
         {
-          "title": "It takes uncertainly long time between NavigationStarting event and WebResourceRequested event when first run Webview2 in application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2878"
-        },
-        {
-          "title": " MFC MDI app using WebView2 not responding",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877"
-        },
-        {
-          "title": "WebView2 and launching file dialog (WPF/C#)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2849"
-        },
-        {
           "title": "Opening a link in a PDF in a new window opens a new Edge popup window ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2848"
         },
@@ -4702,6 +4710,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
         },
         {
+          "title": "The drag and drop API in WinForms",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
+        },
+        {
+          "title": "WebView2 sending typed form contents to nleditor.osi.office.net",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2865"
+        },
+        {
           "title": "Setting UserAgent not effective on first navigation.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
         },
@@ -4710,19 +4726,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         },
         {
-          "title": "Chrome DevTools Protocol Fetch.enable cannot receive RequestPattern parameters - System.ArgumentException",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2842"
-        },
-        {
-          "title": "COMException when calling method on host object",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2840"
-        },
-        {
           "title": "Some files and folders of the cache directories have different permissions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
         }
       ],
-      "rate": "66.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5648,25 +5656,21 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [
         {
           "title": "Launch Project silently fails with faulty vscode-edge-devtools.defaultUrl setting",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1227"
         },
         {
-          "title": "Feature request",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1226"
-        },
-        {
-          "title": "You've not added any folder in the workspace",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1225"
-        },
-        {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6592,33 +6596,17 @@
     },
     {
       "date": "2022-10-17",
+      "rate": "86.36"
+    },
+    {
+      "date": "2022-10-18",
       "unRespondedItems": [
-        {
-          "title": "yo",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2257"
-        },
-        {
-          "title": "ma78945",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2256"
-        },
-        {
-          "title": "TakeAll",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2255"
-        },
-        {
-          "title": "theory@",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2254"
-        },
-        {
-          "title": "ht4569#",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2253"
-        },
         {
           "title": "[Edge WebDriver Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "86.36"
+      "rate": "97.73"
     }
   ]
 }
