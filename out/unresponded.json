@@ -926,6 +926,10 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1866,6 +1870,10 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2797,6 +2805,10 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3728,6 +3740,10 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [
         {
           "title": "Edge Browser launch issue",
@@ -4668,30 +4684,22 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [
         {
-          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
-        },
-        {
-          "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
+          "title": "Timeout Exception when CoreWebView2 initialization",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2888"
         },
         {
           "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
         },
         {
-          "title": "Support for XSLT2 transformations (and newer)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2882"
-        },
-        {
           "title": "White flash between page navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2881"
-        },
-        {
-          "title": "How to differentiate between a browser automatically downloading a file and downloading a file from a users manual PDF Save/Save image Choice?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2880"
         },
         {
           "title": "How to provide an instance of MyObject via AddHostObjectToScript and not only a namespace ",
@@ -4710,6 +4718,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
         },
         {
+          "title": "Question about the download url for the runtime installer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2891"
+        },
+        {
+          "title": "How to clear site permissions data?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
+        },
+        {
           "title": "The drag and drop API in WinForms",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
         },
@@ -4724,13 +4740,9 @@
         {
           "title": "Custom Schemes should avoid CSP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
-        },
-        {
-          "title": "Some files and folders of the cache directories have different permissions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2838"
         }
       ],
-      "rate": "70.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5660,17 +5672,17 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [
-        {
-          "title": "Launch Project silently fails with faulty vscode-edge-devtools.defaultUrl setting",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1227"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6600,13 +6612,21 @@
     },
     {
       "date": "2022-10-18",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-10-19",
       "unRespondedItems": [
+        {
+          "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
+        },
         {
           "title": "[Edge WebDriver Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "97.73"
+      "rate": "95.45"
     }
   ]
 }
