@@ -930,6 +930,10 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1874,6 +1878,10 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2809,8 +2817,17 @@
     },
     {
       "date": "2022-10-19",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-10-20",
+      "unRespondedItems": [
+        {
+          "title": "Edge 105 and 106 send cipher 4866 twice in ClientHello",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/110"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3744,6 +3761,10 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [
         {
           "title": "Edge Browser launch issue",
@@ -4688,22 +4709,22 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [
         {
-          "title": "Timeout Exception when CoreWebView2 initialization",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2888"
+          "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
+        },
+        {
+          "title": "loading  page slowly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2893"
         },
         {
           "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
-        },
-        {
-          "title": "White flash between page navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2881"
-        },
-        {
-          "title": "How to provide an instance of MyObject via AddHostObjectToScript and not only a namespace ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2879"
         },
         {
           "title": "Opening a link in a PDF in a new window opens a new Edge popup window ",
@@ -4718,12 +4739,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
         },
         {
+          "title": "WebView2 soemtimes not initializing on UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
+        },
+        {
           "title": "Question about the download url for the runtime installer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2891"
         },
         {
           "title": "How to clear site permissions data?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
+        },
+        {
+          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
         },
         {
           "title": "The drag and drop API in WinForms",
@@ -4742,7 +4771,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5676,13 +5705,21 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [
+        {
+          "title": "[{ \t\"resource\": \"/Users/macbook/Desktop/login/reset.css\", \t\"owner\": \"_generated_diagnostic_collection_name_#3\", \t\"code\": \"vendorPrefix\", \t\"severity\": 4, \t\"message\": \"Also define the standard property 'line-break' for compatibility\", \t\"source\": \"css\", \t\"startLineNumber\": 67, \t\"startColumn\": 5, \t\"endLineNumber\": 67, \t\"endColumn\": 23 }]",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1229"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6616,7 +6653,15 @@
     },
     {
       "date": "2022-10-19",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-10-20",
       "unRespondedItems": [
+        {
+          "title": "Linux edge driver link not on main page.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2261"
+        },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
@@ -6626,7 +6671,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.18"
     }
   ]
 }
