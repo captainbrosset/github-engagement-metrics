@@ -934,6 +934,10 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1882,6 +1886,10 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2821,13 +2829,12 @@
     },
     {
       "date": "2022-10-20",
-      "unRespondedItems": [
-        {
-          "title": "Edge 105 and 106 send cipher 4866 twice in ClientHello",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/110"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-10-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3765,17 +3772,17 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [
-        {
-          "title": "Edge Browser launch issue",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/50"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4713,7 +4720,27 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [
+        {
+          "title": "Problem pasting image",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
+        },
+        {
+          "title": "UWP: how to properly set and reset WebView2's DefaultBackgroundColor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899"
+        },
+        {
+          "title": "[NuGet] `WebView2Loader.dll` is copied twice to output",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2898"
+        },
+        {
+          "title": "How to use webview2 in java swing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2897"
+        },
         {
           "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
@@ -4731,18 +4758,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2848"
         },
         {
-          "title": "[BUG report] strange behaviour on ajax POST message",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2847"
-        },
-        {
-          "title": "Could you tell what 0x8007139F means ? ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2843"
-        },
-        {
-          "title": "WebView2 soemtimes not initializing on UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
-        },
-        {
           "title": "Question about the download url for the runtime installer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2891"
         },
@@ -4751,8 +4766,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
         },
         {
+          "title": "Timeout Exception when CoreWebView2 initialization",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2888"
+        },
+        {
           "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
+        },
+        {
+          "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
         },
         {
           "title": "The drag and drop API in WinForms",
@@ -4771,7 +4794,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         }
       ],
-      "rate": "72.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5709,17 +5732,41 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [
         {
-          "title": "[{ \t\"resource\": \"/Users/macbook/Desktop/login/reset.css\", \t\"owner\": \"_generated_diagnostic_collection_name_#3\", \t\"code\": \"vendorPrefix\", \t\"severity\": 4, \t\"message\": \"Also define the standard property 'line-break' for compatibility\", \t\"source\": \"css\", \t\"startLineNumber\": 67, \t\"startColumn\": 5, \t\"endLineNumber\": 67, \t\"endColumn\": 23 }]",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1229"
+          "title": "Change \"screencast\" UI string to \"browser\"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1235"
+        },
+        {
+          "title": "table",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1234"
+        },
+        {
+          "title": "Feature request: add fancy Node.js like console.table() output to the VSCode Debug Console when used with VSCode Edge Devtools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1233"
+        },
+        {
+          "title": "font",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1232"
+        },
+        {
+          "title": "I dont know want to do with this kind of notification ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1231"
+        },
+        {
+          "title": "Changed docs.microsoft.com to learn.microsoft.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1230"
         },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "96.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6657,21 +6704,17 @@
     },
     {
       "date": "2022-10-20",
+      "rate": "93.18"
+    },
+    {
+      "date": "2022-10-21",
       "unRespondedItems": [
-        {
-          "title": "Linux edge driver link not on main page.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2261"
-        },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
-        },
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2213"
         }
       ],
-      "rate": "93.18"
+      "rate": "97.73"
     }
   ]
 }
