@@ -938,6 +938,10 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1890,6 +1894,10 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2833,8 +2841,17 @@
     },
     {
       "date": "2022-10-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-10-22",
+      "unRespondedItems": [
+        {
+          "title": "OWA Contacts Vertical Scrollbar Randomly Appearing",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/111"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3776,6 +3793,10 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4724,10 +4745,18 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [
         {
-          "title": "Problem pasting image",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
+          "title": "Tip: How to download WebView1?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
+        },
+        {
+          "title": "Cannot publish a UWP app using WebView2 in the Microsoft Store",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901"
         },
         {
           "title": "UWP: how to properly set and reset WebView2's DefaultBackgroundColor",
@@ -4746,28 +4775,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
         },
         {
-          "title": "loading  page slowly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2893"
-        },
-        {
           "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
         },
         {
-          "title": "Opening a link in a PDF in a new window opens a new Edge popup window ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2848"
-        },
-        {
-          "title": "Question about the download url for the runtime installer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2891"
-        },
-        {
           "title": "How to clear site permissions data?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
-        },
-        {
-          "title": "Timeout Exception when CoreWebView2 initialization",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2888"
         },
         {
           "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
@@ -4794,7 +4807,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         }
       ],
-      "rate": "66.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5736,22 +5749,14 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [
-        {
-          "title": "Change \"screencast\" UI string to \"browser\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1235"
-        },
-        {
-          "title": "table",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1234"
-        },
         {
           "title": "Feature request: add fancy Node.js like console.table() output to the VSCode Debug Console when used with VSCode Edge Devtools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1233"
-        },
-        {
-          "title": "font",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1232"
         },
         {
           "title": "I dont know want to do with this kind of notification ",
@@ -5766,7 +5771,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "86.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6708,6 +6713,10 @@
     },
     {
       "date": "2022-10-21",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-10-22",
       "unRespondedItems": [
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
