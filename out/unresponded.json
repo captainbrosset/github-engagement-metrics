@@ -942,6 +942,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1898,6 +1902,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2845,6 +2853,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
         {
           "title": "OWA Contacts Vertical Scrollbar Randomly Appearing",
@@ -3797,6 +3809,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4749,6 +4765,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
         {
           "title": "Tip: How to download WebView1?",
@@ -4765,10 +4785,6 @@
         {
           "title": "[NuGet] `WebView2Loader.dll` is copied twice to output",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2898"
-        },
-        {
-          "title": "How to use webview2 in java swing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2897"
         },
         {
           "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
@@ -4807,7 +4823,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5753,6 +5769,10 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
         {
           "title": "Feature request: add fancy Node.js like console.table() output to the VSCode Debug Console when used with VSCode Edge Devtools",
@@ -6717,13 +6737,21 @@
     },
     {
       "date": "2022-10-22",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-10-23",
       "unRespondedItems": [
+        {
+          "title": "Example code manifest version is incorrect.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2264"
+        },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "97.73"
+      "rate": "95.45"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 93.38%
+Response rate: 93.34%
 
 * **webhintio/hint** - _95.92%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -8,12 +8,11 @@ Response rate: 93.38%
   * [OWA Contacts Vertical Scrollbar Randomly Appearing](https://github.com/MicrosoftEdge/DevTools/issues/111)
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [Tip: How to download WebView1?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902)
   * [Cannot publish a UWP app using WebView2 in the Microsoft Sto...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901)
   * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
   * [[NuGet] `WebView2Loader.dll` is copied twice to output](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2898)
-  * [How to use webview2 in java swing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2897)
   * [Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895)
   * [Is EC Public Key bytes displayed correctly (in devtools)?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883)
   * [How to clear site permissions data?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889)
@@ -28,5 +27,6 @@ Response rate: 93.38%
   * [I dont know want to do with this kind of notification ](https://github.com/microsoft/vscode-edge-devtools/issues/1231)
   * [Changed docs.microsoft.com to learn.microsoft.com](https://github.com/microsoft/vscode-edge-devtools/pull/1230)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
-* **MicrosoftDocs/edge-developer** - _97.73%_
+* **MicrosoftDocs/edge-developer** - _95.45%_
+  * [Example code manifest version is incorrect.](https://github.com/MicrosoftDocs/edge-developer/issues/2264)
   * [Writer pass on "Support multiple profiles under a single use...](https://github.com/MicrosoftDocs/edge-developer/pull/2260)
