@@ -946,6 +946,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1906,6 +1910,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2857,6 +2865,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
         {
           "title": "OWA Contacts Vertical Scrollbar Randomly Appearing",
@@ -3813,6 +3825,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4769,7 +4785,19 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
+        {
+          "title": "mediaDevices.getDisplayMedia captured desktop video low frameRate issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2905"
+        },
+        {
+          "title": "Can Edge Beta be used as an alternative when distributing WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2903"
+        },
         {
           "title": "Tip: How to download WebView1?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
@@ -4817,13 +4845,9 @@
         {
           "title": "Setting UserAgent not effective on first navigation.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
-        },
-        {
-          "title": "Custom Schemes should avoid CSP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2850"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5773,6 +5797,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
         {
           "title": "Feature request: add fancy Node.js like console.table() output to the VSCode Debug Console when used with VSCode Edge Devtools",
@@ -6741,6 +6769,10 @@
     },
     {
       "date": "2022-10-23",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-10-24",
       "unRespondedItems": [
         {
           "title": "Example code manifest version is incorrect.",
