@@ -950,6 +950,10 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1914,6 +1918,10 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2869,13 +2877,12 @@
     },
     {
       "date": "2022-10-24",
-      "unRespondedItems": [
-        {
-          "title": "OWA Contacts Vertical Scrollbar Randomly Appearing",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/111"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-10-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3829,6 +3836,10 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4789,15 +4800,11 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [
-        {
-          "title": "mediaDevices.getDisplayMedia captured desktop video low frameRate issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2905"
-        },
-        {
-          "title": "Can Edge Beta be used as an alternative when distributing WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2903"
-        },
         {
           "title": "Tip: How to download WebView1?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
@@ -4821,6 +4828,18 @@
         {
           "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
+        },
+        {
+          "title": "Can Edge Beta be used as an alternative when distributing WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2903"
+        },
+        {
+          "title": "Problem pasting image",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
+        },
+        {
+          "title": "WebView2 soemtimes not initializing on UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
         },
         {
           "title": "How to clear site permissions data?",
@@ -4847,7 +4866,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5801,15 +5820,11 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [
-        {
-          "title": "Feature request: add fancy Node.js like console.table() output to the VSCode Debug Console when used with VSCode Edge Devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1233"
-        },
-        {
-          "title": "I dont know want to do with this kind of notification ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1231"
-        },
         {
           "title": "Changed docs.microsoft.com to learn.microsoft.com",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1230"
@@ -5819,7 +5834,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6773,17 +6788,17 @@
     },
     {
       "date": "2022-10-24",
+      "rate": "95.45"
+    },
+    {
+      "date": "2022-10-25",
       "unRespondedItems": [
-        {
-          "title": "Example code manifest version is incorrect.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2264"
-        },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "95.45"
+      "rate": "97.73"
     }
   ]
 }
