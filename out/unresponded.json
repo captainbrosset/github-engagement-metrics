@@ -954,6 +954,10 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1922,6 +1926,10 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2881,6 +2889,10 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3840,6 +3852,10 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4804,7 +4820,19 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "70.00"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [
+        {
+          "title": "Add a getter for WebView2 HWND",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907"
+        },
+        {
+          "title": "Disabling Ads in Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2906"
+        },
         {
           "title": "Tip: How to download WebView1?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
@@ -4828,10 +4856,6 @@
         {
           "title": "Is EC Public Key bytes displayed correctly (in devtools)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
-        },
-        {
-          "title": "Can Edge Beta be used as an alternative when distributing WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2903"
         },
         {
           "title": "Problem pasting image",
@@ -4864,9 +4888,13 @@
         {
           "title": "Setting UserAgent not effective on first navigation.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
+        },
+        {
+          "title": "Setting DefaultBackgroundColor on WebView2 affects Web add-ins",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5824,17 +5852,17 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [
-        {
-          "title": "Changed docs.microsoft.com to learn.microsoft.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1230"
-        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6792,13 +6820,17 @@
     },
     {
       "date": "2022-10-25",
+      "rate": "97.73"
+    },
+    {
+      "date": "2022-10-26",
       "unRespondedItems": [
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "97.73"
+      "rate": "97.62"
     }
   ]
 }
