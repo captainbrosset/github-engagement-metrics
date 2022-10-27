@@ -958,6 +958,10 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1930,6 +1934,10 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2893,6 +2901,10 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3856,6 +3868,10 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4824,6 +4840,10 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [
         {
           "title": "Add a getter for WebView2 HWND",
@@ -4858,6 +4878,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883"
         },
         {
+          "title": "WebResourceRequested on different resources is invoked after navigating to a different page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
+        },
+        {
           "title": "Problem pasting image",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
         },
@@ -4866,12 +4890,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
         },
         {
-          "title": "How to clear site permissions data?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
+          "title": "loading  page slowly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2893"
         },
         {
-          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
+          "title": "How to clear site permissions data?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
         },
         {
           "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
@@ -4882,8 +4906,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
         },
         {
-          "title": "WebView2 sending typed form contents to nleditor.osi.office.net",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2865"
+          "title": "WebView2 initialization timeout when launched on the Winlogon lock/login screen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2868"
         },
         {
           "title": "Setting UserAgent not effective on first navigation.",
@@ -4894,7 +4918,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5856,13 +5880,25 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [
+        {
+          "title": "frases of the kingdom",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1238"
+        },
+        {
+          "title": "cannot delete or add something in my code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1237"
+        },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6824,13 +6860,21 @@
     },
     {
       "date": "2022-10-26",
+      "rate": "97.62"
+    },
+    {
+      "date": "2022-10-27",
       "unRespondedItems": [
+        {
+          "title": "Removed preview channel & Runtime steps from Getstart Winforms",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2262"
+        },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "97.62"
+      "rate": "95.35"
     }
   ]
 }
