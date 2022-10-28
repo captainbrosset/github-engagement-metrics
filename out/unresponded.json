@@ -962,6 +962,10 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1938,6 +1942,10 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2905,6 +2913,10 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3872,6 +3884,10 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4844,7 +4860,19 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [
+        {
+          "title": "Webview2 C++ does not show Windows pin cred box",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912"
+        },
+        {
+          "title": " WIX Installer (.MSI) failing due to WebView2 runtime installer registry check",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2911"
+        },
         {
           "title": "Add a getter for WebView2 HWND",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907"
@@ -4898,6 +4926,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
         },
         {
+          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
+        },
+        {
           "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
         },
@@ -4912,13 +4944,9 @@
         {
           "title": "Setting UserAgent not effective on first navigation.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
-        },
-        {
-          "title": "Setting DefaultBackgroundColor on WebView2 affects Web add-ins",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2856"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5884,21 +5912,21 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [
         {
-          "title": "frases of the kingdom",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1238"
-        },
-        {
-          "title": "cannot delete or add something in my code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1237"
+          "title": "erro",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1239"
         },
         {
           "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -6864,17 +6892,29 @@
     },
     {
       "date": "2022-10-27",
+      "rate": "95.35"
+    },
+    {
+      "date": "2022-10-28",
       "unRespondedItems": [
         {
-          "title": "Removed preview channel & Runtime steps from Getstart Winforms",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2262"
+          "title": "Link to App Developer Agreement per link text",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2273"
+        },
+        {
+          "title": "Manifest V3 tab-sets",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
+        },
+        {
+          "title": "What's New 107, Experiments in Canary 108 & Stable 106",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2269"
         },
         {
           "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "95.35"
+      "rate": "91.11"
     }
   ]
 }
