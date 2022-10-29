@@ -966,6 +966,10 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1946,6 +1950,10 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2917,6 +2925,10 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3888,6 +3900,10 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4864,9 +4880,17 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [
         {
-          "title": "Webview2 C++ does not show Windows pin cred box",
+          "title": "Can't turn on Slack notifications",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2913"
+        },
+        {
+          "title": "Webview2 C++ does not show Windows PIN Credential Box",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912"
         },
         {
@@ -4946,7 +4970,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -5916,6 +5940,10 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [
         {
           "title": "erro",
@@ -6896,7 +6924,15 @@
     },
     {
       "date": "2022-10-28",
+      "rate": "91.11"
+    },
+    {
+      "date": "2022-10-29",
       "unRespondedItems": [
+        {
+          "title": "thanks",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2274"
+        },
         {
           "title": "Link to App Developer Agreement per link text",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2273"
@@ -6914,7 +6950,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "91.11"
+      "rate": "88.89"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 91.58%
+Response rate: 90.97%
 
 * **webhintio/hint** - _95.92%_
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -7,8 +7,9 @@ Response rate: 91.58%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [Webview2 C++ does not show Windows pin cred box](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912)
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [Can't turn on Slack notifications](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2913)
+  * [Webview2 C++ does not show Windows PIN Credential Box](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912)
   * [ WIX Installer (.MSI) failing due to WebView2 runtime instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2911)
   * [Add a getter for WebView2 HWND](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907)
   * [Disabling Ads in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2906)
@@ -31,7 +32,8 @@ Response rate: 91.58%
 * **microsoft/vscode-edge-devtools** - _96.00%_
   * [erro](https://github.com/microsoft/vscode-edge-devtools/issues/1239)
   * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
-* **MicrosoftDocs/edge-developer** - _91.11%_
+* **MicrosoftDocs/edge-developer** - _88.89%_
+  * [thanks](https://github.com/MicrosoftDocs/edge-developer/issues/2274)
   * [Link to App Developer Agreement per link text](https://github.com/MicrosoftDocs/edge-developer/pull/2273)
   * [Manifest V3 tab-sets](https://github.com/MicrosoftDocs/edge-developer/pull/2272)
   * [What's New 107, Experiments in Canary 108 & Stable 106](https://github.com/MicrosoftDocs/edge-developer/pull/2269)
