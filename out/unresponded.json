@@ -970,7 +970,15 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5348"
+        },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
@@ -980,7 +988,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1954,6 +1962,10 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2929,6 +2941,10 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3904,6 +3920,10 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4884,7 +4904,15 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [
+        {
+          "title": "Error -2147219198 Installation of WebView2 failed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2914"
+        },
         {
           "title": "Can't turn on Slack notifications",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2913"
@@ -4916,10 +4944,6 @@
         {
           "title": "UWP: how to properly set and reset WebView2's DefaultBackgroundColor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899"
-        },
-        {
-          "title": "[NuGet] `WebView2Loader.dll` is copied twice to output",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2898"
         },
         {
           "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
@@ -5944,14 +5968,18 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [
+        {
+          "title": "auto reloader for better flow 😀",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1240"
+        },
         {
           "title": "erro",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1239"
-        },
-        {
-          "title": "Running the command vscode-edge-devtools-view.close-instance does not close the instance",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1188"
         }
       ],
       "rate": "96.00"
@@ -6928,6 +6956,10 @@
     },
     {
       "date": "2022-10-29",
+      "rate": "88.89"
+    },
+    {
+      "date": "2022-10-31",
       "unRespondedItems": [
         {
           "title": "thanks",

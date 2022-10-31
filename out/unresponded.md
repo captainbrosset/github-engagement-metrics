@@ -1,6 +1,7 @@
-Response rate: 90.97%
+Response rate: 90.68%
 
-* **webhintio/hint** - _95.92%_
+* **webhintio/hint** - _93.88%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5348)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -8,6 +9,7 @@ Response rate: 90.97%
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [Error -2147219198 Installation of WebView2 failed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2914)
   * [Can't turn on Slack notifications](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2913)
   * [Webview2 C++ does not show Windows PIN Credential Box](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912)
   * [ WIX Installer (.MSI) failing due to WebView2 runtime instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2911)
@@ -16,7 +18,6 @@ Response rate: 90.97%
   * [Tip: How to download WebView1?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902)
   * [Cannot publish a UWP app using WebView2 in the Microsoft Sto...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901)
   * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
-  * [[NuGet] `WebView2Loader.dll` is copied twice to output](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2898)
   * [Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895)
   * [Is EC Public Key bytes displayed correctly (in devtools)?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2883)
   * [WebResourceRequested on different resources is invoked after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909)
@@ -30,8 +31,8 @@ Response rate: 90.97%
   * [WebView2 initialization timeout when launched on the Winlogo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2868)
   * [Setting UserAgent not effective on first navigation.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2862)
 * **microsoft/vscode-edge-devtools** - _96.00%_
+  * [auto reloader for better flow 😀](https://github.com/microsoft/vscode-edge-devtools/issues/1240)
   * [erro](https://github.com/microsoft/vscode-edge-devtools/issues/1239)
-  * [Running the command vscode-edge-devtools-view.close-instance...](https://github.com/microsoft/vscode-edge-devtools/issues/1188)
 * **MicrosoftDocs/edge-developer** - _88.89%_
   * [thanks](https://github.com/MicrosoftDocs/edge-developer/issues/2274)
   * [Link to App Developer Agreement per link text](https://github.com/MicrosoftDocs/edge-developer/pull/2273)
