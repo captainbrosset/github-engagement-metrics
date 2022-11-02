@@ -978,6 +978,10 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "91.84"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -1978,6 +1982,10 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2961,6 +2969,10 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3944,6 +3956,10 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [
         {
           "title": "Organizational Security Policy Around IE in Edge",
@@ -4936,6 +4952,10 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [
         {
           "title": "AddScriptToExecuteOnDocumentCreatedAsync does not appear to work with certain iframes",
@@ -4990,6 +5010,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
         },
         {
+          "title": "Webview2 C++ does not show Windows PIN Credential Box",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912"
+        },
+        {
           "title": "WebResourceRequested on different resources is invoked after navigating to a different page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
         },
@@ -5022,7 +5046,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2868"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6004,7 +6028,15 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [
+        {
+          "title": "BlobNotFound error message shown in 'Edge DevTools' tab",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1243"
+        },
         {
           "title": "Report",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1242"
@@ -6022,7 +6054,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1239"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7004,7 +7036,15 @@
     },
     {
       "date": "2022-11-01",
+      "rate": "89.13"
+    },
+    {
+      "date": "2022-11-02",
       "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback] Edge-IEmode模式使用情况反馈",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2276"
+        },
         {
           "title": "References to old Edge versions detected",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2275"
@@ -7026,7 +7066,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "89.13"
+      "rate": "86.36"
     }
   ]
 }
