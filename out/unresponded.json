@@ -982,14 +982,14 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "91.84"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
           "url": "https://github.com/webhintio/hint/issues/5349"
-        },
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5348"
         },
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
@@ -1000,7 +1000,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "91.84"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -1986,6 +1986,10 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2973,6 +2977,10 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3960,7 +3968,15 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [
+        {
+          "title": "getting Error \"session deleted because of page crash\" when using the HasAuthentication interface",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/55"
+        },
         {
           "title": "Organizational Security Policy Around IE in Edge",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54"
@@ -3970,7 +3986,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4956,23 +4972,11 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [
-        {
-          "title": "AddScriptToExecuteOnDocumentCreatedAsync does not appear to work with certain iframes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921"
-        },
-        {
-          "title": "Why does WebView2 memory consumption keep increasing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2920"
-        },
-        {
-          "title": " Can not show the page in the win7,but win10 can.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2919"
-        },
-        {
-          "title": "Context menu does not scale as expected",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2918"
-        },
         {
           "title": "It is not possible to enter the euro sign and the at sign using the on-screen keyboard (UWP-App)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2917"
@@ -4988,10 +4992,6 @@
         {
           "title": "Add a getter for WebView2 HWND",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907"
-        },
-        {
-          "title": "Disabling Ads in Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2906"
         },
         {
           "title": "Tip: How to download WebView1?",
@@ -5038,15 +5038,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
         },
         {
-          "title": "The drag and drop API in WinForms",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
+          "title": " MFC MDI app using WebView2 not responding",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877"
         },
         {
-          "title": "WebView2 initialization timeout when launched on the Winlogon lock/login screen",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2868"
+          "title": "The drag and drop API in WinForms",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
         }
       ],
-      "rate": "56.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6032,29 +6032,21 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [
+        {
+          "title": "HELP",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1244"
+        },
         {
           "title": "BlobNotFound error message shown in 'Edge DevTools' tab",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1243"
-        },
-        {
-          "title": "Report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1242"
-        },
-        {
-          "title": "help me please",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1241"
-        },
-        {
-          "title": "auto reloader for better flow 😀",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1240"
-        },
-        {
-          "title": "erro",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1239"
         }
       ],
-      "rate": "90.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7040,18 +7032,14 @@
     },
     {
       "date": "2022-11-02",
+      "rate": "86.36"
+    },
+    {
+      "date": "2022-11-03",
       "unRespondedItems": [
         {
-          "title": "[Edge WebDriver Docs Feedback] Edge-IEmode模式使用情况反馈",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2276"
-        },
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2275"
-        },
-        {
-          "title": "thanks",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2274"
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2283"
         },
         {
           "title": "Link to App Developer Agreement per link text",
@@ -7066,7 +7054,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "86.36"
+      "rate": "91.11"
     }
   ]
 }
