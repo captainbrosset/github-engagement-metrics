@@ -986,6 +986,10 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -1990,6 +1994,10 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2981,8 +2989,17 @@
     },
     {
       "date": "2022-11-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-11-04",
+      "unRespondedItems": [
+        {
+          "title": "Guidelines when hovering elements",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/114"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -3972,21 +3989,17 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [
-        {
-          "title": "getting Error \"session deleted because of page crash\" when using the HasAuthentication interface",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/55"
-        },
-        {
-          "title": "Organizational Security Policy Around IE in Edge",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -4976,7 +4989,27 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [
+        {
+          "title": "Add CornerRadius support",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2935"
+        },
+        {
+          "title": "Tabs are positioned/ordered incorrectly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2934"
+        },
+        {
+          "title": "Profile support for Windows App SDK",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2933"
+        },
+        {
+          "title": "Webview2 ignores UWP app permission Manifest and shows the \"Allow Microphone\" popup despite the permission being disabled",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930"
+        },
         {
           "title": "It is not possible to enter the euro sign and the at sign using the on-screen keyboard (UWP-App)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2917"
@@ -5010,8 +5043,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
         },
         {
-          "title": "Webview2 C++ does not show Windows PIN Credential Box",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2912"
+          "title": "Too many runtimes installed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
         },
         {
           "title": "WebResourceRequested on different resources is invoked after navigating to a different page",
@@ -5040,13 +5073,9 @@
         {
           "title": " MFC MDI app using WebView2 not responding",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877"
-        },
-        {
-          "title": "The drag and drop API in WinForms",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2873"
         }
       ],
-      "rate": "66.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6036,17 +6065,17 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [
         {
-          "title": "HELP",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1244"
-        },
-        {
-          "title": "BlobNotFound error message shown in 'Edge DevTools' tab",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1243"
+          "title": "jQuery",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1245"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7036,14 +7065,22 @@
     },
     {
       "date": "2022-11-03",
+      "rate": "91.11"
+    },
+    {
+      "date": "2022-11-04",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2283"
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2289"
         },
         {
-          "title": "Link to App Developer Agreement per link text",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2273"
+          "title": "Relnotes fine-tuning",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2287"
+        },
+        {
+          "title": "Edge browser is showing Profile Sync option",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2284"
         },
         {
           "title": "Manifest V3 tab-sets",
@@ -7054,7 +7091,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "91.11"
+      "rate": "89.13"
     }
   ]
 }
