@@ -990,6 +990,10 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -1998,6 +2002,10 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -2993,6 +3001,10 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
         {
           "title": "Guidelines when hovering elements",
@@ -3993,6 +4005,10 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -4993,14 +5009,14 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
         {
           "title": "Add CornerRadius support",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2935"
-        },
-        {
-          "title": "Tabs are positioned/ordered incorrectly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2934"
         },
         {
           "title": "Profile support for Windows App SDK",
@@ -5041,6 +5057,10 @@
         {
           "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
+        },
+        {
+          "title": " Cannot find the DispatchAdapter's namespace for using CoreWebView2.AddHostObjectToScript with WinUI3",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2937"
         },
         {
           "title": "Too many runtimes installed",
@@ -6069,13 +6089,29 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
+        {
+          "title": "HTML select dropdown is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1248"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1247"
+        },
+        {
+          "title": "html page not opening",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1246"
+        },
         {
           "title": "jQuery",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1245"
         }
       ],
-      "rate": "98.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7069,14 +7105,18 @@
     },
     {
       "date": "2022-11-04",
+      "rate": "89.13"
+    },
+    {
+      "date": "2022-11-05",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2289"
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2297"
         },
         {
-          "title": "Relnotes fine-tuning",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2287"
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2289"
         },
         {
           "title": "Edge browser is showing Profile Sync option",
@@ -7085,13 +7125,9 @@
         {
           "title": "Manifest V3 tab-sets",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
-        },
-        {
-          "title": "Writer pass on \"Support multiple profiles under a single user data folder\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2260"
         }
       ],
-      "rate": "89.13"
+      "rate": "91.67"
     }
   ]
 }

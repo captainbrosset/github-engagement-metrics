@@ -1,4 +1,4 @@
-Response rate: 91.02%
+Response rate: 90.52%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
@@ -11,7 +11,6 @@ Response rate: 91.02%
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [Add CornerRadius support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2935)
-  * [Tabs are positioned/ordered incorrectly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2934)
   * [Profile support for Windows App SDK](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2933)
   * [Webview2 ignores UWP app permission Manifest and shows the "...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930)
   * [It is not possible to enter the euro sign and the at sign us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2917)
@@ -22,6 +21,7 @@ Response rate: 91.02%
   * [Cannot publish a UWP app using WebView2 in the Microsoft Sto...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901)
   * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
   * [Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895)
+  * [ Cannot find the DispatchAdapter's namespace for using CoreW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2937)
   * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
   * [WebResourceRequested on different resources is invoked after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909)
   * [Problem pasting image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900)
@@ -30,11 +30,13 @@ Response rate: 91.02%
   * [Sometimes event handler does not call properly when calling ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885)
   * [Couldn't find a compatible Webview2 Runtime installation to ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884)
   * [ MFC MDI app using WebView2 not responding](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [HTML select dropdown is not working](https://github.com/microsoft/vscode-edge-devtools/issues/1248)
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/1247)
+  * [html page not opening](https://github.com/microsoft/vscode-edge-devtools/issues/1246)
   * [jQuery](https://github.com/microsoft/vscode-edge-devtools/issues/1245)
-* **MicrosoftDocs/edge-developer** - _89.13%_
+* **MicrosoftDocs/edge-developer** - _91.67%_
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2297)
   * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2289)
-  * [Relnotes fine-tuning](https://github.com/MicrosoftDocs/edge-developer/pull/2287)
   * [Edge browser is showing Profile Sync option](https://github.com/MicrosoftDocs/edge-developer/issues/2284)
   * [Manifest V3 tab-sets](https://github.com/MicrosoftDocs/edge-developer/pull/2272)
-  * [Writer pass on "Support multiple profiles under a single use...](https://github.com/MicrosoftDocs/edge-developer/pull/2260)
