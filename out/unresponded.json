@@ -994,6 +994,10 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2006,6 +2010,10 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3005,13 +3013,21 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
+        {
+          "title": "Documentation",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/115"
+        },
         {
           "title": "Guidelines when hovering elements",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/114"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4009,6 +4025,10 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5013,7 +5033,15 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
+        {
+          "title": "Search bug and sidebar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2939"
+        },
         {
           "title": "Add CornerRadius support",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2935"
@@ -5059,10 +5087,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
         },
         {
-          "title": " Cannot find the DispatchAdapter's namespace for using CoreWebView2.AddHostObjectToScript with WinUI3",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2937"
-        },
-        {
           "title": "Too many runtimes installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
         },
@@ -5089,13 +5113,9 @@
         {
           "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
-        },
-        {
-          "title": " MFC MDI app using WebView2 not responding",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2877"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6093,7 +6113,15 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
+        {
+          "title": "flatpak issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1249"
+        },
         {
           "title": "HTML select dropdown is not working",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1248"
@@ -6109,9 +6137,13 @@
         {
           "title": "jQuery",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1245"
+        },
+        {
+          "title": "BlobNotFound error message shown in 'Edge DevTools' tab",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1243"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7109,7 +7141,15 @@
     },
     {
       "date": "2022-11-05",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-11-06",
       "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2298"
+        },
         {
           "title": "[DevTools Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2297"
@@ -7127,7 +7167,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
         }
       ],
-      "rate": "91.67"
+      "rate": "89.58"
     }
   ]
 }
