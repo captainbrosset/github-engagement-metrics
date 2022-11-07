@@ -998,6 +998,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2014,6 +2018,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3017,6 +3025,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "Documentation",
@@ -4029,6 +4041,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5037,6 +5053,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "Search bug and sidebar",
@@ -5091,6 +5111,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
         },
         {
+          "title": "AddScriptToExecuteOnDocumentCreatedAsync does not inject into a child iframe created by script.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921"
+        },
+        {
           "title": "WebResourceRequested on different resources is invoked after navigating to a different page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
         },
@@ -5115,7 +5139,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6117,6 +6141,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "flatpak issue",
@@ -7145,6 +7173,10 @@
     },
     {
       "date": "2022-11-06",
+      "rate": "89.58"
+    },
+    {
+      "date": "2022-11-07",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",

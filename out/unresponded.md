@@ -1,4 +1,4 @@
-Response rate: 89.65%
+Response rate: 89.37%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
@@ -10,7 +10,7 @@ Response rate: 89.65%
   * [Guidelines when hovering elements](https://github.com/MicrosoftEdge/DevTools/issues/114)
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [Search bug and sidebar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2939)
   * [Add CornerRadius support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2935)
   * [Profile support for Windows App SDK](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2933)
@@ -24,6 +24,7 @@ Response rate: 89.65%
   * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
   * [Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895)
   * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
+  * [AddScriptToExecuteOnDocumentCreatedAsync does not inject int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921)
   * [WebResourceRequested on different resources is invoked after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909)
   * [Problem pasting image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900)
   * [WebView2 soemtimes not initializing on UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894)
