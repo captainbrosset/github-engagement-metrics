@@ -1006,6 +1006,10 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2030,6 +2034,10 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3041,6 +3049,10 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4052,13 +4064,21 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [
+        {
+          "title": "Organizational Security Policy Around IE in Edge",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -5068,18 +5088,22 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [
+        {
+          "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
+        },
+        {
+          "title": "WebView2 crashes if calling .ShowDialog() after receiving a WebMessage",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946"
+        },
         {
           "title": "Empty request body for a cross-origin POST request",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2943"
-        },
-        {
-          "title": "how to use ICoreWebView2_13",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2941"
-        },
-        {
-          "title": "Search bug and sidebar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2939"
         },
         {
           "title": "Webview2 ignores UWP app permission Manifest and shows the \"Allow Microphone\" popup despite the permission being disabled",
@@ -5140,17 +5164,9 @@
         {
           "title": "How to clear site permissions data?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
-        },
-        {
-          "title": "Sometimes event handler does not call properly when calling `ICoreWebView2Environment::CreateCoreWebView2Controller` multiple times at once on some environments",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885"
-        },
-        {
-          "title": "Couldn't find a compatible Webview2 Runtime installation to host WebViews.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884"
         }
       ],
-      "rate": "60.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6160,6 +6176,10 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7171,17 +7191,17 @@
     },
     {
       "date": "2022-11-08",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-11-09",
       "unRespondedItems": [
-        {
-          "title": "How can we extend Mv2 support for 6 more months after jan 2023 for edge?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2300"
-        },
         {
           "title": "Manifest V3 tab-sets",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ]
 }

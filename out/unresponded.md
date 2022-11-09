@@ -1,4 +1,4 @@
-Response rate: 92.56%
+Response rate: 93.14%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
@@ -6,12 +6,13 @@ Response rate: 92.56%
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _98.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _96.00%_
+  * [Organizational Security Policy Around IE in Edge](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
+  * [WebView2 crashes if calling .ShowDialog() after receiving a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946)
   * [Empty request body for a cross-origin POST request](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2943)
-  * [how to use ICoreWebView2_13](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2941)
-  * [Search bug and sidebar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2939)
   * [Webview2 ignores UWP app permission Manifest and shows the "...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930)
   * [Error -2147219198 Installation of WebView2 failed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2914)
   * [ WIX Installer (.MSI) failing due to WebView2 runtime instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2911)
@@ -27,9 +28,6 @@ Response rate: 92.56%
   * [Problem pasting image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900)
   * [WebView2 soemtimes not initializing on UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894)
   * [How to clear site permissions data?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889)
-  * [Sometimes event handler does not call properly when calling ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2885)
-  * [Couldn't find a compatible Webview2 Runtime installation to ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2884)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.92%_
-  * [How can we extend Mv2 support for 6 more months after jan 20...](https://github.com/MicrosoftDocs/edge-developer/issues/2300)
+* **MicrosoftDocs/edge-developer** - _97.96%_
   * [Manifest V3 tab-sets](https://github.com/MicrosoftDocs/edge-developer/pull/2272)
