@@ -1,15 +1,17 @@
-Response rate: 93.14%
+Response rate: 91.42%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4...](https://github.com/webhintio/hint/issues/5256)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Sort the keys stored in session and local storage](https://github.com/MicrosoftEdge/DevTools/issues/116)
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Organizational Security Policy Around IE in Edge](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Open Source obligations for using WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
   * [WebView2 crashes if calling .ShowDialog() after receiving a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946)
   * [Empty request body for a cross-origin POST request](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2943)
@@ -22,12 +24,16 @@ Response rate: 93.14%
   * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
   * [Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895)
   * [How can I import downloads to WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940)
+  * [Subclassing CustomNavigationStartingEventArgs Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2928)
   * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
   * [AddScriptToExecuteOnDocumentCreatedAsync does not inject int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921)
   * [WebResourceRequested on different resources is invoked after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909)
   * [Problem pasting image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900)
   * [WebView2 soemtimes not initializing on UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894)
-  * [How to clear site permissions data?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [I think I have a problem that isn't listed. What should I do...](https://github.com/microsoft/vscode-edge-devtools/issues/1254)
+  * [Need Javascript inputs as well please](https://github.com/microsoft/vscode-edge-devtools/issues/1253)
+  * [Quaninclude](https://github.com/microsoft/vscode-edge-devtools/issues/1252)
+  * [Quaninclude](https://github.com/microsoft/vscode-edge-devtools/issues/1251)
 * **MicrosoftDocs/edge-developer** - _97.96%_
   * [Manifest V3 tab-sets](https://github.com/MicrosoftDocs/edge-developer/pull/2272)

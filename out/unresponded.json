@@ -1010,6 +1010,10 @@
     },
     {
       "date": "2022-11-09",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-10",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2038,6 +2042,10 @@
     },
     {
       "date": "2022-11-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3053,8 +3061,17 @@
     },
     {
       "date": "2022-11-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-11-10",
+      "unRespondedItems": [
+        {
+          "title": "Sort the keys stored in session and local storage",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/116"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4068,6 +4085,10 @@
     },
     {
       "date": "2022-11-09",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-10",
       "unRespondedItems": [
         {
           "title": "Organizational Security Policy Around IE in Edge",
@@ -5092,7 +5113,15 @@
     },
     {
       "date": "2022-11-09",
+      "rate": "64.00"
+    },
+    {
+      "date": "2022-11-10",
       "unRespondedItems": [
+        {
+          "title": "Open Source obligations for using WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
+        },
         {
           "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
@@ -5142,6 +5171,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         },
         {
+          "title": "Subclassing CustomNavigationStartingEventArgs Error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2928"
+        },
+        {
           "title": "Too many runtimes installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
         },
@@ -5160,13 +5193,9 @@
         {
           "title": "WebView2 soemtimes not initializing on UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
-        },
-        {
-          "title": "How to clear site permissions data?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2889"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6180,8 +6209,29 @@
     },
     {
       "date": "2022-11-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-11-10",
+      "unRespondedItems": [
+        {
+          "title": "I think I have a problem that isn't listed. What should I do?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1254"
+        },
+        {
+          "title": "Need Javascript inputs as well please",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1253"
+        },
+        {
+          "title": "Quaninclude",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1252"
+        },
+        {
+          "title": "Quaninclude",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1251"
+        }
+      ],
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7195,6 +7245,10 @@
     },
     {
       "date": "2022-11-09",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-11-10",
       "unRespondedItems": [
         {
           "title": "Manifest V3 tab-sets",
