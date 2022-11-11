@@ -1014,6 +1014,10 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2046,6 +2050,10 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3065,13 +3073,12 @@
     },
     {
       "date": "2022-11-10",
-      "unRespondedItems": [
-        {
-          "title": "Sort the keys stored in session and local storage",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/116"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-11-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4089,17 +4096,17 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [
-        {
-          "title": "Organizational Security Policy Around IE in Edge",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/54"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -5117,10 +5124,14 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [
         {
-          "title": "Open Source obligations for using WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
+          "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
         },
         {
           "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
@@ -5129,10 +5140,6 @@
         {
           "title": "WebView2 crashes if calling .ShowDialog() after receiving a WebMessage",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946"
-        },
-        {
-          "title": "Empty request body for a cross-origin POST request",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2943"
         },
         {
           "title": "Webview2 ignores UWP app permission Manifest and shows the \"Allow Microphone\" popup despite the permission being disabled",
@@ -5163,8 +5170,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899"
         },
         {
-          "title": "Setting CoreWebView2EnvironmentOptions.IsCustomCrashReportingEnabled throws System.NullReferenceException",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2895"
+          "title": "Open Source obligations for using WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
         },
         {
           "title": "How can I import downloads to WebView2?",
@@ -5189,13 +5196,9 @@
         {
           "title": "Problem pasting image",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
-        },
-        {
-          "title": "WebView2 soemtimes not initializing on UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2894"
         }
       ],
-      "rate": "62.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6213,25 +6216,17 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [
         {
-          "title": "I think I have a problem that isn't listed. What should I do?",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1254"
-        },
-        {
-          "title": "Need Javascript inputs as well please",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1253"
-        },
-        {
-          "title": "Quaninclude",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1252"
-        },
-        {
-          "title": "Quaninclude",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1251"
+          "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7249,6 +7244,10 @@
     },
     {
       "date": "2022-11-10",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-11-11",
       "unRespondedItems": [
         {
           "title": "Manifest V3 tab-sets",
