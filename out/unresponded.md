@@ -1,4 +1,4 @@
-Response rate: 93.42%
+Response rate: 92.85%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
@@ -9,6 +9,8 @@ Response rate: 93.42%
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Setting as default browser](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2962)
+  * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [Is there API to disable F12 accelerate key register for webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
   * [WebView2 crashes if calling .ShowDialog() after receiving a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946)
@@ -18,15 +20,15 @@ Response rate: 93.42%
   * [Add a getter for WebView2 HWND](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907)
   * [Tip: How to download WebView1?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902)
   * [Cannot publish a UWP app using WebView2 in the Microsoft Sto...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901)
-  * [UWP: how to properly set and reset WebView2's DefaultBackgro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899)
   * [Open Source obligations for using WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950)
   * [How can I import downloads to WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940)
   * [Subclassing CustomNavigationStartingEventArgs Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2928)
   * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
   * [AddScriptToExecuteOnDocumentCreatedAsync does not inject int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921)
   * [WebResourceRequested on different resources is invoked after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909)
-  * [Problem pasting image](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [error](https://github.com/microsoft/vscode-edge-devtools/issues/1257)
   * [When using discord or an app that prompts you to use microph...](https://github.com/microsoft/vscode-edge-devtools/issues/1256)
-* **MicrosoftDocs/edge-developer** - _97.96%_
+* **MicrosoftDocs/edge-developer** - _95.92%_
+  * [Bump minimatch from 3.0.4 to 3.1.2 in /scripts](https://github.com/MicrosoftDocs/edge-developer/pull/2310)
   * [Manifest V3 tab-sets](https://github.com/MicrosoftDocs/edge-developer/pull/2272)

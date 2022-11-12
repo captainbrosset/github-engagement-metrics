@@ -1018,6 +1018,10 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
@@ -2054,6 +2058,10 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3077,6 +3085,10 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4100,6 +4112,10 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5128,7 +5144,19 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [
+        {
+          "title": "Setting as default browser",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2962"
+        },
+        {
+          "title": "Third Party Cookies being blocked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
+        },
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
@@ -5166,10 +5194,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901"
         },
         {
-          "title": "UWP: how to properly set and reset WebView2's DefaultBackgroundColor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2899"
-        },
-        {
           "title": "Open Source obligations for using WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
         },
@@ -5192,10 +5216,6 @@
         {
           "title": "WebResourceRequested on different resources is invoked after navigating to a different page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
-        },
-        {
-          "title": "Problem pasting image",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2900"
         }
       ],
       "rate": "66.00"
@@ -6220,13 +6240,21 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [
+        {
+          "title": "error",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1257"
+        },
         {
           "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7248,13 +7276,21 @@
     },
     {
       "date": "2022-11-11",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-11-12",
       "unRespondedItems": [
+        {
+          "title": "Bump minimatch from 3.0.4 to 3.1.2 in /scripts",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2310"
+        },
         {
           "title": "Manifest V3 tab-sets",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ]
 }
