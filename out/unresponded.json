@@ -1022,7 +1022,15 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5360"
+        },
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
           "url": "https://github.com/webhintio/hint/issues/5349"
@@ -1036,7 +1044,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2062,6 +2070,10 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3089,6 +3101,10 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4116,6 +4132,10 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5148,14 +5168,18 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [
+        {
+          "title": "Will WebView2 stop supporting Win7 in January 2023?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2964"
+        },
         {
           "title": "Setting as default browser",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2962"
-        },
-        {
-          "title": "Third Party Cookies being blocked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         },
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
@@ -5190,10 +5214,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
         },
         {
-          "title": "Cannot publish a UWP app using WebView2 in the Microsoft Store",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2901"
-        },
-        {
           "title": "Open Source obligations for using WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
         },
@@ -5218,7 +5238,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6244,7 +6264,15 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [
+        {
+          "title": "hh",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1258"
+        },
         {
           "title": "error",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1257"
@@ -6254,7 +6282,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7280,6 +7308,10 @@
     },
     {
       "date": "2022-11-12",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-11-13",
       "unRespondedItems": [
         {
           "title": "Bump minimatch from 3.0.4 to 3.1.2 in /scripts",
@@ -7288,9 +7320,13 @@
         {
           "title": "Manifest V3 tab-sets",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
+        },
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2311"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ]
 }
