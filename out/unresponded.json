@@ -1026,6 +1026,10 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2074,6 +2078,10 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3105,6 +3113,10 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4136,6 +4148,10 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5172,7 +5188,15 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [
+        {
+          "title": "Custom Popup window window.chrome.webview undefined issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967"
+        },
         {
           "title": "Will WebView2 stop supporting Win7 in January 2023?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2964"
@@ -5208,10 +5232,6 @@
         {
           "title": "Add a getter for WebView2 HWND",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907"
-        },
-        {
-          "title": "Tip: How to download WebView1?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2902"
         },
         {
           "title": "Open Source obligations for using WebView2",
@@ -6268,10 +6288,22 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [
+        {
+          "title": "Very blurry preview not clear",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1260"
+        },
         {
           "title": "hh",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1258"
+        },
+        {
+          "title": "Provide internet access also",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1259"
         },
         {
           "title": "error",
@@ -6282,7 +6314,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7312,7 +7344,15 @@
     },
     {
       "date": "2022-11-13",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-11-14",
       "unRespondedItems": [
+        {
+          "title": "What \"more actions\" toolbar?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2312"
+        },
         {
           "title": "Bump minimatch from 3.0.4 to 3.1.2 in /scripts",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2310"
@@ -7326,7 +7366,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2311"
         }
       ],
-      "rate": "93.88"
+      "rate": "91.84"
     }
   ]
 }
