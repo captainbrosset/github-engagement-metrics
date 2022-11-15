@@ -1030,11 +1030,11 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5360"
-        },
         {
           "title": "[Bug] verbose stack Error: could not determine executable to run",
           "url": "https://github.com/webhintio/hint/issues/5349"
@@ -1048,7 +1048,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2082,6 +2082,10 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3117,6 +3121,10 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4152,6 +4160,10 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5192,7 +5204,27 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "68.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [
+        {
+          "title": "Cannot Use File Upload with Input ``type=\"file\"``",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
+        },
+        {
+          "title": "ExecuteScriptAsync does not return after a GetDeferral is called in a NewWindowRequested ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2971"
+        },
+        {
+          "title": "String binding invalid, dumps created at embedded browser shutdown?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2970"
+        },
+        {
+          "title": "WebView2 not showing anything",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
+        },
         {
           "title": "Custom Popup window window.chrome.webview undefined issue",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967"
@@ -5208,10 +5240,6 @@
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
-        },
-        {
-          "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
         },
         {
           "title": "WebView2 crashes if calling .ShowDialog() after receiving a WebMessage",
@@ -5230,12 +5258,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2911"
         },
         {
-          "title": "Add a getter for WebView2 HWND",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2907"
-        },
-        {
           "title": "Open Source obligations for using WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2950"
+        },
+        {
+          "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
         },
         {
           "title": "How can I import downloads to WebView2?",
@@ -5258,7 +5286,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2909"
         }
       ],
-      "rate": "68.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6292,29 +6320,17 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [
-        {
-          "title": "Very blurry preview not clear",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1260"
-        },
-        {
-          "title": "hh",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1258"
-        },
-        {
-          "title": "Provide internet access also",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1259"
-        },
-        {
-          "title": "error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1257"
-        },
         {
           "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7348,25 +7364,25 @@
     },
     {
       "date": "2022-11-14",
+      "rate": "91.84"
+    },
+    {
+      "date": "2022-11-15",
       "unRespondedItems": [
         {
-          "title": "What \"more actions\" toolbar?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2312"
+          "title": "leave comments",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2317"
         },
         {
-          "title": "Bump minimatch from 3.0.4 to 3.1.2 in /scripts",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2310"
+          "title": "Requirements for Print to PDF",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
         },
         {
           "title": "Manifest V3 tab-sets",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2311"
         }
       ],
-      "rate": "91.84"
+      "rate": "93.75"
     }
   ]
 }
