@@ -1038,6 +1038,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2098,6 +2102,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3141,6 +3149,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4184,6 +4196,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5232,7 +5248,31 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [
+        {
+          "title": "Webview2 rendering incorrectly and inconsistently",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2979"
+        },
+        {
+          "title": "WebView2 opens an SSL connection to bing.com even when opening about:blank page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2978"
+        },
+        {
+          "title": "Webwiew2 ExecuteScripts on HostObject fails ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
+        },
+        {
+          "title": "Webviev2 occupancy issues",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2976"
+        },
+        {
+          "title": "How to adjust the display hierarchy of webview2 in wpf",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2975"
+        },
         {
           "title": "Need support for Webview2 browser policies to enable Kerberos delegation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2974"
@@ -5278,10 +5318,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930"
         },
         {
-          "title": "Error -2147219198 Installation of WebView2 failed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2914"
-        },
-        {
           "title": "String binding invalid, dumps created at embedded browser shutdown?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2970"
         },
@@ -5298,10 +5334,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         },
         {
-          "title": "Subclassing CustomNavigationStartingEventArgs Error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2928"
-        },
-        {
           "title": "Too many runtimes installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
         },
@@ -5310,7 +5342,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921"
         }
       ],
-      "rate": "62.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6352,6 +6384,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [
         {
           "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
@@ -7400,6 +7436,10 @@
     },
     {
       "date": "2022-11-16",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-11-17",
       "unRespondedItems": [
         {
           "title": "Nothing About Application Lifecycle management for Add-Ons",

@@ -1,4 +1,4 @@
-Response rate: 91.67%
+Response rate: 90.81%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -9,7 +9,12 @@ Response rate: 91.67%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [Webview2 rendering incorrectly and inconsistently](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2979)
+  * [WebView2 opens an SSL connection to bing.com even when openi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2978)
+  * [Webwiew2 ExecuteScripts on HostObject fails ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977)
+  * [Webviev2 occupancy issues](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2976)
+  * [How to adjust the display hierarchy of webview2 in wpf](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2975)
   * [Need support for Webview2 browser policies to enable Kerbero...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2974)
   * [Cookies When Navigating to String](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2973)
   * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
@@ -21,12 +26,10 @@ Response rate: 91.67%
   * [Is there API to disable F12 accelerate key register for webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957)
   * [WebView2 crashes if calling .ShowDialog() after receiving a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946)
   * [Webview2 ignores UWP app permission Manifest and shows the "...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930)
-  * [Error -2147219198 Installation of WebView2 failed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2914)
   * [String binding invalid, dumps created at embedded browser sh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2970)
   * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
   * [How can I import downloads to WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940)
-  * [Subclassing CustomNavigationStartingEventArgs Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2928)
   * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
   * [AddScriptToExecuteOnDocumentCreatedAsync does not inject int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921)
 * **microsoft/vscode-edge-devtools** - _98.00%_
