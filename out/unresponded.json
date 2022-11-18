@@ -1042,6 +1042,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2106,6 +2110,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3153,6 +3161,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4200,6 +4212,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5252,7 +5268,19 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [
+        {
+          "title": "Blank WebView2 when a non-activated & hidden window is resized",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2983"
+        },
+        {
+          "title": "Is there any API for capturing console messages?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2982"
+        },
         {
           "title": "Webview2 rendering incorrectly and inconsistently",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2979"
@@ -5310,10 +5338,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
         },
         {
-          "title": "WebView2 crashes if calling .ShowDialog() after receiving a WebMessage",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946"
-        },
-        {
           "title": "Webview2 ignores UWP app permission Manifest and shows the \"Allow Microphone\" popup despite the permission being disabled",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930"
         },
@@ -5342,7 +5366,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6388,6 +6412,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [
         {
           "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
@@ -7440,6 +7468,10 @@
     },
     {
       "date": "2022-11-17",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-11-18",
       "unRespondedItems": [
         {
           "title": "Nothing About Application Lifecycle management for Add-Ons",

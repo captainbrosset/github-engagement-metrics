@@ -1,4 +1,4 @@
-Response rate: 90.81%
+Response rate: 90.52%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -9,7 +9,9 @@ Response rate: 90.81%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [Blank WebView2 when a non-activated & hidden window is resiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2983)
+  * [Is there any API for capturing console messages?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2982)
   * [Webview2 rendering incorrectly and inconsistently](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2979)
   * [WebView2 opens an SSL connection to bing.com even when openi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2978)
   * [Webwiew2 ExecuteScripts on HostObject fails ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977)
@@ -24,7 +26,6 @@ Response rate: 90.81%
   * [Will WebView2 stop supporting Win7 in January 2023?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2964)
   * [Setting as default browser](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2962)
   * [Is there API to disable F12 accelerate key register for webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957)
-  * [WebView2 crashes if calling .ShowDialog() after receiving a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2946)
   * [Webview2 ignores UWP app permission Manifest and shows the "...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930)
   * [String binding invalid, dumps created at embedded browser sh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2970)
   * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
