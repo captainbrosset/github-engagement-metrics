@@ -1046,6 +1046,10 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2114,6 +2118,10 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3165,6 +3173,10 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4216,6 +4228,10 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5272,67 +5288,11 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [
-        {
-          "title": "Blank WebView2 when a non-activated & hidden window is resized",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2983"
-        },
-        {
-          "title": "Is there any API for capturing console messages?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2982"
-        },
-        {
-          "title": "Webview2 rendering incorrectly and inconsistently",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2979"
-        },
-        {
-          "title": "WebView2 opens an SSL connection to bing.com even when opening about:blank page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2978"
-        },
-        {
-          "title": "Webwiew2 ExecuteScripts on HostObject fails ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
-        },
-        {
-          "title": "Webviev2 occupancy issues",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2976"
-        },
-        {
-          "title": "How to adjust the display hierarchy of webview2 in wpf",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2975"
-        },
-        {
-          "title": "Need support for Webview2 browser policies to enable Kerberos delegation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2974"
-        },
-        {
-          "title": "Cookies When Navigating to String",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2973"
-        },
-        {
-          "title": "Cannot Use File Upload with Input ``type=\"file\"``",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
-        },
-        {
-          "title": "ExecuteScriptAsync does not return after a GetDeferral is called in a NewWindowRequested ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2971"
-        },
-        {
-          "title": "WebView2 not showing anything",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
-        },
-        {
-          "title": "Custom Popup window window.chrome.webview undefined issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967"
-        },
-        {
-          "title": "Will WebView2 stop supporting Win7 in January 2023?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2964"
-        },
-        {
-          "title": "Setting as default browser",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2962"
-        },
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
@@ -5342,8 +5302,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930"
         },
         {
-          "title": "String binding invalid, dumps created at embedded browser shutdown?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2970"
+          "title": "WinUI3 WebView2 ContextMenuRequested event crash the app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
         },
         {
           "title": "Third Party Cookies being blocked",
@@ -5360,13 +5320,9 @@
         {
           "title": "Too many runtimes installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926"
-        },
-        {
-          "title": "AddScriptToExecuteOnDocumentCreatedAsync does not inject into a child iframe created by script.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2921"
         }
       ],
-      "rate": "54.00"
+      "rate": "86.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6416,10 +6372,14 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [
         {
-          "title": "When using discord or an app that prompts you to use microphone notification doesn't show up to enable audio and mic",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1256"
+          "title": "tetol",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1261"
         }
       ],
       "rate": "98.00"
@@ -7472,7 +7432,15 @@
     },
     {
       "date": "2022-11-18",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-11-19",
       "unRespondedItems": [
+        {
+          "title": "Added instructions for step 3 of infringement form",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2323"
+        },
         {
           "title": "Nothing About Application Lifecycle management for Add-Ons",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2318"
@@ -7484,13 +7452,9 @@
         {
           "title": "Requirements for Print to PDF",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
-        },
-        {
-          "title": "Manifest V3 tab-sets",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2272"
         }
       ],
-      "rate": "91.67"
+      "rate": "91.49"
     }
   ]
 }
