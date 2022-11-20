@@ -12,11 +12,11 @@ Response rate: 95.07%
 * **MicrosoftEdge/WebView2Feedback** - _86.00%_
   * [Is there API to disable F12 accelerate key register for webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957)
   * [Webview2 ignores UWP app permission Manifest and shows the "...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930)
+  * [On all apps with WebView2 has screen flashing on Intel HUD g...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2986)
   * [WinUI3 WebView2 ContextMenuRequested event crash the app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985)
   * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
   * [How can I import downloads to WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940)
-  * [Too many runtimes installed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2926)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [tetol](https://github.com/microsoft/vscode-edge-devtools/issues/1261)
 * **MicrosoftDocs/edge-developer** - _91.49%_
