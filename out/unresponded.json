@@ -1054,7 +1054,15 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [
+        {
+          "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
+          "url": "https://github.com/webhintio/hint/issues/5364"
+        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1072,7 +1080,7 @@
           "url": "https://github.com/webhintio/hint/issues/5256"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2130,6 +2138,10 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3189,6 +3201,10 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4248,6 +4264,10 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5312,7 +5332,19 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "86.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [
+        {
+          "title": "Fresh Edge install Crashes after few seconds of launch",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2989"
+        },
+        {
+          "title": "How to re open automatic password saving?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988"
+        },
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
@@ -5330,6 +5362,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
         },
         {
+          "title": "Webwiew2 ExecuteScripts on HostObject fails ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
+        },
+        {
           "title": "Third Party Cookies being blocked",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         },
@@ -5342,7 +5378,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6400,10 +6436,14 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [
         {
-          "title": "tetol",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1261"
+          "title": "Issue: Bug report",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1266"
         }
       ],
       "rate": "98.00"
@@ -7464,25 +7504,21 @@
     },
     {
       "date": "2022-11-20",
+      "rate": "91.49"
+    },
+    {
+      "date": "2022-11-22",
       "unRespondedItems": [
         {
           "title": "Added instructions for step 3 of infringement form",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2323"
         },
         {
-          "title": "Nothing About Application Lifecycle management for Add-Ons",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2318"
-        },
-        {
-          "title": "leave comments",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2317"
-        },
-        {
           "title": "Requirements for Print to PDF",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
         }
       ],
-      "rate": "91.49"
+      "rate": "95.74"
     }
   ]
 }
