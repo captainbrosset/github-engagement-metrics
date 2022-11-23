@@ -1058,6 +1058,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [
         {
           "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
@@ -2142,6 +2146,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3205,6 +3213,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4268,6 +4280,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5336,6 +5352,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [
         {
           "title": "Fresh Edge install Crashes after few seconds of launch",
@@ -5366,6 +5386,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
         },
         {
+          "title": "Cannot Use File Upload with Input ``type=\"file\"``",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
+        },
+        {
           "title": "Third Party Cookies being blocked",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         },
@@ -5378,7 +5402,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6440,10 +6464,14 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [
         {
-          "title": "Issue: Bug report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1266"
+          "title": "Dev tools not responding",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1267"
         }
       ],
       "rate": "98.00"
@@ -7508,6 +7536,10 @@
     },
     {
       "date": "2022-11-22",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-11-23",
       "unRespondedItems": [
         {
           "title": "Added instructions for step 3 of infringement form",
