@@ -1062,11 +1062,11 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [
-        {
-          "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
-          "url": "https://github.com/webhintio/hint/issues/5364"
-        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1082,6 +1082,10 @@
         {
           "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
           "url": "https://github.com/webhintio/hint/issues/5256"
+        },
+        {
+          "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
+          "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
       "rate": "90.00"
@@ -2150,6 +2154,10 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3217,6 +3225,10 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4284,6 +4296,10 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5356,7 +5372,19 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [
+        {
+          "title": "Validated event not fired properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2992"
+        },
+        {
+          "title": "Disable shortcut not working for the first loaded page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991"
+        },
         {
           "title": "Fresh Edge install Crashes after few seconds of launch",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2989"
@@ -5368,10 +5396,6 @@
         {
           "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
-        },
-        {
-          "title": "Webview2 ignores UWP app permission Manifest and shows the \"Allow Microphone\" popup despite the permission being disabled",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2930"
         },
         {
           "title": "On all apps with WebView2 has screen flashing on Intel HUD graphics ",
@@ -5390,6 +5414,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
         },
         {
+          "title": "WebView2 not showing anything",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
+        },
+        {
           "title": "Third Party Cookies being blocked",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         },
@@ -5402,7 +5430,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         }
       ],
-      "rate": "78.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6468,6 +6496,10 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [
         {
           "title": "Dev tools not responding",
@@ -7540,6 +7572,10 @@
     },
     {
       "date": "2022-11-23",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-11-24",
       "unRespondedItems": [
         {
           "title": "Added instructions for step 3 of infringement form",
