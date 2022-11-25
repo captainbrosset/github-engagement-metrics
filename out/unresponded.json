@@ -1066,7 +1066,15 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5365"
+        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1078,10 +1086,6 @@
         {
           "title": "[Feature] Allow HTML-only headers for SVG files",
           "url": "https://github.com/webhintio/hint/issues/5281"
-        },
-        {
-          "title": "[Bug] Unnecessary`apple-touch-icon` audit for Safari >= 15.4",
-          "url": "https://github.com/webhintio/hint/issues/5256"
         },
         {
           "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
@@ -2158,6 +2162,10 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3229,6 +3237,10 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4300,6 +4312,10 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5376,7 +5392,35 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [
+        {
+          "title": "x:Bind in WebView2 Source property does not work in UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
+        },
+        {
+          "title": "Is it possible to prohibit the download of multiple file dialogs, it is very inconvenient to have to pop up every time",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2998"
+        },
+        {
+          "title": "H264 Video decoding - license required or not?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
+        },
+        {
+          "title": "LaunchApplication2 + scan code 0x21 key is handled by webview2 control when it got focus.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996"
+        },
+        {
+          "title": "WebView2 will disappear when window touch input cover it.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995"
+        },
+        {
+          "title": "Any known software/project using \"The Fixed Version runtime distribution mode\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2994"
+        },
         {
           "title": "Validated event not fired properly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2992"
@@ -5394,8 +5438,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988"
         },
         {
-          "title": "Is there API to disable F12 accelerate key register for webview2 runtime?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2957"
+          "title": "Check for available disk space and permission to install software. Unable to create temporary directory.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
         },
         {
           "title": "On all apps with WebView2 has screen flashing on Intel HUD graphics ",
@@ -5404,6 +5448,14 @@
         {
           "title": "WinUI3 WebView2 ContextMenuRequested event crash the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
+        },
+        {
+          "title": "When logon as an admin user, WebView2 raised Element not found COMException during the initialization ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2984"
+        },
+        {
+          "title": "Blank WebView2 when a non-activated & hidden window is resized",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2983"
         },
         {
           "title": "Webwiew2 ExecuteScripts on HostObject fails ",
@@ -5424,13 +5476,9 @@
         {
           "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
-        },
-        {
-          "title": "How can I import downloads to WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2940"
         }
       ],
-      "rate": "74.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6500,13 +6548,12 @@
     },
     {
       "date": "2022-11-24",
-      "unRespondedItems": [
-        {
-          "title": "Dev tools not responding",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1267"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-11-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7576,6 +7623,10 @@
     },
     {
       "date": "2022-11-24",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-11-25",
       "unRespondedItems": [
         {
           "title": "Added instructions for step 3 of infringement form",
