@@ -1070,11 +1070,11 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5365"
-        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1092,7 +1092,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2166,6 +2166,10 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3241,6 +3245,10 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4316,6 +4324,10 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5396,7 +5408,23 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [
+        {
+          "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
+        },
+        {
+          "title": "UWP Webview2 Size shrinks - Extended displays",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
+        },
+        {
+          "title": "How to make sure codes execute before NavigationCompleted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001"
+        },
         {
           "title": "x:Bind in WebView2 Source property does not work in UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
@@ -5478,7 +5506,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
         }
       ],
-      "rate": "60.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6552,8 +6580,21 @@
     },
     {
       "date": "2022-11-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-11-26",
+      "unRespondedItems": [
+        {
+          "title": "Invalid aria-invalid=\"{expression}\" (React)",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1270"
+        },
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1269"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7627,7 +7668,19 @@
     },
     {
       "date": "2022-11-25",
+      "rate": "95.74"
+    },
+    {
+      "date": "2022-11-26",
       "unRespondedItems": [
+        {
+          "title": "This repo is missing important files",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2333"
+        },
+        {
+          "title": "Adding Microsoft SECURITY.MD",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2332"
+        },
         {
           "title": "Added instructions for step 3 of infringement form",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2323"
@@ -7637,7 +7690,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
         }
       ],
-      "rate": "95.74"
+      "rate": "91.30"
     }
   ]
 }

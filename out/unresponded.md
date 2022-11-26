@@ -1,7 +1,6 @@
-Response rate: 91.96%
+Response rate: 90.19%
 
-* **webhintio/hint** - _90.00%_
-  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5365)
+* **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
@@ -10,7 +9,10 @@ Response rate: 91.96%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
+  * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
+  * [How to make sure codes execute before NavigationCompleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001)
   * [x:Bind in WebView2 Source property does not work in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999)
   * [Is it possible to prohibit the download of multiple file dia...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2998)
   * [H264 Video decoding - license required or not?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997)
@@ -31,7 +33,11 @@ Response rate: 91.96%
   * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
   * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Invalid aria-invalid="{expression}" (React)](https://github.com/microsoft/vscode-edge-devtools/issues/1270)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1269)
+* **MicrosoftDocs/edge-developer** - _91.30%_
+  * [This repo is missing important files](https://github.com/MicrosoftDocs/edge-developer/issues/2333)
+  * [Adding Microsoft SECURITY.MD](https://github.com/MicrosoftDocs/edge-developer/pull/2332)
   * [Added instructions for step 3 of infringement form](https://github.com/MicrosoftDocs/edge-developer/pull/2323)
   * [Requirements for Print to PDF](https://github.com/MicrosoftDocs/edge-developer/pull/2316)
