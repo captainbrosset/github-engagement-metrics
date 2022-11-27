@@ -1074,6 +1074,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2170,6 +2174,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3249,6 +3257,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4328,6 +4340,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5412,6 +5428,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [
         {
           "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
@@ -6584,7 +6604,23 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [
+        {
+          "title": "C program to illustrate if statement",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1273"
+        },
+        {
+          "title": "hellow world",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1272"
+        },
+        {
+          "title": "alert()/prompt()/confirm() doesn't work in the DevTools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1271"
+        },
         {
           "title": "Invalid aria-invalid=\"{expression}\" (React)",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1270"
@@ -6594,7 +6630,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1269"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7672,6 +7708,10 @@
     },
     {
       "date": "2022-11-26",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-11-27",
       "unRespondedItems": [
         {
           "title": "This repo is missing important files",

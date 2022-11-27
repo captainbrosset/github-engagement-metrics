@@ -1,4 +1,4 @@
-Response rate: 90.19%
+Response rate: 89.33%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -33,7 +33,10 @@ Response rate: 90.19%
   * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
   * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [C program to illustrate if statement](https://github.com/microsoft/vscode-edge-devtools/issues/1273)
+  * [hellow world](https://github.com/microsoft/vscode-edge-devtools/issues/1272)
+  * [alert()/prompt()/confirm() doesn't work in the DevTools](https://github.com/microsoft/vscode-edge-devtools/issues/1271)
   * [Invalid aria-invalid="{expression}" (React)](https://github.com/microsoft/vscode-edge-devtools/issues/1270)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1269)
 * **MicrosoftDocs/edge-developer** - _91.30%_
