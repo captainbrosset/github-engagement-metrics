@@ -1,4 +1,4 @@
-Response rate: 89.33%
+Response rate: 89.61%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -9,7 +9,7 @@ Response rate: 89.33%
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
   * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
   * [How to make sure codes execute before NavigationCompleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001)
@@ -31,7 +31,6 @@ Response rate: 89.33%
   * [Webwiew2 ExecuteScripts on HostObject fails ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977)
   * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
   * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
-  * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
   * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
 * **microsoft/vscode-edge-devtools** - _90.00%_
   * [C program to illustrate if statement](https://github.com/microsoft/vscode-edge-devtools/issues/1273)

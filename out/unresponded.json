@@ -1078,6 +1078,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2178,6 +2182,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3261,6 +3269,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4344,6 +4356,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5432,6 +5448,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [
         {
           "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
@@ -5518,15 +5538,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         },
         {
-          "title": "Third Party Cookies being blocked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
-        },
-        {
           "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6608,6 +6624,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [
         {
           "title": "C program to illustrate if statement",
@@ -7712,6 +7732,10 @@
     },
     {
       "date": "2022-11-27",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-11-28",
       "unRespondedItems": [
         {
           "title": "This repo is missing important files",
