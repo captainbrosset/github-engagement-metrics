@@ -1082,6 +1082,10 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2186,6 +2190,10 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3273,6 +3281,10 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4360,6 +4372,10 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5452,10 +5468,18 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [
         {
-          "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
+          "title": "Open Source WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3005"
+        },
+        {
+          "title": "WebView2 Runtime as UWP PackageDependency",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3004"
         },
         {
           "title": "UWP Webview2 Size shrinks - Extended displays",
@@ -5490,24 +5514,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2994"
         },
         {
-          "title": "Validated event not fired properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2992"
-        },
-        {
-          "title": "Disable shortcut not working for the first loaded page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991"
-        },
-        {
-          "title": "Fresh Edge install Crashes after few seconds of launch",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2989"
-        },
-        {
-          "title": "How to re open automatic password saving?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988"
-        },
-        {
-          "title": "Check for available disk space and permission to install software. Unable to create temporary directory.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
+          "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
         },
         {
           "title": "On all apps with WebView2 has screen flashing on Intel HUD graphics ",
@@ -5522,10 +5530,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2984"
         },
         {
-          "title": "Blank WebView2 when a non-activated & hidden window is resized",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2983"
-        },
-        {
           "title": "Webwiew2 ExecuteScripts on HostObject fails ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
         },
@@ -5538,11 +5542,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         },
         {
+          "title": "Custom Popup window window.chrome.webview undefined issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967"
+        },
+        {
           "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
         }
       ],
-      "rate": "56.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6628,29 +6636,12 @@
     },
     {
       "date": "2022-11-28",
-      "unRespondedItems": [
-        {
-          "title": "C program to illustrate if statement",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1273"
-        },
-        {
-          "title": "hellow world",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1272"
-        },
-        {
-          "title": "alert()/prompt()/confirm() doesn't work in the DevTools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1271"
-        },
-        {
-          "title": "Invalid aria-invalid=\"{expression}\" (React)",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1270"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1269"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2022-11-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7736,25 +7727,25 @@
     },
     {
       "date": "2022-11-28",
+      "rate": "91.30"
+    },
+    {
+      "date": "2022-11-29",
       "unRespondedItems": [
         {
-          "title": "This repo is missing important files",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2333"
+          "title": "hyperlinks are not working",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2335"
         },
         {
-          "title": "Adding Microsoft SECURITY.MD",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2332"
-        },
-        {
-          "title": "Added instructions for step 3 of infringement form",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2323"
+          "title": "What's New 108, Experiments 109/107",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2319"
         },
         {
           "title": "Requirements for Print to PDF",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
         }
       ],
-      "rate": "91.30"
+      "rate": "93.48"
     }
   ]
 }
