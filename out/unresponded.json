@@ -1086,6 +1086,10 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2194,6 +2198,10 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3285,8 +3293,17 @@
     },
     {
       "date": "2022-11-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-11-30",
+      "unRespondedItems": [
+        {
+          "title": "Issue opening DevTools when using allow and block list in Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/118"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4376,6 +4393,10 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -5472,7 +5493,15 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [
+        {
+          "title": "PrintAsync prints blank page - WinForms VB.NET",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3007"
+        },
         {
           "title": "Open Source WebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3005"
@@ -5514,8 +5543,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2994"
         },
         {
+          "title": "COMException 0x8007139F in Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__13.MoveNext",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3008"
+        },
+        {
           "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
+        },
+        {
+          "title": "How to re open automatic password saving?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988"
         },
         {
           "title": "On all apps with WebView2 has screen flashing on Intel HUD graphics ",
@@ -5542,15 +5579,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         },
         {
-          "title": "Custom Popup window window.chrome.webview undefined issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967"
-        },
-        {
-          "title": "WebView2 hostObject call doesn't work on System.Threading.Tasks.Task<TResult> methods",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948"
+          "title": "Third Party Cookies being blocked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6640,6 +6673,10 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7731,11 +7768,11 @@
     },
     {
       "date": "2022-11-29",
+      "rate": "93.48"
+    },
+    {
+      "date": "2022-11-30",
       "unRespondedItems": [
-        {
-          "title": "hyperlinks are not working",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2335"
-        },
         {
           "title": "What's New 108, Experiments 109/107",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2319"
@@ -7745,7 +7782,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2316"
         }
       ],
-      "rate": "93.48"
+      "rate": "95.65"
     }
   ]
 }

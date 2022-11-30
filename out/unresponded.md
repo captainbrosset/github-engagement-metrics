@@ -1,4 +1,4 @@
-Response rate: 92.21%
+Response rate: 91.66%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -6,10 +6,12 @@ Response rate: 92.21%
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [When Edge DevTools is installed and webhint enabled webhint ...](https://github.com/webhintio/hint/issues/5364)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Issue opening DevTools when using allow and block list in Ed...](https://github.com/MicrosoftEdge/DevTools/issues/118)
 * **MicrosoftEdge/EdgeWebDriver** - _98.00%_
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [PrintAsync prints blank page - WinForms VB.NET](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3007)
   * [Open Source WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3005)
   * [WebView2 Runtime as UWP PackageDependency](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3004)
   * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
@@ -20,17 +22,17 @@ Response rate: 92.21%
   * [LaunchApplication2 + scan code 0x21 key is handled by webvie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996)
   * [WebView2 will disappear when window touch input cover it.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995)
   * [Any known software/project using "The Fixed Version runtime ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2994)
+  * [COMException 0x8007139F in Microsoft.Web.WebView2.WinForms.W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3008)
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
+  * [How to re open automatic password saving?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988)
   * [On all apps with WebView2 has screen flashing on Intel HUD g...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2986)
   * [WinUI3 WebView2 ContextMenuRequested event crash the app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985)
   * [When logon as an admin user, WebView2 raised Element not fou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2984)
   * [Webwiew2 ExecuteScripts on HostObject fails ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977)
   * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
   * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
-  * [Custom Popup window window.chrome.webview undefined issue](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2967)
-  * [WebView2 hostObject call doesn't work on System.Threading.Ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2948)
+  * [Third Party Cookies being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _93.48%_
-  * [hyperlinks are not working](https://github.com/MicrosoftDocs/edge-developer/issues/2335)
+* **MicrosoftDocs/edge-developer** - _95.65%_
   * [What's New 108, Experiments 109/107](https://github.com/MicrosoftDocs/edge-developer/pull/2319)
   * [Requirements for Print to PDF](https://github.com/MicrosoftDocs/edge-developer/pull/2316)
