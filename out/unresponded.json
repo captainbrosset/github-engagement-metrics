@@ -1098,6 +1098,10 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2218,6 +2222,10 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3321,6 +3329,10 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [
         {
           "title": "Ambiguous \"size\" for capturing screenshot",
@@ -4429,6 +4441,10 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5541,7 +5557,19 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "58.00"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [
+        {
+          "title": "How to disable elastic overscroll?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016"
+        },
+        {
+          "title": "Not passing touch messages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015"
+        },
         {
           "title": "--force-color-profile=srgb don't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
@@ -5563,16 +5591,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
         },
         {
-          "title": "H264 Video decoding - license required or not?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
-        },
-        {
           "title": "LaunchApplication2 + scan code 0x21 key is handled by webview2 control when it got focus.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996"
         },
         {
           "title": "WebView2 will disappear when window touch input cover it.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995"
+        },
+        {
+          "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018"
+        },
+        {
+          "title": "Using C#/WinRT is not working with WinUI3",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
         },
         {
           "title": "Why are you keeping all my history",
@@ -5591,6 +5623,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
         },
         {
+          "title": "H264 Video decoding - license required or not?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
+        },
+        {
           "title": "Disable shortcut not working for the first loaded page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991"
         },
@@ -5607,10 +5643,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
         },
         {
-          "title": "When logon as an admin user, WebView2 raised Element not found COMException during the initialization ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2984"
-        },
-        {
           "title": "Webwiew2 ExecuteScripts on HostObject fails ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
         },
@@ -5621,13 +5653,9 @@
         {
           "title": "WebView2 not showing anything",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
-        },
-        {
-          "title": "Third Party Cookies being blocked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2958"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6729,8 +6757,25 @@
     },
     {
       "date": "2022-12-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-03",
+      "unRespondedItems": [
+        {
+          "title": "Clipboard functionality does not work on OSX",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1277"
+        },
+        {
+          "title": "running executables path",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1276"
+        },
+        {
+          "title": "live server ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1275"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7832,14 +7877,18 @@
     },
     {
       "date": "2022-12-02",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-03",
       "unRespondedItems": [
         {
-          "title": "Polish \"Get started using DevTools for VS Code\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
+          "title": "New: \"How WinRT types and members are represented in JavaScript\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         },
         {
-          "title": "What's New 108, Experiments 109/107",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2319"
+          "title": "Break up \"Get started using DevTools for VS Code\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
         }
       ],
       "rate": "95.83"
