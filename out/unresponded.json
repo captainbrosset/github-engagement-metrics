@@ -1102,6 +1102,10 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2226,6 +2230,10 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3333,6 +3341,10 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
         {
           "title": "Ambiguous \"size\" for capturing screenshot",
@@ -4445,6 +4457,10 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5561,6 +5577,10 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
         {
           "title": "How to disable elastic overscroll?",
@@ -5587,10 +5607,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001"
         },
         {
-          "title": "x:Bind in WebView2 Source property does not work in UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
-        },
-        {
           "title": "LaunchApplication2 + scan code 0x21 key is handled by webview2 control when it got focus.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996"
         },
@@ -5607,12 +5623,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
         },
         {
-          "title": "Why are you keeping all my history",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009"
+          "title": "Input field lags behind",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010"
         },
         {
-          "title": "COMException 0x8007139F in Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__13.MoveNext",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3008"
+          "title": "Why are you keeping all my history",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009"
         },
         {
           "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
@@ -5655,7 +5671,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6761,7 +6777,15 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
+        {
+          "title": "bug-linux mint 21",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1278"
+        },
         {
           "title": "Clipboard functionality does not work on OSX",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1277"
@@ -6775,7 +6799,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1275"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7881,7 +7905,15 @@
     },
     {
       "date": "2022-12-03",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-04",
       "unRespondedItems": [
+        {
+          "title": "original",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2344"
+        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
@@ -7891,7 +7923,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
         }
       ],
-      "rate": "95.83"
+      "rate": "93.75"
     }
   ]
 }
