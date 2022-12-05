@@ -1,4 +1,4 @@
-Response rate: 89.68%
+Response rate: 89.10%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -11,11 +11,12 @@ Response rate: 89.68%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [WebResourceRequest Redirection to local file like as doing b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020)
+  * [Removing menu items from a default context menu (further exa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019)
   * [How to disable elastic overscroll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016)
   * [Not passing touch messages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015)
   * [--force-color-profile=srgb don't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013)
-  * [Left click spellcheck menu causes WebView to lost focus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012)
   * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
   * [How to make sure codes execute before NavigationCompleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001)
   * [LaunchApplication2 + scan code 0x21 key is handled by webvie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996)
@@ -35,11 +36,12 @@ Response rate: 89.68%
   * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
   * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
 * **microsoft/vscode-edge-devtools** - _92.00%_
-  * [bug-linux mint 21](https://github.com/microsoft/vscode-edge-devtools/issues/1278)
+  * [deleted](https://github.com/microsoft/vscode-edge-devtools/issues/1278)
   * [Clipboard functionality does not work on OSX](https://github.com/microsoft/vscode-edge-devtools/issues/1277)
   * [running executables path](https://github.com/microsoft/vscode-edge-devtools/issues/1276)
   * [live server ](https://github.com/microsoft/vscode-edge-devtools/issues/1275)
-* **MicrosoftDocs/edge-developer** - _93.75%_
+* **MicrosoftDocs/edge-developer** - _91.67%_
+  * [Acer](https://github.com/MicrosoftDocs/edge-developer/issues/2346)
   * [original](https://github.com/MicrosoftDocs/edge-developer/issues/2344)
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)
   * [Break up "Get started using DevTools for VS Code"](https://github.com/MicrosoftDocs/edge-developer/pull/2321)

@@ -1106,6 +1106,10 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2234,6 +2238,10 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3345,6 +3353,10 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
         {
           "title": "Ambiguous \"size\" for capturing screenshot",
@@ -4461,6 +4473,10 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5581,7 +5597,19 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
+        {
+          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
+        },
+        {
+          "title": "Removing menu items from a default context menu (further examples requested)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019"
+        },
         {
           "title": "How to disable elastic overscroll?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016"
@@ -5593,10 +5621,6 @@
         {
           "title": "--force-color-profile=srgb don't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
-        },
-        {
-          "title": "Left click spellcheck menu causes WebView to lost focus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012"
         },
         {
           "title": "UWP Webview2 Size shrinks - Extended displays",
@@ -5671,7 +5695,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6781,9 +6805,13 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
         {
-          "title": "bug-linux mint 21",
+          "title": "deleted",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1278"
         },
         {
@@ -7909,7 +7937,15 @@
     },
     {
       "date": "2022-12-04",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-05",
       "unRespondedItems": [
+        {
+          "title": "Acer",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2346"
+        },
         {
           "title": "original",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2344"
@@ -7923,7 +7959,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
         }
       ],
-      "rate": "93.75"
+      "rate": "91.67"
     }
   ]
 }
