@@ -1110,6 +1110,10 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2242,6 +2246,10 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3357,13 +3365,12 @@
     },
     {
       "date": "2022-12-05",
-      "unRespondedItems": [
-        {
-          "title": "Ambiguous \"size\" for capturing screenshot",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/119"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-12-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4477,6 +4484,10 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5601,7 +5612,23 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "54.00"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [
+        {
+          "title": "Open link in default browser instead of webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3023"
+        },
+        {
+          "title": "ContextMenuRequested 0x80070718",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3022"
+        },
+        {
+          "title": "certain flavor of prototype.js can break web message functionality ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
+        },
         {
           "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
@@ -5621,10 +5648,6 @@
         {
           "title": "--force-color-profile=srgb don't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
-        },
-        {
-          "title": "UWP Webview2 Size shrinks - Extended displays",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
         },
         {
           "title": "How to make sure codes execute before NavigationCompleted",
@@ -5659,8 +5682,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
         },
         {
+          "title": "UWP Webview2 Size shrinks - Extended displays",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
+        },
+        {
           "title": "Check for available disk space and permission to install software. Unable to create temporary directory.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
+        },
+        {
+          "title": "x:Bind in WebView2 Source property does not work in UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
         },
         {
           "title": "H264 Video decoding - license required or not?",
@@ -5683,19 +5714,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
         },
         {
-          "title": "Webwiew2 ExecuteScripts on HostObject fails ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977"
-        },
-        {
           "title": "Cannot Use File Upload with Input ``type=\"file\"``",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
-        },
-        {
-          "title": "WebView2 not showing anything",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969"
         }
       ],
-      "rate": "54.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6809,25 +6832,21 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [
         {
-          "title": "deleted",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1278"
+          "title": "javascript debug fale",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1281"
         },
         {
-          "title": "Clipboard functionality does not work on OSX",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1277"
-        },
-        {
-          "title": "running executables path",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1276"
-        },
-        {
-          "title": "live server ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1275"
+          "title": "my go live didn't work , each time i press on it, it doesn't work, i don't know why",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1279"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7941,15 +7960,11 @@
     },
     {
       "date": "2022-12-05",
+      "rate": "91.67"
+    },
+    {
+      "date": "2022-12-06",
       "unRespondedItems": [
-        {
-          "title": "Acer",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2346"
-        },
-        {
-          "title": "original",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2344"
-        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
@@ -7959,7 +7974,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
         }
       ],
-      "rate": "91.67"
+      "rate": "95.83"
     }
   ]
 }

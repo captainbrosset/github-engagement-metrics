@@ -1,4 +1,4 @@
-Response rate: 89.10%
+Response rate: 89.98%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -6,18 +6,19 @@ Response rate: 89.10%
   * [[Feature] Allow HTML-only headers for SVG files](https://github.com/webhintio/hint/issues/5281)
   * [When Edge DevTools is installed and webhint enabled webhint ...](https://github.com/webhintio/hint/issues/5364)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Ambiguous "size" for capturing screenshot](https://github.com/MicrosoftEdge/DevTools/issues/119)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [Open link in default browser instead of webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3023)
+  * [ContextMenuRequested 0x80070718](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3022)
+  * [certain flavor of prototype.js can break web message functio...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021)
   * [WebResourceRequest Redirection to local file like as doing b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020)
   * [Removing menu items from a default context menu (further exa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019)
   * [How to disable elastic overscroll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016)
   * [Not passing touch messages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015)
   * [--force-color-profile=srgb don't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013)
-  * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
   * [How to make sure codes execute before NavigationCompleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001)
   * [LaunchApplication2 + scan code 0x21 key is handled by webvie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996)
   * [WebView2 will disappear when window touch input cover it.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995)
@@ -26,22 +27,18 @@ Response rate: 89.10%
   * [Input field lags behind](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010)
   * [Why are you keeping all my history](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009)
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
+  * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
   * [Check for available disk space and permission to install sof...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000)
+  * [x:Bind in WebView2 Source property does not work in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999)
   * [H264 Video decoding - license required or not?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997)
   * [Disable shortcut not working for the first loaded page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991)
   * [How to re open automatic password saving?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988)
   * [On all apps with WebView2 has screen flashing on Intel HUD g...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2986)
   * [WinUI3 WebView2 ContextMenuRequested event crash the app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985)
-  * [Webwiew2 ExecuteScripts on HostObject fails ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2977)
   * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
-  * [WebView2 not showing anything](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2969)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [deleted](https://github.com/microsoft/vscode-edge-devtools/issues/1278)
-  * [Clipboard functionality does not work on OSX](https://github.com/microsoft/vscode-edge-devtools/issues/1277)
-  * [running executables path](https://github.com/microsoft/vscode-edge-devtools/issues/1276)
-  * [live server ](https://github.com/microsoft/vscode-edge-devtools/issues/1275)
-* **MicrosoftDocs/edge-developer** - _91.67%_
-  * [Acer](https://github.com/MicrosoftDocs/edge-developer/issues/2346)
-  * [original](https://github.com/MicrosoftDocs/edge-developer/issues/2344)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [javascript debug fale](https://github.com/microsoft/vscode-edge-devtools/issues/1281)
+  * [my go live didn't work , each time i press on it, it doesn't...](https://github.com/microsoft/vscode-edge-devtools/issues/1279)
+* **MicrosoftDocs/edge-developer** - _95.83%_
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)
   * [Break up "Get started using DevTools for VS Code"](https://github.com/MicrosoftDocs/edge-developer/pull/2321)
