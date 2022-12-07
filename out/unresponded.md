@@ -1,4 +1,4 @@
-Response rate: 89.98%
+Response rate: 89.70%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -10,7 +10,10 @@ Response rate: 89.98%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [ICoreWebView2CreateCoreWebView2ControllerCompletedHandler ne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3026)
+  * [Gamepad API only works when developer tools is opened.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3025)
+  * [SetInterval (and setTimeout) sometimes slows down in Edge](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3024)
   * [Open link in default browser instead of webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3023)
   * [ContextMenuRequested 0x80070718](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3022)
   * [certain flavor of prototype.js can break web message functio...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021)
@@ -24,21 +27,19 @@ Response rate: 89.98%
   * [WebView2 will disappear when window touch input cover it.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995)
   * [WebView2 in unpackaged WinUI3 application not displaying aft...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018)
   * [Using C#/WinRT is not working with WinUI3](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017)
+  * [Left click spellcheck menu causes WebView to lost focus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012)
+  * [Hovering on toggles causes text duplication while using scre...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3011)
   * [Input field lags behind](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010)
   * [Why are you keeping all my history](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009)
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
   * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
   * [Check for available disk space and permission to install sof...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000)
-  * [x:Bind in WebView2 Source property does not work in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999)
   * [H264 Video decoding - license required or not?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997)
   * [Disable shortcut not working for the first loaded page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991)
   * [How to re open automatic password saving?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988)
   * [On all apps with WebView2 has screen flashing on Intel HUD g...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2986)
   * [WinUI3 WebView2 ContextMenuRequested event crash the app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985)
-  * [Cannot Use File Upload with Input ``type="file"``](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [javascript debug fale](https://github.com/microsoft/vscode-edge-devtools/issues/1281)
-  * [my go live didn't work , each time i press on it, it doesn't...](https://github.com/microsoft/vscode-edge-devtools/issues/1279)
-* **MicrosoftDocs/edge-developer** - _95.83%_
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.92%_
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)
   * [Break up "Get started using DevTools for VS Code"](https://github.com/MicrosoftDocs/edge-developer/pull/2321)

@@ -1114,6 +1114,10 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2250,6 +2254,10 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3369,6 +3377,10 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4488,6 +4500,10 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5616,7 +5632,23 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "50.00"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [
+        {
+          "title": "ICoreWebView2CreateCoreWebView2ControllerCompletedHandler never trigger when WebView2 is created from a service",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3026"
+        },
+        {
+          "title": "Gamepad API only works when developer tools is opened.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3025"
+        },
+        {
+          "title": "SetInterval (and setTimeout) sometimes slows down in Edge",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3024"
+        },
         {
           "title": "Open link in default browser instead of webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3023"
@@ -5670,6 +5702,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
         },
         {
+          "title": "Left click spellcheck menu causes WebView to lost focus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012"
+        },
+        {
+          "title": "Hovering on toggles causes text duplication while using screenreader",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3011"
+        },
+        {
           "title": "Input field lags behind",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010"
         },
@@ -5690,10 +5730,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
         },
         {
-          "title": "x:Bind in WebView2 Source property does not work in UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2999"
-        },
-        {
           "title": "H264 Video decoding - license required or not?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
         },
@@ -5712,13 +5748,9 @@
         {
           "title": "WinUI3 WebView2 ContextMenuRequested event crash the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
-        },
-        {
-          "title": "Cannot Use File Upload with Input ``type=\"file\"``",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2972"
         }
       ],
-      "rate": "50.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6836,17 +6868,12 @@
     },
     {
       "date": "2022-12-06",
-      "unRespondedItems": [
-        {
-          "title": "javascript debug fale",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1281"
-        },
-        {
-          "title": "my go live didn't work , each time i press on it, it doesn't work, i don't know why",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1279"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2022-12-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7964,6 +7991,10 @@
     },
     {
       "date": "2022-12-06",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-07",
       "unRespondedItems": [
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
@@ -7974,7 +8005,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
         }
       ],
-      "rate": "95.83"
+      "rate": "95.92"
     }
   ]
 }
