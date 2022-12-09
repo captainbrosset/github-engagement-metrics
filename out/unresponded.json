@@ -1118,7 +1118,15 @@
     },
     {
       "date": "2022-12-07",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-09",
       "unRespondedItems": [
+        {
+          "title": "Can webhint static code analysis be executed through a command?",
+          "url": "https://github.com/webhintio/hint/issues/5380"
+        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1136,7 +1144,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2258,6 +2266,10 @@
     },
     {
       "date": "2022-12-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3381,8 +3393,17 @@
     },
     {
       "date": "2022-12-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-09",
+      "unRespondedItems": [
+        {
+          "title": "Network Console: Unable to send a POST/PUT request with JSON content",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/120"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4504,7 +4525,19 @@
     },
     {
       "date": "2022-12-07",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-09",
       "unRespondedItems": [
+        {
+          "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/62"
+        },
+        {
+          "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
+        },
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60"
@@ -4514,7 +4547,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -5636,34 +5669,26 @@
     },
     {
       "date": "2022-12-07",
+      "rate": "44.00"
+    },
+    {
+      "date": "2022-12-09",
       "unRespondedItems": [
         {
-          "title": "ICoreWebView2CreateCoreWebView2ControllerCompletedHandler never trigger when WebView2 is created from a service",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3026"
+          "title": "Add a setting for maximum FPS limit",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3045"
         },
         {
-          "title": "Gamepad API only works when developer tools is opened.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3025"
+          "title": "WebView2 Print and save options are not working with WPF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3044"
         },
         {
-          "title": "SetInterval (and setTimeout) sometimes slows down in Edge",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3024"
+          "title": "Microsoft Edge Webview2 Runtime 108.0.1462.42 failing on install",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3043"
         },
         {
-          "title": "Open link in default browser instead of webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3023"
-        },
-        {
-          "title": "ContextMenuRequested 0x80070718",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3022"
-        },
-        {
-          "title": "certain flavor of prototype.js can break web message functionality ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
-        },
-        {
-          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
+          "title": "Export/Import saved passwords",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3042"
         },
         {
           "title": "Removing menu items from a default context menu (further examples requested)",
@@ -5692,6 +5717,14 @@
         {
           "title": "WebView2 will disappear when window touch input cover it.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995"
+        },
+        {
+          "title": "Blue Screen of Death on 4K",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
+        },
+        {
+          "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         },
         {
           "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
@@ -5726,31 +5759,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
         },
         {
-          "title": "Check for available disk space and permission to install software. Unable to create temporary directory.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3000"
-        },
-        {
           "title": "H264 Video decoding - license required or not?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
-        },
-        {
-          "title": "Disable shortcut not working for the first loaded page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2991"
-        },
-        {
-          "title": "How to re open automatic password saving?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2988"
-        },
-        {
-          "title": "On all apps with WebView2 has screen flashing on Intel HUD graphics ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2986"
-        },
-        {
-          "title": "WinUI3 WebView2 ContextMenuRequested event crash the app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2985"
         }
       ],
-      "rate": "44.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6872,8 +6885,25 @@
     },
     {
       "date": "2022-12-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-09",
+      "unRespondedItems": [
+        {
+          "title": "Issue using Dev Tool: BlobNotFoundThe specified blob does not exist. RequestId:51b37142-001e-0046-202a-0bc6a6000000 Time:2022-12-08T17:25:40.4338850Z",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1284"
+        },
+        {
+          "title": "Can not be opened",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1283"
+        },
+        {
+          "title": "car sale",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1282"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -7995,6 +8025,10 @@
     },
     {
       "date": "2022-12-07",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-12-09",
       "unRespondedItems": [
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
@@ -8003,9 +8037,13 @@
         {
           "title": "Break up \"Get started using DevTools for VS Code\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
+        },
+        {
+          "title": "Still can't find the debugger, can't find my code, none of this matches anything",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2350"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ]
 }
