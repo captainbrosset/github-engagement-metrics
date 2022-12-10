@@ -1122,6 +1122,10 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [
         {
           "title": "Can webhint static code analysis be executed through a command?",
@@ -2270,6 +2274,10 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3397,13 +3405,12 @@
     },
     {
       "date": "2022-12-09",
-      "unRespondedItems": [
-        {
-          "title": "Network Console: Unable to send a POST/PUT request with JSON content",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/120"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-12-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4529,6 +4536,10 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [
         {
           "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
@@ -5673,23 +5684,11 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "56.00"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [
-        {
-          "title": "Add a setting for maximum FPS limit",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3045"
-        },
-        {
-          "title": "WebView2 Print and save options are not working with WPF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3044"
-        },
-        {
-          "title": "Microsoft Edge Webview2 Runtime 108.0.1462.42 failing on install",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3043"
-        },
-        {
-          "title": "Export/Import saved passwords",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3042"
-        },
         {
           "title": "Removing menu items from a default context menu (further examples requested)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019"
@@ -5715,16 +5714,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996"
         },
         {
-          "title": "WebView2 will disappear when window touch input cover it.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2995"
-        },
-        {
-          "title": "Blue Screen of Death on 4K",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
-        },
-        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
+        },
+        {
+          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
         },
         {
           "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
@@ -5763,7 +5758,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
         }
       ],
-      "rate": "56.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6889,21 +6884,21 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "94.00"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [
         {
-          "title": "Issue using Dev Tool: BlobNotFoundThe specified blob does not exist. RequestId:51b37142-001e-0046-202a-0bc6a6000000 Time:2022-12-08T17:25:40.4338850Z",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1284"
+          "title": "I need help",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1286"
         },
         {
-          "title": "Can not be opened",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1283"
-        },
-        {
-          "title": "car sale",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1282"
+          "title": "excel",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1285"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8029,21 +8024,17 @@
     },
     {
       "date": "2022-12-09",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-12-10",
       "unRespondedItems": [
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
-        },
-        {
-          "title": "Break up \"Get started using DevTools for VS Code\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2321"
-        },
-        {
-          "title": "Still can't find the debugger, can't find my code, none of this matches anything",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2350"
         }
       ],
-      "rate": "93.88"
+      "rate": "97.96"
     }
   ]
 }
