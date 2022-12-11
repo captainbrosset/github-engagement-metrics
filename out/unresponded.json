@@ -1126,6 +1126,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [
         {
           "title": "Can webhint static code analysis be executed through a command?",
@@ -2278,6 +2282,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3409,6 +3417,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4540,6 +4552,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [
         {
           "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
@@ -5688,10 +5704,14 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [
         {
-          "title": "Removing menu items from a default context menu (further examples requested)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019"
+          "title": "WebView2 SDK 1.0.1462.37 release notes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3052"
         },
         {
           "title": "How to disable elastic overscroll?",
@@ -5710,16 +5730,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001"
         },
         {
-          "title": "LaunchApplication2 + scan code 0x21 key is handled by webview2 control when it got focus.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2996"
-        },
-        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         },
         {
           "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
+        },
+        {
+          "title": "Removing menu items from a default context menu (further examples requested)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019"
         },
         {
           "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
@@ -6888,6 +6908,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [
         {
           "title": "I need help",
@@ -8028,6 +8052,10 @@
     },
     {
       "date": "2022-12-10",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-12-11",
       "unRespondedItems": [
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
