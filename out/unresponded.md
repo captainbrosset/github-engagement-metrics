@@ -1,4 +1,4 @@
-Response rate: 91.71%
+Response rate: 90.85%
 
 * **webhintio/hint** - _90.00%_
   * [Can webhint static code analysis be executed through a comma...](https://github.com/webhintio/hint/issues/5380)
@@ -14,6 +14,7 @@ Response rate: 91.71%
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Customize context menus + Past Data](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053)
   * [WebView2 SDK 1.0.1462.37 release notes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3052)
   * [How to disable elastic overscroll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016)
   * [Not passing touch messages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015)
@@ -30,9 +31,11 @@ Response rate: 91.71%
   * [Why are you keeping all my history](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009)
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
   * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
-  * [H264 Video decoding - license required or not?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [my mircosoft  edge not working](https://github.com/microsoft/vscode-edge-devtools/issues/1288)
+  * [my mircosoft is not working](https://github.com/microsoft/vscode-edge-devtools/issues/1287)
   * [I need help](https://github.com/microsoft/vscode-edge-devtools/issues/1286)
   * [excel](https://github.com/microsoft/vscode-edge-devtools/issues/1285)
-* **MicrosoftDocs/edge-developer** - _97.96%_
+* **MicrosoftDocs/edge-developer** - _95.92%_
+  * [Use Anchor, don't resize manually](https://github.com/MicrosoftDocs/edge-developer/issues/2357)
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)

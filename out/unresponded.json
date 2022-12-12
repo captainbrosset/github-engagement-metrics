@@ -1130,6 +1130,10 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [
         {
           "title": "Can webhint static code analysis be executed through a command?",
@@ -2286,6 +2290,10 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3421,6 +3429,10 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4556,6 +4568,10 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [
         {
           "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
@@ -5708,7 +5724,15 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [
+        {
+          "title": "Customize context menus + Past Data",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053"
+        },
         {
           "title": "WebView2 SDK 1.0.1462.37 release notes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3052"
@@ -5772,10 +5796,6 @@
         {
           "title": "UWP Webview2 Size shrinks - Extended displays",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
-        },
-        {
-          "title": "H264 Video decoding - license required or not?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/2997"
         }
       ],
       "rate": "66.00"
@@ -6912,7 +6932,19 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [
+        {
+          "title": "my mircosoft  edge not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1288"
+        },
+        {
+          "title": "my mircosoft is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1287"
+        },
         {
           "title": "I need help",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1286"
@@ -6922,7 +6954,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1285"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8056,13 +8088,21 @@
     },
     {
       "date": "2022-12-11",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-12-12",
       "unRespondedItems": [
+        {
+          "title": "Use Anchor, don't resize manually",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2357"
+        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ]
 }
