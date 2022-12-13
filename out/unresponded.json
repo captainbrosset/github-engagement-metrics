@@ -1134,6 +1134,10 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [
         {
           "title": "Can webhint static code analysis be executed through a command?",
@@ -2294,6 +2298,10 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3433,6 +3441,10 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4572,7 +4584,15 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [
+        {
+          "title": "Edge IE mode inprivate browsing",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/63"
+        },
         {
           "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/62"
@@ -4590,7 +4610,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -5728,14 +5748,30 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [
+        {
+          "title": "Save entire page with resource directory from code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3058"
+        },
+        {
+          "title": "WPF: webview.CoreWebView2.CookieManager.GetCookiesAsync(url) crashes without exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3057"
+        },
+        {
+          "title": "Outlook 365 keeps crashing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3056"
+        },
+        {
+          "title": "Narrator can not complete the speech on changing text",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
+        },
         {
           "title": "Customize context menus + Past Data",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053"
-        },
-        {
-          "title": "WebView2 SDK 1.0.1462.37 release notes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3052"
         },
         {
           "title": "How to disable elastic overscroll?",
@@ -5750,12 +5786,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
         },
         {
-          "title": "How to make sure codes execute before NavigationCompleted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001"
-        },
-        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
+        },
+        {
+          "title": "certain flavor of prototype.js can break web message functionality ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
         },
         {
           "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
@@ -5792,13 +5828,9 @@
         {
           "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
-        },
-        {
-          "title": "UWP Webview2 Size shrinks - Extended displays",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6936,25 +6968,12 @@
     },
     {
       "date": "2022-12-12",
-      "unRespondedItems": [
-        {
-          "title": "my mircosoft  edge not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1288"
-        },
-        {
-          "title": "my mircosoft is not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1287"
-        },
-        {
-          "title": "I need help",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1286"
-        },
-        {
-          "title": "excel",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1285"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2022-12-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8092,17 +8111,17 @@
     },
     {
       "date": "2022-12-12",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-12-13",
       "unRespondedItems": [
-        {
-          "title": "Use Anchor, don't resize manually",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2357"
-        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.92"
     }
   ]
 }

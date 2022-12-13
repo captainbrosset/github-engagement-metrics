@@ -1,4 +1,4 @@
-Response rate: 90.85%
+Response rate: 91.42%
 
 * **webhintio/hint** - _90.00%_
   * [Can webhint static code analysis be executed through a comma...](https://github.com/webhintio/hint/issues/5380)
@@ -8,19 +8,23 @@ Response rate: 90.85%
   * [When Edge DevTools is installed and webhint enabled webhint ...](https://github.com/webhintio/hint/issues/5364)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+  * [Edge IE mode inprivate browsing](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/63)
   * [EdgeWebDriver crashes when input text to element which is no...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/62)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Save entire page with resource directory from code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3058)
+  * [WPF: webview.CoreWebView2.CookieManager.GetCookiesAsync(url)...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3057)
+  * [Outlook 365 keeps crashing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3056)
+  * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)
   * [Customize context menus + Past Data](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053)
-  * [WebView2 SDK 1.0.1462.37 release notes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3052)
   * [How to disable elastic overscroll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016)
   * [Not passing touch messages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015)
   * [--force-color-profile=srgb don't work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013)
-  * [How to make sure codes execute before NavigationCompleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3001)
   * [where is the root path of SetVirtualHostNameToFolderMapping ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033)
+  * [certain flavor of prototype.js can break web message functio...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021)
   * [WebResourceRequest Redirection to local file like as doing b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020)
   * [Removing menu items from a default context menu (further exa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019)
   * [WebView2 in unpackaged WinUI3 application not displaying aft...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018)
@@ -30,12 +34,6 @@ Response rate: 90.85%
   * [Input field lags behind](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010)
   * [Why are you keeping all my history](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009)
   * [WinUI3 WebView2 mouse stop working while keyboard is still w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003)
-  * [UWP Webview2 Size shrinks - Extended displays](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3002)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [my mircosoft  edge not working](https://github.com/microsoft/vscode-edge-devtools/issues/1288)
-  * [my mircosoft is not working](https://github.com/microsoft/vscode-edge-devtools/issues/1287)
-  * [I need help](https://github.com/microsoft/vscode-edge-devtools/issues/1286)
-  * [excel](https://github.com/microsoft/vscode-edge-devtools/issues/1285)
-* **MicrosoftDocs/edge-developer** - _95.92%_
-  * [Use Anchor, don't resize manually](https://github.com/MicrosoftDocs/edge-developer/issues/2357)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)
