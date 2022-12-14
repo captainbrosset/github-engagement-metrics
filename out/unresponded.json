@@ -1138,7 +1138,15 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [
+        {
+          "title": "Please appoint a committer for webhintio/markdown-link-validator",
+          "url": "https://github.com/webhintio/hint/issues/5382"
+        },
         {
           "title": "Can webhint static code analysis be executed through a command?",
           "url": "https://github.com/webhintio/hint/issues/5380"
@@ -1160,7 +1168,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2302,6 +2310,10 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3445,6 +3457,10 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4588,6 +4604,10 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [
         {
           "title": "Edge IE mode inprivate browsing",
@@ -5752,18 +5772,14 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "62.00"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [
         {
-          "title": "Save entire page with resource directory from code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3058"
-        },
-        {
-          "title": "WPF: webview.CoreWebView2.CookieManager.GetCookiesAsync(url) crashes without exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3057"
-        },
-        {
-          "title": "Outlook 365 keeps crashing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3056"
+          "title": "put_RasterizationScale(), scaled rendering is very blurry",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060"
         },
         {
           "title": "Narrator can not complete the speech on changing text",
@@ -5786,16 +5802,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
         },
         {
+          "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061"
+        },
+        {
+          "title": "Blue Screen of Death on 4K",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
+        },
+        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         },
         {
           "title": "certain flavor of prototype.js can break web message functionality ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
-        },
-        {
-          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
         },
         {
           "title": "Removing menu items from a default context menu (further examples requested)",
@@ -5824,13 +5844,9 @@
         {
           "title": "Why are you keeping all my history",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009"
-        },
-        {
-          "title": "WinUI3 WebView2 mouse stop working while keyboard is still working.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3003"
         }
       ],
-      "rate": "62.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6972,8 +6988,17 @@
     },
     {
       "date": "2022-12-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-14",
+      "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1289"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8115,13 +8140,21 @@
     },
     {
       "date": "2022-12-13",
+      "rate": "97.92"
+    },
+    {
+      "date": "2022-12-14",
       "unRespondedItems": [
+        {
+          "title": "nit: lowercase capital letter at end of word",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2360"
+        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
