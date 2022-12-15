@@ -1142,15 +1142,11 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [
-        {
-          "title": "Please appoint a committer for webhintio/markdown-link-validator",
-          "url": "https://github.com/webhintio/hint/issues/5382"
-        },
-        {
-          "title": "Can webhint static code analysis be executed through a command?",
-          "url": "https://github.com/webhintio/hint/issues/5380"
-        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1168,7 +1164,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "88.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2314,6 +2310,10 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3461,6 +3461,10 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4608,19 +4612,11 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [
-        {
-          "title": "Edge IE mode inprivate browsing",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/63"
-        },
-        {
-          "title": "EdgeWebDriver crashes when input text to element which is not text boxes or text areas from EdgeWebDriver107.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/62"
-        },
-        {
-          "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
-        },
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60"
@@ -4630,7 +4626,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "90.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -5776,7 +5772,23 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "66.00"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [
+        {
+          "title": "error 0x8007139F WebView 108.0.1462.46 on windows 7",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3068"
+        },
+        {
+          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
+        },
+        {
+          "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
+        },
         {
           "title": "put_RasterizationScale(), scaled rendering is very blurry",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060"
@@ -5806,6 +5818,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061"
         },
         {
+          "title": "Value does not fall within the expected range",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
+        },
+        {
+          "title": "Outlook 365 keeps crashing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3056"
+        },
+        {
           "title": "Blue Screen of Death on 4K",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
         },
@@ -5816,6 +5836,10 @@
         {
           "title": "certain flavor of prototype.js can break web message functionality ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
+        },
+        {
+          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
         },
         {
           "title": "Removing menu items from a default context menu (further examples requested)",
@@ -5832,21 +5856,9 @@
         {
           "title": "Left click spellcheck menu causes WebView to lost focus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012"
-        },
-        {
-          "title": "Hovering on toggles causes text duplication while using screenreader",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3011"
-        },
-        {
-          "title": "Input field lags behind",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3010"
-        },
-        {
-          "title": "Why are you keeping all my history",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3009"
         }
       ],
-      "rate": "66.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -6992,13 +7004,12 @@
     },
     {
       "date": "2022-12-14",
-      "unRespondedItems": [
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1289"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2022-12-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8144,17 +8155,25 @@
     },
     {
       "date": "2022-12-14",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-15",
       "unRespondedItems": [
         {
-          "title": "nit: lowercase capital letter at end of word",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2360"
+          "title": "New subheading \"About WinUI and WebView2\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2364"
+        },
+        {
+          "title": "f",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2363"
         },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "95.83"
+      "rate": "93.75"
     }
   ]
 }
