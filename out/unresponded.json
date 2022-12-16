@@ -1146,7 +1146,15 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "92.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [
+        {
+          "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
+          "url": "https://github.com/webhintio/hint/issues/5383"
+        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1164,7 +1172,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2314,6 +2322,10 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3465,6 +3477,10 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4616,6 +4632,10 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5776,14 +5796,22 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [
         {
-          "title": "error 0x8007139F WebView 108.0.1462.46 on windows 7",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3068"
+          "title": "can't use SendPointerInput with mouse",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
         },
         {
-          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
+          "title": "Support opaque webview",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3071"
+        },
+        {
+          "title": "Webview2 throttles down when Visibility.Collapsed is set.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3070"
         },
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
@@ -5810,8 +5838,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015"
         },
         {
-          "title": "--force-color-profile=srgb don't work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3013"
+          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
         },
         {
           "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
@@ -5852,10 +5880,6 @@
         {
           "title": "Using C#/WinRT is not working with WinUI3",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
-        },
-        {
-          "title": "Left click spellcheck menu causes WebView to lost focus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3012"
         }
       ],
       "rate": "60.00"
@@ -7008,6 +7032,10 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8159,10 +8187,14 @@
     },
     {
       "date": "2022-12-15",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-16",
       "unRespondedItems": [
         {
-          "title": "New subheading \"About WinUI and WebView2\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2364"
+          "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2365"
         },
         {
           "title": "f",
