@@ -1150,6 +1150,10 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2326,6 +2330,10 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3481,6 +3489,10 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4636,6 +4648,10 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5800,22 +5816,18 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "60.00"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [
+        {
+          "title": "WebView Content Loader",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074"
+        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
-        },
-        {
-          "title": "Support opaque webview",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3071"
-        },
-        {
-          "title": "Webview2 throttles down when Visibility.Collapsed is set.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3070"
-        },
-        {
-          "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
         },
         {
           "title": "put_RasterizationScale(), scaled rendering is very blurry",
@@ -5826,22 +5838,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
-          "title": "Customize context menus + Past Data",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053"
-        },
-        {
-          "title": "How to disable elastic overscroll?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3016"
-        },
-        {
-          "title": "Not passing touch messages",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3015"
-        },
-        {
-          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
-        },
-        {
           "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061"
         },
@@ -5850,8 +5846,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         },
         {
-          "title": "Outlook 365 keeps crashing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3056"
+          "title": "Customize context menus + Past Data",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053"
         },
         {
           "title": "Blue Screen of Death on 4K",
@@ -5882,7 +5878,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
         }
       ],
-      "rate": "60.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7036,8 +7032,21 @@
     },
     {
       "date": "2022-12-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-17",
+      "unRespondedItems": [
+        {
+          "title": "م",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1297"
+        },
+        {
+          "title": "中文",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1296"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8191,21 +8200,21 @@
     },
     {
       "date": "2022-12-16",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-17",
       "unRespondedItems": [
         {
           "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2365"
         },
         {
-          "title": "f",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2363"
-        },
-        {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "93.75"
+      "rate": "95.83"
     }
   ]
 }
