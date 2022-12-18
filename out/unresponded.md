@@ -12,10 +12,10 @@ Response rate: 92.82%
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [WebView Content Loader](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
   * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)
+  * [WebView Content Loader](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074)
   * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
   * [Customize context menus + Past Data](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053)

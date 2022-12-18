@@ -1154,6 +1154,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2334,6 +2338,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3493,6 +3501,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4652,6 +4664,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5820,11 +5836,11 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [
-        {
-          "title": "WebView Content Loader",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074"
-        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -5836,6 +5852,10 @@
         {
           "title": "Narrator can not complete the speech on changing text",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
+        },
+        {
+          "title": "WebView Content Loader",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074"
         },
         {
           "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
@@ -7036,6 +7056,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [
         {
           "title": "م",
@@ -8204,6 +8228,10 @@
     },
     {
       "date": "2022-12-17",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-18",
       "unRespondedItems": [
         {
           "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
