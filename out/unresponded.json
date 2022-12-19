@@ -1158,6 +1158,10 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2342,6 +2346,10 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3505,6 +3513,10 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4668,6 +4680,10 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5840,7 +5856,15 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [
+        {
+          "title": "The open file dialog box no longer opens.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075"
+        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -5892,10 +5916,6 @@
         {
           "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018"
-        },
-        {
-          "title": "Using C#/WinRT is not working with WinUI3",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3017"
         }
       ],
       "rate": "72.00"
@@ -7060,7 +7080,23 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "95.92"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [
+        {
+          "title": "language c compiler",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1301"
+        },
+        {
+          "title": "error",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1299"
+        },
+        {
+          "title": " VSCODE-edge-devtools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1298"
+        },
         {
           "title": "م",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1297"
@@ -7068,9 +7104,13 @@
         {
           "title": "中文",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1296"
+        },
+        {
+          "title": "Do not press the subordinate key on the following place of that it connect that it being all the natural relational function it contain the following places for to move on in the following that it believe that it contain the place it connect the following place it connect it being to spell spell entire spell spell in the row Do Not Delete This! These are comments and will not show yp in Preview Please",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1300"
         }
       ],
-      "rate": "95.92"
+      "rate": "87.76"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8232,6 +8272,10 @@
     },
     {
       "date": "2022-12-18",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-19",
       "unRespondedItems": [
         {
           "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
