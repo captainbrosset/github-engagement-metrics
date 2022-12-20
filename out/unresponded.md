@@ -1,4 +1,4 @@
-Response rate: 91.66%
+Response rate: 93.69%
 
 * **webhintio/hint** - _90.00%_
   * [Documentation for Static Code Analysis through a command lin...](https://github.com/webhintio/hint/issues/5383)
@@ -11,11 +11,12 @@ Response rate: 91.66%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [The open file dialog box no longer opens.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
   * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)
+  * [Latest dev channel version (110.0.1556.0) huge performance h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3077)
   * [WebView Content Loader](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074)
   * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
@@ -24,15 +25,7 @@ Response rate: 91.66%
   * [where is the root path of SetVirtualHostNameToFolderMapping ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033)
   * [certain flavor of prototype.js can break web message functio...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021)
   * [WebResourceRequest Redirection to local file like as doing b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020)
-  * [Removing menu items from a default context menu (further exa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019)
-  * [WebView2 in unpackaged WinUI3 application not displaying aft...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018)
-* **microsoft/vscode-edge-devtools** - _87.76%_
-  * [language c compiler](https://github.com/microsoft/vscode-edge-devtools/issues/1301)
-  * [error](https://github.com/microsoft/vscode-edge-devtools/issues/1299)
-  * [ VSCODE-edge-devtools](https://github.com/microsoft/vscode-edge-devtools/issues/1298)
-  * [م](https://github.com/microsoft/vscode-edge-devtools/issues/1297)
-  * [中文](https://github.com/microsoft/vscode-edge-devtools/issues/1296)
-  * [Do not press the subordinate key on the following place of t...](https://github.com/microsoft/vscode-edge-devtools/issues/1300)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _95.83%_
   * [Setting DefaultBackgroundColor & Transparency on WinUI](https://github.com/MicrosoftDocs/edge-developer/pull/2365)
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)

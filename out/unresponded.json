@@ -1162,6 +1162,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2350,6 +2354,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3517,6 +3525,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4684,6 +4696,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5860,6 +5876,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [
         {
           "title": "The open file dialog box no longer opens.",
@@ -5876,6 +5896,10 @@
         {
           "title": "Narrator can not complete the speech on changing text",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
+        },
+        {
+          "title": "Latest dev channel version (110.0.1556.0) huge performance hit",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3077"
         },
         {
           "title": "WebView Content Loader",
@@ -5908,17 +5932,9 @@
         {
           "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
-        },
-        {
-          "title": "Removing menu items from a default context menu (further examples requested)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3019"
-        },
-        {
-          "title": "WebView2 in unpackaged WinUI3 application not displaying after upgrading Microsoft.Windows.SDK.BuildTools.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3018"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7084,33 +7100,12 @@
     },
     {
       "date": "2022-12-19",
-      "unRespondedItems": [
-        {
-          "title": "language c compiler",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1301"
-        },
-        {
-          "title": "error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1299"
-        },
-        {
-          "title": " VSCODE-edge-devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1298"
-        },
-        {
-          "title": "م",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1297"
-        },
-        {
-          "title": "中文",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1296"
-        },
-        {
-          "title": "Do not press the subordinate key on the following place of that it connect that it being all the natural relational function it contain the following places for to move on in the following that it believe that it contain the place it connect the following place it connect it being to spell spell entire spell spell in the row Do Not Delete This! These are comments and will not show yp in Preview Please",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1300"
-        }
-      ],
       "rate": "87.76"
+    },
+    {
+      "date": "2022-12-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8276,6 +8271,10 @@
     },
     {
       "date": "2022-12-19",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-20",
       "unRespondedItems": [
         {
           "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
