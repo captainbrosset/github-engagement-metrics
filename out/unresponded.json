@@ -1166,6 +1166,10 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2358,6 +2362,10 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3529,6 +3537,10 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4700,6 +4712,10 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5880,7 +5896,15 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [
+        {
+          "title": "Application with fixed WebView2 deployed with MSIX cannot be started as admin user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082"
+        },
         {
           "title": "The open file dialog box no longer opens.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075"
@@ -5898,12 +5922,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
+          "title": "win7 error:STATUS_BREAKPOINT",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081"
+        },
+        {
           "title": "Latest dev channel version (110.0.1556.0) huge performance hit",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3077"
         },
         {
           "title": "WebView Content Loader",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074"
+        },
+        {
+          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
         },
         {
           "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
@@ -5914,27 +5946,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         },
         {
-          "title": "Customize context menus + Past Data",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3053"
-        },
-        {
-          "title": "Blue Screen of Death on 4K",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
-        },
-        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
-        },
-        {
-          "title": "certain flavor of prototype.js can break web message functionality ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3021"
-        },
-        {
-          "title": "WebResourceRequest Redirection to local file like as doing browser extensions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3020"
         }
       ],
-      "rate": "74.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7104,8 +7120,17 @@
     },
     {
       "date": "2022-12-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-21",
+      "unRespondedItems": [
+        {
+          "title": ".main{     width: 100%;     background: linear-gradient(to top, rgba (0,0,0,0.5) 50% ,rgba (0,0,0,0.5)50%), url(1.jpg)     background-position: center;     background-size: cover;     height::after 109vh;",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1304"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8275,10 +8300,14 @@
     },
     {
       "date": "2022-12-20",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-21",
       "unRespondedItems": [
         {
-          "title": "Setting DefaultBackgroundColor & Transparency on WinUI",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2365"
+          "title": "3.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2367"
         },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
