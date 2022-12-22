@@ -1170,6 +1170,10 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2366,6 +2370,10 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3541,6 +3549,10 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4716,6 +4728,10 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5900,10 +5916,14 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [
         {
-          "title": "Application with fixed WebView2 deployed with MSIX cannot be started as admin user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082"
+          "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
         },
         {
           "title": "The open file dialog box no longer opens.",
@@ -7124,13 +7144,25 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "97.96"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [
+        {
+          "title": "my live servers arn't displaying live or showing any changes. ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1305"
+        },
         {
           "title": ".main{     width: 100%;     background: linear-gradient(to top, rgba (0,0,0,0.5) 50% ,rgba (0,0,0,0.5)50%), url(1.jpg)     background-position: center;     background-size: cover;     height::after 109vh;",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1304"
+        },
+        {
+          "title": "PHP",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1306"
         }
       ],
-      "rate": "97.96"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8304,7 +8336,15 @@
     },
     {
       "date": "2022-12-21",
+      "rate": "95.83"
+    },
+    {
+      "date": "2022-12-22",
       "unRespondedItems": [
+        {
+          "title": "Unclear how to handle step 3 of Fixed Version Install",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2368"
+        },
         {
           "title": "3.",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2367"
@@ -8314,7 +8354,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "95.83"
+      "rate": "93.75"
     }
   ]
 }

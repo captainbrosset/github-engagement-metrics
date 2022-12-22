@@ -1,4 +1,4 @@
-Response rate: 93.68%
+Response rate: 92.80%
 
 * **webhintio/hint** - _90.00%_
   * [Documentation for Static Code Analysis through a command lin...](https://github.com/webhintio/hint/issues/5383)
@@ -12,7 +12,7 @@ Response rate: 93.68%
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _76.00%_
-  * [Application with fixed WebView2 deployed with MSIX cannot be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082)
+  * [CoreWebView2WebResourceResponseReceivedEventArgs and CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083)
   * [The open file dialog box no longer opens.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
@@ -24,8 +24,11 @@ Response rate: 93.68%
   * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
   * [where is the root path of SetVirtualHostNameToFolderMapping ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+* **microsoft/vscode-edge-devtools** - _93.88%_
+  * [my live servers arn't displaying live or showing any changes...](https://github.com/microsoft/vscode-edge-devtools/issues/1305)
   * [.main{     width: 100%;     background: linear-gradient(to t...](https://github.com/microsoft/vscode-edge-devtools/issues/1304)
-* **MicrosoftDocs/edge-developer** - _95.83%_
+  * [PHP](https://github.com/microsoft/vscode-edge-devtools/issues/1306)
+* **MicrosoftDocs/edge-developer** - _93.75%_
+  * [Unclear how to handle step 3 of Fixed Version Install](https://github.com/MicrosoftDocs/edge-developer/issues/2368)
   * [3.](https://github.com/MicrosoftDocs/edge-developer/issues/2367)
   * [New: "How WinRT types and members are represented in JavaScr...](https://github.com/MicrosoftDocs/edge-developer/pull/2343)
