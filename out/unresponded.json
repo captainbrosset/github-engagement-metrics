@@ -1174,6 +1174,10 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2374,6 +2378,10 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3553,8 +3561,17 @@
     },
     {
       "date": "2022-12-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2022-12-23",
+      "unRespondedItems": [
+        {
+          "title": "Issue opening DevTools when using allow and block list in Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/118"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4732,6 +4749,10 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5920,7 +5941,15 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "76.00"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [
+        {
+          "title": "108.0.1462.54 doesn't work on SERVER 2012 R2 RDS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3084"
+        },
         {
           "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
@@ -5966,11 +5995,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         },
         {
+          "title": "Blue Screen of Death on 4K",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046"
+        },
+        {
           "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         }
       ],
-      "rate": "76.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7148,7 +7181,15 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "93.88"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [
+        {
+          "title": "rei",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1307"
+        },
         {
           "title": "my live servers arn't displaying live or showing any changes. ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1305"
@@ -7162,7 +7203,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1306"
         }
       ],
-      "rate": "93.88"
+      "rate": "91.84"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8340,6 +8381,10 @@
     },
     {
       "date": "2022-12-22",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-23",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",
