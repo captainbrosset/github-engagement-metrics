@@ -1,4 +1,4 @@
-Response rate: 91.66%
+Response rate: 91.94%
 
 * **webhintio/hint** - _90.00%_
   * [Documentation for Static Code Analysis through a command lin...](https://github.com/webhintio/hint/issues/5383)
@@ -12,8 +12,8 @@ Response rate: 91.66%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [108.0.1462.54 doesn't work on SERVER 2012 R2 RDS](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3084)
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [render webview2 on top of webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3085)
   * [CoreWebView2WebResourceResponseReceivedEventArgs and CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083)
   * [The open file dialog box no longer opens.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
@@ -25,7 +25,6 @@ Response rate: 91.66%
   * [CreateCoreWebView2Controller fails with 0x8007139F ERROR_INV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067)
   * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
-  * [Blue Screen of Death on 4K](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3046)
   * [where is the root path of SetVirtualHostNameToFolderMapping ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033)
 * **microsoft/vscode-edge-devtools** - _91.84%_
   * [rei](https://github.com/microsoft/vscode-edge-devtools/issues/1307)
