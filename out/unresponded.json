@@ -1182,6 +1182,10 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
@@ -2390,6 +2394,10 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3577,6 +3585,10 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
         {
           "title": "Issue opening DevTools when using allow and block list in Edge",
@@ -4769,6 +4781,10 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5965,7 +5981,15 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "74.00"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
+        {
+          "title": "SplitContainer splitter movement is not visible on WebView control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
+        },
         {
           "title": "render webview2 on top of webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3085"
@@ -6019,7 +6043,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7205,7 +7229,15 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "91.84"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
+        {
+          "title": "Higher resolution is needed for the page in Edge DevTools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1308"
+        },
         {
           "title": "rei",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1307"
@@ -7223,7 +7255,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1306"
         }
       ],
-      "rate": "91.84"
+      "rate": "89.80"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8409,6 +8441,10 @@
     },
     {
       "date": "2022-12-26",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-27",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",
