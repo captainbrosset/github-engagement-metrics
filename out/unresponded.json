@@ -1186,7 +1186,15 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5392"
+        },
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
           "url": "https://github.com/webhintio/hint/issues/5383"
@@ -1208,7 +1216,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2398,6 +2406,10 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3589,6 +3601,10 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
         {
           "title": "Issue opening DevTools when using allow and block list in Edge",
@@ -4785,6 +4801,10 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -5985,22 +6005,14 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "72.00"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
         {
-          "title": "SplitContainer splitter movement is not visible on WebView control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
-        },
-        {
-          "title": "render webview2 on top of webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3085"
-        },
-        {
-          "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
-        },
-        {
-          "title": "The open file dialog box no longer opens.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075"
+          "title": "Does WV2 have parameters for opening pdf files?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3088"
         },
         {
           "title": "can't use SendPointerInput with mouse",
@@ -6015,16 +6027,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
-          "title": "win7 error:STATUS_BREAKPOINT",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081"
+          "title": "我觉得我在使用webview2的过程中遇到了一个bug，关于在C盘中运行 代码或者执行编译好的应用程序",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3087"
         },
         {
-          "title": "Latest dev channel version (110.0.1556.0) huge performance hit",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3077"
+          "title": "SplitContainer splitter movement is not visible on WebView control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         },
         {
-          "title": "WebView Content Loader",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074"
+          "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
         },
         {
           "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
@@ -6043,7 +6055,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         }
       ],
-      "rate": "72.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7233,6 +7245,10 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "89.80"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
         {
           "title": "Higher resolution is needed for the page in Edge DevTools",
@@ -8445,6 +8461,10 @@
     },
     {
       "date": "2022-12-27",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-28",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",

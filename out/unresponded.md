@@ -1,6 +1,7 @@
-Response rate: 91.36%
+Response rate: 91.94%
 
-* **webhintio/hint** - _90.00%_
+* **webhintio/hint** - _88.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5392)
   * [Documentation for Static Code Analysis through a command lin...](https://github.com/webhintio/hint/issues/5383)
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Bug] verbose stack Error: could not determine executable to...](https://github.com/webhintio/hint/issues/5349)
@@ -12,17 +13,14 @@ Response rate: 91.36%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [SplitContainer splitter movement is not visible on WebView c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086)
-  * [render webview2 on top of webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3085)
-  * [CoreWebView2WebResourceResponseReceivedEventArgs and CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083)
-  * [The open file dialog box no longer opens.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3075)
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+  * [Does WV2 have parameters for opening pdf files?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3088)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
   * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)
-  * [win7 error:STATUS_BREAKPOINT](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081)
-  * [Latest dev channel version (110.0.1556.0) huge performance h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3077)
-  * [WebView Content Loader](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3074)
+  * [我觉得我在使用webview2的过程中遇到了一个bug，关于在C盘中运行 代码或者执行编译好的应用程序](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3087)
+  * [SplitContainer splitter movement is not visible on WebView c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086)
+  * [CoreWebView2WebResourceResponseReceivedEventArgs and CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083)
   * [CreateCoreWebView2Controller fails with 0x8007139F ERROR_INV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067)
   * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
