@@ -1190,6 +1190,10 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2410,6 +2414,10 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3605,6 +3613,10 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
         {
           "title": "Issue opening DevTools when using allow and block list in Edge",
@@ -4805,6 +4817,10 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6009,11 +6025,11 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "78.00"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
-        {
-          "title": "Does WV2 have parameters for opening pdf files?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3088"
-        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -6025,10 +6041,6 @@
         {
           "title": "Narrator can not complete the speech on changing text",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
-        },
-        {
-          "title": "我觉得我在使用webview2的过程中遇到了一个bug，关于在C盘中运行 代码或者执行编译好的应用程序",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3087"
         },
         {
           "title": "SplitContainer splitter movement is not visible on WebView control",
@@ -6055,7 +6067,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         }
       ],
-      "rate": "78.00"
+      "rate": "82.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7249,7 +7261,19 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "89.80"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
+        {
+          "title": "curso de programacion",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1311"
+        },
+        {
+          "title": "First",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1309"
+        },
         {
           "title": "Higher resolution is needed for the page in Edge DevTools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1308"
@@ -7267,11 +7291,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1304"
         },
         {
+          "title": "OUTPUT",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1310"
+        },
+        {
           "title": "PHP",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1306"
         }
       ],
-      "rate": "89.80"
+      "rate": "83.67"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8465,6 +8493,10 @@
     },
     {
       "date": "2022-12-28",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-29",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",
