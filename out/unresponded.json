@@ -1194,6 +1194,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2418,6 +2422,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3617,6 +3625,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
         {
           "title": "Issue opening DevTools when using allow and block list in Edge",
@@ -4821,6 +4833,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6029,7 +6045,15 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "82.00"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
+        {
+          "title": "ClearBrowsingDataAsync doesn't seem to fully clean indexedDB folder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3089"
+        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -6051,12 +6075,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
         },
         {
-          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
+          "title": "win7 error:STATUS_BREAKPOINT",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081"
         },
         {
-          "title": "How to disable DevTools in a WebView2 control? (WinForms .NET Framework)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061"
+          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
         },
         {
           "title": "Value does not fall within the expected range",
@@ -6067,7 +6091,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7265,6 +7289,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "83.67"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
         {
           "title": "curso de programacion",
@@ -8497,6 +8525,10 @@
     },
     {
       "date": "2022-12-29",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-30",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",

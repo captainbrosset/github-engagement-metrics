@@ -1,4 +1,4 @@
-Response rate: 91.63%
+Response rate: 91.35%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5392)
@@ -13,14 +13,15 @@ Response rate: 91.63%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _82.00%_
+* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+  * [ClearBrowsingDataAsync doesn't seem to fully clean indexedDB...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3089)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
   * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)
   * [SplitContainer splitter movement is not visible on WebView c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086)
   * [CoreWebView2WebResourceResponseReceivedEventArgs and CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083)
+  * [win7 error:STATUS_BREAKPOINT](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081)
   * [CreateCoreWebView2Controller fails with 0x8007139F ERROR_INV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067)
-  * [How to disable DevTools in a WebView2 control? (WinForms .NE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3061)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
   * [where is the root path of SetVirtualHostNameToFolderMapping ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033)
 * **microsoft/vscode-edge-devtools** - _83.67%_
