@@ -14,7 +14,7 @@ Response rate: 91.35%
   * [Can't run Selenium side runner for Edge with a current profi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _80.00%_
-  * [ClearBrowsingDataAsync doesn't seem to fully clean indexedDB...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3089)
+  * [Microsoft Bassel Online (Natural) - Arabic (Iraq)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3091)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
   * [put_RasterizationScale(), scaled rendering is very blurry](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060)
   * [Narrator can not complete the speech on changing text](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055)

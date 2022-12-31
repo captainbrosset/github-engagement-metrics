@@ -1198,6 +1198,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "88.00"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2426,6 +2430,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3629,6 +3637,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "98.00"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
           "title": "Issue opening DevTools when using allow and block list in Edge",
@@ -4837,6 +4849,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6049,10 +6065,14 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "80.00"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
-          "title": "ClearBrowsingDataAsync doesn't seem to fully clean indexedDB folder",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3089"
+          "title": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3091"
         },
         {
           "title": "can't use SendPointerInput with mouse",
@@ -7293,6 +7313,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "83.67"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
           "title": "curso de programacion",
@@ -8529,6 +8553,10 @@
     },
     {
       "date": "2022-12-30",
+      "rate": "93.75"
+    },
+    {
+      "date": "2022-12-31",
       "unRespondedItems": [
         {
           "title": "Unclear how to handle step 3 of Fixed Version Install",
