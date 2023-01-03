@@ -1206,11 +1206,11 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5392"
-        },
         {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
           "url": "https://github.com/webhintio/hint/issues/5383"
@@ -1232,7 +1232,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "88.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2442,6 +2442,10 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3653,17 +3657,12 @@
     },
     {
       "date": "2023-01-01",
-      "unRespondedItems": [
-        {
-          "title": "Too much bug ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/121"
-        },
-        {
-          "title": "Issue opening DevTools when using allow and block list in Edge",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/118"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-01-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -4873,6 +4872,10 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6093,7 +6096,15 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [
+        {
+          "title": "Library is not registered. (Exception from HRESULT:0x8002801D (TYPE_E_LIBNOTREGISTERED))",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3094"
+        },
         {
           "title": "According to user feedback, the installation program flashes and cannot be installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
@@ -6131,15 +6142,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
         },
         {
-          "title": "Value does not fall within the expected range",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
+          "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
         },
         {
-          "title": "where is the root path of SetVirtualHostNameToFolderMapping on VSTO?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3033"
+          "title": "Value does not fall within the expected range",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7349,45 +7360,21 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [
         {
-          "title": "cr/bugs ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1312"
-        },
-        {
-          "title": "curso de programacion",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1311"
-        },
-        {
-          "title": "First",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1309"
-        },
-        {
-          "title": "Higher resolution is needed for the page in Edge DevTools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1308"
-        },
-        {
-          "title": "rei",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1307"
+          "title": "Doesnt working \"<select> and <option>\"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1315"
         },
         {
           "title": "my live servers arn't displaying live or showing any changes. ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1305"
-        },
-        {
-          "title": ".main{     width: 100%;     background: linear-gradient(to top, rgba (0,0,0,0.5) 50% ,rgba (0,0,0,0.5)50%), url(1.jpg)     background-position: center;     background-size: cover;     height::after 109vh;",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1304"
-        },
-        {
-          "title": "OUTPUT",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1310"
-        },
-        {
-          "title": "PHP",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1306"
         }
       ],
-      "rate": "81.63"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8597,25 +8584,17 @@
     },
     {
       "date": "2023-01-01",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-01-03",
       "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2373"
-        },
-        {
-          "title": "Unclear how to handle step 3 of Fixed Version Install",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2368"
-        },
-        {
-          "title": "3.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2367"
-        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "91.67"
+      "rate": "97.92"
     }
   ]
 }
