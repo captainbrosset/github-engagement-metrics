@@ -1210,11 +1210,11 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [
-        {
-          "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
-          "url": "https://github.com/webhintio/hint/issues/5383"
-        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1224,15 +1224,15 @@
           "url": "https://github.com/webhintio/hint/issues/5349"
         },
         {
-          "title": "[Feature] Allow HTML-only headers for SVG files",
-          "url": "https://github.com/webhintio/hint/issues/5281"
+          "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
+          "url": "https://github.com/webhintio/hint/issues/5383"
         },
         {
           "title": "When Edge DevTools is installed and webhint enabled webhint unable to start",
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2446,6 +2446,10 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3661,6 +3665,10 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4876,6 +4884,10 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6100,10 +6112,22 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [
         {
-          "title": "Library is not registered. (Exception from HRESULT:0x8002801D (TYPE_E_LIBNOTREGISTERED))",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3094"
+          "title": "Invalid window handle. (Exception from HRESULT: 0x80070578)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3097"
+        },
+        {
+          "title": "File Open/Save Dialog doesn't work with automatic elevation (uiAccess=true)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3096"
+        },
+        {
+          "title": "There was a problem installing. Error code: 0x800700b7.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3095"
         },
         {
           "title": "According to user feedback, the installation program flashes and cannot be installed",
@@ -6116,10 +6140,6 @@
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
-        },
-        {
-          "title": "put_RasterizationScale(), scaled rendering is very blurry",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3060"
         },
         {
           "title": "Narrator can not complete the speech on changing text",
@@ -6136,10 +6156,6 @@
         {
           "title": "win7 error:STATUS_BREAKPOINT",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081"
-        },
-        {
-          "title": "CreateCoreWebView2Controller fails with 0x8007139F ERROR_INVALID_STATE when not run as administrator ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3067"
         },
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
@@ -7364,17 +7380,12 @@
     },
     {
       "date": "2023-01-03",
-      "unRespondedItems": [
-        {
-          "title": "Doesnt working \"<select> and <option>\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1315"
-        },
-        {
-          "title": "my live servers arn't displaying live or showing any changes. ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1305"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-01-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8588,13 +8599,21 @@
     },
     {
       "date": "2023-01-03",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-01-04",
       "unRespondedItems": [
+        {
+          "title": "Yep",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2375"
+        },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }
