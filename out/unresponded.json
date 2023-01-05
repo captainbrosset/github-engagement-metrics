@@ -1214,6 +1214,10 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2450,6 +2454,10 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3669,6 +3677,10 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4888,6 +4900,10 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [
         {
           "title": "Can't run Selenium side runner for Edge with a current profile",
@@ -6116,10 +6132,14 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [
         {
-          "title": "Invalid window handle. (Exception from HRESULT: 0x80070578)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3097"
+          "title": "How does one trap accelerator keys when using WebView2 with Windows App SDK",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3098"
         },
         {
           "title": "File Open/Save Dialog doesn't work with automatic elevation (uiAccess=true)",
@@ -6146,16 +6166,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
+          "title": "Invalid window handle. (Exception from HRESULT: 0x80070578)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3097"
+        },
+        {
           "title": "SplitContainer splitter movement is not visible on WebView control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         },
         {
           "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
-        },
-        {
-          "title": "win7 error:STATUS_BREAKPOINT",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3081"
         },
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
@@ -7384,8 +7404,21 @@
     },
     {
       "date": "2023-01-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-05",
+      "unRespondedItems": [
+        {
+          "title": "mehroj",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1319"
+        },
+        {
+          "title": "fruit",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1318"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8603,17 +8636,33 @@
     },
     {
       "date": "2023-01-04",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-01-05",
       "unRespondedItems": [
         {
-          "title": "Yep",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2375"
+          "title": "Removed Win7/8/8.1 wv2 support",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2383"
+        },
+        {
+          "title": "Changed \"Library Code\" to \"Ignore List\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
+        },
+        {
+          "title": "57878885yfghsh",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2379"
         },
         {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
+        },
+        {
+          "title": "ty3yey3",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2380"
         }
       ],
-      "rate": "95.83"
+      "rate": "89.36"
     }
   ]
 }
