@@ -1218,6 +1218,10 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2458,8 +2462,17 @@
     },
     {
       "date": "2023-01-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-06",
+      "unRespondedItems": [
+        {
+          "title": "keyboard shortcuts",
+          "url": "https://github.com/MicrosoftEdge/Demos/issues/13"
+        }
+      ],
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -3681,6 +3694,10 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4904,17 +4921,17 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [
-        {
-          "title": "Can't run Selenium side runner for Edge with a current profile",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/60"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6136,14 +6153,34 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [
+        {
+          "title": "HTML video tag errors out with AUDIO_RENDERER_ERROR when app is suspended (e.g. minimization)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3106"
+        },
+        {
+          "title": "The specified module could not be found. (Exception from HRESULT: 0x8007007E)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3105"
+        },
+        {
+          "title": "Call HostObject method in javascript with optional argument will breakdown applicaiton",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3104"
+        },
+        {
+          "title": "Locked down browser",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
+        },
+        {
+          "title": "WebView2 Exception \"The function should be called before any other API is called in 'CoreWebView2Environment' class\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3102"
+        },
         {
           "title": "How does one trap accelerator keys when using WebView2 with Windows App SDK",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3098"
-        },
-        {
-          "title": "File Open/Save Dialog doesn't work with automatic elevation (uiAccess=true)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3096"
         },
         {
           "title": "There was a problem installing. Error code: 0x800700b7.",
@@ -6186,7 +6223,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "76.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7408,14 +7445,18 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [
         {
-          "title": "mehroj",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1319"
+          "title": "HTML#1320",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1322"
         },
         {
-          "title": "fruit",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1318"
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1320"
         }
       ],
       "rate": "95.92"
@@ -8640,7 +8681,15 @@
     },
     {
       "date": "2023-01-05",
+      "rate": "89.36"
+    },
+    {
+      "date": "2023-01-06",
       "unRespondedItems": [
+        {
+          "title": "Delivering Runtime to managed Windows 10 devices",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
+        },
         {
           "title": "Removed Win7/8/8.1 wv2 support",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2383"
@@ -8650,19 +8699,11 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
         },
         {
-          "title": "57878885yfghsh",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2379"
-        },
-        {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
-        },
-        {
-          "title": "ty3yey3",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2380"
         }
       ],
-      "rate": "89.36"
+      "rate": "91.49"
     }
   ]
 }
