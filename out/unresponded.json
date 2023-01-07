@@ -1222,6 +1222,10 @@
     },
     {
       "date": "2023-01-06",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-07",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2466,13 +2470,12 @@
     },
     {
       "date": "2023-01-06",
-      "unRespondedItems": [
-        {
-          "title": "keyboard shortcuts",
-          "url": "https://github.com/MicrosoftEdge/Demos/issues/13"
-        }
-      ],
       "rate": "91.67"
+    },
+    {
+      "date": "2023-01-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -3698,6 +3701,10 @@
     },
     {
       "date": "2023-01-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4925,6 +4932,10 @@
     },
     {
       "date": "2023-01-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-07",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -6157,43 +6168,11 @@
     },
     {
       "date": "2023-01-06",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-01-07",
       "unRespondedItems": [
-        {
-          "title": "HTML video tag errors out with AUDIO_RENDERER_ERROR when app is suspended (e.g. minimization)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3106"
-        },
-        {
-          "title": "The specified module could not be found. (Exception from HRESULT: 0x8007007E)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3105"
-        },
-        {
-          "title": "Call HostObject method in javascript with optional argument will breakdown applicaiton",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3104"
-        },
-        {
-          "title": "Locked down browser",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
-        },
-        {
-          "title": "WebView2 Exception \"The function should be called before any other API is called in 'CoreWebView2Environment' class\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3102"
-        },
-        {
-          "title": "How does one trap accelerator keys when using WebView2 with Windows App SDK",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3098"
-        },
-        {
-          "title": "There was a problem installing. Error code: 0x800700b7.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3095"
-        },
-        {
-          "title": "According to user feedback, the installation program flashes and cannot be installed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
-        },
-        {
-          "title": "Microsoft Bassel Online (Natural) - Arabic (Iraq)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3091"
-        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -6201,10 +6180,6 @@
         {
           "title": "Narrator can not complete the speech on changing text",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
-        },
-        {
-          "title": "Invalid window handle. (Exception from HRESULT: 0x80070578)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3097"
         },
         {
           "title": "SplitContainer splitter movement is not visible on WebView control",
@@ -6215,6 +6190,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
         },
         {
+          "title": "Application with fixed WebView2 deployed with MSIX cannot be started as admin user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082"
+        },
+        {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
         },
@@ -6223,7 +6202,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "68.00"
+      "rate": "86.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7449,17 +7428,12 @@
     },
     {
       "date": "2023-01-06",
-      "unRespondedItems": [
-        {
-          "title": "HTML#1320",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1322"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1320"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-01-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8685,25 +8659,33 @@
     },
     {
       "date": "2023-01-06",
+      "rate": "91.49"
+    },
+    {
+      "date": "2023-01-07",
       "unRespondedItems": [
+        {
+          "title": "Characteristics of a Progressive Web App (PWA) TABLE - links broken in spanish?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2389"
+        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
-        },
-        {
-          "title": "Removed Win7/8/8.1 wv2 support",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2383"
         },
         {
           "title": "Changed \"Library Code\" to \"Ignore List\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
         },
         {
+          "title": "Add WinUI 3 to \"Call native-side WinRT code from web-side code\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2358"
+        },
+        {
           "title": "New: \"How WinRT types and members are represented in JavaScript\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "91.49"
+      "rate": "89.58"
     }
   ]
 }
