@@ -1226,6 +1226,10 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -1236,6 +1240,10 @@
           "url": "https://github.com/webhintio/hint/issues/5349"
         },
         {
+          "title": "[Feature] Allow HTML-only headers for SVG files",
+          "url": "https://github.com/webhintio/hint/issues/5281"
+        },
+        {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
           "url": "https://github.com/webhintio/hint/issues/5383"
         },
@@ -1244,7 +1252,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2474,6 +2482,10 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3705,6 +3717,10 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4936,13 +4952,21 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [
+        {
+          "title": "EdgeDriver.GetDevToolsSession hangs ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6172,7 +6196,15 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [
+        {
+          "title": "webview2 GPU process eats 15% after sleep and makes usage unpleasant.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3111"
+        },
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
@@ -6180,6 +6212,10 @@
         {
           "title": "Narrator can not complete the speech on changing text",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
+        },
+        {
+          "title": "NavigationStarting Event does not fire",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109"
         },
         {
           "title": "SplitContainer splitter movement is not visible on WebView control",
@@ -6202,7 +6238,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "86.00"
+      "rate": "82.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7432,6 +7468,10 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8663,6 +8703,10 @@
     },
     {
       "date": "2023-01-07",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-01-08",
       "unRespondedItems": [
         {
           "title": "Characteristics of a Progressive Web App (PWA) TABLE - links broken in spanish?",
@@ -8677,6 +8721,10 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
         },
         {
+          "title": "What's New 109",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2377"
+        },
+        {
           "title": "Add WinUI 3 to \"Call native-side WinRT code from web-side code\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2358"
         },
@@ -8685,7 +8733,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "89.58"
+      "rate": "87.76"
     }
   ]
 }
