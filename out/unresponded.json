@@ -1230,6 +1230,10 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2486,6 +2490,10 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3721,6 +3729,10 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4956,6 +4968,10 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6200,6 +6216,10 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [
         {
           "title": "webview2 GPU process eats 15% after sleep and makes usage unpleasant.",
@@ -7472,8 +7492,21 @@
     },
     {
       "date": "2023-01-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-09",
+      "unRespondedItems": [
+        {
+          "title": "json",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1326"
+        },
+        {
+          "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8707,7 +8740,23 @@
     },
     {
       "date": "2023-01-08",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-01-09",
       "unRespondedItems": [
+        {
+          "title": "Ok its nice",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2392"
+        },
+        {
+          "title": "Update index.md",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2391"
+        },
+        {
+          "title": "title",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2390"
+        },
         {
           "title": "Characteristics of a Progressive Web App (PWA) TABLE - links broken in spanish?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2389"
@@ -8733,7 +8782,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "87.76"
+      "rate": "81.63"
     }
   ]
 }

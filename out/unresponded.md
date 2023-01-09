@@ -1,4 +1,4 @@
-Response rate: 93.68%
+Response rate: 92.22%
 
 * **webhintio/hint** - _90.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -21,8 +21,13 @@ Response rate: 93.68%
   * [Application with fixed WebView2 deployed with MSIX cannot be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082)
   * [How to ensure that we can deliver a stable WebView2 browser ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066)
   * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _87.76%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [json](https://github.com/microsoft/vscode-edge-devtools/issues/1326)
+  * [Detection of no-inline-styles has too wide blast radius, fai...](https://github.com/microsoft/vscode-edge-devtools/issues/1325)
+* **MicrosoftDocs/edge-developer** - _81.63%_
+  * [Ok its nice](https://github.com/MicrosoftDocs/edge-developer/issues/2392)
+  * [Update index.md](https://github.com/MicrosoftDocs/edge-developer/pull/2391)
+  * [title](https://github.com/MicrosoftDocs/edge-developer/issues/2390)
   * [Characteristics of a Progressive Web App (PWA) TABLE - links...](https://github.com/MicrosoftDocs/edge-developer/issues/2389)
   * [Delivering Runtime to managed Windows 10 devices](https://github.com/MicrosoftDocs/edge-developer/pull/2385)
   * [Changed "Library Code" to "Ignore List"](https://github.com/MicrosoftDocs/edge-developer/pull/2382)
