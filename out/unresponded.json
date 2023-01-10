@@ -1234,6 +1234,10 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2494,6 +2498,10 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3733,6 +3741,10 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4972,6 +4984,10 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6220,10 +6236,14 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [
         {
-          "title": "webview2 GPU process eats 15% after sleep and makes usage unpleasant.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3111"
+          "title": "ICoreWebView2CookieManager::GetCookies() -> ICoreWebView2GetCookiesCompletedHandler is never invoked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3115"
         },
         {
           "title": "can't use SendPointerInput with mouse",
@@ -6242,12 +6262,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         },
         {
-          "title": "CoreWebView2WebResourceResponseReceivedEventArgs and CoreWebView2WebResourceRequestedEventArgs null Content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3083"
-        },
-        {
-          "title": "Application with fixed WebView2 deployed with MSIX cannot be started as admin user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3082"
+          "title": "108.0.1462.54 doesn't work on SERVER 2012 R2 RDS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3084"
         },
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
@@ -6258,7 +6274,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "82.00"
+      "rate": "84.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7496,10 +7512,14 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [
         {
-          "title": "json",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1326"
+          "title": "i cannot connect my python interpreter",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1327"
         },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -8744,23 +8764,11 @@
     },
     {
       "date": "2023-01-09",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-01-10",
       "unRespondedItems": [
-        {
-          "title": "Ok its nice",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2392"
-        },
-        {
-          "title": "Update index.md",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2391"
-        },
-        {
-          "title": "title",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2390"
-        },
-        {
-          "title": "Characteristics of a Progressive Web App (PWA) TABLE - links broken in spanish?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2389"
-        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
@@ -8768,10 +8776,6 @@
         {
           "title": "Changed \"Library Code\" to \"Ignore List\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
-        },
-        {
-          "title": "What's New 109",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2377"
         },
         {
           "title": "Add WinUI 3 to \"Call native-side WinRT code from web-side code\"",
@@ -8782,7 +8786,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "81.63"
+      "rate": "91.67"
     }
   ]
 }
