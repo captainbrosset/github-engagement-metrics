@@ -1238,6 +1238,10 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -1248,10 +1252,6 @@
           "url": "https://github.com/webhintio/hint/issues/5349"
         },
         {
-          "title": "[Feature] Allow HTML-only headers for SVG files",
-          "url": "https://github.com/webhintio/hint/issues/5281"
-        },
-        {
           "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
           "url": "https://github.com/webhintio/hint/issues/5383"
         },
@@ -1260,7 +1260,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2502,6 +2502,10 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3745,6 +3749,10 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4988,6 +4996,10 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6240,10 +6252,14 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [
         {
-          "title": "ICoreWebView2CookieManager::GetCookies() -> ICoreWebView2GetCookiesCompletedHandler is never invoked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3115"
+          "title": "how to capture the stream return from the server?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
         },
         {
           "title": "can't use SendPointerInput with mouse",
@@ -6254,16 +6270,28 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
+          "title": "ICoreWebView2CookieManager::GetCookies() -> ICoreWebView2GetCookiesCompletedHandler is never invoked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3115"
+        },
+        {
+          "title": "webview2 crash on start",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3113"
+        },
+        {
           "title": "NavigationStarting Event does not fire",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109"
         },
         {
-          "title": "SplitContainer splitter movement is not visible on WebView control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
+          "title": "Locked down browser",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
         },
         {
-          "title": "108.0.1462.54 doesn't work on SERVER 2012 R2 RDS",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3084"
+          "title": "According to user feedback, the installation program flashes and cannot be installed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
+        },
+        {
+          "title": "SplitContainer splitter movement is not visible on WebView control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         },
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
@@ -6274,7 +6302,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "84.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7516,10 +7544,14 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [
         {
-          "title": "i cannot connect my python interpreter",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1327"
+          "title": "code getting erase",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1328"
         },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -8768,25 +8800,21 @@
     },
     {
       "date": "2023-01-10",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-01-11",
       "unRespondedItems": [
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
         },
         {
-          "title": "Changed \"Library Code\" to \"Ignore List\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2382"
-        },
-        {
           "title": "Add WinUI 3 to \"Call native-side WinRT code from web-side code\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2358"
-        },
-        {
-          "title": "New: \"How WinRT types and members are represented in JavaScript\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2343"
         }
       ],
-      "rate": "91.67"
+      "rate": "95.92"
     }
   ]
 }
