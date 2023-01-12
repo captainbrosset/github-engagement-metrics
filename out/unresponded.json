@@ -1242,6 +1242,10 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2506,6 +2510,10 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3753,6 +3761,10 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5000,6 +5012,10 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6256,6 +6272,10 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [
         {
           "title": "how to capture the stream return from the server?",
@@ -6270,12 +6290,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
-          "title": "ICoreWebView2CookieManager::GetCookies() -> ICoreWebView2GetCookiesCompletedHandler is never invoked",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3115"
-        },
-        {
-          "title": "webview2 crash on start",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3113"
+          "title": "Mouse gets ignored after writing into a contenteditable element",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3118"
         },
         {
           "title": "NavigationStarting Event does not fire",
@@ -6302,7 +6318,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "78.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7548,17 +7564,25 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [
         {
-          "title": "code getting erase",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1328"
+          "title": "hi who is that man????....  i limit and limit  and disconnected my personal system !!! help me   please help me... please ....",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1330"
         },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
+        },
+        {
+          "title": "written",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1329"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8804,7 +8828,15 @@
     },
     {
       "date": "2023-01-11",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-12",
       "unRespondedItems": [
+        {
+          "title": "I have created Webview2 in MFC C++ in background and when i Open that tab in that Webview is not showing anything.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2401"
+        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
@@ -8814,7 +8846,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2358"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ]
 }
