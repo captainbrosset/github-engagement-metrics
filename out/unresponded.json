@@ -1246,6 +1246,10 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2514,6 +2518,10 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3765,6 +3773,10 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5016,6 +5028,10 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6276,7 +6292,27 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [
+        {
+          "title": "Evergreen installer fail midway on Windows 7 64-bit",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3122"
+        },
+        {
+          "title": "File Access API without security prompts",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3121"
+        },
+        {
+          "title": "Unable to set custom header in CoreWebView2WebResourceRequest for NavigateWithWebResourceRequest",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3120"
+        },
+        {
+          "title": "Is this allowed?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3119"
+        },
         {
           "title": "how to capture the stream return from the server?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
@@ -6284,10 +6320,6 @@
         {
           "title": "can't use SendPointerInput with mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
-        },
-        {
-          "title": "Narrator can not complete the speech on changing text",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3055"
         },
         {
           "title": "Mouse gets ignored after writing into a contenteditable element",
@@ -6318,7 +6350,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "80.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7568,21 +7600,17 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [
-        {
-          "title": "hi who is that man????....  i limit and limit  and disconnected my personal system !!! help me   please help me... please ....",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1330"
-        },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
-        },
-        {
-          "title": "written",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1329"
         }
       ],
-      "rate": "93.88"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8832,11 +8860,11 @@
     },
     {
       "date": "2023-01-12",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-01-13",
       "unRespondedItems": [
-        {
-          "title": "I have created Webview2 in MFC C++ in background and when i Open that tab in that Webview is not showing anything.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2401"
-        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
@@ -8846,7 +8874,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2358"
         }
       ],
-      "rate": "93.88"
+      "rate": "95.92"
     }
   ]
 }
