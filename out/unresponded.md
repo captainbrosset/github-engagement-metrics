@@ -1,4 +1,4 @@
-Response rate: 93.70%
+Response rate: 92.83%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -10,21 +10,24 @@ Response rate: 93.70%
 * **MicrosoftEdge/EdgeWebDriver** - _96.00%_
   * [EdgeDriver.GetDevToolsSession hangs ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [CoreWebView2Frame.ExecuteScriptAsync hangs forever if it's d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3124)
+  * [Error loading type library/DLL. (Exception from HRESULT:0x80...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3123)
   * [Evergreen installer fail midway on Windows 7 64-bit](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3122)
   * [File Access API without security prompts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3121)
   * [Unable to set custom header in CoreWebView2WebResourceReques...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3120)
   * [Is this allowed?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3119)
   * [how to capture the stream return from the server?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117)
   * [can't use SendPointerInput with mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072)
+  * [I have been working with vbRichClient-Framework and twinBASI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3125)
   * [Mouse gets ignored after writing into a contenteditable elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3118)
   * [NavigationStarting Event does not fire](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109)
   * [Locked down browser](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103)
   * [According to user feedback, the installation program flashes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093)
   * [SplitContainer splitter movement is not visible on WebView c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086)
   * [How to ensure that we can deliver a stable WebView2 browser ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066)
-  * [Value does not fall within the expected range](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [debug and run](https://github.com/microsoft/vscode-edge-devtools/issues/1332)
   * [Detection of no-inline-styles has too wide blast radius, fai...](https://github.com/microsoft/vscode-edge-devtools/issues/1325)
 * **MicrosoftDocs/edge-developer** - _95.92%_
   * [Delivering Runtime to managed Windows 10 devices](https://github.com/MicrosoftDocs/edge-developer/pull/2385)

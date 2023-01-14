@@ -1250,6 +1250,10 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2522,6 +2526,10 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3777,6 +3785,10 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5032,6 +5044,10 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6296,7 +6312,19 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [
+        {
+          "title": "CoreWebView2Frame.ExecuteScriptAsync hangs forever if it's destroyed while script is executing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3124"
+        },
+        {
+          "title": "Error loading type library/DLL. (Exception from HRESULT:0x80029C4A (TYPE_E_CANTLOADLIBRARY))",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3123"
+        },
         {
           "title": "Evergreen installer fail midway on Windows 7 64-bit",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3122"
@@ -6322,6 +6350,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
         },
         {
+          "title": "I have been working with vbRichClient-Framework and twinBASIC_IDE normally until webview2 108.0.1462.46 update happened and everything stopped working due to component initialization error.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3125"
+        },
+        {
           "title": "Mouse gets ignored after writing into a contenteditable element",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3118"
         },
@@ -6344,13 +6376,9 @@
         {
           "title": "How to ensure that we can deliver a stable WebView2 browser to customers?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
-        },
-        {
-          "title": "Value does not fall within the expected range",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3059"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7604,13 +7632,21 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [
+        {
+          "title": "debug and run",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1332"
+        },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8864,6 +8900,10 @@
     },
     {
       "date": "2023-01-13",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-14",
       "unRespondedItems": [
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
