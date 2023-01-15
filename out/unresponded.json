@@ -1254,6 +1254,10 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2530,6 +2534,10 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3789,6 +3797,10 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5048,6 +5060,10 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
@@ -6316,9 +6332,21 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [
         {
-          "title": "CoreWebView2Frame.ExecuteScriptAsync hangs forever if it's destroyed while script is executing",
+          "title": "Set userdata folder in \"localappdata\" and run an appication as elevated and it fails to launch",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3128"
+        },
+        {
+          "title": "Proton/WINE compatibility for Linux",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3127"
+        },
+        {
+          "title": "CoreWebView2Frame.ExecuteScriptAsync hangs forever if the frame's destroyed while script is executing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3124"
         },
         {
@@ -6378,7 +6406,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7636,7 +7664,15 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [
+        {
+          "title": "launch.json",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1333"
+        },
         {
           "title": "debug and run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1332"
@@ -7646,7 +7682,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -8904,6 +8940,10 @@
     },
     {
       "date": "2023-01-14",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-15",
       "unRespondedItems": [
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
