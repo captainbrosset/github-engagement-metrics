@@ -1258,6 +1258,10 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [
         {
           "title": "HTTP ERROR: 401 Unauthorized",
@@ -2538,6 +2542,10 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3801,6 +3809,10 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5064,17 +5076,25 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         },
         {
+          "title": "Why edgedriver is crashed , response code 500 ?",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/66"
+        },
+        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6336,6 +6356,10 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [
         {
           "title": "Set userdata folder in \"localappdata\" and run an appication as elevated and it fails to launch",
@@ -7668,14 +7692,18 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [
         {
-          "title": "launch.json",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1333"
+          "title": "jquery.min.js:4                  The specified value \"AVCACIQUE\" does not conform to the required format, \"yyyy-MM-dd\".",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1335"
         },
         {
-          "title": "debug and run",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1332"
+          "title": "vs code chrome launch problem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1334"
         },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -8944,6 +8972,10 @@
     },
     {
       "date": "2023-01-15",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-16",
       "unRespondedItems": [
         {
           "title": "Delivering Runtime to managed Windows 10 devices",

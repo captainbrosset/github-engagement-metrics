@@ -1,4 +1,4 @@
-Response rate: 91.97%
+Response rate: 91.69%
 
 * **webhintio/hint** - _92.00%_
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -7,8 +7,9 @@ Response rate: 91.97%
   * [When Edge DevTools is installed and webhint enabled webhint ...](https://github.com/webhintio/hint/issues/5364)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _96.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _94.00%_
   * [EdgeDriver.GetDevToolsSession hangs ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
+  * [Why edgedriver is crashed , response code 500 ?](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/66)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
   * [Set userdata folder in "localappdata" and run an appication ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3128)
@@ -29,8 +30,8 @@ Response rate: 91.97%
   * [SplitContainer splitter movement is not visible on WebView c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086)
   * [How to ensure that we can deliver a stable WebView2 browser ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3066)
 * **microsoft/vscode-edge-devtools** - _93.88%_
-  * [launch.json](https://github.com/microsoft/vscode-edge-devtools/issues/1333)
-  * [debug and run](https://github.com/microsoft/vscode-edge-devtools/issues/1332)
+  * [jquery.min.js:4                  The specified value "AVCACI...](https://github.com/microsoft/vscode-edge-devtools/issues/1335)
+  * [vs code chrome launch problem](https://github.com/microsoft/vscode-edge-devtools/issues/1334)
   * [Detection of no-inline-styles has too wide blast radius, fai...](https://github.com/microsoft/vscode-edge-devtools/issues/1325)
 * **MicrosoftDocs/edge-developer** - _95.92%_
   * [Delivering Runtime to managed Windows 10 devices](https://github.com/MicrosoftDocs/edge-developer/pull/2385)
