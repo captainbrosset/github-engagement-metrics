@@ -1270,7 +1270,15 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [
+        {
+          "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
+          "url": "https://github.com/webhintio/hint/issues/5404"
+        },
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
@@ -1288,7 +1296,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2562,6 +2570,10 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3837,8 +3849,17 @@
     },
     {
       "date": "2023-01-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-19",
+      "unRespondedItems": [
+        {
+          "title": "Long composite layers task when advanced instrumentation turned on",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/123"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5112,17 +5133,17 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [
-        {
-          "title": "EdgeDriver.GetDevToolsSession hangs ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
-        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6396,7 +6417,23 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [
+        {
+          "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
+        },
+        {
+          "title": "Calling Close on an ICoreWebView2Controller instance pumps messages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3140"
+        },
+        {
+          "title": "Print button not working by using WebView2 to render a PDF in an UWP APP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135"
+        },
         {
           "title": "Set userdata folder in \"localappdata\" and run an appication as elevated and it fails to launch",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3128"
@@ -6434,10 +6471,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
         },
         {
-          "title": "can't use SendPointerInput with mouse",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3072"
-        },
-        {
           "title": "Call to EnsureCoreWebView2Async  very slow (~9 seconds)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3130"
         },
@@ -6466,7 +6499,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7740,6 +7773,10 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -9020,6 +9057,10 @@
     },
     {
       "date": "2023-01-18",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-01-19",
       "unRespondedItems": [
         {
           "title": "After \"const copy = response.clone();\" the variable copy is never used",
@@ -9034,7 +9075,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
         }
       ],
-      "rate": "93.88"
+      "rate": "93.75"
     }
   ]
 }
