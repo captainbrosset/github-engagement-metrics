@@ -1274,7 +1274,15 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5405"
+        },
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
           "url": "https://github.com/webhintio/hint/issues/5404"
@@ -1296,7 +1304,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2574,6 +2582,10 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3853,6 +3865,10 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
         {
           "title": "Long composite layers task when advanced instrumentation turned on",
@@ -5137,6 +5153,10 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
@@ -6421,7 +6441,15 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
+        {
+          "title": "No spellcheck suggestion is displayed when ContextMenuRequested handler takes more than a few milliseconds",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3142"
+        },
         {
           "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
@@ -6429,10 +6457,6 @@
         {
           "title": "Calling Close on an ICoreWebView2Controller instance pumps messages",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3140"
-        },
-        {
-          "title": "Print button not working by using WebView2 to render a PDF in an UWP APP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135"
         },
         {
           "title": "Set userdata folder in \"localappdata\" and run an appication as elevated and it fails to launch",
@@ -6471,6 +6495,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
         },
         {
+          "title": "Using ShowPrintUI",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
+        },
+        {
           "title": "Call to EnsureCoreWebView2Async  very slow (~9 seconds)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3130"
         },
@@ -6499,7 +6527,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7777,6 +7805,10 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -9061,21 +9093,17 @@
     },
     {
       "date": "2023-01-19",
+      "rate": "93.75"
+    },
+    {
+      "date": "2023-01-20",
       "unRespondedItems": [
-        {
-          "title": "After \"const copy = response.clone();\" the variable copy is never used",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2408"
-        },
-        {
-          "title": "Opening source files in Visual Studio Code - Not work for less source file",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2407"
-        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
         }
       ],
-      "rate": "93.75"
+      "rate": "97.96"
     }
   ]
 }
