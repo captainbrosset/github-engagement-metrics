@@ -1278,11 +1278,11 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5405"
-        },
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
           "url": "https://github.com/webhintio/hint/issues/5404"
@@ -1304,7 +1304,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "88.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2586,6 +2586,10 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3869,13 +3873,12 @@
     },
     {
       "date": "2023-01-20",
-      "unRespondedItems": [
-        {
-          "title": "Long composite layers task when advanced instrumentation turned on",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/123"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-01-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5157,13 +5160,25 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [
+        {
+          "title": "Microsoft EdgeBrowser is not working through selenium",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
+        },
+        {
+          "title": "Remote connection to edge webdriver",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67"
+        },
         {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6445,42 +6460,34 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [
+        {
+          "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148"
+        },
+        {
+          "title": "Webview2  rotate problem and no offscreen rendering?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3146"
+        },
+        {
+          "title": "Unable to send null as function parameter of type string",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3145"
+        },
         {
           "title": "No spellcheck suggestion is displayed when ContextMenuRequested handler takes more than a few milliseconds",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3142"
-        },
-        {
-          "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
         },
         {
           "title": "Calling Close on an ICoreWebView2Controller instance pumps messages",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3140"
         },
         {
-          "title": "Set userdata folder in \"localappdata\" and run an appication as elevated and it fails to launch",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3128"
-        },
-        {
-          "title": "Proton/WINE compatibility for Linux",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3127"
-        },
-        {
-          "title": "CoreWebView2Frame.ExecuteScriptAsync hangs forever if the frame's destroyed while script is executing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3124"
-        },
-        {
           "title": "Error loading type library/DLL. (Exception from HRESULT:0x80029C4A (TYPE_E_CANTLOADLIBRARY))",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3123"
-        },
-        {
-          "title": "Evergreen installer fail midway on Windows 7 64-bit",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3122"
-        },
-        {
-          "title": "File Access API without security prompts",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3121"
         },
         {
           "title": "Unable to set custom header in CoreWebView2WebResourceRequest for NavigateWithWebResourceRequest",
@@ -6499,12 +6506,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         },
         {
-          "title": "Call to EnsureCoreWebView2Async  very slow (~9 seconds)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3130"
-        },
-        {
-          "title": "I have been working with vbRichClient-Framework and twinBASIC_IDE normally until webview2 108.0.1462.46 update happened and everything stopped working due to component initialization error.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3125"
+          "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
         },
         {
           "title": "Mouse gets ignored after writing into a contenteditable element",
@@ -6521,13 +6524,9 @@
         {
           "title": "According to user feedback, the installation program flashes and cannot be installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
-        },
-        {
-          "title": "SplitContainer splitter movement is not visible on WebView control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3086"
         }
       ],
-      "rate": "60.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7809,6 +7808,10 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -9097,13 +9100,21 @@
     },
     {
       "date": "2023-01-20",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-21",
       "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2412"
+        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ]
 }
