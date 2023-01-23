@@ -1282,6 +1282,10 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
@@ -2590,6 +2594,10 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3877,6 +3885,10 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5164,6 +5176,10 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6464,7 +6480,15 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [
+        {
+          "title": "A user failed to initialize (0x8000FFFF), setting folder permissions is invalid, and a timeout occurs when running with administrator permissions (0x800705B4)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3149"
+        },
         {
           "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148"
@@ -6502,12 +6526,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
         },
         {
+          "title": "c# push button in webview2 to  html web page button?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150"
+        },
+        {
           "title": "Using ShowPrintUI",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         },
         {
           "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
+        },
+        {
+          "title": "webview2 visible = ?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3129"
         },
         {
           "title": "Mouse gets ignored after writing into a contenteditable element",
@@ -6522,11 +6554,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
         },
         {
+          "title": "Library is not registered. (Exception from HRESULT:0x8002801D (TYPE_E_LIBNOTREGISTERED))",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3094"
+        },
+        {
           "title": "According to user feedback, the installation program flashes and cannot be installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
         }
       ],
-      "rate": "70.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7812,13 +7848,29 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [
+        {
+          "title": "Bugs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1341"
+        },
+        {
+          "title": "vpn new",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1340"
+        },
+        {
+          "title": "Many javascript commands are not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1339"
+        },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "97.96"
+      "rate": "91.84"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9104,7 +9156,19 @@
     },
     {
       "date": "2023-01-21",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-23",
       "unRespondedItems": [
+        {
+          "title": "Navigating event",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2415"
+        },
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2414"
+        },
         {
           "title": "[DevTools Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2412"
@@ -9114,7 +9178,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
         }
       ],
-      "rate": "95.92"
+      "rate": "91.84"
     }
   ]
 }
