@@ -1286,6 +1286,10 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
@@ -2598,6 +2602,10 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3889,8 +3897,17 @@
     },
     {
       "date": "2023-01-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-24",
+      "unRespondedItems": [
+        {
+          "title": "Request for CSS selector performance blog case study files",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/124"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5180,6 +5197,10 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6484,7 +6505,19 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [
+        {
+          "title": "Zoom addin SSO stops working after Webview2 Runtime is installed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3156"
+        },
+        {
+          "title": "Can the experimental function \"MicrosoftRootStoreEnabled\" of version 109 be used on WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3151"
+        },
         {
           "title": "A user failed to initialize (0x8000FFFF), setting folder permissions is invalid, and a timeout occurs when running with administrator permissions (0x800705B4)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3149"
@@ -6492,14 +6525,6 @@
         {
           "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148"
-        },
-        {
-          "title": "Webview2  rotate problem and no offscreen rendering?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3146"
-        },
-        {
-          "title": "Unable to send null as function parameter of type string",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3145"
         },
         {
           "title": "No spellcheck suggestion is displayed when ContextMenuRequested handler takes more than a few milliseconds",
@@ -6538,31 +6563,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
         },
         {
-          "title": "webview2 visible = ?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3129"
-        },
-        {
-          "title": "Mouse gets ignored after writing into a contenteditable element",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3118"
-        },
-        {
           "title": "NavigationStarting Event does not fire",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109"
         },
         {
           "title": "Locked down browser",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
-        },
-        {
-          "title": "Library is not registered. (Exception from HRESULT:0x8002801D (TYPE_E_LIBNOTREGISTERED))",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3094"
-        },
-        {
-          "title": "According to user feedback, the installation program flashes and cannot be installed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3093"
         }
       ],
-      "rate": "62.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7852,25 +7861,17 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [
-        {
-          "title": "Bugs",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1341"
-        },
-        {
-          "title": "vpn new",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1340"
-        },
-        {
-          "title": "Many javascript commands are not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1339"
-        },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "91.84"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9160,25 +9161,21 @@
     },
     {
       "date": "2023-01-23",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-01-24",
       "unRespondedItems": [
-        {
-          "title": "Navigating event",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2415"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2414"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2412"
-        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
+        },
+        {
+          "title": "Navigating event",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2415"
         }
       ],
-      "rate": "91.84"
+      "rate": "95.92"
     }
   ]
 }
