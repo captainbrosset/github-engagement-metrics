@@ -1290,6 +1290,10 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
@@ -2606,6 +2610,10 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3901,10 +3909,14 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
         {
-          "title": "Request for CSS selector performance blog case study files",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/124"
+          "title": "Java script tool",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/125"
         }
       ],
       "rate": "98.00"
@@ -5201,6 +5213,10 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6509,14 +6525,22 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
+        {
+          "title": "Webview2 Windows Close Button Mouse Hover Highlight is still enabled while mouse is over WebView Control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3159"
+        },
+        {
+          "title": "Webview2 breaking W11 alt-tab and taskbar click - cannot focus windows/apps, certain windows get stuck in foreground",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
+        },
         {
           "title": "Zoom addin SSO stops working after Webview2 Runtime is installed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3156"
-        },
-        {
-          "title": "Can the experimental function \"MicrosoftRootStoreEnabled\" of version 109 be used on WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3151"
         },
         {
           "title": "A user failed to initialize (0x8000FFFF), setting folder permissions is invalid, and a timeout occurs when running with administrator permissions (0x800705B4)",
@@ -6551,6 +6575,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3117"
         },
         {
+          "title": "Can the experimental function \"MicrosoftRootStoreEnabled\" of version 109 be used on WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3151"
+        },
+        {
           "title": "c# push button in webview2 to  html web page button?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150"
         },
@@ -6571,7 +6599,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7865,6 +7893,10 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
@@ -9165,17 +9197,21 @@
     },
     {
       "date": "2023-01-24",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-01-25",
       "unRespondedItems": [
+        {
+          "title": "Microsoft.UI.Xaml no longer seems to be a package",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2422"
+        },
         {
           "title": "Delivering Runtime to managed Windows 10 devices",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
-        },
-        {
-          "title": "Navigating event",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2415"
         }
       ],
-      "rate": "95.92"
+      "rate": "95.83"
     }
   ]
 }
