@@ -1294,6 +1294,10 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
@@ -2614,6 +2618,10 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -3913,13 +3921,12 @@
     },
     {
       "date": "2023-01-25",
-      "unRespondedItems": [
-        {
-          "title": "Java script tool",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/125"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-01-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5217,6 +5224,10 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6529,7 +6540,15 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [
+        {
+          "title": "Blank Issue Observed in windows 7 with webview2 runtime while loading with spinner/Gif image",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3160"
+        },
         {
           "title": "Webview2 Windows Close Button Mouse Hover Highlight is still enabled while mouse is over WebView Control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3159"
@@ -6587,19 +6606,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         },
         {
-          "title": "App using WebView2 becomes unresponsive due to infinite 0x403 message posting.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3141"
-        },
-        {
           "title": "NavigationStarting Event does not fire",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109"
-        },
-        {
-          "title": "Locked down browser",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3103"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7897,13 +7908,21 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [
+        {
+          "title": "run java",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1342"
+        },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9201,17 +9220,17 @@
     },
     {
       "date": "2023-01-25",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-01-26",
       "unRespondedItems": [
         {
-          "title": "Microsoft.UI.Xaml no longer seems to be a package",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2422"
-        },
-        {
-          "title": "Delivering Runtime to managed Windows 10 devices",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2385"
+          "title": "In edge 109.0.1518.61, ctrl + shift + f does not open source file search anymore.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2425"
         }
       ],
-      "rate": "95.83"
+      "rate": "97.92"
     }
   ]
 }
