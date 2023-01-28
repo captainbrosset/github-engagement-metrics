@@ -1302,6 +1302,10 @@
     },
     {
       "date": "2023-01-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-01-28",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
@@ -2630,8 +2634,17 @@
     },
     {
       "date": "2023-01-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-01-28",
+      "unRespondedItems": [
+        {
+          "title": "Edit pass on topmost Readme",
+          "url": "https://github.com/MicrosoftEdge/Demos/pull/14"
+        }
+      ],
+      "rate": "92.31"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -3937,17 +3950,12 @@
     },
     {
       "date": "2023-01-27",
-      "unRespondedItems": [
-        {
-          "title": "In edge 109.0.1518.61, ctrl + shift + f does not open source file search anymore.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/126"
-        },
-        {
-          "title": "Request for CSS selector performance blog case study files",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/124"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-01-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5253,6 +5261,10 @@
     },
     {
       "date": "2023-01-27",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-01-28",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6573,7 +6585,15 @@
     },
     {
       "date": "2023-01-27",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-01-28",
       "unRespondedItems": [
+        {
+          "title": "[WindowsAppSDK 1.2] Regression: WebView2 freezes the complete UI",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3167"
+        },
         {
           "title": "Webview locks after changing scale on a VSTO addin.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3163"
@@ -6589,10 +6609,6 @@
         {
           "title": "Webview2 breaking W11 alt-tab and taskbar click - cannot focus windows/apps, certain windows get stuck in foreground",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
-        },
-        {
-          "title": "A user failed to initialize (0x8000FFFF), setting folder permissions is invalid, and a timeout occurs when running with administrator permissions (0x800705B4)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3149"
         },
         {
           "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
@@ -6633,13 +6649,9 @@
         {
           "title": "Using ShowPrintUI",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
-        },
-        {
-          "title": "NavigationStarting Event does not fire",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3109"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -7945,25 +7957,21 @@
     },
     {
       "date": "2023-01-27",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-01-28",
       "unRespondedItems": [
         {
-          "title": "Feature Guidelines",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1346"
-        },
-        {
-          "title": "report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1345"
-        },
-        {
-          "title": "my live server is not running properly",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1344"
+          "title": "display flex",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1347"
         },
         {
           "title": "Detection of no-inline-styles has too wide blast radius, fails to account for undefined",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1325"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9269,17 +9277,12 @@
     },
     {
       "date": "2023-01-27",
-      "unRespondedItems": [
-        {
-          "title": "Jaaz shiyaz",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2429"
-        },
-        {
-          "title": "configuring javascript debugging in WebView2 / different panel on VS2022 Community?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2428"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2023-01-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
