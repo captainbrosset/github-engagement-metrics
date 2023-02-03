@@ -1318,7 +1318,15 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [
+        {
+          "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
+          "url": "https://github.com/webhintio/hint/issues/5417"
+        },
         {
           "title": "[Bug] Print button doesn't work",
           "url": "https://github.com/webhintio/hint/issues/5415"
@@ -1344,7 +1352,7 @@
           "url": "https://github.com/webhintio/hint/issues/5364"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2666,13 +2674,17 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "92.86"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [
         {
-          "title": "Edit pass on topmost Readme",
-          "url": "https://github.com/MicrosoftEdge/Demos/pull/14"
+          "title": "Fixed link to JSON Viewer article",
+          "url": "https://github.com/MicrosoftEdge/Demos/pull/16"
         }
       ],
-      "rate": "92.86"
+      "rate": "93.33"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -3994,10 +4006,14 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [
         {
-          "title": "[Feedback] Heap Snapshot Visualizer",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/128"
+          "title": "Request for Chrome Extension Support and Ad Blocker Recommendation",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/129"
         }
       ],
       "rate": "98.00"
@@ -5322,6 +5338,10 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -5332,11 +5352,15 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67"
         },
         {
+          "title": "EdgeDriver.GetDevToolsSession hangs ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
+        },
+        {
           "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6658,7 +6682,35 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [
+        {
+          "title": "Programmatically access and set page in pdf viewer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3184"
+        },
+        {
+          "title": "Host Object returning multidimensional array with null.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3183"
+        },
+        {
+          "title": "anyway to get more emoji in webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
+        },
+        {
+          "title": "Mouse events not captured by WebView2 if Canvas present on top of it",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3181"
+        },
+        {
+          "title": "Blurry text in version 109.0.1518.49",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180"
+        },
+        {
+          "title": "Add Get File Real Path Authorization",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3179"
+        },
         {
           "title": "Rendering in console app not working if console app is starting as windows service child process",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3177"
@@ -6684,8 +6736,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3140"
         },
         {
-          "title": "Error loading type library/DLL. (Exception from HRESULT:0x80029C4A (TYPE_E_CANTLOADLIBRARY))",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3123"
+          "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172"
         },
         {
           "title": "Authenticate type in BasicAuthenticationRequested event",
@@ -6716,7 +6768,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         }
       ],
-      "rate": "72.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8038,6 +8090,10 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9361,6 +9417,10 @@
     },
     {
       "date": "2023-02-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
