@@ -1326,6 +1326,10 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
@@ -2682,6 +2686,10 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4013,6 +4021,10 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [
         {
           "title": "Request for Chrome Extension Support and Ad Blocker Recommendation",
@@ -5349,6 +5361,10 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6697,7 +6713,15 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [
+        {
+          "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
+        },
         {
           "title": "Host Object returning multidimensional array with null.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3183"
@@ -6761,9 +6785,13 @@
         {
           "title": "Using ShowPrintUI",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
+        },
+        {
+          "title": "Print button not working by using WebView2 to render a PDF in an UWP APP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8093,8 +8121,17 @@
     },
     {
       "date": "2023-02-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-05",
+      "unRespondedItems": [
+        {
+          "title": "integration with live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1353"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9424,6 +9461,10 @@
     },
     {
       "date": "2023-02-04",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-02-05",
       "unRespondedItems": [
         {
           "title": "Interference of BlockExternalExtensions is unclear",
