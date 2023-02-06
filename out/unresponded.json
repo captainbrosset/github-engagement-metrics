@@ -1330,6 +1330,10 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
@@ -2690,6 +2694,10 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4025,6 +4033,10 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
         {
           "title": "Request for Chrome Extension Support and Ad Blocker Recommendation",
@@ -5365,6 +5377,10 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -5375,7 +5391,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67"
         },
         {
-          "title": "EdgeDriver.GetDevToolsSession hangs ",
+          "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         },
         {
@@ -6717,7 +6733,23 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
+        {
+          "title": "ms store app security question",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3190"
+        },
+        {
+          "title": "Could not load type 'System.Windows.Forms.ContextMenu' from assembly 'System.Windows.Forms, Version=6.0.2.0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3189"
+        },
+        {
+          "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
+        },
         {
           "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
@@ -6771,10 +6803,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3164"
         },
         {
-          "title": "Can the experimental function \"MicrosoftRootStoreEnabled\" of version 109 be used on WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3151"
-        },
-        {
           "title": "c# push button in webview2 to  html web page button?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150"
         },
@@ -6791,7 +6819,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8125,13 +8153,25 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
+        {
+          "title": "shelly scanner",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1355"
+        },
+        {
+          "title": "http://192.168.8.101:5500/_DataURI/",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1354"
+        },
         {
           "title": "integration with live server",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1353"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9465,6 +9505,10 @@
     },
     {
       "date": "2023-02-05",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-02-06",
       "unRespondedItems": [
         {
           "title": "Interference of BlockExternalExtensions is unclear",

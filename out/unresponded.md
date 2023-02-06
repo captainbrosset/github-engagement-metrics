@@ -1,4 +1,4 @@
-Response rate: 91.12%
+Response rate: 89.98%
 
 * **webhintio/hint** - _88.00%_
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
@@ -13,9 +13,12 @@ Response rate: 91.12%
 * **MicrosoftEdge/EdgeWebDriver** - _92.00%_
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
-  * [EdgeDriver.GetDevToolsSession hangs ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
+  * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [ms store app security question](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3190)
+  * [Could not load type 'System.Windows.Forms.ContextMenu' from ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3189)
+  * [Select the content to share programmatically when calling `n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188)
   * [When the file msedgewebview2.exe is missing, the GetAvailabl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187)
   * [Host Object returning multidimensional array with null.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3183)
   * [anyway to get more emoji in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182)
@@ -29,12 +32,13 @@ Response rate: 91.12%
   * [Authenticate type in BasicAuthenticationRequested event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3170)
   * [[WindowsAppSDK 1.2] Regression: WebView2 freezes the complet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3167)
   * [C# compiler prototypes don't match documentation(?)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3164)
-  * [Can the experimental function "MicrosoftRootStoreEnabled" of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3151)
   * [c# push button in webview2 to  html web page button?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150)
   * [what is the canonical way to use (production) webview2 for w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148)
   * [Using ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143)
   * [Print button not working by using WebView2 to render a PDF i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [shelly scanner](https://github.com/microsoft/vscode-edge-devtools/issues/1355)
+  * [http://192.168.8.101:5500/_DataURI/](https://github.com/microsoft/vscode-edge-devtools/issues/1354)
   * [integration with live server](https://github.com/microsoft/vscode-edge-devtools/issues/1353)
 * **MicrosoftDocs/edge-developer** - _97.87%_
   * [Interference of BlockExternalExtensions is unclear](https://github.com/MicrosoftDocs/edge-developer/issues/2436)
