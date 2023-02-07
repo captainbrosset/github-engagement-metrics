@@ -15,12 +15,13 @@ Response rate: 89.98%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [How to set properly the UserDataFolder in WPF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3194)
+  * [Set logging to file shows also console  - is it a bug ? ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3192)
+  * [Why webview2 is displayed as a white screen, but other compu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3191)
   * [ms store app security question](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3190)
-  * [Could not load type 'System.Windows.Forms.ContextMenu' from ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3189)
   * [Select the content to share programmatically when calling `n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188)
   * [When the file msedgewebview2.exe is missing, the GetAvailabl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187)
-  * [Host Object returning multidimensional array with null.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3183)
   * [anyway to get more emoji in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182)
   * [Blurry text in version 109.0.1518.49](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180)
   * [Rendering in console app not working if console app is start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3177)
@@ -34,9 +35,8 @@ Response rate: 89.98%
   * [C# compiler prototypes don't match documentation(?)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3164)
   * [c# push button in webview2 to  html web page button?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150)
   * [what is the canonical way to use (production) webview2 for w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148)
-  * [Using ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143)
-  * [Print button not working by using WebView2 to render a PDF i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [check me](https://github.com/microsoft/vscode-edge-devtools/issues/1356)
   * [shelly scanner](https://github.com/microsoft/vscode-edge-devtools/issues/1355)
   * [http://192.168.8.101:5500/_DataURI/](https://github.com/microsoft/vscode-edge-devtools/issues/1354)
   * [integration with live server](https://github.com/microsoft/vscode-edge-devtools/issues/1353)

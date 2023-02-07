@@ -1334,6 +1334,10 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
@@ -2698,6 +2702,10 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4037,6 +4045,10 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
         {
           "title": "Request for Chrome Extension Support and Ad Blocker Recommendation",
@@ -5381,6 +5393,10 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6737,14 +6753,26 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
+        {
+          "title": "How to set properly the UserDataFolder in WPF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3194"
+        },
+        {
+          "title": "Set logging to file shows also console  - is it a bug ? ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3192"
+        },
+        {
+          "title": "Why webview2 is displayed as a white screen, but other computers can use the same application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3191"
+        },
         {
           "title": "ms store app security question",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3190"
-        },
-        {
-          "title": "Could not load type 'System.Windows.Forms.ContextMenu' from assembly 'System.Windows.Forms, Version=6.0.2.0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3189"
         },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
@@ -6753,10 +6781,6 @@
         {
           "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
-        },
-        {
-          "title": "Host Object returning multidimensional array with null.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3183"
         },
         {
           "title": "anyway to get more emoji in webview2",
@@ -6809,17 +6833,9 @@
         {
           "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148"
-        },
-        {
-          "title": "Using ShowPrintUI",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
-        },
-        {
-          "title": "Print button not working by using WebView2 to render a PDF in an UWP APP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3135"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8157,7 +8173,15 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
+        {
+          "title": "check me",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1356"
+        },
         {
           "title": "shelly scanner",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1355"
@@ -8171,7 +8195,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1353"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9509,6 +9533,10 @@
     },
     {
       "date": "2023-02-06",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-02-07",
       "unRespondedItems": [
         {
           "title": "Interference of BlockExternalExtensions is unclear",
