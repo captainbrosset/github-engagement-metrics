@@ -1342,6 +1342,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
@@ -2698,6 +2702,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4045,6 +4053,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5392,6 +5404,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6756,6 +6772,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [
         {
           "title": "WebView2 based app and Steam Overlay",
@@ -6782,16 +6802,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3192"
         },
         {
-          "title": "Why webview2 is displayed as a white screen, but other computers can use the same application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3191"
-        },
-        {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
-        },
-        {
-          "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
         },
         {
           "title": "anyway to get more emoji in webview2",
@@ -6810,12 +6822,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "No spellcheck suggestion is displayed when ContextMenuRequested handler takes more than a few milliseconds",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3142"
+          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
         },
         {
-          "title": "How to set properly the UserDataFolder in WPF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3194"
+          "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
         },
         {
           "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
@@ -6850,7 +6862,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         }
       ],
-      "rate": "54.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8196,13 +8208,12 @@
     },
     {
       "date": "2023-02-08",
-      "unRespondedItems": [
-        {
-          "title": "put row 2 in the middle",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1358"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-02-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9548,6 +9559,10 @@
     },
     {
       "date": "2023-02-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
