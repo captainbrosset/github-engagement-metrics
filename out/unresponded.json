@@ -1346,6 +1346,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
@@ -1356,7 +1360,7 @@
           "url": "https://github.com/webhintio/hint/issues/5362"
         }
       ],
-      "rate": "96.00"
+      "rate": "95.83"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2706,6 +2710,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4057,6 +4065,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5408,6 +5420,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -6776,31 +6792,11 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [
-        {
-          "title": "WebView2 based app and Steam Overlay",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3200"
-        },
-        {
-          "title": "Cursor does not enter new tab address bar when find window open in previous tab",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3199"
-        },
-        {
-          "title": "UWP app crashes on pressing F12 twice",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3198"
-        },
-        {
-          "title": "I want the behavior of the IsPasswordAutosaveEnabled property to match Edge",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3197"
-        },
-        {
-          "title": "In the BasicAuthenticationRequested event, I want to be able to know whether it is via Proxy authentication.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3196"
-        },
-        {
-          "title": "Set logging to file shows also console  - is it a bug ? ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3192"
-        },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
@@ -6822,12 +6818,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
+          "title": "WPF app when running in background using edge webview results in msedgewebview2.exe consuming high CPU",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207"
         },
         {
-          "title": "When the file msedgewebview2.exe is missing, the GetAvailableBrowserVersionString method should return null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3187"
+          "title": "Problems submitting form data to new window ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
+        },
+        {
+          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
         },
         {
           "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
@@ -6852,17 +6852,9 @@
         {
           "title": "c# push button in webview2 to  html web page button?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150"
-        },
-        {
-          "title": "what is the canonical way to use (production) webview2 for winstore focused web apps without getting tripped up by CORS?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3148"
-        },
-        {
-          "title": "Using ShowPrintUI",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3143"
         }
       ],
-      "rate": "58.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8212,6 +8204,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9563,6 +9559,10 @@
     },
     {
       "date": "2023-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
