@@ -1350,7 +1350,15 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [
+        {
+          "title": "Error: EACCES: permission denied, copyfile",
+          "url": "https://github.com/webhintio/hint/issues/5432"
+        },
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
           "url": "https://github.com/webhintio/hint/issues/5417"
@@ -1358,9 +1366,13 @@
         {
           "title": "HTTP ERROR: 401 Unauthorized",
           "url": "https://github.com/webhintio/hint/issues/5362"
+        },
+        {
+          "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
+          "url": "https://github.com/webhintio/hint/issues/5383"
         }
       ],
-      "rate": "95.83"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2714,6 +2726,10 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4069,6 +4085,10 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5424,7 +5444,15 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [
+        {
+          "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/69"
+        },
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
@@ -5442,7 +5470,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -6796,7 +6824,19 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [
+        {
+          "title": "Unable to load a local image using file://",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3211"
+        },
+        {
+          "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210"
+        },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
@@ -6818,18 +6858,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "WPF app when running in background using edge webview results in msedgewebview2.exe consuming high CPU",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207"
-        },
-        {
-          "title": "Problems submitting form data to new window ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
-        },
-        {
-          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
-        },
-        {
           "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172"
         },
@@ -6848,13 +6876,9 @@
         {
           "title": "Webview2 breaking W11 alt-tab and taskbar click - cannot focus windows/apps, certain windows get stuck in foreground",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
-        },
-        {
-          "title": "c# push button in webview2 to  html web page button?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3150"
         }
       ],
-      "rate": "72.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8208,8 +8232,17 @@
     },
     {
       "date": "2023-02-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-11",
+      "unRespondedItems": [
+        {
+          "title": "High cpu usage + temp",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1363"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9563,6 +9596,10 @@
     },
     {
       "date": "2023-02-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
