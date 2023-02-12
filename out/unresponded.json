@@ -1354,6 +1354,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2730,6 +2734,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4089,8 +4097,17 @@
     },
     {
       "date": "2023-02-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-12",
+      "unRespondedItems": [
+        {
+          "title": "Restore split window upon start",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/132"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5448,6 +5465,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6828,6 +6849,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [
         {
           "title": "Unable to load a local image using file://",
@@ -6858,6 +6883,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
+          "title": "About the zxcvbndata folder under the EBWebView directory",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3204"
+        },
+        {
           "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172"
         },
@@ -6878,7 +6907,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8236,6 +8265,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [
         {
           "title": "High cpu usage + temp",
@@ -9600,6 +9633,10 @@
     },
     {
       "date": "2023-02-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
