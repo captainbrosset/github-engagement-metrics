@@ -1358,6 +1358,10 @@
     },
     {
       "date": "2023-02-12",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-02-14",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2738,6 +2742,10 @@
     },
     {
       "date": "2023-02-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4101,13 +4109,12 @@
     },
     {
       "date": "2023-02-12",
-      "unRespondedItems": [
-        {
-          "title": "Restore split window upon start",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/132"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-02-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5469,6 +5476,10 @@
     },
     {
       "date": "2023-02-12",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-14",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6853,7 +6864,15 @@
     },
     {
       "date": "2023-02-12",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-02-14",
       "unRespondedItems": [
+        {
+          "title": "Create QR Code for this page context menu item removed from 110.0.1587.41",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3214"
+        },
         {
           "title": "Unable to load a local image using file://",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3211"
@@ -6883,8 +6902,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "About the zxcvbndata folder under the EBWebView directory",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3204"
+          "title": "WPF app when running in background using edge webview results in msedgewebview2.exe consuming high CPU",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207"
+        },
+        {
+          "title": "Problems submitting form data to new window ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         },
         {
           "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
@@ -6907,7 +6930,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8269,10 +8292,14 @@
     },
     {
       "date": "2023-02-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-14",
       "unRespondedItems": [
         {
-          "title": "High cpu usage + temp",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1363"
+          "title": "unable to open https links",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1364"
         }
       ],
       "rate": "98.00"
@@ -9637,8 +9664,17 @@
     },
     {
       "date": "2023-02-12",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-14",
+      "unRespondedItems": [
+        {
+          "title": "Changes in manifest.json from V2 to V3 host permissions and permissions merged in to host_permissions?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2444"
+        }
+      ],
+      "rate": "97.96"
     }
   ]
 }
