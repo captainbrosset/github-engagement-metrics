@@ -24,6 +24,7 @@ jobs:
       - name: Check in the file changes
         run: |
           git config user.name "GitHub Actions Bot"
+          git config user.email "patrick.brosset@microsoft.com"
           git commit -a -m "Daily data retrieval"
           git push origin main
 
