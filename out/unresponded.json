@@ -1370,11 +1370,11 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5433"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1396,7 +1396,7 @@
           "url": "https://github.com/webhintio/hint/issues/5383"
         }
       ],
-      "rate": "87.76"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2770,6 +2770,10 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4145,6 +4149,10 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5520,6 +5528,10 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6916,30 +6928,14 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [
         {
-          "title": "Async Interop Calls into .NET always return `true`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3218"
-        },
-        {
-          "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
-        },
-        {
-          "title": "Is CoreWebView2Frame still in development?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3216"
-        },
-        {
-          "title": "What compatibility guarantees does WebView2Loader.dll give?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3215"
-        },
-        {
-          "title": "Create QR Code for this page context menu item removed from 110.0.1587.41",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3214"
-        },
-        {
-          "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210"
+          "title": "WPF FileNotFoundException on initialisation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222"
         },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
@@ -6958,8 +6954,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "Unable to load a local image using file://",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3211"
+          "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
+        },
+        {
+          "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210"
         },
         {
           "title": "WPF app when running in background using edge webview results in msedgewebview2.exe consuming high CPU",
@@ -6978,23 +6978,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172"
         },
         {
-          "title": "Authenticate type in BasicAuthenticationRequested event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3170"
-        },
-        {
           "title": "[WindowsAppSDK 1.2] Regression: WebView2 freezes the complete UI",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3167"
         },
         {
           "title": "C# compiler prototypes don't match documentation(?)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3164"
-        },
-        {
-          "title": "Webview2 breaking W11 alt-tab and taskbar click - cannot focus windows/apps, certain windows get stuck in foreground",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3157"
         }
       ],
-      "rate": "62.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8368,13 +8360,25 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [
         {
-          "title": " http://172.20.10.14:5000/",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1367"
+          "title": "LIBYA",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1370"
+        },
+        {
+          "title": "leda",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1368"
+        },
+        {
+          "title": "aziko",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1369"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9748,6 +9752,10 @@
     },
     {
       "date": "2023-02-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
