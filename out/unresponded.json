@@ -1374,6 +1374,10 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2774,6 +2778,10 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4153,6 +4161,10 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5532,6 +5544,10 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6932,10 +6948,26 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [
         {
-          "title": "WPF FileNotFoundException on initialisation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222"
+          "title": "Edge webview evergreen bootstrapper to download compatible version based on OS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3228"
+        },
+        {
+          "title": "Only one CoreWebView2.PermissionRequested event is raised when requesting pan tilt zoom permission",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3227"
+        },
+        {
+          "title": "Edge permission popup is visible even though permission request is denied when using external webcam",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3226"
+        },
+        {
+          "title": "Crashpad folder empty after simulating browser crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
         },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
@@ -6954,8 +6986,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
+          "title": "WPF FileNotFoundException on initialisation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222"
+        },
+        {
           "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
+        },
+        {
+          "title": "What compatibility guarantees does WebView2Loader.dll give?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3215"
         },
         {
           "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
@@ -6968,6 +7008,10 @@
         {
           "title": "Problems submitting form data to new window ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
+        },
+        {
+          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
         },
         {
           "title": "anyway to get more emoji in webview2",
@@ -6986,7 +7030,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3164"
         }
       ],
-      "rate": "74.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8364,21 +8408,21 @@
     },
     {
       "date": "2023-02-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-02-18",
       "unRespondedItems": [
         {
-          "title": "LIBYA",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1370"
+          "title": "report",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1374"
         },
         {
-          "title": "leda",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1368"
-        },
-        {
-          "title": "aziko",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1369"
+          "title": "test.py",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1373"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9756,8 +9800,17 @@
     },
     {
       "date": "2023-02-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-18",
+      "unRespondedItems": [
+        {
+          "title": "Device Emulation Missing in WebView2 Dev Tools",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2448"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
