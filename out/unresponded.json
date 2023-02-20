@@ -1382,6 +1382,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2790,6 +2794,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4177,6 +4185,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5564,6 +5576,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6972,6 +6988,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [
         {
           "title": "Edge webview evergreen bootstrapper to download compatible version based on OS",
@@ -8436,6 +8456,10 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [
         {
           "title": "help]",
@@ -9840,7 +9864,15 @@
     },
     {
       "date": "2023-02-19",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-02-20",
       "unRespondedItems": [
+        {
+          "title": "## Description ash",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2454"
+        },
         {
           "title": "[DevTools Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2453"
@@ -9850,7 +9882,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2448"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ]
 }

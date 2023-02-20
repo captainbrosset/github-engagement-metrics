@@ -1,4 +1,4 @@
-Response rate: 89.96%
+Response rate: 89.67%
 
 * **webhintio/hint** - _89.80%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -39,6 +39,7 @@ Response rate: 89.96%
   * [Not able to see the script file content after linking it](https://github.com/microsoft/vscode-edge-devtools/issues/1375)
   * [report](https://github.com/microsoft/vscode-edge-devtools/issues/1374)
   * [test.py](https://github.com/microsoft/vscode-edge-devtools/issues/1373)
-* **MicrosoftDocs/edge-developer** - _95.92%_
+* **MicrosoftDocs/edge-developer** - _93.88%_
+  * [## Description ash](https://github.com/MicrosoftDocs/edge-developer/issues/2454)
   * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2453)
   * [Device Emulation Missing in WebView2 Dev Tools](https://github.com/MicrosoftDocs/edge-developer/issues/2448)
