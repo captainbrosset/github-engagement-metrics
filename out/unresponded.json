@@ -1386,7 +1386,15 @@
     },
     {
       "date": "2023-02-20",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-21",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5435"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1402,10 +1410,6 @@
         {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
           "url": "https://github.com/webhintio/hint/issues/5404"
-        },
-        {
-          "title": "Documentation for Static Code Analysis through a command line and not through VSCode extension",
-          "url": "https://github.com/webhintio/hint/issues/5383"
         }
       ],
       "rate": "89.80"
@@ -2798,6 +2802,10 @@
     },
     {
       "date": "2023-02-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4189,8 +4197,17 @@
     },
     {
       "date": "2023-02-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-21",
+      "unRespondedItems": [
+        {
+          "title": "Device Emulation Missing in WebView2 Dev Tools",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/134"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5580,6 +5597,10 @@
     },
     {
       "date": "2023-02-20",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-21",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -6992,22 +7013,14 @@
     },
     {
       "date": "2023-02-20",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-02-21",
       "unRespondedItems": [
         {
-          "title": "Edge webview evergreen bootstrapper to download compatible version based on OS",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3228"
-        },
-        {
-          "title": "Only one CoreWebView2.PermissionRequested event is raised when requesting pan tilt zoom permission",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3227"
-        },
-        {
-          "title": "Edge permission popup is visible even though permission request is denied when using external webcam",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3226"
-        },
-        {
-          "title": "Crashpad folder empty after simulating browser crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
+          "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
         },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
@@ -7026,8 +7039,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3169"
         },
         {
-          "title": "COMException reading WebResourceResponse content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3229"
+          "title": "Edge webview evergreen bootstrapper to download compatible version based on OS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3228"
         },
         {
           "title": "WPF FileNotFoundException on initialisation",
@@ -7036,10 +7049,6 @@
         {
           "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
-        },
-        {
-          "title": "What compatibility guarantees does WebView2Loader.dll give?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3215"
         },
         {
           "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
@@ -7054,10 +7063,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         },
         {
-          "title": "Multiple WebView2 instances hosted in the same window crashed at once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3202"
-        },
-        {
           "title": "anyway to get more emoji in webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
         },
@@ -7070,7 +7075,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3167"
         }
       ],
-      "rate": "62.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8460,25 +8465,17 @@
     },
     {
       "date": "2023-02-20",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-21",
       "unRespondedItems": [
         {
-          "title": "help]",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1376"
-        },
-        {
-          "title": "Not able to see the script file content after linking it",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1375"
-        },
-        {
-          "title": "report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1374"
-        },
-        {
-          "title": "test.py",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1373"
+          "title": "Joker4317j",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1377"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9868,21 +9865,12 @@
     },
     {
       "date": "2023-02-20",
-      "unRespondedItems": [
-        {
-          "title": "## Description ash",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2454"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2453"
-        },
-        {
-          "title": "Device Emulation Missing in WebView2 Dev Tools",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2448"
-        }
-      ],
       "rate": "93.88"
+    },
+    {
+      "date": "2023-02-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
