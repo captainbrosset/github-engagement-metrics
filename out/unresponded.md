@@ -1,4 +1,4 @@
-Response rate: 92.83%
+Response rate: 91.94%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5435)
@@ -15,20 +15,23 @@ Response rate: 92.83%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
+  * [Disable Efficiency Mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3238)
+  * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
   * [Select the content to share programmatically when calling `n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188)
   * [Blurry text in version 109.0.1518.49](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180)
   * [Rendering in console app not working if console app is start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3177)
   * [ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230)
-  * [COMException reading WebResourceResponse content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3229)
   * [Crashpad folder empty after simulating browser crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225)
   * [The "beforeunload" addEventListener does not fire when closi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217)
   * [chrome.webview.hostObjects - The error message is unrecogniz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210)
   * [WPF app when running in background using edge webview result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207)
   * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
   * [anyway to get more emoji in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182)
-  * [Unable to load DLL 'WebView2Loader.dll': The specified modul...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Can't understand the good workflow to debug a chrome extensi...](https://github.com/microsoft/vscode-edge-devtools/issues/1378)
-  * [Joker4317j](https://github.com/microsoft/vscode-edge-devtools/issues/1377)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Support for vscode portable](https://github.com/microsoft/vscode-edge-devtools/issues/1379)
+* **MicrosoftDocs/edge-developer** - _93.75%_
+  * [perry issue](https://github.com/MicrosoftDocs/edge-developer/issues/2463)
+  * [Brave](https://github.com/MicrosoftDocs/edge-developer/issues/2462)
+  * [SPAIN - system webview2 have error with system resources in ...](https://github.com/MicrosoftDocs/edge-developer/issues/2461)

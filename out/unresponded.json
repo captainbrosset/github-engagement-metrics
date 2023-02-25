@@ -1402,6 +1402,10 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2830,6 +2834,10 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4237,6 +4245,10 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [
         {
           "title": "Device Emulation Missing in WebView2 Dev Tools",
@@ -5649,6 +5661,10 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7077,7 +7093,23 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [
+        {
+          "title": "Property to check the current state of the WebView control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
+        },
+        {
+          "title": "Disable Efficiency Mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3238"
+        },
+        {
+          "title": "Webview2 spellcheck suggestions empty for Dutch language",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+        },
         {
           "title": "Select the content to share programmatically when calling `navigator.mediaDevices.getDisplayDevices` ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
@@ -7093,10 +7125,6 @@
         {
           "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
-        },
-        {
-          "title": "COMException reading WebResourceResponse content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3229"
         },
         {
           "title": "Crashpad folder empty after simulating browser crash",
@@ -7121,13 +7149,9 @@
         {
           "title": "anyway to get more emoji in webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
-        },
-        {
-          "title": "Unable to load DLL 'WebView2Loader.dll': The specified module could not be found - runtime folder is not getting installed with the app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3172"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8533,17 +8557,17 @@
     },
     {
       "date": "2023-02-24",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-02-25",
       "unRespondedItems": [
         {
-          "title": "Can't understand the good workflow to debug a chrome extension",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1378"
-        },
-        {
-          "title": "Joker4317j",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1377"
+          "title": "Support for vscode portable",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1379"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9949,8 +9973,25 @@
     },
     {
       "date": "2023-02-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-02-25",
+      "unRespondedItems": [
+        {
+          "title": "perry issue",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2463"
+        },
+        {
+          "title": "Brave",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2462"
+        },
+        {
+          "title": "SPAIN - system webview2 have error with system resources in Edge 110 all versions [DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2461"
+        }
+      ],
+      "rate": "93.75"
     }
   ]
 }
