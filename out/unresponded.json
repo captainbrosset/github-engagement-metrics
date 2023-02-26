@@ -1406,6 +1406,10 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2838,6 +2842,10 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4249,6 +4257,10 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
         {
           "title": "Device Emulation Missing in WebView2 Dev Tools",
@@ -5665,6 +5677,10 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7097,7 +7113,15 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
+        {
+          "title": "Can WebView2 be used inside a Dll?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
+        },
         {
           "title": "Property to check the current state of the WebView control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
@@ -7151,7 +7175,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8561,13 +8585,25 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
+        {
+          "title": "remoteHub.logLevel not working ....repository button error on operation",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1381"
+        },
+        {
+          "title": "custom executable path for msedge flatpak",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1380"
+        },
         {
           "title": "Support for vscode portable",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1379"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -9977,6 +10013,10 @@
     },
     {
       "date": "2023-02-25",
+      "rate": "93.75"
+    },
+    {
+      "date": "2023-02-26",
       "unRespondedItems": [
         {
           "title": "perry issue",
@@ -9987,11 +10027,15 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2462"
         },
         {
+          "title": "Broken link to \"Microsoft Edge (EdgeHTML) Virtual Machines\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2468"
+        },
+        {
           "title": "SPAIN - system webview2 have error with system resources in Edge 110 all versions [DevTools Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2461"
         }
       ],
-      "rate": "93.75"
+      "rate": "91.67"
     }
   ]
 }

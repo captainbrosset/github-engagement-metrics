@@ -1,4 +1,4 @@
-Response rate: 91.94%
+Response rate: 90.78%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5435)
@@ -15,7 +15,8 @@ Response rate: 91.94%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
   * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
   * [Disable Efficiency Mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3238)
   * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
@@ -29,9 +30,12 @@ Response rate: 91.94%
   * [WPF app when running in background using edge webview result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207)
   * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
   * [anyway to get more emoji in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [remoteHub.logLevel not working ....repository button error o...](https://github.com/microsoft/vscode-edge-devtools/issues/1381)
+  * [custom executable path for msedge flatpak](https://github.com/microsoft/vscode-edge-devtools/issues/1380)
   * [Support for vscode portable](https://github.com/microsoft/vscode-edge-devtools/issues/1379)
-* **MicrosoftDocs/edge-developer** - _93.75%_
+* **MicrosoftDocs/edge-developer** - _91.67%_
   * [perry issue](https://github.com/MicrosoftDocs/edge-developer/issues/2463)
   * [Brave](https://github.com/MicrosoftDocs/edge-developer/issues/2462)
+  * [Broken link to "Microsoft Edge (EdgeHTML) Virtual Machines"](https://github.com/MicrosoftDocs/edge-developer/issues/2468)
   * [SPAIN - system webview2 have error with system resources in ...](https://github.com/MicrosoftDocs/edge-developer/issues/2461)
