@@ -1410,6 +1410,10 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -2846,6 +2850,10 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4261,6 +4269,10 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
         {
           "title": "Device Emulation Missing in WebView2 Dev Tools",
@@ -5681,6 +5693,10 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7117,7 +7133,19 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
+        {
+          "title": "Problems with Date and DateTime parsing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3242"
+        },
+        {
+          "title": "I wonder what causes the printing error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3241"
+        },
         {
           "title": "Can WebView2 be used inside a Dll?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
@@ -7141,10 +7169,6 @@
         {
           "title": "Blurry text in version 109.0.1518.49",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180"
-        },
-        {
-          "title": "Rendering in console app not working if console app is starting as windows service child process",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3177"
         },
         {
           "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
@@ -7175,7 +7199,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8589,7 +8613,15 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
+        {
+          "title": "frame",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1382"
+        },
         {
           "title": "remoteHub.logLevel not working ....repository button error on operation",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1381"
@@ -8603,7 +8635,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1379"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10017,6 +10049,10 @@
     },
     {
       "date": "2023-02-26",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-02-27",
       "unRespondedItems": [
         {
           "title": "perry issue",
