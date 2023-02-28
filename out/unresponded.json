@@ -1414,11 +1414,11 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5435"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1436,7 +1436,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.80"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -2854,6 +2854,10 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4273,13 +4277,12 @@
     },
     {
       "date": "2023-02-27",
-      "unRespondedItems": [
-        {
-          "title": "Device Emulation Missing in WebView2 Dev Tools",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/134"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-02-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5697,6 +5700,10 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7137,26 +7144,18 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [
         {
-          "title": "Problems with Date and DateTime parsing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3242"
+          "title": "PDF Viewer Toolbar: Three dots menu shows hidden toolbar items",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3244"
         },
         {
-          "title": "I wonder what causes the printing error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3241"
-        },
-        {
-          "title": "Can WebView2 be used inside a Dll?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
-        },
-        {
-          "title": "Property to check the current state of the WebView control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
-        },
-        {
-          "title": "Disable Efficiency Mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3238"
+          "title": "Size limit of User Data Folder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3243"
         },
         {
           "title": "Webview2 spellcheck suggestions empty for Dutch language",
@@ -7171,12 +7170,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180"
         },
         {
-          "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
+          "title": "Property to check the current state of the WebView control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
         },
         {
-          "title": "Crashpad folder empty after simulating browser crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
+          "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
         },
         {
           "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
@@ -7199,7 +7198,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
         }
       ],
-      "rate": "70.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8617,25 +8616,17 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [
         {
-          "title": "frame",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1382"
-        },
-        {
-          "title": "remoteHub.logLevel not working ....repository button error on operation",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1381"
-        },
-        {
-          "title": "custom executable path for msedge flatpak",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1380"
-        },
-        {
-          "title": "Support for vscode portable",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1379"
+          "title": "Error oom code -536870904",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1383"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10053,25 +10044,21 @@
     },
     {
       "date": "2023-02-27",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-02-28",
       "unRespondedItems": [
         {
-          "title": "perry issue",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2463"
-        },
-        {
-          "title": "Brave",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2462"
+          "title": "someone has got into my system help please",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2470"
         },
         {
           "title": "Broken link to \"Microsoft Edge (EdgeHTML) Virtual Machines\"",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2468"
-        },
-        {
-          "title": "SPAIN - system webview2 have error with system resources in Edge 110 all versions [DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2461"
         }
       ],
-      "rate": "91.67"
+      "rate": "95.83"
     }
   ]
 }
