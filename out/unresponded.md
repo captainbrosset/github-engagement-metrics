@@ -1,4 +1,4 @@
-Response rate: 93.10%
+Response rate: 92.54%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -13,21 +13,23 @@ Response rate: 93.10%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
-  * [PDF Viewer Toolbar: Three dots menu shows hidden toolbar ite...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3244)
-  * [Size limit of User Data Folder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3243)
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [Duplicate cipher suite in list of supported ciphers Version ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3248)
+  * [REDC](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3247)
+  * [RED](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3246)
+  * [External applications started from WebView2 (like Zoom) are ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245)
   * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
   * [Select the content to share programmatically when calling `n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188)
-  * [Blurry text in version 109.0.1518.49](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180)
+  * [PrintToPdfAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249)
+  * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
   * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
   * [ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230)
+  * [Crashpad folder empty after simulating browser crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225)
+  * [WPF FileNotFoundException on initialisation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222)
   * [The "beforeunload" addEventListener does not fire when closi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217)
   * [chrome.webview.hostObjects - The error message is unrecogniz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210)
-  * [WPF app when running in background using edge webview result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207)
   * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
-  * [anyway to get more emoji in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Error oom code -536870904](https://github.com/microsoft/vscode-edge-devtools/issues/1383)
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [someone has got into my system help please](https://github.com/MicrosoftDocs/edge-developer/issues/2470)
-  * [Broken link to "Microsoft Edge (EdgeHTML) Virtual Machines"](https://github.com/MicrosoftDocs/edge-developer/issues/2468)
+  * [i need to move a couple divisions to right side right](https://github.com/microsoft/vscode-edge-devtools/issues/1384)
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2473)

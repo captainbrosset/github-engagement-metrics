@@ -1418,6 +1418,10 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2858,6 +2862,10 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4281,6 +4289,10 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5704,6 +5716,10 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7148,14 +7164,26 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [
         {
-          "title": "PDF Viewer Toolbar: Three dots menu shows hidden toolbar items",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3244"
+          "title": "Duplicate cipher suite in list of supported ciphers Version 110.0.1587.57 (Official build) (64-bit)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3248"
         },
         {
-          "title": "Size limit of User Data Folder",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3243"
+          "title": "REDC",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3247"
+        },
+        {
+          "title": "RED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3246"
+        },
+        {
+          "title": "External applications started from WebView2 (like Zoom) are display under WebView2 icon group",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245"
         },
         {
           "title": "Webview2 spellcheck suggestions empty for Dutch language",
@@ -7166,8 +7194,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3188"
         },
         {
-          "title": "Blurry text in version 109.0.1518.49",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3180"
+          "title": "PrintToPdfAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249"
+        },
+        {
+          "title": "Can WebView2 be used inside a Dll?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
         },
         {
           "title": "Property to check the current state of the WebView control",
@@ -7178,6 +7210,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
         },
         {
+          "title": "Crashpad folder empty after simulating browser crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
+        },
+        {
+          "title": "WPF FileNotFoundException on initialisation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222"
+        },
+        {
           "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
         },
@@ -7186,19 +7226,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210"
         },
         {
-          "title": "WPF app when running in background using edge webview results in msedgewebview2.exe consuming high CPU",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3207"
-        },
-        {
           "title": "Problems submitting form data to new window ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
-        },
-        {
-          "title": "anyway to get more emoji in webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3182"
         }
       ],
-      "rate": "76.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8620,10 +8652,14 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [
         {
-          "title": "Error oom code -536870904",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1383"
+          "title": "i need to move a couple divisions to right side right",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1384"
         }
       ],
       "rate": "98.00"
@@ -10048,17 +10084,17 @@
     },
     {
       "date": "2023-02-28",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-03-01",
       "unRespondedItems": [
         {
-          "title": "someone has got into my system help please",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2470"
-        },
-        {
-          "title": "Broken link to \"Microsoft Edge (EdgeHTML) Virtual Machines\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2468"
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2473"
         }
       ],
-      "rate": "95.83"
+      "rate": "97.92"
     }
   ]
 }
