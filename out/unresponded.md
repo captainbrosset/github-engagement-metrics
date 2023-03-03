@@ -1,4 +1,4 @@
-Response rate: 93.98%
+Response rate: 92.23%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -13,18 +13,24 @@ Response rate: 93.98%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [Support for WebExtensions with UI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3259)
+  * [Support for UI-less extensions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3258)
   * [CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255)
-  * [Which event is fired when the site is loaded along with the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253)
   * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
+  * [webview2 runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257)
+  * [Which event is fired when the site is loaded along with the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253)
+  * [How to set response directly in WebResourceRequested?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252)
+  * [PrintToPdfAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249)
   * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
   * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
+  * [ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230)
   * [Crashpad folder empty after simulating browser crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225)
   * [WPF FileNotFoundException on initialisation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222)
   * [The "beforeunload" addEventListener does not fire when closi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217)
   * [chrome.webview.hostObjects - The error message is unrecogniz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210)
   * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Moving Webview and Dev Tools to the secondary sidebar.](https://github.com/microsoft/vscode-edge-devtools/issues/1387)
-  * [AnalyzerError: Missing or incompatible dependencies and hint...](https://github.com/microsoft/vscode-edge-devtools/issues/1385)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Set background-image (URL) in thead, When you print it, it's...](https://github.com/MicrosoftDocs/edge-developer/issues/2478)
+  * [Updated "Get started with WebView2 in WinUI 2 (UWP) apps"](https://github.com/MicrosoftDocs/edge-developer/pull/2456)

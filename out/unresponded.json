@@ -1426,6 +1426,10 @@
     },
     {
       "date": "2023-03-02",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-03",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2874,6 +2878,10 @@
     },
     {
       "date": "2023-03-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4305,6 +4313,10 @@
     },
     {
       "date": "2023-03-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5736,6 +5748,10 @@
     },
     {
       "date": "2023-03-02",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-03",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7188,18 +7204,42 @@
     },
     {
       "date": "2023-03-02",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-03-03",
       "unRespondedItems": [
+        {
+          "title": "Support for WebExtensions with UI",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3259"
+        },
+        {
+          "title": "Support for UI-less extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3258"
+        },
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
+        },
+        {
+          "title": "Webview2 spellcheck suggestions empty for Dutch language",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+        },
+        {
+          "title": "webview2 runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257"
         },
         {
           "title": "Which event is fired when the site is loaded along with the injected JavaScript?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253"
         },
         {
-          "title": "Webview2 spellcheck suggestions empty for Dutch language",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+          "title": "How to set response directly in WebResourceRequested?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
+        },
+        {
+          "title": "PrintToPdfAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249"
         },
         {
           "title": "Can WebView2 be used inside a Dll?",
@@ -7208,6 +7248,10 @@
         {
           "title": "Property to check the current state of the WebView control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
+        },
+        {
+          "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
         },
         {
           "title": "Crashpad folder empty after simulating browser crash",
@@ -7230,7 +7274,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         }
       ],
-      "rate": "80.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8660,17 +8704,12 @@
     },
     {
       "date": "2023-03-02",
-      "unRespondedItems": [
-        {
-          "title": "Moving Webview and Dev Tools to the secondary sidebar.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1387"
-        },
-        {
-          "title": "AnalyzerError: Missing or incompatible dependencies and hint breaking change",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1385"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-03-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10100,8 +10139,21 @@
     },
     {
       "date": "2023-03-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-03",
+      "unRespondedItems": [
+        {
+          "title": "Set background-image (URL) in thead, When you print it, it's going to be split.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2478"
+        },
+        {
+          "title": "Updated \"Get started with WebView2 in WinUI 2 (UWP) apps\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2456"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }
