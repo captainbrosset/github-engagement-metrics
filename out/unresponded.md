@@ -1,4 +1,4 @@
-Response rate: 92.23%
+Response rate: 93.10%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -13,9 +13,8 @@ Response rate: 92.23%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
-  * [Support for WebExtensions with UI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3259)
-  * [Support for UI-less extensions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3258)
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Closing WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3260)
   * [CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255)
   * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
   * [webview2 runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257)
@@ -28,9 +27,7 @@ Response rate: 92.23%
   * [Crashpad folder empty after simulating browser crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225)
   * [WPF FileNotFoundException on initialisation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222)
   * [The "beforeunload" addEventListener does not fire when closi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217)
-  * [chrome.webview.hostObjects - The error message is unrecogniz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210)
   * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.74%_
-  * [Set background-image (URL) in thead, When you print it, it's...](https://github.com/MicrosoftDocs/edge-developer/issues/2478)
-  * [Updated "Get started with WebView2 in WinUI 2 (UWP) apps"](https://github.com/MicrosoftDocs/edge-developer/pull/2456)
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [Webview2 - Evergreen link to newest offline x64 version](https://github.com/MicrosoftDocs/edge-developer/issues/2479)

@@ -1430,6 +1430,10 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2882,6 +2886,10 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4317,6 +4325,10 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5752,6 +5764,10 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7208,14 +7224,14 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [
         {
-          "title": "Support for WebExtensions with UI",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3259"
-        },
-        {
-          "title": "Support for UI-less extensions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3258"
+          "title": "Closing WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3260"
         },
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
@@ -7266,15 +7282,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
         },
         {
-          "title": "chrome.webview.hostObjects - The error message is unrecognizable - Error: �Ҳ���Ԫ�ء� (0x80070490)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3210"
-        },
-        {
           "title": "Problems submitting form data to new window ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         }
       ],
-      "rate": "68.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8708,6 +8720,10 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10143,17 +10159,17 @@
     },
     {
       "date": "2023-03-03",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-03-04",
       "unRespondedItems": [
         {
-          "title": "Set background-image (URL) in thead, When you print it, it's going to be split.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2478"
-        },
-        {
-          "title": "Updated \"Get started with WebView2 in WinUI 2 (UWP) apps\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2456"
+          "title": "Webview2 - Evergreen link to newest offline x64 version",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2479"
         }
       ],
-      "rate": "95.74"
+      "rate": "97.83"
     }
   ]
 }
