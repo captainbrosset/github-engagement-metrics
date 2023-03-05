@@ -1434,6 +1434,10 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2890,6 +2894,10 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4329,6 +4337,10 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5768,6 +5780,10 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7228,7 +7244,15 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [
+        {
+          "title": "use wpf webview in excel vsto program issue error 0x80004002 when closing excel",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261"
+        },
         {
           "title": "Closing WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3260"
@@ -7286,7 +7310,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8724,6 +8748,10 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10163,13 +10191,25 @@
     },
     {
       "date": "2023-03-04",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-03-05",
       "unRespondedItems": [
+        {
+          "title": "EdgeOptions addArguments is not supported",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2483"
+        },
+        {
+          "title": "Confusing, incorrect documentation \"Publish a Progressive Web App to the Microsoft Store\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2482"
+        },
         {
           "title": "Webview2 - Evergreen link to newest offline x64 version",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2479"
         }
       ],
-      "rate": "97.83"
+      "rate": "93.48"
     }
   ]
 }
