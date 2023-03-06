@@ -1438,6 +1438,10 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2898,6 +2902,10 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4341,6 +4349,10 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5784,6 +5796,10 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
@@ -7248,7 +7264,15 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [
+        {
+          "title": "Can I use it without wrl in C++?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3264"
+        },
         {
           "title": "use wpf webview in excel vsto program issue error 0x80004002 when closing excel",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261"
@@ -7310,7 +7334,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8752,8 +8776,17 @@
     },
     {
       "date": "2023-03-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-06",
+      "unRespondedItems": [
+        {
+          "title": "G",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1390"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10195,6 +10228,10 @@
     },
     {
       "date": "2023-03-05",
+      "rate": "93.48"
+    },
+    {
+      "date": "2023-03-06",
       "unRespondedItems": [
         {
           "title": "EdgeOptions addArguments is not supported",
