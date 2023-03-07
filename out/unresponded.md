@@ -1,4 +1,4 @@
-Response rate: 91.62%
+Response rate: 91.67%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -7,32 +7,32 @@ Response rate: 91.62%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
+  * [If a "Renderer" fallback task is shown, it is a bug](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/71)
+  * [Need edge driver version 98](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/70)
   * [Unable to launch in headless mode with user-data-dir in 110....](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/69)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _68.00%_
-  * [Can I use it without wrl in C++?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3264)
-  * [use wpf webview in excel vsto program issue error 0x80004002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261)
-  * [Closing WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3260)
+  * [Printing with Microsoft print to PDF](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3271)
+  * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
+  * [Download never completes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3268)
+  * [CoreWebView2 is always null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3267)
   * [CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255)
   * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
+  * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
   * [webview2 runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257)
   * [Which event is fired when the site is loaded along with the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253)
   * [How to set response directly in WebResourceRequested?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252)
-  * [PrintToPdfAsync](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249)
   * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
   * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
   * [ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230)
   * [Crashpad folder empty after simulating browser crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225)
-  * [WPF FileNotFoundException on initialisation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222)
   * [The "beforeunload" addEventListener does not fire when closi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217)
-  * [Problems submitting form data to new window ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203)
+  * [Create QR Code for this page context menu item removed from ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3214)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [G](https://github.com/microsoft/vscode-edge-devtools/issues/1390)
-* **MicrosoftDocs/edge-developer** - _93.48%_
-  * [EdgeOptions addArguments is not supported](https://github.com/MicrosoftDocs/edge-developer/issues/2483)
-  * [Confusing, incorrect documentation "Publish a Progressive We...](https://github.com/MicrosoftDocs/edge-developer/issues/2482)
-  * [Webview2 - Evergreen link to newest offline x64 version](https://github.com/MicrosoftDocs/edge-developer/issues/2479)
+  * [Pagina inicial](https://github.com/microsoft/vscode-edge-devtools/issues/1391)
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [Incorrect screenshot to display differences for Focus Mode i...](https://github.com/MicrosoftDocs/edge-developer/issues/2486)

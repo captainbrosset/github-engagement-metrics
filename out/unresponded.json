@@ -1442,6 +1442,10 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2906,6 +2910,10 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4353,6 +4361,10 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5800,7 +5812,19 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [
+        {
+          "title": "If a \"Renderer\" fallback task is shown, it is a bug",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/71"
+        },
+        {
+          "title": "Need edge driver version 98",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/70"
+        },
         {
           "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/69"
@@ -5822,7 +5846,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7268,18 +7292,26 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [
         {
-          "title": "Can I use it without wrl in C++?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3264"
+          "title": "Printing with Microsoft print to PDF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3271"
         },
         {
-          "title": "use wpf webview in excel vsto program issue error 0x80004002 when closing excel",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261"
+          "title": "How can we display the Page Setup?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
         },
         {
-          "title": "Closing WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3260"
+          "title": "Download never completes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3268"
+        },
+        {
+          "title": "CoreWebView2 is always null",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3267"
         },
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
@@ -7288,6 +7320,10 @@
         {
           "title": "Webview2 spellcheck suggestions empty for Dutch language",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+        },
+        {
+          "title": "Can we have hidden WebView2 and still invoke Printing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
         },
         {
           "title": "webview2 runtime",
@@ -7300,10 +7336,6 @@
         {
           "title": "How to set response directly in WebResourceRequested?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
-        },
-        {
-          "title": "PrintToPdfAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3249"
         },
         {
           "title": "Can WebView2 be used inside a Dll?",
@@ -7322,16 +7354,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
         },
         {
-          "title": "WPF FileNotFoundException on initialisation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3222"
-        },
-        {
           "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
         },
         {
-          "title": "Problems submitting form data to new window ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3203"
+          "title": "Create QR Code for this page context menu item removed from 110.0.1587.41",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3214"
         }
       ],
       "rate": "68.00"
@@ -8780,10 +8808,14 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [
         {
-          "title": "G",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1390"
+          "title": "Pagina inicial",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1391"
         }
       ],
       "rate": "98.00"
@@ -10232,21 +10264,17 @@
     },
     {
       "date": "2023-03-06",
+      "rate": "93.48"
+    },
+    {
+      "date": "2023-03-07",
       "unRespondedItems": [
         {
-          "title": "EdgeOptions addArguments is not supported",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2483"
-        },
-        {
-          "title": "Confusing, incorrect documentation \"Publish a Progressive Web App to the Microsoft Store\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2482"
-        },
-        {
-          "title": "Webview2 - Evergreen link to newest offline x64 version",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2479"
+          "title": "Incorrect screenshot to display differences for Focus Mode in DevTools",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2486"
         }
       ],
-      "rate": "93.48"
+      "rate": "97.87"
     }
   ]
 }
