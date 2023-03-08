@@ -1446,6 +1446,10 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2914,6 +2918,10 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4365,6 +4373,10 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5816,6 +5828,10 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [
         {
           "title": "If a \"Renderer\" fallback task is shown, it is a bug",
@@ -7296,22 +7312,22 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [
         {
-          "title": "Printing with Microsoft print to PDF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3271"
+          "title": "Editable PDF form fields are getting cached",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3274"
         },
         {
-          "title": "How can we display the Page Setup?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
+          "title": "TypeScript definitions for window.chrome.webview",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3273"
         },
         {
-          "title": "Download never completes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3268"
-        },
-        {
-          "title": "CoreWebView2 is always null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3267"
+          "title": "Opening PDF in external editor after using Save as PDF on Print window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
         },
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
@@ -7320,6 +7336,10 @@
         {
           "title": "Webview2 spellcheck suggestions empty for Dutch language",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+        },
+        {
+          "title": "How can we display the Page Setup?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
         },
         {
           "title": "Can we have hidden WebView2 and still invoke Printing?",
@@ -7352,17 +7372,9 @@
         {
           "title": "Crashpad folder empty after simulating browser crash",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
-        },
-        {
-          "title": "The \"beforeunload\" addEventListener does not fire when closing a WebView2 instance.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3217"
-        },
-        {
-          "title": "Create QR Code for this page context menu item removed from 110.0.1587.41",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3214"
         }
       ],
-      "rate": "68.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8812,13 +8824,25 @@
     },
     {
       "date": "2023-03-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-03-08",
       "unRespondedItems": [
+        {
+          "title": "spkac <string> | <ArrayBuffer> | <Buffer> | <TypedArray> | <DataView> encoding <string> The encoding of the spkac string. Returns: <Buffer>",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1393"
+        },
+        {
+          "title": "Looks like extensions are not enabled n the tools.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1392"
+        },
         {
           "title": "Pagina inicial",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1391"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10268,13 +10292,12 @@
     },
     {
       "date": "2023-03-07",
-      "unRespondedItems": [
-        {
-          "title": "Incorrect screenshot to display differences for Focus Mode in DevTools",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2486"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-03-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
