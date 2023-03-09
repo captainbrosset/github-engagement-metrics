@@ -1450,6 +1450,10 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2922,6 +2926,10 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4377,6 +4385,10 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5832,6 +5844,10 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [
         {
           "title": "If a \"Renderer\" fallback task is shown, it is a bug",
@@ -7316,18 +7332,34 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [
         {
-          "title": "Editable PDF form fields are getting cached",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3274"
+          "title": "PrintAsync PrintSettings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
+        },
+        {
+          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
+        },
+        {
+          "title": "Queries about Context Menus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
+        },
+        {
+          "title": "couldn't open dropdown list",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3281"
+        },
+        {
+          "title": "Can we have an installer log please",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3280"
         },
         {
           "title": "TypeScript definitions for window.chrome.webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3273"
-        },
-        {
-          "title": "Opening PDF in external editor after using Save as PDF on Print window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
         },
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
@@ -7336,6 +7368,14 @@
         {
           "title": "Webview2 spellcheck suggestions empty for Dutch language",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
+        },
+        {
+          "title": "Opening PDF in external editor after using Save as PDF on Print window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
+        },
+        {
+          "title": "Printing with Microsoft print to PDF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3271"
         },
         {
           "title": "How can we display the Page Setup?",
@@ -7358,6 +7398,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
         },
         {
+          "title": "External applications started from WebView2 (like Zoom) are displayed under WebView2 icon group",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245"
+        },
+        {
           "title": "Can WebView2 be used inside a Dll?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
         },
@@ -7368,13 +7412,9 @@
         {
           "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
-        },
-        {
-          "title": "Crashpad folder empty after simulating browser crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3225"
         }
       ],
-      "rate": "72.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8828,21 +8868,21 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [
         {
-          "title": "spkac <string> | <ArrayBuffer> | <Buffer> | <TypedArray> | <DataView> encoding <string> The encoding of the spkac string. Returns: <Buffer>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1393"
+          "title": "Can't view a page",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1395"
         },
         {
-          "title": "Looks like extensions are not enabled n the tools.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1392"
-        },
-        {
-          "title": "Pagina inicial",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1391"
+          "title": "No response to interactivity",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1394"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10296,6 +10336,10 @@
     },
     {
       "date": "2023-03-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
