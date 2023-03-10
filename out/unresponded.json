@@ -1454,6 +1454,10 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2930,6 +2934,10 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4389,6 +4397,10 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5848,7 +5860,15 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [
+        {
+          "title": "Problem opening new tab in inprivate mode for edge.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/72"
+        },
         {
           "title": "If a \"Renderer\" fallback task is shown, it is a bug",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/71"
@@ -5878,7 +5898,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7336,10 +7356,22 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [
         {
-          "title": "PrintAsync PrintSettings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
+          "title": "Position of the printer settings on print dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289"
+        },
+        {
+          "title": "WinForms MenuStrip doesn't deactivate and close when clicking inside a web view",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
+        },
+        {
+          "title": "how to really clear input box content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3286"
         },
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
@@ -7348,14 +7380,6 @@
         {
           "title": "Queries about Context Menus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
-        },
-        {
-          "title": "couldn't open dropdown list",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3281"
-        },
-        {
-          "title": "Can we have an installer log please",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3280"
         },
         {
           "title": "TypeScript definitions for window.chrome.webview",
@@ -7370,12 +7394,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
         },
         {
-          "title": "Opening PDF in external editor after using Save as PDF on Print window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
+          "title": "PrintAsync PrintSettings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
         },
         {
-          "title": "Printing with Microsoft print to PDF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3271"
+          "title": "Opening PDF in external editor after using Save as PDF on Print window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
         },
         {
           "title": "How can we display the Page Setup?",
@@ -7408,13 +7432,9 @@
         {
           "title": "Property to check the current state of the WebView control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
-        },
-        {
-          "title": "ERR_UNKNOWN_URL_SCHEME when redirecting custom Uri to local file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3230"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8872,17 +8892,12 @@
     },
     {
       "date": "2023-03-09",
-      "unRespondedItems": [
-        {
-          "title": "Can't view a page",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1395"
-        },
-        {
-          "title": "No response to interactivity",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1394"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-03-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10340,6 +10355,10 @@
     },
     {
       "date": "2023-03-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
