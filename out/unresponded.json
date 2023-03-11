@@ -1458,6 +1458,10 @@
     },
     {
       "date": "2023-03-10",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-11",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2938,6 +2942,10 @@
     },
     {
       "date": "2023-03-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4401,6 +4409,10 @@
     },
     {
       "date": "2023-03-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5864,7 +5876,15 @@
     },
     {
       "date": "2023-03-10",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-03-11",
       "unRespondedItems": [
+        {
+          "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/73"
+        },
         {
           "title": "Problem opening new tab in inprivate mode for edge.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/72"
@@ -5898,7 +5918,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7360,6 +7380,10 @@
     },
     {
       "date": "2023-03-10",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-03-11",
       "unRespondedItems": [
         {
           "title": "Position of the printer settings on print dialog",
@@ -7368,14 +7392,6 @@
         {
           "title": "WinForms MenuStrip doesn't deactivate and close when clicking inside a web view",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
-        },
-        {
-          "title": "how to really clear input box content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3286"
-        },
-        {
-          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
         },
         {
           "title": "Queries about Context Menus",
@@ -7398,8 +7414,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
         },
         {
-          "title": "Opening PDF in external editor after using Save as PDF on Print window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3272"
+          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
         },
         {
           "title": "How can we display the Page Setup?",
@@ -7408,6 +7424,10 @@
         {
           "title": "Can we have hidden WebView2 and still invoke Printing?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
+        },
+        {
+          "title": "use wpf webview in excel vsto program issue error 0x80004002 when closing excel",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261"
         },
         {
           "title": "webview2 runtime",
@@ -7434,7 +7454,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8896,8 +8916,21 @@
     },
     {
       "date": "2023-03-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-11",
+      "unRespondedItems": [
+        {
+          "title": "CNF - Plugin",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1397"
+        },
+        {
+          "title": "Edge tools for a remote such as wsl",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1396"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10359,8 +10392,17 @@
     },
     {
       "date": "2023-03-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-11",
+      "unRespondedItems": [
+        {
+          "title": "incorrect behavior on DevTools",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2491"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
