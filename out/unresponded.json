@@ -1462,6 +1462,10 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2946,6 +2950,10 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4413,6 +4421,10 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5880,6 +5892,10 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7384,7 +7400,19 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [
+        {
+          "title": "Using document.execCommand(\"copy\")",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3291"
+        },
+        {
+          "title": "Change proxy settings multiple times like a rotating proxy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290"
+        },
         {
           "title": "Position of the printer settings on print dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289"
@@ -7404,14 +7432,6 @@
         {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
-        },
-        {
-          "title": "Webview2 spellcheck suggestions empty for Dutch language",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237"
-        },
-        {
-          "title": "PrintAsync PrintSettings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
         },
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
@@ -8920,7 +8940,19 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [
+        {
+          "title": "Venkatesh",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1399"
+        },
+        {
+          "title": "table in html with black frame ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1398"
+        },
         {
           "title": "CNF - Plugin",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1397"
@@ -8930,7 +8962,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1396"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10396,6 +10428,10 @@
     },
     {
       "date": "2023-03-11",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-03-12",
       "unRespondedItems": [
         {
           "title": "incorrect behavior on DevTools",

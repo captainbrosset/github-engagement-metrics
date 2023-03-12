@@ -1,4 +1,4 @@
-Response rate: 90.53%
+Response rate: 89.96%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -18,13 +18,13 @@ Response rate: 90.53%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Using document.execCommand("copy")](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3291)
+  * [Change proxy settings multiple times like a rotating proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290)
   * [Position of the printer settings on print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289)
   * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
   * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
   * [TypeScript definitions for window.chrome.webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3273)
   * [CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255)
-  * [Webview2 spellcheck suggestions empty for Dutch language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3237)
-  * [PrintAsync PrintSettings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
   * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
@@ -35,7 +35,9 @@ Response rate: 90.53%
   * [External applications started from WebView2 (like Zoom) are ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245)
   * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
   * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [Venkatesh](https://github.com/microsoft/vscode-edge-devtools/issues/1399)
+  * [table in html with black frame ](https://github.com/microsoft/vscode-edge-devtools/issues/1398)
   * [CNF - Plugin](https://github.com/microsoft/vscode-edge-devtools/issues/1397)
   * [Edge tools for a remote such as wsl](https://github.com/microsoft/vscode-edge-devtools/issues/1396)
 * **MicrosoftDocs/edge-developer** - _97.87%_
