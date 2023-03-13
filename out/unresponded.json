@@ -1466,6 +1466,10 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2954,6 +2958,10 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4425,6 +4433,10 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5896,6 +5908,10 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7404,11 +7420,11 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [
-        {
-          "title": "Using document.execCommand(\"copy\")",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3291"
-        },
         {
           "title": "Change proxy settings multiple times like a rotating proxy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290"
@@ -7474,7 +7490,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8944,7 +8960,19 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1402"
+        },
+        {
+          "title": "Nadas",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1401"
+        },
         {
           "title": "Venkatesh",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1399"
@@ -8962,7 +8990,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1396"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10432,6 +10460,10 @@
     },
     {
       "date": "2023-03-12",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-03-13",
       "unRespondedItems": [
         {
           "title": "incorrect behavior on DevTools",
