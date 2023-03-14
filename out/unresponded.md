@@ -1,4 +1,4 @@
-Response rate: 89.67%
+Response rate: 90.53%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -17,29 +17,26 @@ Response rate: 89.67%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
+  * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
+  * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
+  * [When can we expect latest release of fixed and everygreen st...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3295)
+  * [When can we expect latest release of fixed and everygreen st...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3294)
+  * [Webview2 crash with WebCOREWEBVIEW2_PROCESS_FAILED_KIND_GPU_...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3293)
+  * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
   * [Change proxy settings multiple times like a rotating proxy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290)
   * [Position of the printer settings on print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289)
   * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
   * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-  * [TypeScript definitions for window.chrome.webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3273)
   * [CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255)
+  * [Why are my my own custom menu items not firing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
   * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
-  * [use wpf webview in excel vsto program issue error 0x80004002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261)
   * [webview2 runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257)
-  * [Which event is fired when the site is loaded along with the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253)
   * [How to set response directly in WebResourceRequested?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252)
-  * [External applications started from WebView2 (like Zoom) are ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245)
-  * [Can WebView2 be used inside a Dll?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240)
-  * [Property to check the current state of the WebView control](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239)
-* **microsoft/vscode-edge-devtools** - _88.00%_
-  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1402)
-  * [Nadas](https://github.com/microsoft/vscode-edge-devtools/issues/1401)
-  * [Venkatesh](https://github.com/microsoft/vscode-edge-devtools/issues/1399)
-  * [table in html with black frame ](https://github.com/microsoft/vscode-edge-devtools/issues/1398)
-  * [CNF - Plugin](https://github.com/microsoft/vscode-edge-devtools/issues/1397)
-  * [Edge tools for a remote such as wsl](https://github.com/microsoft/vscode-edge-devtools/issues/1396)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [excuse me i dont no but program send this](https://github.com/microsoft/vscode-edge-devtools/issues/1403)
 * **MicrosoftDocs/edge-developer** - _97.87%_
-  * [incorrect behavior on DevTools](https://github.com/MicrosoftDocs/edge-developer/issues/2491)
+  * [Win32/C++ API Reference](https://github.com/MicrosoftDocs/edge-developer/issues/2495)

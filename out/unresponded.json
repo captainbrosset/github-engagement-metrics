@@ -1470,6 +1470,10 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2962,6 +2966,10 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4437,6 +4445,10 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5912,6 +5924,10 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7424,7 +7440,39 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
+        {
+          "title": "No invoke of callback function while other dialog moves",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299"
+        },
+        {
+          "title": "Tip: Default menu item names for Context menus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297"
+        },
+        {
+          "title": "Reusing custom context menu items",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
+        },
+        {
+          "title": "When can we expect latest release of fixed and everygreen standalone version 111.0.1661.39",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3295"
+        },
+        {
+          "title": "When can we expect latest release of fixed and everygreen standalone version 111.0.1661.39",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3294"
+        },
+        {
+          "title": "Webview2 crash with WebCOREWEBVIEW2_PROCESS_FAILED_KIND_GPU_PROCESS_EXITED ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3293"
+        },
+        {
+          "title": "OnNavigationCompleted callback is sometimes called twice for a Navigation call",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
+        },
         {
           "title": "Change proxy settings multiple times like a rotating proxy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290"
@@ -7442,12 +7490,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
         },
         {
-          "title": "TypeScript definitions for window.chrome.webview",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3273"
-        },
-        {
           "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
+        },
+        {
+          "title": "Why are my my own custom menu items not firing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300"
         },
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
@@ -7462,35 +7510,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
         },
         {
-          "title": "use wpf webview in excel vsto program issue error 0x80004002 when closing excel",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3261"
-        },
-        {
           "title": "webview2 runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257"
         },
         {
-          "title": "Which event is fired when the site is loaded along with the injected JavaScript?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3253"
-        },
-        {
           "title": "How to set response directly in WebResourceRequested?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
-        },
-        {
-          "title": "External applications started from WebView2 (like Zoom) are displayed under WebView2 icon group",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3245"
-        },
-        {
-          "title": "Can WebView2 be used inside a Dll?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3240"
-        },
-        {
-          "title": "Property to check the current state of the WebView control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3239"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8964,33 +8992,17 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1402"
-        },
-        {
-          "title": "Nadas",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1401"
-        },
-        {
-          "title": "Venkatesh",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1399"
-        },
-        {
-          "title": "table in html with black frame ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1398"
-        },
-        {
-          "title": "CNF - Plugin",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1397"
-        },
-        {
-          "title": "Edge tools for a remote such as wsl",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1396"
+          "title": "excuse me i dont no but program send this",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1403"
         }
       ],
-      "rate": "88.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10464,10 +10476,14 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
-          "title": "incorrect behavior on DevTools",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2491"
+          "title": "Win32/C++ API Reference",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2495"
         }
       ],
       "rate": "97.87"
