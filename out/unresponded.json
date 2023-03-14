@@ -1474,6 +1474,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2970,6 +2974,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4449,6 +4457,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5924,6 +5936,10 @@
     },
     {
       "date": "2023-03-13",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-14",
       "rate": "82.00"
     },
     {
@@ -7444,10 +7460,14 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-03-14",
       "unRespondedItems": [
         {
-          "title": "No invoke of callback function while other dialog moves",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299"
+          "title": "Changing input language",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7458,24 +7478,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         },
         {
-          "title": "When can we expect latest release of fixed and everygreen standalone version 111.0.1661.39",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3295"
-        },
-        {
-          "title": "When can we expect latest release of fixed and everygreen standalone version 111.0.1661.39",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3294"
-        },
-        {
           "title": "Webview2 crash with WebCOREWEBVIEW2_PROCESS_FAILED_KIND_GPU_PROCESS_EXITED ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3293"
         },
         {
           "title": "OnNavigationCompleted callback is sometimes called twice for a Navigation call",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
-        },
-        {
-          "title": "Change proxy settings multiple times like a rotating proxy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3290"
         },
         {
           "title": "Position of the printer settings on print dialog",
@@ -7494,16 +7502,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
         },
         {
+          "title": "Strange behavior of youtube list",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
+        },
+        {
           "title": "Why are my my own custom menu items not firing?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300"
         },
         {
-          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
+          "title": "No invoke of callback function while other dialog moves",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299"
         },
         {
-          "title": "How can we display the Page Setup?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
+          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
         },
         {
           "title": "Can we have hidden WebView2 and still invoke Printing?",
@@ -7518,7 +7530,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -8996,13 +9008,12 @@
     },
     {
       "date": "2023-03-14",
-      "unRespondedItems": [
-        {
-          "title": "excuse me i dont no but program send this",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1403"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-03-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10480,13 +10491,12 @@
     },
     {
       "date": "2023-03-14",
-      "unRespondedItems": [
-        {
-          "title": "Win32/C++ API Reference",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2495"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-03-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
