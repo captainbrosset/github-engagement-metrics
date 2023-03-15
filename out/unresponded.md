@@ -1,4 +1,4 @@
-Response rate: 91.69%
+Response rate: 90.55%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -17,11 +17,12 @@ Response rate: 91.69%
   * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [There should be support for disabling extensions on specific...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3305)
+  * [Saving as PDF via the Print window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304)
+  * [SCCM Task Sequence fails while installing Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303)
   * [Changing input language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
-  * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
-  * [Webview2 crash with WebCOREWEBVIEW2_PROCESS_FAILED_KIND_GPU_...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3293)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
   * [Position of the printer settings on print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289)
   * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
@@ -30,9 +31,12 @@ Response rate: 91.69%
   * [Strange behavior of youtube list](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301)
   * [Why are my my own custom menu items not firing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300)
   * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
+  * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
+  * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
   * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
   * [webview2 runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257)
-  * [How to set response directly in WebResourceRequested?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [READ.ME](https://github.com/microsoft/vscode-edge-devtools/issues/1406)
+  * [Secure URL](https://github.com/microsoft/vscode-edge-devtools/issues/1404)
 * **MicrosoftDocs/edge-developer** - _100.00%_

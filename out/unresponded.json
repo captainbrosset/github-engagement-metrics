@@ -1478,6 +1478,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2978,6 +2982,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4461,6 +4469,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5944,6 +5956,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7464,7 +7480,23 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [
+        {
+          "title": "There should be support for disabling extensions on specific websites",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3305"
+        },
+        {
+          "title": "Saving as PDF via the Print window ...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304"
+        },
+        {
+          "title": "SCCM Task Sequence fails while installing Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303"
+        },
         {
           "title": "Changing input language",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302"
@@ -7472,14 +7504,6 @@
         {
           "title": "Tip: Default menu item names for Context menus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297"
-        },
-        {
-          "title": "Reusing custom context menu items",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
-        },
-        {
-          "title": "Webview2 crash with WebCOREWEBVIEW2_PROCESS_FAILED_KIND_GPU_PROCESS_EXITED ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3293"
         },
         {
           "title": "OnNavigationCompleted callback is sometimes called twice for a Navigation call",
@@ -7514,8 +7538,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299"
         },
         {
+          "title": "Reusing custom context menu items",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
+        },
+        {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
+        },
+        {
+          "title": "How can we display the Page Setup?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
         },
         {
           "title": "Can we have hidden WebView2 and still invoke Printing?",
@@ -7524,13 +7556,9 @@
         {
           "title": "webview2 runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257"
-        },
-        {
-          "title": "How to set response directly in WebResourceRequested?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3252"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9012,8 +9040,21 @@
     },
     {
       "date": "2023-03-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-15",
+      "unRespondedItems": [
+        {
+          "title": "READ.ME",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1406"
+        },
+        {
+          "title": "Secure URL",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1404"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10495,6 +10536,10 @@
     },
     {
       "date": "2023-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
