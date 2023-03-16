@@ -1482,6 +1482,10 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2986,6 +2990,10 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4473,8 +4481,17 @@
     },
     {
       "date": "2023-03-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-16",
+      "unRespondedItems": [
+        {
+          "title": "Tabs cant unmute.",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/137"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5960,6 +5977,10 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7484,7 +7505,15 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [
+        {
+          "title": "Use Proxy with webview2 and UWP application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3306"
+        },
         {
           "title": "There should be support for disabling extensions on specific websites",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3305"
@@ -7526,6 +7555,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
         },
         {
+          "title": "Error Getting SDK version",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3307"
+        },
+        {
           "title": "Strange behavior of youtube list",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
         },
@@ -7540,6 +7573,10 @@
         {
           "title": "Reusing custom context menu items",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
+        },
+        {
+          "title": "PrintAsync PrintSettings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
         },
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
@@ -7558,7 +7595,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257"
         }
       ],
-      "rate": "64.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9044,14 +9081,18 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [
         {
-          "title": "READ.ME",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1406"
+          "title": "Debugger doesn't launch browser in MacOS Ventura",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1409"
         },
         {
-          "title": "Secure URL",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1404"
+          "title": "liveserver starts port but doesn't load the default browser and i have tried all settings and configuration online but to no avail",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1408"
         }
       ],
       "rate": "96.00"
@@ -10540,6 +10581,10 @@
     },
     {
       "date": "2023-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
