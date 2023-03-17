@@ -1486,6 +1486,10 @@
     },
     {
       "date": "2023-03-16",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-17",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -2994,6 +2998,10 @@
     },
     {
       "date": "2023-03-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4485,13 +4493,12 @@
     },
     {
       "date": "2023-03-16",
-      "unRespondedItems": [
-        {
-          "title": "Tabs cant unmute.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/137"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-03-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -5981,6 +5988,10 @@
     },
     {
       "date": "2023-03-16",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-17",
       "unRespondedItems": [
         {
           "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
@@ -7509,26 +7520,18 @@
     },
     {
       "date": "2023-03-16",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-17",
       "unRespondedItems": [
         {
-          "title": "Use Proxy with webview2 and UWP application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3306"
+          "title": "BadImageFormat Exception on launching WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313"
         },
         {
-          "title": "There should be support for disabling extensions on specific websites",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3305"
-        },
-        {
-          "title": "Saving as PDF via the Print window ...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304"
-        },
-        {
-          "title": "SCCM Task Sequence fails while installing Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303"
-        },
-        {
-          "title": "Changing input language",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302"
+          "title": "CTA to install Chrome extensions is visible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3312"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7539,24 +7542,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
         },
         {
-          "title": "Position of the printer settings on print dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289"
-        },
-        {
           "title": "WinForms MenuStrip doesn't deactivate and close when clicking inside a web view",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
         },
         {
-          "title": "Queries about Context Menus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
+          "title": "Can we disable custom context menu items?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3311"
         },
         {
-          "title": "CoreWebView2NewWindowRequestedEventArgs.IsUserInitiated has wrong value when script is executing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3255"
+          "title": "Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.40, but worked in 1.0.961.33",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310"
         },
         {
-          "title": "Error Getting SDK version",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3307"
+          "title": "Changing input language",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302"
         },
         {
           "title": "Strange behavior of youtube list",
@@ -7575,12 +7574,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         },
         {
-          "title": "PrintAsync PrintSettings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3284"
+          "title": "Position of the printer settings on print dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289"
         },
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
+        },
+        {
+          "title": "Queries about Context Menus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
         },
         {
           "title": "How can we display the Page Setup?",
@@ -7589,13 +7592,9 @@
         {
           "title": "Can we have hidden WebView2 and still invoke Printing?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
-        },
-        {
-          "title": "webview2 runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3257"
         }
       ],
-      "rate": "58.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9085,17 +9084,12 @@
     },
     {
       "date": "2023-03-16",
-      "unRespondedItems": [
-        {
-          "title": "Debugger doesn't launch browser in MacOS Ventura",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1409"
-        },
-        {
-          "title": "liveserver starts port but doesn't load the default browser and i have tried all settings and configuration online but to no avail",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1408"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-03-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10585,6 +10579,10 @@
     },
     {
       "date": "2023-03-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
