@@ -1490,6 +1490,10 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3002,6 +3006,10 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4497,6 +4505,10 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5992,34 +6004,14 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [
-        {
-          "title": "clear() was updated in the atoms, please update them in MDEdgeDriver",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/73"
-        },
-        {
-          "title": "Problem opening new tab in inprivate mode for edge.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/72"
-        },
-        {
-          "title": "If a \"Renderer\" fallback task is shown, it is a bug",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/71"
-        },
-        {
-          "title": "Need edge driver version 98",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/70"
-        },
-        {
-          "title": "Unable to launch in headless mode with user-data-dir in 110.0.1587.41 -  \"unable to discover open pages\"",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/69"
-        },
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
-        },
-        {
-          "title": "Remote connection to edge webdriver",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67"
         },
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -6030,7 +6022,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "82.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7524,14 +7516,14 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [
         {
-          "title": "BadImageFormat Exception on launching WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313"
-        },
-        {
-          "title": "CTA to install Chrome extensions is visible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3312"
+          "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7546,12 +7538,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
         },
         {
+          "title": "BadImageFormat Exception on launching WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313"
+        },
+        {
           "title": "Can we disable custom context menu items?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3311"
         },
         {
           "title": "Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.40, but worked in 1.0.961.33",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310"
+        },
+        {
+          "title": "Saving as PDF via the Print window ...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304"
+        },
+        {
+          "title": "SCCM Task Sequence fails while installing Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303"
         },
         {
           "title": "Changing input language",
@@ -7594,7 +7598,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9088,6 +9092,10 @@
     },
     {
       "date": "2023-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10583,8 +10591,21 @@
     },
     {
       "date": "2023-03-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-18",
+      "unRespondedItems": [
+        {
+          "title": "Include information on how to diagnose when things didn't work",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2498"
+        },
+        {
+          "title": "options.add_argument(\"headless\")",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2496"
+        }
+      ],
+      "rate": "95.83"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 91.41%
+Response rate: 91.95%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -7,24 +7,20 @@ Response rate: 91.41%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
-  * [clear() was updated in the atoms, please update them in MDEd...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/73)
-  * [Problem opening new tab in inprivate mode for edge.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/72)
-  * [If a "Renderer" fallback task is shown, it is a bug](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/71)
-  * [Need edge driver version 98](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/70)
-  * [Unable to launch in headless mode with user-data-dir in 110....](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/69)
+* **MicrosoftEdge/EdgeWebDriver** - _94.00%_
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
-  * [Remote connection to edge webdriver](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/67)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
-  * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
-  * [CTA to install Chrome extensions is visible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3312)
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
   * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
+  * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
   * [Can we disable custom context menu items?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3311)
   * [Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.4...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310)
+  * [Saving as PDF via the Print window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304)
+  * [SCCM Task Sequence fails while installing Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303)
   * [Changing input language](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302)
   * [Strange behavior of youtube list](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301)
   * [Why are my my own custom menu items not firing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300)
@@ -36,4 +32,6 @@ Response rate: 91.41%
   * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
   * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.83%_
+  * [Include information on how to diagnose when things didn't wo...](https://github.com/MicrosoftDocs/edge-developer/issues/2498)
+  * [options.add_argument("headless")](https://github.com/MicrosoftDocs/edge-developer/issues/2496)
