@@ -1494,6 +1494,10 @@
     },
     {
       "date": "2023-03-18",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-19",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3010,6 +3014,10 @@
     },
     {
       "date": "2023-03-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4509,8 +4517,17 @@
     },
     {
       "date": "2023-03-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-19",
+      "unRespondedItems": [
+        {
+          "title": "Is edge-devtools-network-console an active repo? ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/138"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6008,6 +6025,10 @@
     },
     {
       "date": "2023-03-18",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-03-19",
       "unRespondedItems": [
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
@@ -7520,6 +7541,10 @@
     },
     {
       "date": "2023-03-18",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-03-19",
       "unRespondedItems": [
         {
           "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
@@ -7536,6 +7561,10 @@
         {
           "title": "WinForms MenuStrip doesn't deactivate and close when clicking inside a web view",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
+        },
+        {
+          "title": "How can I display a different local HTML file in a popup using JS? I don't know how to encode the path.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3316"
         },
         {
           "title": "BadImageFormat Exception on launching WebView2",
@@ -7598,7 +7627,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9096,8 +9125,17 @@
     },
     {
       "date": "2023-03-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-19",
+      "unRespondedItems": [
+        {
+          "title": "# Note: you need to be using OpenAI Python v0.27.0 for the code below to work import openai  openai.ChatCompletion.create(   model=\"gpt-3.5-turbo\",   messages=[         {\"role\": \"system\", \"content\": \"You are a helpful assistant.\"},         {\"role\": \"user\", \"content\": \"Who won the world series in 2020?\"},         {\"role\": \"assistant\", \"content\": \"The Los Angeles Dodgers won the World Series in 2020.\"},         {\"role\": \"user\", \"content\": \"Where was it played?\"}     ] )",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1411"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10595,6 +10633,10 @@
     },
     {
       "date": "2023-03-18",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-03-19",
       "unRespondedItems": [
         {
           "title": "Include information on how to diagnose when things didn't work",
