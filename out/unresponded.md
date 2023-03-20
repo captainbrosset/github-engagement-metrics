@@ -1,4 +1,4 @@
-Response rate: 91.10%
+Response rate: 89.95%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -12,12 +12,13 @@ Response rate: 91.10%
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [Webview2 not loading in both UWP and Winui3](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3318)
+  * [Can EdgeUpdate be enabled through the Edge process to instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317)
   * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
   * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
-  * [How can I display a different local HTML file in a popup usi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3316)
   * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
   * [Can we disable custom context menu items?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3311)
   * [Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.4...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310)
@@ -33,7 +34,10 @@ Response rate: 91.10%
   * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
   * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
   * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [webpage](https://github.com/microsoft/vscode-edge-devtools/issues/1414)
+  * [i can not solve crbug/117](https://github.com/microsoft/vscode-edge-devtools/issues/1413)
+  * [progrom not running](https://github.com/microsoft/vscode-edge-devtools/issues/1412)
   * [# Note: you need to be using OpenAI Python v0.27.0 for the c...](https://github.com/microsoft/vscode-edge-devtools/issues/1411)
 * **MicrosoftDocs/edge-developer** - _95.83%_
   * [Include information on how to diagnose when things didn't wo...](https://github.com/MicrosoftDocs/edge-developer/issues/2498)
