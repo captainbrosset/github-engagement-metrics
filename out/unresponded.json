@@ -1502,7 +1502,15 @@
     },
     {
       "date": "2023-03-20",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-21",
       "unRespondedItems": [
+        {
+          "title": "Docs: Remove IE 7/8 note (no longer relevant)",
+          "url": "https://github.com/webhintio/hint/pull/5467"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1520,7 +1528,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "91.84"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3026,6 +3034,10 @@
     },
     {
       "date": "2023-03-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4533,13 +4545,12 @@
     },
     {
       "date": "2023-03-20",
-      "unRespondedItems": [
-        {
-          "title": "Is edge-devtools-network-console an active repo? ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/138"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-03-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6045,7 +6056,15 @@
     },
     {
       "date": "2023-03-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-03-21",
       "unRespondedItems": [
+        {
+          "title": "When opening the edge(111.0.1661.44 version) browser in selenium headless mode, the actual opening is a chrome browser",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74"
+        },
         {
           "title": "Microsoft EdgeBrowser is not working through selenium",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
@@ -6059,7 +6078,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7565,18 +7584,22 @@
     },
     {
       "date": "2023-03-20",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-21",
       "unRespondedItems": [
         {
-          "title": "Webview2 not loading in both UWP and Winui3",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3318"
+          "title": "Popup window - scroll wheel not work - bug?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
         },
         {
-          "title": "Can EdgeUpdate be enabled through the Edge process to install WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317"
+          "title": "ICoreWebView2NavigationStartingEventHandler did not work for about:blank",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321"
         },
         {
-          "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315"
+          "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7587,8 +7610,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
         },
         {
-          "title": "WinForms MenuStrip doesn't deactivate and close when clicking inside a web view",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288"
+          "title": "Webview shows webpage(local html file) slowly first time in coldstartup",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319"
+        },
+        {
+          "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315"
         },
         {
           "title": "BadImageFormat Exception on launching WebView2",
@@ -7645,10 +7672,6 @@
         {
           "title": "How can we display the Page Setup?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
-        },
-        {
-          "title": "Can we have hidden WebView2 and still invoke Printing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266"
         }
       ],
       "rate": "58.00"
@@ -9157,25 +9180,12 @@
     },
     {
       "date": "2023-03-20",
-      "unRespondedItems": [
-        {
-          "title": "webpage",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1414"
-        },
-        {
-          "title": "i can not solve crbug/117",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1413"
-        },
-        {
-          "title": "progrom not running",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1412"
-        },
-        {
-          "title": "# Note: you need to be using OpenAI Python v0.27.0 for the code below to work import openai  openai.ChatCompletion.create(   model=\"gpt-3.5-turbo\",   messages=[         {\"role\": \"system\", \"content\": \"You are a helpful assistant.\"},         {\"role\": \"user\", \"content\": \"Who won the world series in 2020?\"},         {\"role\": \"assistant\", \"content\": \"The Los Angeles Dodgers won the World Series in 2020.\"},         {\"role\": \"user\", \"content\": \"Where was it played?\"}     ] )",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1411"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2023-03-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10681,17 +10691,12 @@
     },
     {
       "date": "2023-03-20",
-      "unRespondedItems": [
-        {
-          "title": "Include information on how to diagnose when things didn't work",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2498"
-        },
-        {
-          "title": "options.add_argument(\"headless\")",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2496"
-        }
-      ],
       "rate": "95.83"
+    },
+    {
+      "date": "2023-03-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

@@ -1,24 +1,26 @@
-Response rate: 89.95%
+Response rate: 91.40%
 
-* **webhintio/hint** - _91.84%_
+* **webhintio/hint** - _89.80%_
+  * [Docs: Remove IE 7/8 note (no longer relevant)](https://github.com/webhintio/hint/pull/5467)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Is edge-devtools-network-console an active repo? ](https://github.com/MicrosoftEdge/DevTools/issues/138)
-* **MicrosoftEdge/EdgeWebDriver** - _94.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+  * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _58.00%_
-  * [Webview2 not loading in both UWP and Winui3](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3318)
-  * [Can EdgeUpdate be enabled through the Edge process to instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317)
-  * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
+  * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
+  * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
+  * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
-  * [WinForms MenuStrip doesn't deactivate and close when clickin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3288)
+  * [Webview shows webpage(local html file) slowly first time in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319)
+  * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
   * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
   * [Can we disable custom context menu items?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3311)
   * [Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.4...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310)
@@ -33,12 +35,5 @@ Response rate: 89.95%
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
   * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
-  * [Can we have hidden WebView2 and still invoke Printing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3266)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [webpage](https://github.com/microsoft/vscode-edge-devtools/issues/1414)
-  * [i can not solve crbug/117](https://github.com/microsoft/vscode-edge-devtools/issues/1413)
-  * [progrom not running](https://github.com/microsoft/vscode-edge-devtools/issues/1412)
-  * [# Note: you need to be using OpenAI Python v0.27.0 for the c...](https://github.com/microsoft/vscode-edge-devtools/issues/1411)
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [Include information on how to diagnose when things didn't wo...](https://github.com/MicrosoftDocs/edge-developer/issues/2498)
-  * [options.add_argument("headless")](https://github.com/MicrosoftDocs/edge-developer/issues/2496)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_
