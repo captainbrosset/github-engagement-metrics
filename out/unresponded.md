@@ -1,4 +1,4 @@
-Response rate: 91.40%
+Response rate: 91.11%
 
 * **webhintio/hint** - _89.80%_
   * [Docs: Remove IE 7/8 note (no longer relevant)](https://github.com/webhintio/hint/pull/5467)
@@ -7,16 +7,16 @@ Response rate: 91.40%
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [[Microsoft Edge Dev Channel] Device emulation don't work](https://github.com/MicrosoftEdge/DevTools/issues/139)
 * **MicrosoftEdge/EdgeWebDriver** - _92.00%_
   * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
-  * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
-  * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
   * [Webview shows webpage(local html file) slowly first time in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319)
@@ -34,6 +34,7 @@ Response rate: 91.40%
   * [Position of the printer settings on print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-  * [How can we display the Page Setup?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [new css reset](https://github.com/microsoft/vscode-edge-devtools/issues/1418)
+  * [Aula 01 - ADW](https://github.com/microsoft/vscode-edge-devtools/issues/1417)
 * **MicrosoftDocs/edge-developer** - _100.00%_

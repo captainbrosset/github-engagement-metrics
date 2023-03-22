@@ -1506,6 +1506,10 @@
     },
     {
       "date": "2023-03-21",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-03-22",
       "unRespondedItems": [
         {
           "title": "Docs: Remove IE 7/8 note (no longer relevant)",
@@ -3038,6 +3042,10 @@
     },
     {
       "date": "2023-03-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4549,8 +4557,17 @@
     },
     {
       "date": "2023-03-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-22",
+      "unRespondedItems": [
+        {
+          "title": "[Microsoft Edge Dev Channel] Device emulation don't work",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/139"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6060,6 +6077,10 @@
     },
     {
       "date": "2023-03-21",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-03-22",
       "unRespondedItems": [
         {
           "title": "When opening the edge(111.0.1661.44 version) browser in selenium headless mode, the actual opening is a chrome browser",
@@ -7588,18 +7609,18 @@
     },
     {
       "date": "2023-03-21",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-22",
       "unRespondedItems": [
+        {
+          "title": "WebView2 (WinUI3 + Win32) does not support multi windows.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
+        },
         {
           "title": "Popup window - scroll wheel not work - bug?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
-        },
-        {
-          "title": "ICoreWebView2NavigationStartingEventHandler did not work for about:blank",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321"
-        },
-        {
-          "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7668,13 +7689,9 @@
         {
           "title": "Queries about Context Menus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
-        },
-        {
-          "title": "How can we display the Page Setup?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3270"
         }
       ],
-      "rate": "58.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9184,8 +9201,21 @@
     },
     {
       "date": "2023-03-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-22",
+      "unRespondedItems": [
+        {
+          "title": "new css reset",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1418"
+        },
+        {
+          "title": "Aula 01 - ADW",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1417"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10695,6 +10725,10 @@
     },
     {
       "date": "2023-03-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
