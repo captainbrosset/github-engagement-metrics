@@ -1510,11 +1510,11 @@
     },
     {
       "date": "2023-03-22",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-03-23",
       "unRespondedItems": [
-        {
-          "title": "Docs: Remove IE 7/8 note (no longer relevant)",
-          "url": "https://github.com/webhintio/hint/pull/5467"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1532,7 +1532,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.80"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3046,6 +3046,10 @@
     },
     {
       "date": "2023-03-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4561,13 +4565,12 @@
     },
     {
       "date": "2023-03-22",
-      "unRespondedItems": [
-        {
-          "title": "[Microsoft Edge Dev Channel] Device emulation don't work",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/139"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-03-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6081,6 +6084,10 @@
     },
     {
       "date": "2023-03-22",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-03-23",
       "unRespondedItems": [
         {
           "title": "When opening the edge(111.0.1661.44 version) browser in selenium headless mode, the actual opening is a chrome browser",
@@ -7613,7 +7620,19 @@
     },
     {
       "date": "2023-03-22",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-03-23",
       "unRespondedItems": [
+        {
+          "title": "How to find the root cause when CoreWebView2.ProcessFailed raised?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3326"
+        },
+        {
+          "title": "The top toolbar configuration does not use  animation in PDF preview mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3325"
+        },
         {
           "title": "WebView2 (WinUI3 + Win32) does not support multi windows.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
@@ -7631,8 +7650,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
         },
         {
+          "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
+        },
+        {
           "title": "Webview shows webpage(local html file) slowly first time in coldstartup",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319"
+        },
+        {
+          "title": "Can EdgeUpdate be enabled through the Edge process to install WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317"
         },
         {
           "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
@@ -7651,16 +7678,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310"
         },
         {
-          "title": "Saving as PDF via the Print window ...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3304"
-        },
-        {
           "title": "SCCM Task Sequence fails while installing Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303"
-        },
-        {
-          "title": "Changing input language",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3302"
         },
         {
           "title": "Strange behavior of youtube list",
@@ -7679,10 +7698,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         },
         {
-          "title": "Position of the printer settings on print dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3289"
-        },
-        {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
         },
@@ -7691,7 +7706,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9205,17 +9220,25 @@
     },
     {
       "date": "2023-03-22",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-03-23",
       "unRespondedItems": [
         {
-          "title": "new css reset",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1418"
+          "title": "view-source:https://www.speedtest.net/result/14513908337",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1422"
         },
         {
-          "title": "Aula 01 - ADW",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1417"
+          "title": "found error in run live server ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1419"
+        },
+        {
+          "title": "Testing Project",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1420"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10729,8 +10752,17 @@
     },
     {
       "date": "2023-03-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-23",
+      "unRespondedItems": [
+        {
+          "title": "cookies",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2502"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
