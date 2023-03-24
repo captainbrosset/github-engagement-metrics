@@ -1,4 +1,4 @@
-Response rate: 90.82%
+Response rate: 91.41%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -7,14 +7,14 @@ Response rate: 90.82%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+  * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
+  * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [How to find the root cause when CoreWebView2.ProcessFailed r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3326)
-  * [The top toolbar configuration does not use  animation in PDF...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3325)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
@@ -32,10 +32,8 @@ Response rate: 90.82%
   * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
-  * [Queries about Context Menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [view-source:https://www.speedtest.net/result/14513908337](https://github.com/microsoft/vscode-edge-devtools/issues/1422)
-  * [found error in run live server ](https://github.com/microsoft/vscode-edge-devtools/issues/1419)
-  * [Testing Project](https://github.com/microsoft/vscode-edge-devtools/issues/1420)
-* **MicrosoftDocs/edge-developer** - _97.92%_
-  * [cookies](https://github.com/MicrosoftDocs/edge-developer/issues/2502)
+  * [Feature Request: Re-using existing (WebView2) Context Menu i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [MSEdge extension does not launch in VSCode for POP_OS linux](https://github.com/microsoft/vscode-edge-devtools/issues/1424)
+  * [EDGE BROSWER NOT RUNING TO DEBUGING IN WINDOWS 11 OS](https://github.com/microsoft/vscode-edge-devtools/issues/1423)
+* **MicrosoftDocs/edge-developer** - _100.00%_
