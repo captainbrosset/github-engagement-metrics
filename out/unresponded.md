@@ -1,4 +1,4 @@
-Response rate: 91.41%
+Response rate: 91.12%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -14,11 +14,14 @@ Response rate: 91.41%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[PostSharedBufferToScript] Ensure Web receives the Buffer](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331)
+  * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
+  * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
-  * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
+  * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
   * [Webview shows webpage(local html file) slowly first time in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319)
   * [Can EdgeUpdate be enabled through the Edge process to instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317)
@@ -33,7 +36,5 @@ Response rate: 91.41%
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [Feature Request: Re-using existing (WebView2) Context Menu i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [MSEdge extension does not launch in VSCode for POP_OS linux](https://github.com/microsoft/vscode-edge-devtools/issues/1424)
-  * [EDGE BROSWER NOT RUNING TO DEBUGING IN WINDOWS 11 OS](https://github.com/microsoft/vscode-edge-devtools/issues/1423)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _100.00%_

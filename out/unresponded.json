@@ -1518,6 +1518,10 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3058,6 +3062,10 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4581,6 +4589,10 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6104,6 +6116,10 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -7652,14 +7668,26 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [
+        {
+          "title": "[PostSharedBufferToScript] Ensure Web receives the Buffer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331"
+        },
+        {
+          "title": "Unable to view xfa pdf forms in Webview2 wpf application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330"
+        },
+        {
+          "title": "webview2 -- The framework failed to start accidentally with the administrator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329"
+        },
         {
           "title": "WebView2 (WinUI3 + Win32) does not support multi windows.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
-        },
-        {
-          "title": "Popup window - scroll wheel not work - bug?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
         },
         {
           "title": "Tip: Default menu item names for Context menus",
@@ -7668,6 +7696,10 @@
         {
           "title": "OnNavigationCompleted callback is sometimes called twice for a Navigation call",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
+        },
+        {
+          "title": "Popup window - scroll wheel not work - bug?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
         },
         {
           "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
@@ -7726,7 +7758,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
         }
       ],
-      "rate": "64.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9248,17 +9280,12 @@
     },
     {
       "date": "2023-03-24",
-      "unRespondedItems": [
-        {
-          "title": "MSEdge extension does not launch in VSCode for POP_OS linux",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1424"
-        },
-        {
-          "title": "EDGE BROSWER NOT RUNING TO DEBUGING IN WINDOWS 11 OS",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1423"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-03-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10780,6 +10807,10 @@
     },
     {
       "date": "2023-03-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
