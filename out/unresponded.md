@@ -1,4 +1,4 @@
-Response rate: 91.12%
+Response rate: 89.67%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -36,5 +36,10 @@ Response rate: 91.12%
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
   * [Feature Request: Re-using existing (WebView2) Context Menu i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [launch.json error](https://github.com/microsoft/vscode-edge-devtools/issues/1428)
+  * [hi](https://github.com/microsoft/vscode-edge-devtools/issues/1427)
+  * [source](https://github.com/microsoft/vscode-edge-devtools/issues/1426)
+  * [Restore all default settings](https://github.com/microsoft/vscode-edge-devtools/issues/1425)
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [Missing contact info / way to resolve the current status.](https://github.com/MicrosoftDocs/edge-developer/issues/2511)

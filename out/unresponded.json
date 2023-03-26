@@ -1522,6 +1522,10 @@
     },
     {
       "date": "2023-03-25",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-26",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3066,6 +3070,10 @@
     },
     {
       "date": "2023-03-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4593,6 +4601,10 @@
     },
     {
       "date": "2023-03-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6120,6 +6132,10 @@
     },
     {
       "date": "2023-03-25",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-26",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -7672,6 +7688,10 @@
     },
     {
       "date": "2023-03-25",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-26",
       "unRespondedItems": [
         {
           "title": "[PostSharedBufferToScript] Ensure Web receives the Buffer",
@@ -9284,8 +9304,29 @@
     },
     {
       "date": "2023-03-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-26",
+      "unRespondedItems": [
+        {
+          "title": "launch.json error",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1428"
+        },
+        {
+          "title": "hi",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1427"
+        },
+        {
+          "title": "source",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1426"
+        },
+        {
+          "title": "Restore all default settings",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1425"
+        }
+      ],
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10811,8 +10852,17 @@
     },
     {
       "date": "2023-03-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-26",
+      "unRespondedItems": [
+        {
+          "title": "Missing contact info / way to resolve the current status.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2511"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
