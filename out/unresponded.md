@@ -1,6 +1,8 @@
-Response rate: 89.67%
+Response rate: 88.23%
 
-* **webhintio/hint** - _91.84%_
+* **webhintio/hint** - _87.76%_
+  * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
+  * [[Feature] Being able to change the language](https://github.com/webhintio/hint/issues/5470)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -14,7 +16,9 @@ Response rate: 89.67%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
+  * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [[PostSharedBufferToScript] Ensure Web receives the Buffer](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
   * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
@@ -35,8 +39,9 @@ Response rate: 89.67%
   * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
   * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
-  * [Feature Request: Re-using existing (WebView2) Context Menu i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [c/c++](https://github.com/microsoft/vscode-edge-devtools/issues/1430)
+  * [c++](https://github.com/microsoft/vscode-edge-devtools/issues/1429)
   * [launch.json error](https://github.com/microsoft/vscode-edge-devtools/issues/1428)
   * [hi](https://github.com/microsoft/vscode-edge-devtools/issues/1427)
   * [source](https://github.com/microsoft/vscode-edge-devtools/issues/1426)

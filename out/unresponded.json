@@ -1526,7 +1526,19 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [
+        {
+          "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
+          "url": "https://github.com/webhintio/hint/pull/5471"
+        },
+        {
+          "title": "[Feature] Being able to change the language",
+          "url": "https://github.com/webhintio/hint/issues/5470"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1544,7 +1556,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "91.84"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3074,6 +3086,10 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4605,6 +4621,10 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6136,6 +6156,10 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -7692,7 +7716,19 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [
+        {
+          "title": "No response when start installation program",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
+        },
+        {
+          "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333"
+        },
         {
           "title": "[PostSharedBufferToScript] Ensure Web receives the Buffer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331"
@@ -7772,13 +7808,9 @@
         {
           "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
-        },
-        {
-          "title": "Feature Request: Re-using existing (WebView2) Context Menu icons",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3282"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9308,7 +9340,19 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [
+        {
+          "title": "c/c++",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1430"
+        },
+        {
+          "title": "c++",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1429"
+        },
         {
           "title": "launch.json error",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1428"
@@ -9326,7 +9370,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1425"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10856,6 +10900,10 @@
     },
     {
       "date": "2023-03-26",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-03-27",
       "unRespondedItems": [
         {
           "title": "Missing contact info / way to resolve the current status.",
