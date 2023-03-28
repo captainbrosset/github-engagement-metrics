@@ -1,8 +1,8 @@
-Response rate: 88.23%
+Response rate: 89.03%
 
-* **webhintio/hint** - _87.76%_
+* **webhintio/hint** - _87.50%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5474)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
-  * [[Feature] Being able to change the language](https://github.com/webhintio/hint/issues/5470)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
@@ -17,14 +17,15 @@ Response rate: 88.23%
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
+  * [Does webview2 runtime need to be installed for each domain u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3338)
+  * [Customizing a popup window context menu?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
-  * [[PostSharedBufferToScript] Ensure Web receives the Buffer](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
   * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
+  * [using context menu icons that are white.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3337)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
   * [Webview shows webpage(local html file) slowly first time in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319)
@@ -38,13 +39,9 @@ Response rate: 88.23%
   * [Why are my my own custom menu items not firing?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300)
   * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
-  * [await e.Response.GetContentAsync(); Something went wrong and...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283)
-* **microsoft/vscode-edge-devtools** - _88.00%_
-  * [c/c++](https://github.com/microsoft/vscode-edge-devtools/issues/1430)
-  * [c++](https://github.com/microsoft/vscode-edge-devtools/issues/1429)
-  * [launch.json error](https://github.com/microsoft/vscode-edge-devtools/issues/1428)
-  * [hi](https://github.com/microsoft/vscode-edge-devtools/issues/1427)
-  * [source](https://github.com/microsoft/vscode-edge-devtools/issues/1426)
-  * [Restore all default settings](https://github.com/microsoft/vscode-edge-devtools/issues/1425)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Missing contact info / way to resolve the current status.](https://github.com/MicrosoftDocs/edge-developer/issues/2511)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [prompt function not working](https://github.com/microsoft/vscode-edge-devtools/issues/1435)
+  * [i cant debug my code and viscode keeps asking for node js](https://github.com/microsoft/vscode-edge-devtools/issues/1434)
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [hackers](https://github.com/MicrosoftDocs/edge-developer/issues/2515)
+  * [AttN](https://github.com/MicrosoftDocs/edge-developer/issues/2514)

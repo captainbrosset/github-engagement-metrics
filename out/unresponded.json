@@ -1530,14 +1530,18 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5474"
+        },
         {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
-        },
-        {
-          "title": "[Feature] Being able to change the language",
-          "url": "https://github.com/webhintio/hint/issues/5470"
         },
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -1556,7 +1560,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "87.76"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3090,6 +3094,10 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4625,6 +4633,10 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6160,6 +6172,10 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -7720,18 +7736,22 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [
         {
-          "title": "No response when start installation program",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
+          "title": "Does webview2 runtime need to be installed for each domain user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3338"
+        },
+        {
+          "title": "Customizing a popup window context menu?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
         },
         {
           "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333"
-        },
-        {
-          "title": "[PostSharedBufferToScript] Ensure Web receives the Buffer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3331"
         },
         {
           "title": "Unable to view xfa pdf forms in Webview2 wpf application",
@@ -7752,6 +7772,10 @@
         {
           "title": "OnNavigationCompleted callback is sometimes called twice for a Navigation call",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
+        },
+        {
+          "title": "using context menu icons that are white.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3337"
         },
         {
           "title": "Popup window - scroll wheel not work - bug?",
@@ -7804,10 +7828,6 @@
         {
           "title": "Reusing custom context menu items",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
-        },
-        {
-          "title": "await e.Response.GetContentAsync(); Something went wrong and needs help",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3283"
         }
       ],
       "rate": "56.00"
@@ -9344,33 +9364,21 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [
         {
-          "title": "c/c++",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1430"
+          "title": "prompt function not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1435"
         },
         {
-          "title": "c++",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1429"
-        },
-        {
-          "title": "launch.json error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1428"
-        },
-        {
-          "title": "hi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1427"
-        },
-        {
-          "title": "source",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1426"
-        },
-        {
-          "title": "Restore all default settings",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1425"
+          "title": "i cant debug my code and viscode keeps asking for node js",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1434"
         }
       ],
-      "rate": "88.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -10904,13 +10912,21 @@
     },
     {
       "date": "2023-03-27",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-03-28",
       "unRespondedItems": [
         {
-          "title": "Missing contact info / way to resolve the current status.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2511"
+          "title": "hackers",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2515"
+        },
+        {
+          "title": "AttN",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2514"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }
