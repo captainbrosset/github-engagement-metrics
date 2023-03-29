@@ -1534,15 +1534,11 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5474"
-        },
-        {
-          "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
-          "url": "https://github.com/webhintio/hint/pull/5471"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1560,7 +1556,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "87.50"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3098,6 +3094,10 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4637,8 +4637,17 @@
     },
     {
       "date": "2023-03-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-03-29",
+      "unRespondedItems": [
+        {
+          "title": "State of DevTools panel is not maintained on Focus Mode UI",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/140"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6176,6 +6185,10 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -7740,15 +7753,11 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [
-        {
-          "title": "Does webview2 runtime need to be installed for each domain user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3338"
-        },
-        {
-          "title": "Customizing a popup window context menu?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
-        },
         {
           "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333"
@@ -7774,12 +7783,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
         },
         {
-          "title": "using context menu icons that are white.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3337"
+          "title": "Customizing a popup window context menu?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
         },
         {
           "title": "Popup window - scroll wheel not work - bug?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
+        },
+        {
+          "title": "ICoreWebView2NavigationStartingEventHandler did not work for about:blank",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321"
         },
         {
           "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
@@ -7830,7 +7843,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9368,14 +9381,18 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [
         {
-          "title": "prompt function not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1435"
+          "title": "Undockable panes",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1437"
         },
         {
-          "title": "i cant debug my code and viscode keeps asking for node js",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1434"
+          "title": "Slow scorll when running server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1436"
         }
       ],
       "rate": "96.00"
@@ -10916,17 +10933,17 @@
     },
     {
       "date": "2023-03-28",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-03-29",
       "unRespondedItems": [
         {
-          "title": "hackers",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2515"
-        },
-        {
-          "title": "AttN",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2514"
+          "title": "Missing information about the Discover feature",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2517"
         }
       ],
-      "rate": "95.74"
+      "rate": "97.87"
     }
   ]
 }
