@@ -1,4 +1,4 @@
-Response rate: 89.96%
+Response rate: 89.41%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -6,23 +6,26 @@ Response rate: 89.96%
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [State of DevTools panel is not maintained on Focus Mode UI](https://github.com/MicrosoftEdge/DevTools/issues/140)
-* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
+  * [disable-build-check no longer working starting Edgedriver 11...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * ["Failed to read the 'localStorage' property from 'Window': A...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3342)
+  * [ClearBrowsingDataAsync doesn't remove service worker caches ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3341)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
-  * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
   * [Tip: Default menu item names for Context menus](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297)
   * [OnNavigationCompleted callback is sometimes called twice for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292)
+  * [error The specified blob does not exist RequestId And white ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
   * [Customizing a popup window context menu?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336)
+  * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
@@ -38,7 +41,6 @@ Response rate: 89.96%
   * [No invoke of callback function while other dialog moves](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299)
   * [Reusing custom context menu items](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Undockable panes](https://github.com/microsoft/vscode-edge-devtools/issues/1437)
-  * [Slow scorll when running server](https://github.com/microsoft/vscode-edge-devtools/issues/1436)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Missing information about the Discover feature](https://github.com/MicrosoftDocs/edge-developer/issues/2517)
+  * [api](https://github.com/microsoft/vscode-edge-devtools/issues/1439)
+  * [ALICIA](https://github.com/microsoft/vscode-edge-devtools/issues/1438)
+* **MicrosoftDocs/edge-developer** - _100.00%_

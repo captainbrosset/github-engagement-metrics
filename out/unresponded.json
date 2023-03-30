@@ -1538,6 +1538,10 @@
     },
     {
       "date": "2023-03-29",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-03-30",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3098,6 +3102,10 @@
     },
     {
       "date": "2023-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4641,13 +4649,12 @@
     },
     {
       "date": "2023-03-29",
-      "unRespondedItems": [
-        {
-          "title": "State of DevTools panel is not maintained on Focus Mode UI",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/140"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-03-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6189,7 +6196,15 @@
     },
     {
       "date": "2023-03-29",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-03-30",
       "unRespondedItems": [
+        {
+          "title": "disable-build-check no longer working starting Edgedriver 111",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76"
+        },
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
@@ -6215,7 +6230,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7757,7 +7772,19 @@
     },
     {
       "date": "2023-03-29",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-03-30",
       "unRespondedItems": [
+        {
+          "title": "\"Failed to read the 'localStorage' property from 'Window': Access is denied for this document\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3342"
+        },
+        {
+          "title": "ClearBrowsingDataAsync doesn't remove service worker caches and registrations",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3341"
+        },
         {
           "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333"
@@ -7765,10 +7792,6 @@
         {
           "title": "Unable to view xfa pdf forms in Webview2 wpf application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330"
-        },
-        {
-          "title": "webview2 -- The framework failed to start accidentally with the administrator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329"
         },
         {
           "title": "WebView2 (WinUI3 + Win32) does not support multi windows.",
@@ -7783,8 +7806,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3292"
         },
         {
+          "title": "error The specified blob does not exist RequestId And white screen issues",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
+        },
+        {
           "title": "Customizing a popup window context menu?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
+        },
+        {
+          "title": "No response when start installation program",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
         },
         {
           "title": "Popup window - scroll wheel not work - bug?",
@@ -7843,7 +7874,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         }
       ],
-      "rate": "58.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9385,14 +9416,18 @@
     },
     {
       "date": "2023-03-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-03-30",
       "unRespondedItems": [
         {
-          "title": "Undockable panes",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1437"
+          "title": "api",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1439"
         },
         {
-          "title": "Slow scorll when running server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1436"
+          "title": "ALICIA",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1438"
         }
       ],
       "rate": "96.00"
@@ -10937,13 +10972,12 @@
     },
     {
       "date": "2023-03-29",
-      "unRespondedItems": [
-        {
-          "title": "Missing information about the Discover feature",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2517"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-03-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
