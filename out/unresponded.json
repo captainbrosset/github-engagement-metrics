@@ -1546,6 +1546,10 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3114,6 +3118,10 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4665,6 +4673,10 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6216,7 +6228,15 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [
+        {
+          "title": "Cannot set window size when headless=new on Hyper-V virtual machine",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/77"
+        },
         {
           "title": "disable-build-check no longer working starting Edgedriver 111",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76"
@@ -6246,7 +6266,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7796,22 +7816,22 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "50.00"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [
         {
-          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
+          "title": "MacOS Support",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351"
         },
         {
-          "title": "WebView2 viewer only uses cached version of content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345"
+          "title": "Resizing parent when Print UI is visible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
         },
         {
-          "title": "Old versions of WebView 2 are not cleaned up",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3344"
-        },
-        {
-          "title": "\"Failed to read the 'localStorage' property from 'Window': Access is denied for this document\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3342"
+          "title": "Customizing a popup window context menu?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
         },
         {
           "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
@@ -7826,24 +7846,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
-          "title": "Tip: Default menu item names for Context menus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3297"
-        },
-        {
-          "title": "WebView2 Download Uwp Panel Opening Download Folder - Latest Pre-Release",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343"
+          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
         },
         {
           "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
-        },
-        {
-          "title": "Customizing a popup window context menu?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
-        },
-        {
-          "title": "No response when start installation program",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
         },
         {
           "title": "Popup window - scroll wheel not work - bug?",
@@ -7884,21 +7892,9 @@
         {
           "title": "Strange behavior of youtube list",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
-        },
-        {
-          "title": "Why are my my own custom menu items not firing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3300"
-        },
-        {
-          "title": "No invoke of callback function while other dialog moves",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3299"
-        },
-        {
-          "title": "Reusing custom context menu items",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3296"
         }
       ],
-      "rate": "50.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9448,21 +9444,17 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [
         {
-          "title": "banner",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1441"
-        },
-        {
-          "title": "Configuration 'Launch Edge Headless and attach DevTools' is missing in 'launch.json'.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1440"
-        },
-        {
-          "title": "Restore all default settings",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1425"
+          "title": "Unable to Debug Angular app",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1442"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11012,17 +11004,17 @@
     },
     {
       "date": "2023-03-31",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-04-01",
       "unRespondedItems": [
         {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2522"
-        },
-        {
-          "title": "No Support for Mac/non-Windows?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2523"
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2526"
         }
       ],
-      "rate": "95.65"
+      "rate": "97.83"
     }
   ]
 }
