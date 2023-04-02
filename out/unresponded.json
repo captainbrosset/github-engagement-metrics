@@ -1550,6 +1550,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3122,6 +3126,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4677,6 +4685,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6232,6 +6244,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [
         {
           "title": "Cannot set window size when headless=new on Hyper-V virtual machine",
@@ -7820,6 +7836,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [
         {
           "title": "MacOS Support",
@@ -7846,8 +7866,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
+          "title": "How can I disable specific hotkeys or re-direct them back to the parent for handling?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3352"
+        },
+        {
           "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
+        },
+        {
+          "title": "WebView2 Download Uwp Panel Opening Download Folder - Latest Pre-Release",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343"
         },
         {
           "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
@@ -7894,7 +7922,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9448,13 +9476,25 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [
+        {
+          "title": "title home",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1444"
+        },
+        {
+          "title": "live preview",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1443"
+        },
         {
           "title": "Unable to Debug Angular app",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1442"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11008,6 +11048,10 @@
     },
     {
       "date": "2023-04-01",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-04-02",
       "unRespondedItems": [
         {
           "title": "References to old Edge versions detected",
