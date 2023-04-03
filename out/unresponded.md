@@ -1,4 +1,4 @@
-Response rate: 89.67%
+Response rate: 89.38%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -16,14 +16,13 @@ Response rate: 89.67%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [MacOS Support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351)
-  * [Resizing parent when Print UI is visible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350)
   * [Customizing a popup window context menu?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
-  * [How can I disable specific hotkeys or re-direct them back to...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3352)
+  * [Resizing parent when Print UI is visible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350)
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [WebView2 Download Uwp Panel Opening Download Folder - Latest...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343)
   * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
@@ -37,7 +36,9 @@ Response rate: 89.67%
   * [Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.4...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310)
   * [SCCM Task Sequence fails while installing Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303)
   * [Strange behavior of youtube list](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [college timetable  html & php project](https://github.com/microsoft/vscode-edge-devtools/issues/1446)
+  * [Error loading webview](https://github.com/microsoft/vscode-edge-devtools/issues/1445)
   * [title home](https://github.com/microsoft/vscode-edge-devtools/issues/1444)
   * [live preview](https://github.com/microsoft/vscode-edge-devtools/issues/1443)
   * [Unable to Debug Angular app](https://github.com/microsoft/vscode-edge-devtools/issues/1442)

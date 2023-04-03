@@ -1554,6 +1554,10 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3130,6 +3134,10 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4689,6 +4697,10 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6248,6 +6260,10 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [
         {
           "title": "Cannot set window size when headless=new on Hyper-V virtual machine",
@@ -7840,14 +7856,14 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [
         {
           "title": "MacOS Support",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351"
-        },
-        {
-          "title": "Resizing parent when Print UI is visible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
         },
         {
           "title": "Customizing a popup window context menu?",
@@ -7866,8 +7882,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
-          "title": "How can I disable specific hotkeys or re-direct them back to the parent for handling?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3352"
+          "title": "Resizing parent when Print UI is visible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
         },
         {
           "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
@@ -7922,7 +7938,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9480,7 +9496,19 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [
+        {
+          "title": "college timetable  html & php project",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1446"
+        },
+        {
+          "title": "Error loading webview",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1445"
+        },
         {
           "title": "title home",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1444"
@@ -9494,7 +9522,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1442"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11052,6 +11080,10 @@
     },
     {
       "date": "2023-04-02",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-04-03",
       "unRespondedItems": [
         {
           "title": "References to old Edge versions detected",
