@@ -1558,6 +1558,10 @@
     },
     {
       "date": "2023-04-03",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-04-04",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3138,6 +3142,10 @@
     },
     {
       "date": "2023-04-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4701,8 +4709,17 @@
     },
     {
       "date": "2023-04-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-04",
+      "unRespondedItems": [
+        {
+          "title": "Show source of selector stats",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/142"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6264,7 +6281,19 @@
     },
     {
       "date": "2023-04-03",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-04-04",
       "unRespondedItems": [
+        {
+          "title": "Edge in IE mode unable to execute when executed with Administrator mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/79"
+        },
+        {
+          "title": "Selenium compatibility Edge control",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/78"
+        },
         {
           "title": "Cannot set window size when headless=new on Hyper-V virtual machine",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/77"
@@ -6298,7 +6327,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "84.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7860,7 +7889,31 @@
     },
     {
       "date": "2023-04-03",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-04-04",
       "unRespondedItems": [
+        {
+          "title": "CVE-2023-24892 Microsoft Edge (Chromium-based) Webview2 Spoofing Vulnerability - RT vs SDK?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3357"
+        },
+        {
+          "title": "Webview2 sometimes does not complete download.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
+        },
+        {
+          "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
+        },
+        {
+          "title": "Opening a link in DevTools opens a new Edge-like popup window instead of triggering `NewWindowRequested` event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3354"
+        },
+        {
+          "title": "Please include Webview2 \"WebGL\" disable option function.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3353"
+        },
         {
           "title": "MacOS Support",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351"
@@ -7898,6 +7951,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
         },
         {
+          "title": "webview2 -- The framework failed to start accidentally with the administrator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329"
+        },
+        {
           "title": "Popup window - scroll wheel not work - bug?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
         },
@@ -7930,15 +7987,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310"
         },
         {
-          "title": "SCCM Task Sequence fails while installing Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303"
-        },
-        {
-          "title": "Strange behavior of youtube list",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301"
+          "title": "Use Proxy with webview2 and UWP application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3306"
         }
       ],
-      "rate": "62.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9500,29 +9553,25 @@
     },
     {
       "date": "2023-04-03",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-04-04",
       "unRespondedItems": [
         {
-          "title": "college timetable  html & php project",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1446"
+          "title": "wut",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1449"
         },
         {
-          "title": "Error loading webview",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1445"
+          "title": "Ai tools for help in coding",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1448"
         },
         {
-          "title": "title home",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1444"
-        },
-        {
-          "title": "live preview",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1443"
-        },
-        {
-          "title": "Unable to Debug Angular app",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1442"
+          "title": "title attribute",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1447"
         }
       ],
-      "rate": "90.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11084,13 +11133,12 @@
     },
     {
       "date": "2023-04-03",
-      "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2526"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-04-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

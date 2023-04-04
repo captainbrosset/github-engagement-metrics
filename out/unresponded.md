@@ -1,4 +1,4 @@
-Response rate: 89.38%
+Response rate: 87.98%
 
 * **webhintio/hint** - _91.84%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -6,8 +6,11 @@ Response rate: 89.38%
   * [HTTP ERROR: 401 Unauthorized](https://github.com/webhintio/hint/issues/5362)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Show source of selector stats](https://github.com/MicrosoftEdge/DevTools/issues/142)
+* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
+  * [Edge in IE mode unable to execute when executed with Adminis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/79)
+  * [Selenium compatibility Edge control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/78)
   * [Cannot set window size when headless=new on Hyper-V virtual ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/77)
   * [disable-build-check no longer working starting Edgedriver 11...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
@@ -16,7 +19,12 @@ Response rate: 89.38%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [CVE-2023-24892 Microsoft Edge (Chromium-based) Webview2 Spoo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3357)
+  * [Webview2 sometimes does not complete download.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356)
+  * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
+  * [Opening a link in DevTools opens a new Edge-like popup windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3354)
+  * [Please include Webview2 "WebGL" disable option function.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3353)
   * [MacOS Support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351)
   * [Customizing a popup window context menu?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
@@ -26,6 +34,7 @@ Response rate: 89.38%
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [WebView2 Download Uwp Panel Opening Download Folder - Latest...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343)
   * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
+  * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
@@ -34,13 +43,9 @@ Response rate: 89.38%
   * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
   * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
   * [Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.4...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310)
-  * [SCCM Task Sequence fails while installing Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3303)
-  * [Strange behavior of youtube list](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3301)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [college timetable  html & php project](https://github.com/microsoft/vscode-edge-devtools/issues/1446)
-  * [Error loading webview](https://github.com/microsoft/vscode-edge-devtools/issues/1445)
-  * [title home](https://github.com/microsoft/vscode-edge-devtools/issues/1444)
-  * [live preview](https://github.com/microsoft/vscode-edge-devtools/issues/1443)
-  * [Unable to Debug Angular app](https://github.com/microsoft/vscode-edge-devtools/issues/1442)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2526)
+  * [Use Proxy with webview2 and UWP application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3306)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [wut](https://github.com/microsoft/vscode-edge-devtools/issues/1449)
+  * [Ai tools for help in coding](https://github.com/microsoft/vscode-edge-devtools/issues/1448)
+  * [title attribute](https://github.com/microsoft/vscode-edge-devtools/issues/1447)
+* **MicrosoftDocs/edge-developer** - _100.00%_
