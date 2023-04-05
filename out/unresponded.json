@@ -1562,6 +1562,10 @@
     },
     {
       "date": "2023-04-04",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-04-05",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -1576,11 +1580,15 @@
           "url": "https://github.com/webhintio/hint/issues/5362"
         },
         {
+          "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
+          "url": "https://github.com/webhintio/hint/pull/5471"
+        },
+        {
           "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "91.84"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3146,6 +3154,10 @@
     },
     {
       "date": "2023-04-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4713,13 +4725,12 @@
     },
     {
       "date": "2023-04-04",
-      "unRespondedItems": [
-        {
-          "title": "Show source of selector stats",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/142"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-04-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6285,6 +6296,10 @@
     },
     {
       "date": "2023-04-04",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-05",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -7893,14 +7908,26 @@
     },
     {
       "date": "2023-04-04",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-04-05",
       "unRespondedItems": [
         {
-          "title": "CVE-2023-24892 Microsoft Edge (Chromium-based) Webview2 Spoofing Vulnerability - RT vs SDK?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3357"
+          "title": "Browser's print preview dialog window is not displayed for a hidden browser window control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3361"
         },
         {
-          "title": "Webview2 sometimes does not complete download.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
+          "title": "PostSharedBufferToScript stops after about 32000x1MB buffers are posted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3360"
+        },
+        {
+          "title": "cssRules is't suported by WebView2 ?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3359"
+        },
+        {
+          "title": "How to verify the digital signature of a PDF file?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3358"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
@@ -7909,14 +7936,6 @@
         {
           "title": "Opening a link in DevTools opens a new Edge-like popup window instead of triggering `NewWindowRequested` event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3354"
-        },
-        {
-          "title": "Please include Webview2 \"WebGL\" disable option function.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3353"
-        },
-        {
-          "title": "MacOS Support",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3351"
         },
         {
           "title": "Customizing a popup window context menu?",
@@ -7939,8 +7958,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
         },
         {
-          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
+          "title": "Provide an interface to pause audio and video",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348"
         },
         {
           "title": "WebView2 Download Uwp Panel Opening Download Folder - Latest Pre-Release",
@@ -7981,17 +8000,9 @@
         {
           "title": "BadImageFormat Exception on launching WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313"
-        },
-        {
-          "title": "Navigate (url) does not honor # in 1.0.1418.22 or 1.0.1587.40, but worked in 1.0.961.33",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3310"
-        },
-        {
-          "title": "Use Proxy with webview2 and UWP application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3306"
         }
       ],
-      "rate": "52.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9557,21 +9568,12 @@
     },
     {
       "date": "2023-04-04",
-      "unRespondedItems": [
-        {
-          "title": "wut",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1449"
-        },
-        {
-          "title": "Ai tools for help in coding",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1448"
-        },
-        {
-          "title": "title attribute",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1447"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-04-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11137,8 +11139,29 @@
     },
     {
       "date": "2023-04-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-05",
+      "unRespondedItems": [
+        {
+          "title": "Is the Canary Channel of Edge necessary for remote debugging of WebView2 on UWP?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2532"
+        },
+        {
+          "title": "MS case 35808789 - redirected to here - WebView2",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2531"
+        },
+        {
+          "title": "PrintAsync not working properly",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2530"
+        },
+        {
+          "title": "Request help",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2529"
+        }
+      ],
+      "rate": "91.30"
     }
   ]
 }
