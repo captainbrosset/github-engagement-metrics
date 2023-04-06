@@ -1,4 +1,4 @@
-Response rate: 88.16%
+Response rate: 88.80%
 
 * **webhintio/hint** - _89.80%_
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
@@ -8,20 +8,18 @@ Response rate: 88.16%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
   * [Edge in IE mode unable to execute when executed with Adminis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/79)
   * [Selenium compatibility Edge control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/78)
   * [Cannot set window size when headless=new on Hyper-V virtual ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/77)
   * [disable-build-check no longer working starting Edgedriver 11...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
-  * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
   * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [Browser's print preview dialog window is not displayed for a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3361)
-  * [PostSharedBufferToScript stops after about 32000x1MB buffers...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3360)
+  * [window.chrome.webview.addEventListener Uncaught TypeError](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3362)
   * [cssRules is't suported by WebView2 ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3359)
   * [How to verify the digital signature of a PDF file?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3358)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
@@ -30,11 +28,12 @@ Response rate: 88.16%
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
   * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
+  * [Webview2 sometimes does not complete download.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356)
   * [Resizing parent when Print UI is visible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350)
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
-  * [WebView2 Download Uwp Panel Opening Download Folder - Latest...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343)
+  * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
-  * [webview2 -- The framework failed to start accidentally with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329)
+  * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
   * [Popup window - scroll wheel not work - bug?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322)
   * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
@@ -42,9 +41,8 @@ Response rate: 88.16%
   * [Can EdgeUpdate be enabled through the Edge process to instal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317)
   * [Broken AdditionalBrowserArguments with --auth-server-whiteli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315)
   * [BadImageFormat Exception on launching WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _91.30%_
-  * [Is the Canary Channel of Edge necessary for remote debugging...](https://github.com/MicrosoftDocs/edge-developer/issues/2532)
-  * [MS case 35808789 - redirected to here - WebView2](https://github.com/MicrosoftDocs/edge-developer/issues/2531)
-  * [PrintAsync not working properly](https://github.com/MicrosoftDocs/edge-developer/issues/2530)
-  * [Request help](https://github.com/MicrosoftDocs/edge-developer/issues/2529)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Live reload server](https://github.com/microsoft/vscode-edge-devtools/issues/1453)
+  * [Feature Request: Open new screencast tabs when new browser w...](https://github.com/microsoft/vscode-edge-devtools/issues/1452)
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [First public offering as a stock](https://github.com/MicrosoftDocs/edge-developer/issues/2534)

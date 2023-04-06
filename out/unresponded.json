@@ -1566,6 +1566,10 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3158,6 +3162,10 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4729,6 +4737,10 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6300,6 +6312,10 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -6322,10 +6338,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
         },
         {
-          "title": "When opening the edge(111.0.1661.44 version) browser in selenium headless mode, the actual opening is a chrome browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74"
-        },
-        {
           "title": "Microsoft EdgeBrowser is not working through selenium",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
         },
@@ -6342,7 +6354,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "80.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7912,14 +7924,14 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [
         {
-          "title": "Browser's print preview dialog window is not displayed for a hidden browser window control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3361"
-        },
-        {
-          "title": "PostSharedBufferToScript stops after about 32000x1MB buffers are posted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3360"
+          "title": "window.chrome.webview.addEventListener Uncaught TypeError",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3362"
         },
         {
           "title": "cssRules is't suported by WebView2 ?",
@@ -7954,6 +7966,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
+          "title": "Webview2 sometimes does not complete download.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
+        },
+        {
           "title": "Resizing parent when Print UI is visible",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
         },
@@ -7962,16 +7978,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348"
         },
         {
-          "title": "WebView2 Download Uwp Panel Opening Download Folder - Latest Pre-Release",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3343"
+          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
         },
         {
           "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
         },
         {
-          "title": "webview2 -- The framework failed to start accidentally with the administrator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3329"
+          "title": "No response when start installation program",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
         },
         {
           "title": "Popup window - scroll wheel not work - bug?",
@@ -9572,8 +9588,21 @@
     },
     {
       "date": "2023-04-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-06",
+      "unRespondedItems": [
+        {
+          "title": "Live reload server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1453"
+        },
+        {
+          "title": "Feature Request: Open new screencast tabs when new browser windows or tabs are opened",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1452"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11143,25 +11172,17 @@
     },
     {
       "date": "2023-04-05",
+      "rate": "91.30"
+    },
+    {
+      "date": "2023-04-06",
       "unRespondedItems": [
         {
-          "title": "Is the Canary Channel of Edge necessary for remote debugging of WebView2 on UWP?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2532"
-        },
-        {
-          "title": "MS case 35808789 - redirected to here - WebView2",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2531"
-        },
-        {
-          "title": "PrintAsync not working properly",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2530"
-        },
-        {
-          "title": "Request help",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2529"
+          "title": "First public offering as a stock",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2534"
         }
       ],
-      "rate": "91.30"
+      "rate": "97.83"
     }
   ]
 }
