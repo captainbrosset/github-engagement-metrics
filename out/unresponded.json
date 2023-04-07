@@ -1570,7 +1570,15 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Describe your bug here",
+          "url": "https://github.com/webhintio/hint/issues/5509"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1592,7 +1600,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.80"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3166,6 +3174,10 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4741,6 +4753,10 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6316,6 +6332,10 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -6342,6 +6362,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68"
         },
         {
+          "title": "When opening the edge(111.0.1661.44 version) browser in selenium headless mode, the actual opening is a chrome browser",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74"
+        },
+        {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         },
@@ -6354,7 +6378,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -7928,7 +7952,27 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [
+        {
+          "title": "Added support for launching external URIs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3368"
+        },
+        {
+          "title": "Privacy issue: X-Edge-Shopping-Flag sent to bing.com",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3365"
+        },
+        {
+          "title": " Microsoft_UI_Xaml.WebView2 Touch content crashes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3364"
+        },
+        {
+          "title": "Different results when using Web Select and Select All / Copy / Paste",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363"
+        },
         {
           "title": "window.chrome.webview.addEventListener Uncaught TypeError",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3362"
@@ -7944,14 +7988,6 @@
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
-        },
-        {
-          "title": "Opening a link in DevTools opens a new Edge-like popup window instead of triggering `NewWindowRequested` event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3354"
-        },
-        {
-          "title": "Customizing a popup window context menu?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3336"
         },
         {
           "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
@@ -7970,16 +8006,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
         },
         {
-          "title": "Resizing parent when Print UI is visible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3350"
-        },
-        {
           "title": "Provide an interface to pause audio and video",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348"
-        },
-        {
-          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
         },
         {
           "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
@@ -8008,17 +8036,9 @@
         {
           "title": "Can EdgeUpdate be enabled through the Edge process to install WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317"
-        },
-        {
-          "title": "Broken AdditionalBrowserArguments with --auth-server-whitelist and --auth-delegate-whitelist using WebView2 Runtime installations later than 109.x.xxxx.xx",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3315"
-        },
-        {
-          "title": "BadImageFormat Exception on launching WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3313"
         }
       ],
-      "rate": "56.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9592,17 +9612,12 @@
     },
     {
       "date": "2023-04-06",
-      "unRespondedItems": [
-        {
-          "title": "Live reload server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1453"
-        },
-        {
-          "title": "Feature Request: Open new screencast tabs when new browser windows or tabs are opened",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1452"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-04-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11176,10 +11191,14 @@
     },
     {
       "date": "2023-04-06",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-04-07",
       "unRespondedItems": [
         {
-          "title": "First public offering as a stock",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2534"
+          "title": "Chais T. Fitzwater\r\nNotary Public - Notary Seal\r\nState of Missouri\r\nCommissioned for State of Missouri\r\nMy Commission Expires: Feb 10, 2028\r\nCommission Number: 126257433",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2536"
         }
       ],
       "rate": "97.83"
