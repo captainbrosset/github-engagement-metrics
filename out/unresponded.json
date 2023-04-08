@@ -1574,6 +1574,10 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3178,6 +3182,10 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4757,6 +4765,10 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6336,6 +6348,10 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -7956,34 +7972,14 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [
-        {
-          "title": "Added support for launching external URIs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3368"
-        },
-        {
-          "title": "Privacy issue: X-Edge-Shopping-Flag sent to bing.com",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3365"
-        },
-        {
-          "title": " Microsoft_UI_Xaml.WebView2 Touch content crashes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3364"
-        },
         {
           "title": "Different results when using Web Select and Select All / Copy / Paste",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363"
-        },
-        {
-          "title": "window.chrome.webview.addEventListener Uncaught TypeError",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3362"
-        },
-        {
-          "title": "cssRules is't suported by WebView2 ?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3359"
-        },
-        {
-          "title": "How to verify the digital signature of a PDF file?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3358"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
@@ -8002,6 +7998,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
+          "title": "Edge Browser to support preview in System UI?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369"
+        },
+        {
           "title": "Webview2 sometimes does not complete download.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
         },
@@ -8010,16 +8010,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348"
         },
         {
+          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
+        },
+        {
           "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
         },
         {
           "title": "No response when start installation program",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
-        },
-        {
-          "title": "Popup window - scroll wheel not work - bug?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3322"
         },
         {
           "title": "ICoreWebView2NavigationStartingEventHandler did not work for about:blank",
@@ -8032,13 +8032,9 @@
         {
           "title": "Webview shows webpage(local html file) slowly first time in coldstartup",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319"
-        },
-        {
-          "title": "Can EdgeUpdate be enabled through the Edge process to install WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3317"
         }
       ],
-      "rate": "60.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9616,6 +9612,10 @@
     },
     {
       "date": "2023-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11195,13 +11195,12 @@
     },
     {
       "date": "2023-04-07",
-      "unRespondedItems": [
-        {
-          "title": "Chais T. Fitzwater\r\nNotary Public - Notary Seal\r\nState of Missouri\r\nCommissioned for State of Missouri\r\nMy Commission Expires: Feb 10, 2028\r\nCommission Number: 126257433",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2536"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-04-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
