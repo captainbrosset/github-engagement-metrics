@@ -1578,6 +1578,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3186,6 +3190,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4769,6 +4777,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6352,6 +6364,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -7976,7 +7992,15 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [
+        {
+          "title": "Please fix or support the CSS variables in ::selection",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3370"
+        },
         {
           "title": "Different results when using Web Select and Select All / Copy / Paste",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363"
@@ -8028,10 +8052,6 @@
         {
           "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
-        },
-        {
-          "title": "Webview shows webpage(local html file) slowly first time in coldstartup",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3319"
         }
       ],
       "rate": "72.00"
@@ -9616,6 +9636,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11199,6 +11223,10 @@
     },
     {
       "date": "2023-04-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
