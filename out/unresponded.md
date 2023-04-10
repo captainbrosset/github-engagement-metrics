@@ -1,4 +1,4 @@
-Response rate: 91.39%
+Response rate: 91.37%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -20,8 +20,7 @@ Response rate: 91.39%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [Please fix or support the CSS variables in ::selection](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3370)
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [Different results when using Web Select and Select All / Cop...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
@@ -36,4 +35,5 @@ Response rate: 91.39%
   * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
   * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)

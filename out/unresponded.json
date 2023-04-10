@@ -1582,6 +1582,10 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3194,6 +3198,10 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4781,6 +4789,10 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6368,6 +6380,10 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -7996,11 +8012,11 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [
-        {
-          "title": "Please fix or support the CSS variables in ::selection",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3370"
-        },
         {
           "title": "Different results when using Web Select and Select All / Copy / Paste",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363"
@@ -8054,7 +8070,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9640,6 +9656,10 @@
     },
     {
       "date": "2023-04-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11227,8 +11247,17 @@
     },
     {
       "date": "2023-04-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-10",
+      "unRespondedItems": [
+        {
+          "title": "[Add-ons API]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
