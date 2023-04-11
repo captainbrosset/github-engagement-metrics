@@ -1586,6 +1586,10 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3202,6 +3206,10 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4793,6 +4801,10 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6384,6 +6396,10 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -8016,10 +8032,22 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [
         {
-          "title": "Different results when using Web Select and Select All / Copy / Paste",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363"
+          "title": "Bug: v1.0.1722.32 doesn't get past EnsureCoreWebView2Async",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3375"
+        },
+        {
+          "title": "Text Search Popup captures focus to first window CTRL+F - WPF ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3374"
+        },
+        {
+          "title": "How to download WebView2 Runtime old version?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3372"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
@@ -8060,14 +8088,6 @@
         {
           "title": "No response when start installation program",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
-        },
-        {
-          "title": "ICoreWebView2NavigationStartingEventHandler did not work for about:blank",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321"
-        },
-        {
-          "title": "Installing X64 bits under Win11 Arm will automatically install Arm64, will it be like this in the future?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320"
         }
       ],
       "rate": "74.00"
@@ -9660,6 +9680,10 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11251,13 +11275,21 @@
     },
     {
       "date": "2023-04-10",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-04-11",
       "unRespondedItems": [
+        {
+          "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2540"
+        },
         {
           "title": "[Add-ons API]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "97.83"
+      "rate": "95.65"
     }
   ]
 }

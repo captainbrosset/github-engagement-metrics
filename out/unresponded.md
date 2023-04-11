@@ -1,4 +1,4 @@
-Response rate: 91.37%
+Response rate: 91.06%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -21,7 +21,9 @@ Response rate: 91.37%
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _74.00%_
-  * [Different results when using Web Select and Select All / Cop...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3363)
+  * [Bug: v1.0.1722.32 doesn't get past EnsureCoreWebView2Async](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3375)
+  * [Text Search Popup captures focus to first window CTRL+F - WP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3374)
+  * [How to download WebView2 Runtime old version?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3372)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
@@ -32,8 +34,7 @@ Response rate: 91.37%
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
   * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
-  * [ICoreWebView2NavigationStartingEventHandler did not work for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3321)
-  * [Installing X64 bits under Win11 Arm will automatically insta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3320)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.83%_
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)
