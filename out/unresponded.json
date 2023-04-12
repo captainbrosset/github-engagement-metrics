@@ -1590,6 +1590,10 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3210,6 +3214,10 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4805,8 +4813,17 @@
     },
     {
       "date": "2023-04-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-12",
+      "unRespondedItems": [
+        {
+          "title": "Open source files in visual studio code doesn't work",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/143"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6400,6 +6417,10 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -8036,18 +8057,14 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [
         {
-          "title": "Bug: v1.0.1722.32 doesn't get past EnsureCoreWebView2Async",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3375"
-        },
-        {
-          "title": "Text Search Popup captures focus to first window CTRL+F - WPF ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3374"
-        },
-        {
-          "title": "How to download WebView2 Runtime old version?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3372"
+          "title": "Bind WebView2 to a specific local address",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3380"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
@@ -8060,10 +8077,6 @@
         {
           "title": "Unable to view xfa pdf forms in Webview2 wpf application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330"
-        },
-        {
-          "title": "WebView2 (WinUI3 + Win32) does not support multi windows.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323"
         },
         {
           "title": "Edge Browser to support preview in System UI?",
@@ -8090,7 +8103,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
         }
       ],
-      "rate": "74.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9684,6 +9697,10 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11279,6 +11296,10 @@
     },
     {
       "date": "2023-04-11",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-04-12",
       "unRespondedItems": [
         {
           "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
@@ -11289,7 +11310,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "95.65"
+      "rate": "95.74"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 91.06%
+Response rate: 91.64%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -8,7 +8,8 @@ Response rate: 91.06%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Open source files in visual studio code doesn't work](https://github.com/MicrosoftEdge/DevTools/issues/143)
 * **MicrosoftEdge/EdgeWebDriver** - _80.00%_
   * [Edge in IE mode unable to execute when executed with Adminis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/79)
   * [Selenium compatibility Edge control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/78)
@@ -20,14 +21,11 @@ Response rate: 91.06%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
-  * [Bug: v1.0.1722.32 doesn't get past EnsureCoreWebView2Async](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3375)
-  * [Text Search Popup captures focus to first window CTRL+F - WP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3374)
-  * [How to download WebView2 Runtime old version?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3372)
+* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+  * [Bind WebView2 to a specific local address](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3380)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
   * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
   * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
-  * [WebView2 (WinUI3 + Win32) does not support multi windows.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3323)
   * [Edge Browser to support preview in System UI?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369)
   * [Webview2 sometimes does not complete download.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356)
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
@@ -35,6 +33,6 @@ Response rate: 91.06%
   * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
   * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
   * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)
