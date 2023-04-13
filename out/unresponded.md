@@ -1,4 +1,4 @@
-Response rate: 91.64%
+Response rate: 90.20%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -21,18 +21,23 @@ Response rate: 91.64%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _80.00%_
-  * [Bind WebView2 to a specific local address](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3380)
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
+  * [CoreWebView2.NewWindowRequested Social Login Issue - Microso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386)
+  * [WebView2 in app store, and slipstream w/ dism](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3385)
+  * [How to set webview2 DefaultBackgroundColor in a Win32 projec...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3384)
+  * [How to make WebView2 implement "SetTransparencyClickingThrou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3383)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
-  * [WebView2 BUG #3003 on Windows Server 2019 (Version 1809)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333)
-  * [Unable to view xfa pdf forms in Webview2 wpf application](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330)
+  * [why initialization EnsureCoreWebView2Async not return CoreWe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387)
+  * [Growth on number of WebView2 control instances on dispose an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3378)
   * [Edge Browser to support preview in System UI?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369)
   * [Webview2 sometimes does not complete download.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356)
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
-  * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
-  * [No response when start installation program](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [WebView2 viewer only uses cached version of content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Local123](https://github.com/microsoft/vscode-edge-devtools/issues/1456)
+  * [Descodificadas](https://github.com/microsoft/vscode-edge-devtools/issues/1455)
+* **MicrosoftDocs/edge-developer** - _95.65%_
   * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)

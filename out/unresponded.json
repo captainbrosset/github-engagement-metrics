@@ -1594,6 +1594,10 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3218,6 +3222,10 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4817,6 +4825,10 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6421,6 +6433,10 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [
         {
           "title": "Edge in IE mode unable to execute when executed with Administrator mode",
@@ -8061,22 +8077,42 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [
         {
-          "title": "Bind WebView2 to a specific local address",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3380"
+          "title": "Not able to render custom cursor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
+        },
+        {
+          "title": "CoreWebView2.NewWindowRequested Social Login Issue - Microsoft UWP Store",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386"
+        },
+        {
+          "title": "WebView2 in app store, and slipstream w/ dism",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3385"
+        },
+        {
+          "title": "How to set webview2 DefaultBackgroundColor in a Win32 project?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3384"
+        },
+        {
+          "title": "How to make WebView2 implement \"SetTransparencyClickingThroughEnabled()\" in WPF?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3383"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
         },
         {
-          "title": "WebView2 BUG #3003 on Windows Server 2019 (Version 1809)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3333"
+          "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
         },
         {
-          "title": "Unable to view xfa pdf forms in Webview2 wpf application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3330"
+          "title": "Growth on number of WebView2 control instances on dispose and recreating it in a WinUI 3 project",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3378"
         },
         {
           "title": "Edge Browser to support preview in System UI?",
@@ -8095,15 +8131,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
         },
         {
-          "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
-        },
-        {
-          "title": "No response when start installation program",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3334"
+          "title": "WebView2 viewer only uses cached version of content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345"
         }
       ],
-      "rate": "80.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9701,8 +9733,21 @@
     },
     {
       "date": "2023-04-12",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-13",
+      "unRespondedItems": [
+        {
+          "title": "Local123",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1456"
+        },
+        {
+          "title": "Descodificadas",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1455"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11300,6 +11345,10 @@
     },
     {
       "date": "2023-04-12",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-04-13",
       "unRespondedItems": [
         {
           "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
@@ -11310,7 +11359,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "95.74"
+      "rate": "95.65"
     }
   ]
 }
