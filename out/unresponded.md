@@ -1,4 +1,4 @@
-Response rate: 89.92%
+Response rate: 91.56%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -10,35 +10,29 @@ Response rate: 89.92%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Open source files in visual studio code doesn't work](https://github.com/MicrosoftEdge/DevTools/issues/143)
-* **MicrosoftEdge/EdgeWebDriver** - _76.00%_
-  * [Starting Microsoft Edge WebDriver 112.0.1722.39](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/81)
-  * [Edge in IE mode unable to execute when executed with Adminis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/79)
-  * [Selenium compatibility Edge control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/78)
-  * [Cannot set window size when headless=new on Hyper-V virtual ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/77)
-  * [disable-build-check no longer working starting Edgedriver 11...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/76)
-  * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
-  * [Microsoft EdgeBrowser is not working through selenium](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/68)
-  * [Trouble launching Edge when running Edgedriver in Administra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/80)
-  * [When opening the edge(111.0.1661.44 version) browser in sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/74)
+* **MicrosoftEdge/EdgeWebDriver** - _94.00%_
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
-  * [WebView2 WinRT does not work with complex windows objects on...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3390)
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [Support 'data-testid' for WPF app with embedded WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3392)
   * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
-  * [CoreWebView2 NewWindow not coming up for  Social Logins - Mi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
+  * [CoreWebView2 NewWindow not coming up for  Social Logins - Mi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386)
   * [Growth on number of WebView2 control instances on dispose an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3378)
   * [Edge Browser to support preview in System UI?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369)
+  * [Added support for launching external URIs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3368)
   * [ Microsoft_UI_Xaml.WebView2 Touch content crashes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3364)
   * [Webview2 sometimes does not complete download.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356)
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [WebView2 viewer only uses cached version of content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345)
+  * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
 * **microsoft/vscode-edge-devtools** - _94.00%_
   * [TEST](https://github.com/microsoft/vscode-edge-devtools/issues/1457)
   * [Local123](https://github.com/microsoft/vscode-edge-devtools/issues/1456)
   * [Descodificadas](https://github.com/microsoft/vscode-edge-devtools/issues/1455)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _93.18%_
+  * [> `> > "change all pay to pub key hash to pay to private key...](https://github.com/MicrosoftDocs/edge-developer/issues/2545)
   * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)
