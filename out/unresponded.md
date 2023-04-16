@@ -15,6 +15,7 @@ Response rate: 91.56%
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [Saving as PDF from a popup window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3393)
   * [Support 'data-testid' for WPF app with embedded WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3392)
   * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
   * [Beforeunload: ScriptDialogOpening's deferral and/or args.Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355)
@@ -27,7 +28,6 @@ Response rate: 91.56%
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [WebView2 viewer only uses cached version of content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345)
-  * [Show when page is loaded The specified blob does not exist R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340)
 * **microsoft/vscode-edge-devtools** - _94.00%_
   * [TEST](https://github.com/microsoft/vscode-edge-devtools/issues/1457)
   * [Local123](https://github.com/microsoft/vscode-edge-devtools/issues/1456)

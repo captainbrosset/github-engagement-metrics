@@ -1606,6 +1606,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3242,6 +3246,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4853,6 +4861,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6469,6 +6481,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8093,7 +8109,15 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
+        {
+          "title": "Saving as PDF from a popup window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3393"
+        },
         {
           "title": "Support 'data-testid' for WPF app with embedded WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3392"
@@ -8141,10 +8165,6 @@
         {
           "title": "WebView2 viewer only uses cached version of content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345"
-        },
-        {
-          "title": "Show when page is loaded The specified blob does not exist RequestId And white screen issues",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3340"
         }
       ],
       "rate": "74.00"
@@ -9757,6 +9777,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
         {
           "title": "TEST",
@@ -11381,6 +11405,10 @@
     },
     {
       "date": "2023-04-15",
+      "rate": "93.18"
+    },
+    {
+      "date": "2023-04-16",
       "unRespondedItems": [
         {
           "title": "> `> > \"change all pay to pub key hash to pay to private key hash\"",
