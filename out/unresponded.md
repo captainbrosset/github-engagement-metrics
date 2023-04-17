@@ -1,4 +1,4 @@
-Response rate: 91.56%
+Response rate: 90.74%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -14,7 +14,10 @@ Response rate: 91.56%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [Convert JavaScript strings to C# strings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3396)
+  * [Is it possible to pass a file stream back in a WebResourceRe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3395)
+  * [Input with inputmode="decimal" does not open numeric OSK in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3394)
   * [Saving as PDF from a popup window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3393)
   * [Support 'data-testid' for WPF app with embedded WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3392)
   * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
@@ -28,11 +31,11 @@ Response rate: 91.56%
   * [Provide an interface to pause audio and video](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348)
   * [How do I detect that the browser theme (dark / light mode) h...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346)
   * [WebView2 viewer only uses cached version of content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [wont launch](https://github.com/microsoft/vscode-edge-devtools/issues/1459)
   * [TEST](https://github.com/microsoft/vscode-edge-devtools/issues/1457)
   * [Local123](https://github.com/microsoft/vscode-edge-devtools/issues/1456)
   * [Descodificadas](https://github.com/microsoft/vscode-edge-devtools/issues/1455)
-* **MicrosoftDocs/edge-developer** - _93.18%_
-  * [> `> > "change all pay to pub key hash to pay to private key...](https://github.com/MicrosoftDocs/edge-developer/issues/2545)
+* **MicrosoftDocs/edge-developer** - _95.45%_
   * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)

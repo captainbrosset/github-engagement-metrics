@@ -1610,6 +1610,10 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3250,6 +3254,10 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4865,6 +4873,10 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6485,6 +6497,10 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8113,7 +8129,23 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
+        {
+          "title": "Convert JavaScript strings to C# strings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3396"
+        },
+        {
+          "title": "Is it possible to pass a file stream back in a WebResourceRequest and have it close it when WebView2 is done with it?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3395"
+        },
+        {
+          "title": "Input with inputmode=\"decimal\" does not open numeric OSK in Surface tablet",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3394"
+        },
         {
           "title": "Saving as PDF from a popup window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3393"
@@ -8167,7 +8199,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345"
         }
       ],
-      "rate": "74.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9781,7 +9813,15 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
+        {
+          "title": "wont launch",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1459"
+        },
         {
           "title": "TEST",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1457"
@@ -9795,7 +9835,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1455"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11409,11 +11449,11 @@
     },
     {
       "date": "2023-04-16",
+      "rate": "93.18"
+    },
+    {
+      "date": "2023-04-17",
       "unRespondedItems": [
-        {
-          "title": "> `> > \"change all pay to pub key hash to pay to private key hash\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2545"
-        },
         {
           "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2540"
@@ -11423,7 +11463,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "93.18"
+      "rate": "95.45"
     }
   ]
 }
