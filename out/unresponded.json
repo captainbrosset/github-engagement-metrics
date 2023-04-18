@@ -1614,6 +1614,10 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3258,6 +3262,10 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4877,6 +4885,10 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6501,6 +6513,10 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8133,38 +8149,30 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
         {
-          "title": "Convert JavaScript strings to C# strings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3396"
+          "title": "API change from Microsoft Breaks existing method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3399"
         },
         {
-          "title": "Is it possible to pass a file stream back in a WebResourceRequest and have it close it when WebView2 is done with it?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3395"
+          "title": "WebView2 slow down significatly after 8-10 times attemps when loading local resource with WebResourceRequested event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3398"
         },
         {
-          "title": "Input with inputmode=\"decimal\" does not open numeric OSK in Surface tablet",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3394"
-        },
-        {
-          "title": "Saving as PDF from a popup window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3393"
-        },
-        {
-          "title": "Support 'data-testid' for WPF app with embedded WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3392"
-        },
-        {
-          "title": "Not able to render custom cursor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
+          "title": "Webview2 not intializing on UWP in Debug-Mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3397"
         },
         {
           "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
         },
         {
-          "title": "CoreWebView2 NewWindow not coming up for  Social Logins - Microsoft UWP Store",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386"
+          "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
         },
         {
           "title": "Growth on number of WebView2 control instances on dispose and recreating it in a WinUI 3 project",
@@ -8179,27 +8187,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3368"
         },
         {
-          "title": " Microsoft_UI_Xaml.WebView2 Touch content crashes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3364"
-        },
-        {
           "title": "Webview2 sometimes does not complete download.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
-        },
-        {
-          "title": "Provide an interface to pause audio and video",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3348"
-        },
-        {
-          "title": "How do I detect that the browser theme (dark / light mode) has been changed by the user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3346"
-        },
-        {
-          "title": "WebView2 viewer only uses cached version of content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3345"
         }
       ],
-      "rate": "68.00"
+      "rate": "82.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9817,7 +9809,19 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
+        {
+          "title": "problem in table tag in html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1461"
+        },
+        {
+          "title": "Text box cannot input Chinese",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1460"
+        },
         {
           "title": "wont launch",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1459"
@@ -9833,9 +9837,13 @@
         {
           "title": "Descodificadas",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1455"
+        },
+        {
+          "title": "microsoft tools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1462"
         }
       ],
-      "rate": "92.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11453,7 +11461,15 @@
     },
     {
       "date": "2023-04-17",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-04-18",
       "unRespondedItems": [
+        {
+          "title": "Warning error re lazy loading iframes",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2550"
+        },
         {
           "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2540"
@@ -11463,7 +11479,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "95.45"
+      "rate": "93.33"
     }
   ]
 }
