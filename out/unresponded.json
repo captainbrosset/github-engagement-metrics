@@ -1618,6 +1618,10 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3266,6 +3270,10 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4889,6 +4897,10 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6517,6 +6529,10 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8153,7 +8169,19 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
+        {
+          "title": "WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
+        },
+        {
+          "title": "Please add the autoplay attribute to facilitate the development of hybrid applications",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403"
+        },
         {
           "title": "API change from Microsoft Breaks existing method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3399"
@@ -8171,12 +8199,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
         },
         {
+          "title": "Bug: Null Reference Exceptions in SetAsyncMethodContinuation()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3402"
+        },
+        {
           "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
         },
         {
-          "title": "Growth on number of WebView2 control instances on dispose and recreating it in a WinUI 3 project",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3378"
+          "title": "CoreWebView2 NewWindow not coming up for  Social Logins - Microsoft UWP Store",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386"
         },
         {
           "title": "Edge Browser to support preview in System UI?",
@@ -8191,7 +8223,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
         }
       ],
-      "rate": "82.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9813,7 +9845,19 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
+        {
+          "title": "css is not work  propely",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1464"
+        },
+        {
+          "title": "css is not dispaly",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1463"
+        },
         {
           "title": "problem in table tag in html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1461"
@@ -9839,11 +9883,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1455"
         },
         {
+          "title": "itatic theme",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1465"
+        },
+        {
           "title": "microsoft tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1462"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11465,6 +11513,10 @@
     },
     {
       "date": "2023-04-18",
+      "rate": "93.33"
+    },
+    {
+      "date": "2023-04-19",
       "unRespondedItems": [
         {
           "title": "Warning error re lazy loading iframes",
