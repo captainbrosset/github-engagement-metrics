@@ -1622,6 +1622,10 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3274,6 +3278,10 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4901,6 +4909,10 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6533,6 +6545,10 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8173,57 +8189,53 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [
         {
-          "title": "WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
+          "title": "Synchronous prompt",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3413"
+        },
+        {
+          "title": "Blank page when application is updated or cache is deleted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
+        },
+        {
+          "title": "Creating Nuget Package for UWP using WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3411"
+        },
+        {
+          "title": "WebView2 in Hololens",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
+        },
+        {
+          "title": "I want to achieve the function of mouse penetration through the transparent part of the webpage by using Webview2. Do you have any solutions?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3408"
+        },
+        {
+          "title": "Navigating to certain schemes such as ms-settings: lead to core process failure ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3406"
         },
         {
           "title": "Please add the autoplay attribute to facilitate the development of hybrid applications",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403"
         },
         {
-          "title": "API change from Microsoft Breaks existing method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3399"
-        },
-        {
-          "title": "WebView2 slow down significatly after 8-10 times attemps when loading local resource with WebResourceRequested event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3398"
-        },
-        {
-          "title": "Webview2 not intializing on UWP in Debug-Mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3397"
-        },
-        {
-          "title": "Beforeunload: ScriptDialogOpening's deferral and/or args.Accept() is useless",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3355"
-        },
-        {
-          "title": "Bug: Null Reference Exceptions in SetAsyncMethodContinuation()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3402"
+          "title": "Not able to render custom cursor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         },
         {
           "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
         },
         {
-          "title": "CoreWebView2 NewWindow not coming up for  Social Logins - Microsoft UWP Store",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3386"
-        },
-        {
           "title": "Edge Browser to support preview in System UI?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369"
-        },
-        {
-          "title": "Added support for launching external URIs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3368"
-        },
-        {
-          "title": "Webview2 sometimes does not complete download.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3356"
         }
       ],
-      "rate": "76.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9849,49 +9861,12 @@
     },
     {
       "date": "2023-04-19",
-      "unRespondedItems": [
-        {
-          "title": "css is not work  propely",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1464"
-        },
-        {
-          "title": "css is not dispaly",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1463"
-        },
-        {
-          "title": "problem in table tag in html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1461"
-        },
-        {
-          "title": "Text box cannot input Chinese",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1460"
-        },
-        {
-          "title": "wont launch",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1459"
-        },
-        {
-          "title": "TEST",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1457"
-        },
-        {
-          "title": "Local123",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1456"
-        },
-        {
-          "title": "Descodificadas",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1455"
-        },
-        {
-          "title": "itatic theme",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1465"
-        },
-        {
-          "title": "microsoft tools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1462"
-        }
-      ],
       "rate": "80.00"
+    },
+    {
+      "date": "2023-04-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11517,6 +11492,10 @@
     },
     {
       "date": "2023-04-19",
+      "rate": "93.33"
+    },
+    {
+      "date": "2023-04-20",
       "unRespondedItems": [
         {
           "title": "Warning error re lazy loading iframes",
@@ -11531,7 +11510,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
         }
       ],
-      "rate": "93.33"
+      "rate": "93.18"
     }
   ]
 }
