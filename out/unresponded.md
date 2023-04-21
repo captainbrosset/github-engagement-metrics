@@ -1,4 +1,4 @@
-Response rate: 93.28%
+Response rate: 92.75%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -14,19 +14,21 @@ Response rate: 93.28%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+  * [Dialog for Screen Capture API shouldn't show "Tab"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3419)
+  * [Windows WebView2 ScriptDialogOpening CoreWebView2ScriptDialo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3418)
+  * [ClearBrowsingDataAsync regression on runtime version 112.0.1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3417)
+  * [How to get mouse cursor pixel?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415)
   * [Synchronous prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3413)
   * [Blank page when application is updated or cache is deleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412)
-  * [Creating Nuget Package for UWP using WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3411)
-  * [WebView2 in Hololens](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410)
-  * [I want to achieve the function of mouse penetration through ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3408)
-  * [Navigating to certain schemes such as ms-settings: lead to c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3406)
+  * [WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405)
   * [Please add the autoplay attribute to facilitate the developm...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403)
+  * [WebView2 slow down significatly after 8-10 times attemps whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3398)
   * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
   * [why initialization EnsureCoreWebView2Async not return CoreWe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387)
   * [Edge Browser to support preview in System UI?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _93.18%_
+* **MicrosoftDocs/edge-developer** - _93.48%_
   * [Warning error re lazy loading iframes](https://github.com/MicrosoftDocs/edge-developer/issues/2550)
   * [1st time really reaching out to github but should have soone...](https://github.com/MicrosoftDocs/edge-developer/issues/2540)
   * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2539)
