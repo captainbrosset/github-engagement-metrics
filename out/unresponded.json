@@ -1630,6 +1630,10 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3290,6 +3294,10 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4925,6 +4933,10 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6565,6 +6577,10 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8213,7 +8229,27 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [
+        {
+          "title": "Non wide-char based encodings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
+        },
+        {
+          "title": "Html Audio Control: Can't set currentTime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
+        },
+        {
+          "title": "PrintAsync not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
+        },
+        {
+          "title": "CapturePreview Function can't run another thread",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3420"
+        },
         {
           "title": "Dialog for Screen Capture API shouldn't show \"Tab\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3419"
@@ -8247,10 +8283,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403"
         },
         {
-          "title": "WebView2 slow down significatly after 8-10 times attemps when loading local resource with WebResourceRequested event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3398"
-        },
-        {
           "title": "Not able to render custom cursor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         },
@@ -8263,7 +8295,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369"
         }
       ],
-      "rate": "76.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9897,8 +9929,17 @@
     },
     {
       "date": "2023-04-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-22",
+      "unRespondedItems": [
+        {
+          "title": "button when i click on it nothing happens ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1468"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11532,6 +11573,10 @@
     },
     {
       "date": "2023-04-21",
+      "rate": "93.48"
+    },
+    {
+      "date": "2023-04-22",
       "unRespondedItems": [
         {
           "title": "Warning error re lazy loading iframes",
