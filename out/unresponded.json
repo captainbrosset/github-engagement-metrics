@@ -1634,6 +1634,10 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3298,6 +3302,10 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4937,6 +4945,10 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6581,6 +6593,10 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8233,7 +8249,19 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
+        {
+          "title": "CustomScheme not working for documents",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3425"
+        },
+        {
+          "title": "Uninstall webview2 times/卸载webview2 time",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3424"
+        },
         {
           "title": "Non wide-char based encodings",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
@@ -8267,10 +8295,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
-          "title": "Synchronous prompt",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3413"
-        },
-        {
           "title": "Blank page when application is updated or cache is deleted",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         },
@@ -8289,10 +8313,6 @@
         {
           "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
-        },
-        {
-          "title": "Edge Browser to support preview in System UI?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369"
         }
       ],
       "rate": "70.00"
@@ -9933,13 +9953,21 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
+        {
+          "title": "how to manage the quality of the microsoftdivtools in vscode ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1469"
+        },
         {
           "title": "button when i click on it nothing happens ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1468"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11577,6 +11605,10 @@
     },
     {
       "date": "2023-04-22",
+      "rate": "93.48"
+    },
+    {
+      "date": "2023-04-23",
       "unRespondedItems": [
         {
           "title": "Warning error re lazy loading iframes",

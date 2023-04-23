@@ -1,4 +1,4 @@
-Response rate: 91.61%
+Response rate: 91.32%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5509)
@@ -15,6 +15,8 @@ Response rate: 91.61%
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [CustomScheme not working for documents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3425)
+  * [Uninstall webview2 times/卸载webview2 time](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3424)
   * [Non wide-char based encodings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423)
   * [Html Audio Control: Can't set currentTime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422)
   * [PrintAsync not working properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421)
@@ -23,14 +25,13 @@ Response rate: 91.61%
   * [Windows WebView2 ScriptDialogOpening CoreWebView2ScriptDialo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3418)
   * [ClearBrowsingDataAsync regression on runtime version 112.0.1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3417)
   * [How to get mouse cursor pixel?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415)
-  * [Synchronous prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3413)
   * [Blank page when application is updated or cache is deleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412)
   * [WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405)
   * [Please add the autoplay attribute to facilitate the developm...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403)
   * [Not able to render custom cursor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388)
   * [why initialization EnsureCoreWebView2Async not return CoreWe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387)
-  * [Edge Browser to support preview in System UI?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3369)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [how to manage the quality of the microsoftdivtools in vscode...](https://github.com/microsoft/vscode-edge-devtools/issues/1469)
   * [button when i click on it nothing happens ](https://github.com/microsoft/vscode-edge-devtools/issues/1468)
 * **MicrosoftDocs/edge-developer** - _93.48%_
   * [Warning error re lazy loading iframes](https://github.com/MicrosoftDocs/edge-developer/issues/2550)
