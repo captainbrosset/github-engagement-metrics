@@ -1638,6 +1638,10 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -3306,6 +3310,10 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4949,6 +4957,10 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6597,6 +6609,10 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -8253,54 +8269,34 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
-        {
-          "title": "CustomScheme not working for documents",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3425"
-        },
-        {
-          "title": "Uninstall webview2 times/卸载webview2 time",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3424"
-        },
         {
           "title": "Non wide-char based encodings",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
-        },
-        {
-          "title": "Html Audio Control: Can't set currentTime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
-        },
-        {
-          "title": "PrintAsync not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
-        },
-        {
-          "title": "CapturePreview Function can't run another thread",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3420"
         },
         {
           "title": "Dialog for Screen Capture API shouldn't show \"Tab\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3419"
         },
         {
-          "title": "Windows WebView2 ScriptDialogOpening CoreWebView2ScriptDialogOpeningEventArgsIt not useful",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3418"
-        },
-        {
-          "title": "ClearBrowsingDataAsync regression on runtime version 112.0.1722.48",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3417"
-        },
-        {
           "title": "How to get mouse cursor pixel?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
-          "title": "Blank page when application is updated or cache is deleted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
+          "title": "Context menu options not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3426"
         },
         {
-          "title": "WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
+          "title": "Html Audio Control: Can't set currentTime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
+        },
+        {
+          "title": "Blank page when application is updated or cache is deleted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         },
         {
           "title": "Please add the autoplay attribute to facilitate the development of hybrid applications",
@@ -8309,13 +8305,9 @@
         {
           "title": "Not able to render custom cursor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
-        },
-        {
-          "title": "why initialization EnsureCoreWebView2Async not return CoreWebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3387"
         }
       ],
-      "rate": "70.00"
+      "rate": "84.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9957,7 +9949,15 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
+        {
+          "title": "The extension makes memory usage of Code growing continously and end up crashing.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1470"
+        },
         {
           "title": "how to manage the quality of the microsoftdivtools in vscode ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1469"
@@ -9967,7 +9967,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1468"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11609,6 +11609,10 @@
     },
     {
       "date": "2023-04-23",
+      "rate": "93.48"
+    },
+    {
+      "date": "2023-04-24",
       "unRespondedItems": [
         {
           "title": "Warning error re lazy loading iframes",
