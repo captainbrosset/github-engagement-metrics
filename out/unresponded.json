@@ -1642,7 +1642,19 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5517"
+        },
+        {
+          "title": "internet very slow",
+          "url": "https://github.com/webhintio/hint/issues/5516"
+        },
         {
           "title": "[Bug] Describe your bug here",
           "url": "https://github.com/webhintio/hint/issues/5509"
@@ -1668,7 +1680,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "87.76"
+      "rate": "83.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3314,6 +3326,10 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4961,6 +4977,10 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [
         {
           "title": "Open source files in visual studio code doesn't work",
@@ -6613,7 +6633,15 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [
+        {
+          "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
+        },
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
@@ -6627,7 +6655,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -8273,22 +8301,34 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [
+        {
+          "title": "2nd call of CoreWebView2EnvironmentOptions::put_language() with different language ID causes new instances not to be created",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3431"
+        },
+        {
+          "title": "How to make changes to a document in DesignMode programmatically so that they can be undone?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3430"
+        },
+        {
+          "title": "WebView2 display issue when computer wakes from sleep",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3429"
+        },
+        {
+          "title": "When using assembly merging, initialising the CoreWebView2Environment throws SystemArgumentException: The path is not of a legal form",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3428"
+        },
         {
           "title": "Non wide-char based encodings",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
         },
         {
-          "title": "Dialog for Screen Capture API shouldn't show \"Tab\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3419"
-        },
-        {
           "title": "How to get mouse cursor pixel?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
-        },
-        {
-          "title": "Context menu options not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3426"
         },
         {
           "title": "Html Audio Control: Can't set currentTime",
@@ -8299,6 +8339,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         },
         {
+          "title": "WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
+        },
+        {
           "title": "Please add the autoplay attribute to facilitate the development of hybrid applications",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403"
         },
@@ -8307,7 +8351,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         }
       ],
-      "rate": "84.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -9953,6 +9997,10 @@
     },
     {
       "date": "2023-04-24",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-04-25",
       "unRespondedItems": [
         {
           "title": "The extension makes memory usage of Code growing continously and end up crashing.",
@@ -11613,21 +11661,12 @@
     },
     {
       "date": "2023-04-24",
-      "unRespondedItems": [
-        {
-          "title": "Warning error re lazy loading iframes",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2550"
-        },
-        {
-          "title": "1st time really reaching out to github but should have sooner~~all devices on home network infected. ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2540"
-        },
-        {
-          "title": "[Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2539"
-        }
-      ],
       "rate": "93.48"
+    },
+    {
+      "date": "2023-04-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
