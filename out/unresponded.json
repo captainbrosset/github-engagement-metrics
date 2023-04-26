@@ -1646,6 +1646,10 @@
     },
     {
       "date": "2023-04-25",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-04-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -1654,10 +1658,6 @@
         {
           "title": "internet very slow",
           "url": "https://github.com/webhintio/hint/issues/5516"
-        },
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5509"
         },
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -1680,7 +1680,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "83.67"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3330,6 +3330,10 @@
     },
     {
       "date": "2023-04-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4981,13 +4985,12 @@
     },
     {
       "date": "2023-04-25",
-      "unRespondedItems": [
-        {
-          "title": "Open source files in visual studio code doesn't work",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/143"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-04-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6637,6 +6640,10 @@
     },
     {
       "date": "2023-04-25",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-04-26",
       "unRespondedItems": [
         {
           "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
@@ -8305,22 +8312,18 @@
     },
     {
       "date": "2023-04-25",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-04-26",
       "unRespondedItems": [
         {
-          "title": "2nd call of CoreWebView2EnvironmentOptions::put_language() with different language ID causes new instances not to be created",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3431"
+          "title": "Send Touchpad Scrolling Input for CoreWebView2CompositionController",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3435"
         },
         {
-          "title": "How to make changes to a document in DesignMode programmatically so that they can be undone?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3430"
-        },
-        {
-          "title": "WebView2 display issue when computer wakes from sleep",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3429"
-        },
-        {
-          "title": "When using assembly merging, initialising the CoreWebView2Environment throws SystemArgumentException: The path is not of a legal form",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3428"
+          "title": "Matapiiwa ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
         },
         {
           "title": "Non wide-char based encodings",
@@ -8331,8 +8334,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
+          "title": "application \"hang\" / mousover not working (DS_CONTROL ?)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3433"
+        },
+        {
           "title": "Html Audio Control: Can't set currentTime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
+        },
+        {
+          "title": "PrintAsync not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
         },
         {
           "title": "Blank page when application is updated or cache is deleted",
@@ -8343,15 +8354,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
         },
         {
-          "title": "Please add the autoplay attribute to facilitate the development of hybrid applications",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3403"
-        },
-        {
           "title": "Not able to render custom cursor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         }
       ],
-      "rate": "78.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10001,21 +10008,12 @@
     },
     {
       "date": "2023-04-25",
-      "unRespondedItems": [
-        {
-          "title": "The extension makes memory usage of Code growing continously and end up crashing.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1470"
-        },
-        {
-          "title": "how to manage the quality of the microsoftdivtools in vscode ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1469"
-        },
-        {
-          "title": "button when i click on it nothing happens ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1468"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-04-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11665,8 +11663,17 @@
     },
     {
       "date": "2023-04-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-26",
+      "unRespondedItems": [
+        {
+          "title": "\"In this article\" column should follow viewport when scrolling.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2558"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
