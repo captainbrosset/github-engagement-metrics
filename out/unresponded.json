@@ -1650,6 +1650,10 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3334,6 +3338,10 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -4989,6 +4997,10 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6644,7 +6656,15 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [
+        {
+          "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/83"
+        },
         {
           "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
@@ -6662,7 +6682,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -8316,14 +8336,18 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [
         {
-          "title": "Send Touchpad Scrolling Input for CoreWebView2CompositionController",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3435"
+          "title": "WindpwsAppSDK app WebView2 doesn't forward keyboard input to host app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438"
         },
         {
-          "title": "Matapiiwa ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
+          "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
         },
         {
           "title": "Non wide-char based encodings",
@@ -8332,6 +8356,10 @@
         {
           "title": "How to get mouse cursor pixel?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
+        },
+        {
+          "title": "Matapiiwa ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
         },
         {
           "title": "application \"hang\" / mousover not working (DS_CONTROL ?)",
@@ -8350,15 +8378,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         },
         {
-          "title": "WPF+UWP from 1.0.1661.34 to 1.0.1777-prerelease  Exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3405"
+          "title": "Creating Nuget Package for UWP using WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3411"
+        },
+        {
+          "title": "WebView2 in Hololens",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         },
         {
           "title": "Not able to render custom cursor",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         }
       ],
-      "rate": "80.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10012,8 +10044,17 @@
     },
     {
       "date": "2023-04-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-27",
+      "unRespondedItems": [
+        {
+          "title": "can create background photo",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1471"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11667,6 +11708,10 @@
     },
     {
       "date": "2023-04-26",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-04-27",
       "unRespondedItems": [
         {
           "title": "\"In this article\" column should follow viewport when scrolling.",
