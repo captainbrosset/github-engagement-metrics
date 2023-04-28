@@ -1654,15 +1654,11 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5517"
-        },
-        {
-          "title": "internet very slow",
-          "url": "https://github.com/webhintio/hint/issues/5516"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1684,7 +1680,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "85.71"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3342,6 +3338,10 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5001,6 +5001,10 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6660,6 +6664,10 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8340,7 +8348,27 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [
+        {
+          "title": "Thread.CurrentPrincipal is not retaining its value after the NavigationStarting callback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3443"
+        },
+        {
+          "title": "NavigationComplete timeout status",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3442"
+        },
+        {
+          "title": "Can we programmatically change DevTools's settings?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
+        },
+        {
+          "title": "Provide an official solution to use CoreWebView2CompositionController in WinUI 3 environment",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3439"
+        },
         {
           "title": "WindpwsAppSDK app WebView2 doesn't forward keyboard input to host app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438"
@@ -8362,32 +8390,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
         },
         {
-          "title": "application \"hang\" / mousover not working (DS_CONTROL ?)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3433"
-        },
-        {
           "title": "Html Audio Control: Can't set currentTime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
-        },
-        {
-          "title": "PrintAsync not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
         },
         {
           "title": "Blank page when application is updated or cache is deleted",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         },
         {
-          "title": "Creating Nuget Package for UWP using WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3411"
-        },
-        {
           "title": "WebView2 in Hololens",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
-        },
-        {
-          "title": "Not able to render custom cursor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3388"
         }
       ],
       "rate": "76.00"
@@ -10048,10 +10060,14 @@
     },
     {
       "date": "2023-04-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-28",
       "unRespondedItems": [
         {
-          "title": "can create background photo",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1471"
+          "title": "pwa-msedge not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1474"
         }
       ],
       "rate": "98.00"
@@ -11712,13 +11728,12 @@
     },
     {
       "date": "2023-04-27",
-      "unRespondedItems": [
-        {
-          "title": "\"In this article\" column should follow viewport when scrolling.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2558"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-04-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
