@@ -1658,6 +1658,10 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -1668,10 +1672,6 @@
           "url": "https://github.com/webhintio/hint/issues/5417"
         },
         {
-          "title": "HTTP ERROR: 401 Unauthorized",
-          "url": "https://github.com/webhintio/hint/issues/5362"
-        },
-        {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
         },
@@ -1680,7 +1680,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.80"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3342,6 +3342,10 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5005,8 +5009,17 @@
     },
     {
       "date": "2023-04-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-04-29",
+      "unRespondedItems": [
+        {
+          "title": "Inconsistant Box Sizing on 3d View.",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/146"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6668,6 +6681,10 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8352,7 +8369,15 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [
+        {
+          "title": "How to make session cookie persistence",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3444"
+        },
         {
           "title": "Thread.CurrentPrincipal is not retaining its value after the NavigationStarting callback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3443"
@@ -8360,22 +8385,6 @@
         {
           "title": "NavigationComplete timeout status",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3442"
-        },
-        {
-          "title": "Can we programmatically change DevTools's settings?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
-        },
-        {
-          "title": "Provide an official solution to use CoreWebView2CompositionController in WinUI 3 environment",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3439"
-        },
-        {
-          "title": "WindpwsAppSDK app WebView2 doesn't forward keyboard input to host app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438"
-        },
-        {
-          "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
         },
         {
           "title": "Non wide-char based encodings",
@@ -8386,6 +8395,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
+          "title": "Can we programmatically change DevTools's settings?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
+        },
+        {
+          "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
+        },
+        {
           "title": "Matapiiwa ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
         },
@@ -8394,15 +8411,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
         },
         {
-          "title": "Blank page when application is updated or cache is deleted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
+          "title": "PrintAsync not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
         },
         {
-          "title": "WebView2 in Hololens",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
+          "title": "Blank page when application is updated or cache is deleted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         }
       ],
-      "rate": "76.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10064,13 +10081,21 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [
+        {
+          "title": "Too Blurry",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1475"
+        },
         {
           "title": "pwa-msedge not working",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1474"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11732,6 +11757,10 @@
     },
     {
       "date": "2023-04-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
