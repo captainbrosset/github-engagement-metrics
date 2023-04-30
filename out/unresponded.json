@@ -1662,6 +1662,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3346,6 +3350,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5013,6 +5021,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [
         {
           "title": "Inconsistant Box Sizing on 3d View.",
@@ -6685,6 +6697,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8373,6 +8389,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [
         {
           "title": "How to make session cookie persistence",
@@ -10085,6 +10105,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [
         {
           "title": "Too Blurry",
@@ -11761,6 +11785,10 @@
     },
     {
       "date": "2023-04-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-04-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
