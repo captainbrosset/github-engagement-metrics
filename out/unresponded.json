@@ -1666,6 +1666,10 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3354,6 +3358,10 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5025,6 +5033,10 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [
         {
           "title": "Inconsistant Box Sizing on 3d View.",
@@ -6701,6 +6713,10 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8393,7 +8409,19 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [
+        {
+          "title": "Request to add an Undo(ctrl+z) option in Edge PDF viewer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3446"
+        },
+        {
+          "title": "WebView2 not ready for primetime?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445"
+        },
         {
           "title": "How to make session cookie persistence",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3444"
@@ -8439,7 +8467,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         }
       ],
-      "rate": "78.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10109,7 +10137,19 @@
     },
     {
       "date": "2023-04-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-05-01",
       "unRespondedItems": [
+        {
+          "title": "when i try to change svg by css animation , it's use a lot of memory and CPU",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1478"
+        },
+        {
+          "title": "VS ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1477"
+        },
         {
           "title": "Too Blurry",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1475"
@@ -10119,7 +10159,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1474"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11789,8 +11829,17 @@
     },
     {
       "date": "2023-04-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-01",
+      "unRespondedItems": [
+        {
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2565"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
