@@ -1670,6 +1670,10 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3362,6 +3366,10 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5037,6 +5045,10 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
         {
           "title": "Inconsistant Box Sizing on 3d View.",
@@ -6717,6 +6729,10 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8413,7 +8429,19 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
+        {
+          "title": "Detect response loaded from chromium cache",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3448"
+        },
+        {
+          "title": "Why has the physical size of the Print UI changed for this user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447"
+        },
         {
           "title": "Request to add an Undo(ctrl+z) option in Edge PDF viewer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3446"
@@ -8451,10 +8479,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
         },
         {
-          "title": "Matapiiwa ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3434"
-        },
-        {
           "title": "Html Audio Control: Can't set currentTime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
         },
@@ -8467,7 +8491,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10141,7 +10165,15 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1479"
+        },
         {
           "title": "when i try to change svg by css animation , it's use a lot of memory and CPU",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1478"
@@ -10159,7 +10191,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1474"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11833,6 +11865,10 @@
     },
     {
       "date": "2023-05-01",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-05-02",
       "unRespondedItems": [
         {
           "title": "References to old Edge versions detected",
