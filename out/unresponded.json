@@ -1674,7 +1674,15 @@
     },
     {
       "date": "2023-05-02",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-03",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5554"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1692,7 +1700,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "91.67"
+      "rate": "89.58"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3370,6 +3378,10 @@
     },
     {
       "date": "2023-05-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5049,13 +5061,12 @@
     },
     {
       "date": "2023-05-02",
-      "unRespondedItems": [
-        {
-          "title": "Inconsistant Box Sizing on 3d View.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/146"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6733,6 +6744,10 @@
     },
     {
       "date": "2023-05-02",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-03",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8433,22 +8448,18 @@
     },
     {
       "date": "2023-05-02",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-05-03",
       "unRespondedItems": [
+        {
+          "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
+        },
         {
           "title": "Detect response loaded from chromium cache",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3448"
-        },
-        {
-          "title": "Why has the physical size of the Print UI changed for this user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447"
-        },
-        {
-          "title": "Request to add an Undo(ctrl+z) option in Edge PDF viewer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3446"
-        },
-        {
-          "title": "WebView2 not ready for primetime?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445"
         },
         {
           "title": "How to make session cookie persistence",
@@ -8471,16 +8482,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
+          "title": "WebView2 not ready for primetime?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445"
+        },
+        {
           "title": "Can we programmatically change DevTools's settings?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
         },
         {
           "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
-        },
-        {
-          "title": "Html Audio Control: Can't set currentTime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3422"
         },
         {
           "title": "PrintAsync not working properly",
@@ -8491,7 +8502,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         }
       ],
-      "rate": "72.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10169,29 +10180,12 @@
     },
     {
       "date": "2023-05-02",
-      "unRespondedItems": [
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1479"
-        },
-        {
-          "title": "when i try to change svg by css animation , it's use a lot of memory and CPU",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1478"
-        },
-        {
-          "title": "VS ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1477"
-        },
-        {
-          "title": "Too Blurry",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1475"
-        },
-        {
-          "title": "pwa-msedge not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1474"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2023-05-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11869,10 +11863,14 @@
     },
     {
       "date": "2023-05-02",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-05-03",
       "unRespondedItems": [
         {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2565"
+          "title": "Method to check if WebView Runtime installed already outdated.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2569"
         }
       ],
       "rate": "97.92"
