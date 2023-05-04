@@ -1678,11 +1678,11 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5554"
-        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1700,7 +1700,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.58"
+      "rate": "91.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3382,6 +3382,10 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5065,6 +5069,10 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6748,6 +6756,10 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8452,10 +8464,26 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [
         {
-          "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
+          "title": "WinRT DataReader.ReadBytes throws \"Invalid number of parameters\" error on WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3454"
+        },
+        {
+          "title": "How to define dimensions when using headless WebView2 to render a screenshot?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453"
+        },
+        {
+          "title": "File not downloading in a path of user's choice",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452"
+        },
+        {
+          "title": "HTML drag and drop under UWP crashes the application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3451"
         },
         {
           "title": "Detect response loaded from chromium cache",
@@ -8482,12 +8510,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
+          "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
+        },
+        {
+          "title": "Why has the physical size of the Print UI changed for this user?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447"
+        },
+        {
           "title": "WebView2 not ready for primetime?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445"
         },
         {
           "title": "Can we programmatically change DevTools's settings?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
+        },
+        {
+          "title": "WindpwsAppSDK app WebView2 doesn't forward keyboard input to host app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438"
         },
         {
           "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
@@ -8502,7 +8542,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
         }
       ],
-      "rate": "76.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10184,6 +10224,10 @@
     },
     {
       "date": "2023-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11867,13 +11911,12 @@
     },
     {
       "date": "2023-05-03",
-      "unRespondedItems": [
-        {
-          "title": "Method to check if WebView Runtime installed already outdated.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2569"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2023-05-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
