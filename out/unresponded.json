@@ -1682,6 +1682,10 @@
     },
     {
       "date": "2023-05-04",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-05",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3386,6 +3390,10 @@
     },
     {
       "date": "2023-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5073,8 +5081,17 @@
     },
     {
       "date": "2023-05-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-05",
+      "unRespondedItems": [
+        {
+          "title": "Search the console option doesn't search for entire error message",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/148"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6760,6 +6777,10 @@
     },
     {
       "date": "2023-05-04",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-05",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8468,7 +8489,15 @@
     },
     {
       "date": "2023-05-04",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-05",
       "unRespondedItems": [
+        {
+          "title": "部分win10系统 webview2控件白屏",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
+        },
         {
           "title": "WinRT DataReader.ReadBytes throws \"Invalid number of parameters\" error on WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3454"
@@ -8480,10 +8509,6 @@
         {
           "title": "File not downloading in a path of user's choice",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452"
-        },
-        {
-          "title": "HTML drag and drop under UWP crashes the application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3451"
         },
         {
           "title": "Detect response loaded from chromium cache",
@@ -8540,9 +8565,13 @@
         {
           "title": "Blank page when application is updated or cache is deleted",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
+        },
+        {
+          "title": "WebView2 in Hololens",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10228,8 +10257,37 @@
     },
     {
       "date": "2023-05-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-05",
+      "unRespondedItems": [
+        {
+          "title": "Ander ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1485"
+        },
+        {
+          "title": "wps-sign-up",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1484"
+        },
+        {
+          "title": "andrej",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1483"
+        },
+        {
+          "title": "Arundhyati Goswami",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1482"
+        },
+        {
+          "title": "Tupu()",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1481"
+        },
+        {
+          "title": "Allow Framework Ignore List -> Custom Exclusion Rules",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
+        }
+      ],
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11915,8 +11973,21 @@
     },
     {
       "date": "2023-05-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-05",
+      "unRespondedItems": [
+        {
+          "title": "Suggestions for additional information",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2578"
+        },
+        {
+          "title": "CMake instructions",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2577"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }
