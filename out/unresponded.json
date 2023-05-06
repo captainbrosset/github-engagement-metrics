@@ -1686,6 +1686,10 @@
     },
     {
       "date": "2023-05-05",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-06",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3394,6 +3398,10 @@
     },
     {
       "date": "2023-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5085,13 +5093,12 @@
     },
     {
       "date": "2023-05-05",
-      "unRespondedItems": [
-        {
-          "title": "Search the console option doesn't search for entire error message",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/148"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6781,6 +6788,10 @@
     },
     {
       "date": "2023-05-05",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-06",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8493,22 +8504,18 @@
     },
     {
       "date": "2023-05-05",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-05-06",
       "unRespondedItems": [
         {
-          "title": "部分win10系统 webview2控件白屏",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
+          "title": "WebView2 initialization in headless mode not work when is invoked by windows service",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3458"
         },
         {
-          "title": "WinRT DataReader.ReadBytes throws \"Invalid number of parameters\" error on WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3454"
-        },
-        {
-          "title": "How to define dimensions when using headless WebView2 to render a screenshot?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453"
-        },
-        {
-          "title": "File not downloading in a path of user's choice",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452"
+          "title": "Audio clip interruptions in Webview2 UWP",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3457"
         },
         {
           "title": "Detect response loaded from chromium cache",
@@ -8533,6 +8540,18 @@
         {
           "title": "How to get mouse cursor pixel?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
+        },
+        {
+          "title": "Cannot repair broken WebView2 installation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3460"
+        },
+        {
+          "title": "WebView ZoomFactor Resets on each Navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3459"
+        },
+        {
+          "title": "File not downloading in a path of user's choice",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452"
         },
         {
           "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
@@ -8571,7 +8590,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10261,33 +10280,21 @@
     },
     {
       "date": "2023-05-05",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-06",
       "unRespondedItems": [
         {
-          "title": "Ander ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1485"
-        },
-        {
-          "title": "wps-sign-up",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1484"
-        },
-        {
-          "title": "andrej",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1483"
-        },
-        {
-          "title": "Arundhyati Goswami",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1482"
-        },
-        {
-          "title": "Tupu()",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1481"
+          "title": "bni",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1487"
         },
         {
           "title": "Allow Framework Ignore List -> Custom Exclusion Rules",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
         }
       ],
-      "rate": "88.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11977,17 +11984,12 @@
     },
     {
       "date": "2023-05-05",
-      "unRespondedItems": [
-        {
-          "title": "Suggestions for additional information",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2578"
-        },
-        {
-          "title": "CMake instructions",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2577"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2023-05-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
