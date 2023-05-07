@@ -1690,6 +1690,10 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [
         {
           "title": "Error: EACCES: permission denied, copyfile",
@@ -3402,6 +3406,10 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5097,6 +5105,10 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6792,6 +6804,10 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8508,7 +8524,19 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [
+        {
+          "title": "Response header when using virtual host name mapping",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3462"
+        },
+        {
+          "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
+        },
         {
           "title": "WebView2 initialization in headless mode not work when is invoked by windows service",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3458"
@@ -8546,8 +8574,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3460"
         },
         {
-          "title": "WebView ZoomFactor Resets on each Navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3459"
+          "title": "部分win10系统 webview2控件白屏",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
+        },
+        {
+          "title": "How to define dimensions when using headless WebView2 to render a screenshot?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453"
         },
         {
           "title": "File not downloading in a path of user's choice",
@@ -8590,7 +8622,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         }
       ],
-      "rate": "60.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10284,7 +10316,19 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [
+        {
+          "title": "a",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1490"
+        },
+        {
+          "title": "Uzakov",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1489"
+        },
         {
           "title": "bni",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1487"
@@ -10294,7 +10338,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -11988,6 +12032,10 @@
     },
     {
       "date": "2023-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
