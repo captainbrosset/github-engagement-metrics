@@ -1,6 +1,7 @@
-Response rate: 89.67%
+Response rate: 89.08%
 
-* **webhintio/hint** - _91.67%_
+* **webhintio/hint** - _89.58%_
+  * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
@@ -13,7 +14,7 @@ Response rate: 89.67%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [Response header when using virtual host name mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3462)
   * [The `CoreWebView2.Navigate()` method not changes `Source` pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461)
   * [WebView2 initialization in headless mode not work when is in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3458)
@@ -24,10 +25,8 @@ Response rate: 89.67%
   * [NavigationComplete timeout status](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3442)
   * [Non wide-char based encodings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423)
   * [How to get mouse cursor pixel?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415)
-  * [Cannot repair broken WebView2 installation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3460)
   * [部分win10系统 webview2控件白屏](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455)
   * [How to define dimensions when using headless WebView2 to ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453)
-  * [File not downloading in a path of user's choice](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452)
   * [Why WebViewManager can still send messages to WebView2 after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450)
   * [Why has the physical size of the Print UI changed for this u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447)
   * [WebView2 not ready for primetime?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445)
@@ -37,7 +36,10 @@ Response rate: 89.67%
   * [PrintAsync not working properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421)
   * [Blank page when application is updated or cache is deleted](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412)
   * [WebView2 in Hololens](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [hmm](https://github.com/microsoft/vscode-edge-devtools/issues/1493)
+  * [ltmt](https://github.com/microsoft/vscode-edge-devtools/issues/1492)
+  * [cut effect](https://github.com/microsoft/vscode-edge-devtools/issues/1491)
   * [a](https://github.com/microsoft/vscode-edge-devtools/issues/1490)
   * [Uzakov](https://github.com/microsoft/vscode-edge-devtools/issues/1489)
   * [bni](https://github.com/microsoft/vscode-edge-devtools/issues/1487)

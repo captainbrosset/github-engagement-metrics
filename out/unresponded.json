@@ -1694,7 +1694,15 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Browserslist configuration not being followed",
+          "url": "https://github.com/webhintio/hint/issues/5556"
+        },
         {
           "title": "Error: EACCES: permission denied, copyfile",
           "url": "https://github.com/webhintio/hint/issues/5432"
@@ -1712,7 +1720,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "91.67"
+      "rate": "89.58"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3410,6 +3418,10 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5109,6 +5121,10 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6808,6 +6824,10 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8528,6 +8548,10 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [
         {
           "title": "Response header when using virtual host name mapping",
@@ -8570,20 +8594,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
         },
         {
-          "title": "Cannot repair broken WebView2 installation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3460"
-        },
-        {
           "title": "部分win10系统 webview2控件白屏",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
         },
         {
           "title": "How to define dimensions when using headless WebView2 to render a screenshot?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453"
-        },
-        {
-          "title": "File not downloading in a path of user's choice",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3452"
         },
         {
           "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
@@ -8622,7 +8638,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         }
       ],
-      "rate": "54.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10320,7 +10336,23 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [
+        {
+          "title": "hmm",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1493"
+        },
+        {
+          "title": "ltmt",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1492"
+        },
+        {
+          "title": "cut effect",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1491"
+        },
         {
           "title": "a",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1490"
@@ -10338,7 +10370,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
         }
       ],
-      "rate": "92.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12036,6 +12068,10 @@
     },
     {
       "date": "2023-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
