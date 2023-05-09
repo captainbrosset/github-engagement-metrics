@@ -1698,6 +1698,10 @@
     },
     {
       "date": "2023-05-08",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-05-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Browserslist configuration not being followed",
@@ -3422,6 +3426,10 @@
     },
     {
       "date": "2023-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5125,8 +5133,17 @@
     },
     {
       "date": "2023-05-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-09",
+      "unRespondedItems": [
+        {
+          "title": "Icon visibility, as well as, quick link arrow to disappear for UI ease",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/149"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6828,6 +6845,10 @@
     },
     {
       "date": "2023-05-08",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-09",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -6836,6 +6857,10 @@
         {
           "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
+        },
+        {
+          "title": "EdgeDriverService is not launching the browser in the second iteration",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
         },
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
@@ -6850,7 +6875,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -8552,18 +8577,22 @@
     },
     {
       "date": "2023-05-08",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-05-09",
       "unRespondedItems": [
         {
-          "title": "Response header when using virtual host name mapping",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3462"
+          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
+        },
+        {
+          "title": "Error loading Webview2Loader from VSTO",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3465"
         },
         {
           "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
-        },
-        {
-          "title": "WebView2 initialization in headless mode not work when is invoked by windows service",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3458"
         },
         {
           "title": "Audio clip interruptions in Webview2 UWP",
@@ -8598,20 +8627,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
         },
         {
-          "title": "How to define dimensions when using headless WebView2 to render a screenshot?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3453"
-        },
-        {
-          "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
-        },
-        {
           "title": "Why has the physical size of the Print UI changed for this user?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447"
-        },
-        {
-          "title": "WebView2 not ready for primetime?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3445"
         },
         {
           "title": "Can we programmatically change DevTools's settings?",
@@ -8624,21 +8641,9 @@
         {
           "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
-        },
-        {
-          "title": "PrintAsync not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
-        },
-        {
-          "title": "Blank page when application is updated or cache is deleted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3412"
-        },
-        {
-          "title": "WebView2 in Hololens",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3410"
         }
       ],
-      "rate": "58.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10340,7 +10345,19 @@
     },
     {
       "date": "2023-05-08",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-09",
       "unRespondedItems": [
+        {
+          "title": "Rename SECURITY.md to SECURITY.mdd",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1499"
+        },
+        {
+          "title": "A",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1498"
+        },
         {
           "title": "hmm",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1493"
@@ -10368,9 +10385,13 @@
         {
           "title": "Allow Framework Ignore List -> Custom Exclusion Rules",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
+        },
+        {
+          "title": "merge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1500"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12072,8 +12093,21 @@
     },
     {
       "date": "2023-05-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-09",
+      "unRespondedItems": [
+        {
+          "title": "Is there any code sample explaining how to add a Microsoft Edge extension in the web view?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2580"
+        },
+        {
+          "title": "dry",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2581"
+        }
+      ],
+      "rate": "95.92"
     }
   ]
 }
