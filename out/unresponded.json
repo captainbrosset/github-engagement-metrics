@@ -1702,6 +1702,10 @@
     },
     {
       "date": "2023-05-09",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-05-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Browserslist configuration not being followed",
@@ -1716,6 +1720,10 @@
           "url": "https://github.com/webhintio/hint/issues/5417"
         },
         {
+          "title": "[Bug] Getting an error in VS Code using the webhint extension.",
+          "url": "https://github.com/webhintio/hint/issues/5509"
+        },
+        {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
         },
@@ -1724,7 +1732,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "89.58"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3430,6 +3438,10 @@
     },
     {
       "date": "2023-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5137,13 +5149,12 @@
     },
     {
       "date": "2023-05-09",
-      "unRespondedItems": [
-        {
-          "title": "Icon visibility, as well as, quick link arrow to disappear for UI ease",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/149"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6849,6 +6860,10 @@
     },
     {
       "date": "2023-05-09",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-10",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8581,7 +8596,31 @@
     },
     {
       "date": "2023-05-09",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-05-10",
       "unRespondedItems": [
+        {
+          "title": "[Security Vulnerability] Dev tools always available within Print dialog...",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3472"
+        },
+        {
+          "title": "When the input box is focused, the text behind it will change",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3471"
+        },
+        {
+          "title": "Problem with Intel Vtune Profiler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3469"
+        },
+        {
+          "title": "The difference between webview1 and webview2, in high contrast mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3468"
+        },
+        {
+          "title": "WebView2AutomationPeer for winform win32?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
+        },
         {
           "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
@@ -8619,12 +8658,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
         },
         {
-          "title": "How to get mouse cursor pixel?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3415"
+          "title": "Extension in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3470"
         },
         {
-          "title": "部分win10系统 webview2控件白屏",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3455"
+          "title": "Cannot repair broken WebView2 installation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3460"
         },
         {
           "title": "Why has the physical size of the Print UI changed for this user?",
@@ -8641,9 +8680,13 @@
         {
           "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
+        },
+        {
+          "title": "PrintAsync not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
         }
       ],
-      "rate": "70.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10349,49 +10392,12 @@
     },
     {
       "date": "2023-05-09",
-      "unRespondedItems": [
-        {
-          "title": "Rename SECURITY.md to SECURITY.mdd",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1499"
-        },
-        {
-          "title": "A",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1498"
-        },
-        {
-          "title": "hmm",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1493"
-        },
-        {
-          "title": "ltmt",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1492"
-        },
-        {
-          "title": "cut effect",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1491"
-        },
-        {
-          "title": "a",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1490"
-        },
-        {
-          "title": "Uzakov",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1489"
-        },
-        {
-          "title": "bni",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1487"
-        },
-        {
-          "title": "Allow Framework Ignore List -> Custom Exclusion Rules",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1480"
-        },
-        {
-          "title": "merge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1500"
-        }
-      ],
       "rate": "80.00"
+    },
+    {
+      "date": "2023-05-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12097,17 +12103,12 @@
     },
     {
       "date": "2023-05-09",
-      "unRespondedItems": [
-        {
-          "title": "Is there any code sample explaining how to add a Microsoft Edge extension in the web view?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2580"
-        },
-        {
-          "title": "dry",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2581"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-05-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
