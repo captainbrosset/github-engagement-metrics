@@ -1706,6 +1706,10 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Browserslist configuration not being followed",
@@ -3442,6 +3446,10 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5153,6 +5161,10 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6864,6 +6876,10 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8600,30 +8616,18 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [
         {
-          "title": "[Security Vulnerability] Dev tools always available within Print dialog...",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3472"
+          "title": "CoreWebView2.PrintToPdfAsync(String, CoreWebView2PrintSettings) - single page PDF not possible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3476"
         },
         {
-          "title": "When the input box is focused, the text behind it will change",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3471"
-        },
-        {
-          "title": "Problem with Intel Vtune Profiler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3469"
-        },
-        {
-          "title": "The difference between webview1 and webview2, in high contrast mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3468"
-        },
-        {
-          "title": "WebView2AutomationPeer for winform win32?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
-        },
-        {
-          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
+          "title": "CoreWebView2WebMessageReceivedEventArgs.AdditionalObjects throws a Microsoft.CSharp.RuntimeBinder.RuntimeBinderException exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3474"
         },
         {
           "title": "Error loading Webview2Loader from VSTO",
@@ -8658,8 +8662,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
         },
         {
-          "title": "Extension in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3470"
+          "title": "WebView2AutomationPeer for winform win32?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
         },
         {
           "title": "Cannot repair broken WebView2 installation",
@@ -8680,13 +8684,9 @@
         {
           "title": "0x80070002 on CreateCoreWebView2EnvironmentWithOptions API whe user is logged off",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
-        },
-        {
-          "title": "PrintAsync not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3421"
         }
       ],
-      "rate": "58.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10396,8 +10396,17 @@
     },
     {
       "date": "2023-05-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-11",
+      "unRespondedItems": [
+        {
+          "title": "why Iam not getting output?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1510"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12107,6 +12116,10 @@
     },
     {
       "date": "2023-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
