@@ -1710,6 +1710,10 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Browserslist configuration not being followed",
@@ -3450,6 +3454,10 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5165,6 +5173,10 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6880,6 +6892,10 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8620,7 +8636,23 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [
+        {
+          "title": "Blank screen when running FormApp",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3479"
+        },
+        {
+          "title": "webMessages.html - doesn't exist in project \"WebView2WindowsFormsBrowser\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3478"
+        },
+        {
+          "title": "WPF+UWP When loading webpage content, the screen will flash white",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
+        },
         {
           "title": "CoreWebView2.PrintToPdfAsync(String, CoreWebView2PrintSettings) - single page PDF not possible",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3476"
@@ -8628,10 +8660,6 @@
         {
           "title": "CoreWebView2WebMessageReceivedEventArgs.AdditionalObjects throws a Microsoft.CSharp.RuntimeBinder.RuntimeBinderException exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3474"
-        },
-        {
-          "title": "Error loading Webview2Loader from VSTO",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3465"
         },
         {
           "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
@@ -8658,12 +8686,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3442"
         },
         {
-          "title": "Non wide-char based encodings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3423"
-        },
-        {
           "title": "WebView2AutomationPeer for winform win32?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
+        },
+        {
+          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         },
         {
           "title": "Cannot repair broken WebView2 installation",
@@ -8686,7 +8714,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10400,13 +10428,25 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [
         {
-          "title": "why Iam not getting output?",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1510"
+          "title": "1",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1513"
+        },
+        {
+          "title": "PS C:\\Users\\aravi\\.vscode\\java files>  & 'C:\\Program Files\\Java\\jdk-19\\bin\\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:50140' '@C:\\Users\\aravi\\AppData\\Local\\Temp\\cp_8k424vbxhda4nk0i83u773ryj.argfile' 'collections.array_list' Error: Could not find or load main class collections.array_list Caused by: java.lang.ClassNotFoundException: collections.array_list PS C:\\Users\\aravi\\.vscode\\java files> ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1512"
+        },
+        {
+          "title": "Extremely high CPU usage while rendering simple webpage",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1511"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12120,6 +12160,10 @@
     },
     {
       "date": "2023-05-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
