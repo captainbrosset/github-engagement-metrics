@@ -1714,7 +1714,19 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [
+        {
+          "title": "Fix: utils-dom dependency",
+          "url": "https://github.com/webhintio/hint/pull/5564"
+        },
+        {
+          "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
+          "url": "https://github.com/webhintio/hint/issues/5563"
+        },
         {
           "title": "[Bug] Browserslist configuration not being followed",
           "url": "https://github.com/webhintio/hint/issues/5556"
@@ -1728,10 +1740,6 @@
           "url": "https://github.com/webhintio/hint/issues/5417"
         },
         {
-          "title": "[Bug] Getting an error in VS Code using the webhint extension.",
-          "url": "https://github.com/webhintio/hint/issues/5509"
-        },
-        {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
         },
@@ -1740,7 +1748,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "87.50"
+      "rate": "85.42"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3458,6 +3466,10 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5177,6 +5189,10 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6896,6 +6912,10 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8640,22 +8660,14 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [
         {
-          "title": "Blank screen when running FormApp",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3479"
-        },
-        {
-          "title": "webMessages.html - doesn't exist in project \"WebView2WindowsFormsBrowser\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3478"
-        },
-        {
-          "title": "WPF+UWP When loading webpage content, the screen will flash white",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
-        },
-        {
-          "title": "CoreWebView2.PrintToPdfAsync(String, CoreWebView2PrintSettings) - single page PDF not possible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3476"
+          "title": "How to get the pdf file real html content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
         },
         {
           "title": "CoreWebView2WebMessageReceivedEventArgs.AdditionalObjects throws a Microsoft.CSharp.RuntimeBinder.RuntimeBinderException exception",
@@ -8714,7 +8726,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437"
         }
       ],
-      "rate": "64.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10432,7 +10444,19 @@
     },
     {
       "date": "2023-05-12",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-13",
       "unRespondedItems": [
+        {
+          "title": "documento micro",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1519"
+        },
+        {
+          "title": "Update SECURITY.md",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1518"
+        },
         {
           "title": "1",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1513"
@@ -10446,7 +10470,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1511"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12164,8 +12188,21 @@
     },
     {
       "date": "2023-05-12",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-13",
+      "unRespondedItems": [
+        {
+          "title": "Updated Edge Shopping Privacy Whitepaper: added inbox coupons",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2589"
+        },
+        {
+          "title": "\"Nick Of A G\" created by Mr. Johnny Edward Wellons, II",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2588"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }
