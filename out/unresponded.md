@@ -1,4 +1,4 @@
-Response rate: 89.88%
+Response rate: 89.02%
 
 * **webhintio/hint** - _85.42%_
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
@@ -9,7 +9,8 @@ Response rate: 89.88%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Automating certificate management in Edge Browser through pr...](https://github.com/MicrosoftEdge/DevTools/issues/150)
 * **MicrosoftEdge/EdgeWebDriver** - _88.00%_
   * [Could not start new session. Possible causes are invalid add...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/83)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
@@ -33,7 +34,9 @@ Response rate: 89.88%
   * [Can we programmatically change DevTools's settings?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441)
   * [WindpwsAppSDK app WebView2 doesn't forward keyboard input to...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438)
   * [0x80070002 on CreateCoreWebView2EnvironmentWithOptions API w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [abdulelah](https://github.com/microsoft/vscode-edge-devtools/issues/1521)
+  * [problme](https://github.com/microsoft/vscode-edge-devtools/issues/1520)
   * [documento micro](https://github.com/microsoft/vscode-edge-devtools/issues/1519)
   * [Update SECURITY.md](https://github.com/microsoft/vscode-edge-devtools/pull/1518)
   * [1](https://github.com/microsoft/vscode-edge-devtools/issues/1513)

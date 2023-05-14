@@ -1718,6 +1718,10 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3470,6 +3474,10 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5193,8 +5201,17 @@
     },
     {
       "date": "2023-05-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-14",
+      "unRespondedItems": [
+        {
+          "title": "Automating certificate management in Edge Browser through programming",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/150"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6916,6 +6933,10 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8664,6 +8685,10 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [
         {
           "title": "How to get the pdf file real html content",
@@ -10448,7 +10473,19 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [
+        {
+          "title": "abdulelah",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1521"
+        },
+        {
+          "title": "problme",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1520"
+        },
         {
           "title": "documento micro",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1519"
@@ -10470,7 +10507,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1511"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12192,6 +12229,10 @@
     },
     {
       "date": "2023-05-13",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-05-14",
       "unRespondedItems": [
         {
           "title": "Updated Edge Shopping Privacy Whitepaper: added inbox coupons",
