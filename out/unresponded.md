@@ -1,4 +1,4 @@
-Response rate: 89.02%
+Response rate: 88.74%
 
 * **webhintio/hint** - _85.42%_
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
@@ -34,7 +34,8 @@ Response rate: 89.02%
   * [Can we programmatically change DevTools's settings?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441)
   * [WindpwsAppSDK app WebView2 doesn't forward keyboard input to...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3438)
   * [0x80070002 on CreateCoreWebView2EnvironmentWithOptions API w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3437)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [rojhat](https://github.com/microsoft/vscode-edge-devtools/issues/1522)
   * [abdulelah](https://github.com/microsoft/vscode-edge-devtools/issues/1521)
   * [problme](https://github.com/microsoft/vscode-edge-devtools/issues/1520)
   * [documento micro](https://github.com/microsoft/vscode-edge-devtools/issues/1519)

@@ -1722,6 +1722,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3478,6 +3482,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5205,6 +5213,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
         {
           "title": "Automating certificate management in Edge Browser through programming",
@@ -6937,6 +6949,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
         {
           "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
@@ -8689,6 +8705,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
         {
           "title": "How to get the pdf file real html content",
@@ -10477,7 +10497,15 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
+        {
+          "title": "rojhat",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1522"
+        },
         {
           "title": "abdulelah",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1521"
@@ -10507,7 +10535,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1511"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12233,6 +12261,10 @@
     },
     {
       "date": "2023-05-14",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-05-15",
       "unRespondedItems": [
         {
           "title": "Updated Edge Shopping Privacy Whitepaper: added inbox coupons",
