@@ -1734,6 +1734,10 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3502,6 +3506,10 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5241,13 +5249,12 @@
     },
     {
       "date": "2023-05-17",
-      "unRespondedItems": [
-        {
-          "title": "Audio/Sound toggle Feature in Site Setting!",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/151"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6985,6 +6992,10 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [
         {
           "title": "Unable to use sendkeys() for password in Edge using Selenium Automation",
@@ -8753,7 +8764,15 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [
+        {
+          "title": "WebView2 freezes after playing video and resize the UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492"
+        },
         {
           "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
@@ -8765,10 +8784,6 @@
         {
           "title": "CoreWebView2WebMessageReceivedEventArgs.AdditionalObjects throws a Microsoft.CSharp.RuntimeBinder.RuntimeBinderException exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3474"
-        },
-        {
-          "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
         },
         {
           "title": "Audio clip interruptions in Webview2 UWP",
@@ -8799,6 +8814,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490"
         },
         {
+          "title": "Mouse cursor disappears in webview2 in Windows11 touch screen mode(Windows11触屏模式下，webview2中鼠标光标消失问题)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3485"
+        },
+        {
+          "title": "\"webMessages.html\" and \"hostObject.html\" - doesn't exist in project \"WebView2WindowsFormsBrowser\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3478"
+        },
+        {
           "title": "WPF+UWP When loading webpage content, the screen will flash white",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
         },
@@ -8807,23 +8830,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
         },
         {
-          "title": "Error loading Webview2Loader from VSTO",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3465"
+          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         },
         {
           "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         },
         {
-          "title": "Why has the physical size of the Print UI changed for this user?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3447"
-        },
-        {
           "title": "Can we programmatically change DevTools's settings?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10561,21 +10580,17 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [
         {
-          "title": "VS code not working properly",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1527"
-        },
-        {
-          "title": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1526"
-        },
-        {
-          "title": "Extremely high CPU usage while rendering simple webpage",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1511"
+          "title": "Update SECURITY.md",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1528"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12313,13 +12328,29 @@
     },
     {
       "date": "2023-05-17",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-18",
       "unRespondedItems": [
+        {
+          "title": "¡°'\"!@a",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2596"
+        },
+        {
+          "title": "Conditional breakpoints should have a different color",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2595"
+        },
+        {
+          "title": "SpaceX.net",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2598"
+        },
         {
           "title": "Updated Edge Shopping Privacy Whitepaper: added inbox coupons",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2589"
         }
       ],
-      "rate": "97.87"
+      "rate": "91.67"
     }
   ]
 }
