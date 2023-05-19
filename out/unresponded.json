@@ -1738,6 +1738,10 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3510,6 +3514,10 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5253,8 +5261,17 @@
     },
     {
       "date": "2023-05-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-19",
+      "unRespondedItems": [
+        {
+          "title": "Devtools internet access",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/153"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -6996,6 +7013,10 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [
         {
           "title": "Unable to use sendkeys() for password in Edge using Selenium Automation",
@@ -8768,7 +8789,19 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [
+        {
+          "title": "Screenshot (May 18, 2023 2:37:35 AM)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3494"
+        },
+        {
+          "title": "Touch keyboard not displayed when touch/focus to find dialog ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
+        },
         {
           "title": "WebView2 freezes after playing video and resize the UWP app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492"
@@ -8818,10 +8851,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3485"
         },
         {
-          "title": "\"webMessages.html\" and \"hostObject.html\" - doesn't exist in project \"WebView2WindowsFormsBrowser\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3478"
-        },
-        {
           "title": "WPF+UWP When loading webpage content, the screen will flash white",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
         },
@@ -8834,6 +8863,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         },
         {
+          "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
+        },
+        {
           "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         },
@@ -8842,7 +8875,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10584,13 +10617,21 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [
+        {
+          "title": "ScrollIntoView() causing the whole page to move",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1529"
+        },
         {
           "title": "Update SECURITY.md",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1528"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12332,6 +12373,10 @@
     },
     {
       "date": "2023-05-18",
+      "rate": "91.67"
+    },
+    {
+      "date": "2023-05-19",
       "unRespondedItems": [
         {
           "title": "¡°'\"!@a",
@@ -12350,7 +12395,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2589"
         }
       ],
-      "rate": "91.67"
+      "rate": "91.49"
     }
   ]
 }

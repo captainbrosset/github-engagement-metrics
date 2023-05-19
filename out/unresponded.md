@@ -1,4 +1,4 @@
-Response rate: 89.30%
+Response rate: 88.13%
 
 * **webhintio/hint** - _85.42%_
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
@@ -9,7 +9,8 @@ Response rate: 89.30%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Devtools internet access](https://github.com/MicrosoftEdge/DevTools/issues/153)
 * **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [Unable to use sendkeys() for password in Edge using Selenium...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/84)
   * [Could not start new session. Possible causes are invalid add...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/83)
@@ -18,7 +19,9 @@ Response rate: 89.30%
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
   * [[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [Screenshot (May 18, 2023 2:37:35 AM)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3494)
+  * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
   * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [CoreWebView2.PrintToPdf(Async) - single page pdf (remove emp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487)
   * [How to get the pdf file real html content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480)
@@ -31,15 +34,16 @@ Response rate: 89.30%
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
   * [CoreWebView2 is null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490)
   * [Mouse cursor disappears in webview2 in Windows11 touch scree...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3485)
-  * ["webMessages.html" and "hostObject.html" - doesn't exist in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3478)
   * [WPF+UWP When loading webpage content, the screen will flash ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477)
   * [WebView2AutomationPeer for winform win32?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467)
   * [Initializing 2 managed WebView environments with different C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466)
+  * [The `CoreWebView2.Navigate()` method not changes `Source` pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461)
   * [Why WebViewManager can still send messages to WebView2 after...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450)
   * [Can we programmatically change DevTools's settings?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [ScrollIntoView() causing the whole page to move](https://github.com/microsoft/vscode-edge-devtools/issues/1529)
   * [Update SECURITY.md](https://github.com/microsoft/vscode-edge-devtools/pull/1528)
-* **MicrosoftDocs/edge-developer** - _91.67%_
+* **MicrosoftDocs/edge-developer** - _91.49%_
   * [¡°'"!@a](https://github.com/MicrosoftDocs/edge-developer/issues/2596)
   * [Conditional breakpoints should have a different color](https://github.com/MicrosoftDocs/edge-developer/issues/2595)
   * [SpaceX.net](https://github.com/MicrosoftDocs/edge-developer/issues/2598)
