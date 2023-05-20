@@ -1742,6 +1742,10 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3518,6 +3522,10 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5265,13 +5273,21 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
+        {
+          "title": "Conditional breakpoints should have a different color",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/155"
+        },
         {
           "title": "Devtools internet access",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/153"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7017,7 +7033,15 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
+        {
+          "title": "Could not start a new session. Response code 500. Message: unknown error: Microsoft Edge failed to start: crashed. Running script using jenkins.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/85"
+        },
         {
           "title": "Unable to use sendkeys() for password in Edge using Selenium Automation",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/84"
@@ -7041,10 +7065,6 @@
         {
           "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
-        },
-        {
-          "title": "[🐛 Bug]: useShellWindowsApiToAttachToIe will be blocking on initial page in Edge IE Mode ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/34"
         }
       ],
       "rate": "86.00"
@@ -8793,10 +8813,26 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
         {
-          "title": "Screenshot (May 18, 2023 2:37:35 AM)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3494"
+          "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
+        },
+        {
+          "title": "Unable to capture continuous location.href through AddWebResourceRequestedFilter",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
+        },
+        {
+          "title": "Watch \"X Ambassadors - Heist\" on YouTube",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3497"
+        },
+        {
+          "title": "Input Element with Datalist not shown in MAUI Windows Desktop, Webview Runtime Issue.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3496"
         },
         {
           "title": "Touch keyboard not displayed when touch/focus to find dialog ",
@@ -8827,28 +8863,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3448"
         },
         {
-          "title": "How to make session cookie persistence",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3444"
-        },
-        {
-          "title": "Thread.CurrentPrincipal is not retaining its value after the NavigationStarting callback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3443"
-        },
-        {
-          "title": "NavigationComplete timeout status",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3442"
-        },
-        {
           "title": "Webview2 crashes when calling document.write on newly opened window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
         },
         {
           "title": "CoreWebView2 is null",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490"
-        },
-        {
-          "title": "Mouse cursor disappears in webview2 in Windows11 touch screen mode(Windows11触屏模式下，webview2中鼠标光标消失问题)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3485"
         },
         {
           "title": "WPF+UWP When loading webpage content, the screen will flash white",
@@ -8859,23 +8879,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
         },
         {
-          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
-        },
-        {
           "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
         },
         {
           "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
-        },
-        {
-          "title": "Can we programmatically change DevTools's settings?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3441"
         }
       ],
-      "rate": "60.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10621,17 +10633,25 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
+        {
+          "title": "Changed github repo target",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1536"
+        },
+        {
+          "title": "a",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1533"
+        },
         {
           "title": "ScrollIntoView() causing the whole page to move",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1529"
-        },
-        {
-          "title": "Update SECURITY.md",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1528"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12377,25 +12397,17 @@
     },
     {
       "date": "2023-05-19",
+      "rate": "91.49"
+    },
+    {
+      "date": "2023-05-20",
       "unRespondedItems": [
         {
-          "title": "¡°'\"!@a",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2596"
-        },
-        {
-          "title": "Conditional breakpoints should have a different color",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2595"
-        },
-        {
-          "title": "SpaceX.net",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2598"
-        },
-        {
-          "title": "Updated Edge Shopping Privacy Whitepaper: added inbox coupons",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2589"
+          "title": "amjad",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2601"
         }
       ],
-      "rate": "91.49"
+      "rate": "97.87"
     }
   ]
 }
