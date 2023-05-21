@@ -1746,6 +1746,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3526,6 +3530,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5277,6 +5285,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
         {
           "title": "Conditional breakpoints should have a different color",
@@ -7037,6 +7049,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
         {
           "title": "Could not start a new session. Response code 500. Message: unknown error: Microsoft Edge failed to start: crashed. Running script using jenkins.",
@@ -8817,7 +8833,15 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
+        {
+          "title": "https://play.google.com/store/apps/details?id=com.mdsprephttps://play.google.com/store/apps/details?id=com.mdsprep311580-31049900.31049990s311580-310499900.310499900https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa79920230519-1759![Screenshot_20230519-175940.png](https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa799)\n\nhttps://github.com/PhamBaTho/BTNavigationDropdownMenu/issues/168/]~1>I/UID1000",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3500"
+        },
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
@@ -8887,7 +8911,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10637,6 +10661,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
         {
           "title": "Changed github repo target",
@@ -12401,6 +12429,10 @@
     },
     {
       "date": "2023-05-20",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-21",
       "unRespondedItems": [
         {
           "title": "amjad",

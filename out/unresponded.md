@@ -1,4 +1,4 @@
-Response rate: 89.33%
+Response rate: 89.04%
 
 * **webhintio/hint** - _85.42%_
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
@@ -20,7 +20,8 @@ Response rate: 89.33%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [https://play.google.com/store/apps/details?id=com.mdsprephtt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3500)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Unable to capture continuous location.href through AddWebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498)
   * [Watch "X Ambassadors - Heist" on YouTube](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3497)
