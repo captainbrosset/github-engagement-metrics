@@ -1750,6 +1750,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3534,6 +3538,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5289,7 +5297,15 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
+        {
+          "title": "i need ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/156"
+        },
         {
           "title": "Conditional breakpoints should have a different color",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/155"
@@ -5299,7 +5315,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/153"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7053,6 +7069,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
         {
           "title": "Could not start a new session. Response code 500. Message: unknown error: Microsoft Edge failed to start: crashed. Running script using jenkins.",
@@ -8837,6 +8857,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
         {
           "title": "https://play.google.com/store/apps/details?id=com.mdsprephttps://play.google.com/store/apps/details?id=com.mdsprep311580-31049900.31049990s311580-310499900.310499900https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa79920230519-1759![Screenshot_20230519-175940.png](https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa799)\n\nhttps://github.com/PhamBaTho/BTNavigationDropdownMenu/issues/168/]~1>I/UID1000",
@@ -8875,10 +8899,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
         },
         {
-          "title": "CoreWebView2WebMessageReceivedEventArgs.AdditionalObjects throws a Microsoft.CSharp.RuntimeBinder.RuntimeBinderException exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3474"
-        },
-        {
           "title": "Audio clip interruptions in Webview2 UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3457"
         },
@@ -8911,7 +8931,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10665,6 +10685,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
         {
           "title": "Changed github repo target",
@@ -10675,11 +10699,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1533"
         },
         {
+          "title": "talcivan",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1537"
+        },
+        {
           "title": "ScrollIntoView() causing the whole page to move",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1529"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12433,6 +12461,10 @@
     },
     {
       "date": "2023-05-21",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-22",
       "unRespondedItems": [
         {
           "title": "amjad",
