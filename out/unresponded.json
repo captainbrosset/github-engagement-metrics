@@ -1754,7 +1754,15 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5567"
+        },
         {
           "title": "Fix: utils-dom dependency",
           "url": "https://github.com/webhintio/hint/pull/5564"
@@ -1784,7 +1792,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "85.42"
+      "rate": "83.33"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3542,6 +3550,10 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5301,21 +5313,17 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
-        {
-          "title": "i need ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/156"
-        },
         {
           "title": "Conditional breakpoints should have a different color",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/155"
-        },
-        {
-          "title": "Devtools internet access",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/153"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7073,7 +7081,15 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
+        {
+          "title": "Edge Instance started from one user's session moves to another user's session connected to same server",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/86"
+        },
         {
           "title": "Could not start a new session. Response code 500. Message: unknown error: Microsoft Edge failed to start: crashed. Running script using jenkins.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/85"
@@ -7103,7 +7119,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -8861,10 +8877,14 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
         {
-          "title": "https://play.google.com/store/apps/details?id=com.mdsprephttps://play.google.com/store/apps/details?id=com.mdsprep311580-31049900.31049990s311580-310499900.310499900https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa79920230519-1759![Screenshot_20230519-175940.png](https://github.com/PhamBaTho/BTNavigationDropdownMenu/assets/131501479/27c6c031-dc23-4933-aadf-ea67f18fa799)\n\nhttps://github.com/PhamBaTho/BTNavigationDropdownMenu/issues/168/]~1>I/UID1000",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3500"
+          "title": "How do you Add Languages to Spellchecker?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501"
         },
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
@@ -8875,16 +8895,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
         },
         {
-          "title": "Watch \"X Ambassadors - Heist\" on YouTube",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3497"
-        },
-        {
           "title": "Input Element with Datalist not shown in MAUI Windows Desktop, Webview Runtime Issue.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3496"
-        },
-        {
-          "title": "Touch keyboard not displayed when touch/focus to find dialog ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
         },
         {
           "title": "WebView2 freezes after playing video and resize the UWP app",
@@ -8905,6 +8917,10 @@
         {
           "title": "Detect response loaded from chromium cache",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3448"
+        },
+        {
+          "title": "Touch keyboard not displayed when touch/focus to find dialog ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
         },
         {
           "title": "Webview2 crashes when calling document.write on newly opened window",
@@ -8931,7 +8947,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10689,7 +10705,15 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
+        {
+          "title": "ice cream webpage",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1538"
+        },
         {
           "title": "Changed github repo target",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1536"
@@ -10707,7 +10731,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1529"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12465,13 +12489,21 @@
     },
     {
       "date": "2023-05-22",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-23",
       "unRespondedItems": [
+        {
+          "title": "AA",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2602"
+        },
         {
           "title": "amjad",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2601"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }
