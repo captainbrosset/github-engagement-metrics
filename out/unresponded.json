@@ -1758,11 +1758,11 @@
     },
     {
       "date": "2023-05-23",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-05-24",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5567"
-        },
         {
           "title": "Fix: utils-dom dependency",
           "url": "https://github.com/webhintio/hint/pull/5564"
@@ -1792,7 +1792,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "83.33"
+      "rate": "85.42"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3554,6 +3554,10 @@
     },
     {
       "date": "2023-05-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5317,13 +5321,12 @@
     },
     {
       "date": "2023-05-23",
-      "unRespondedItems": [
-        {
-          "title": "Conditional breakpoints should have a different color",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/155"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7085,6 +7088,10 @@
     },
     {
       "date": "2023-05-23",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-05-24",
       "unRespondedItems": [
         {
           "title": "Edge Instance started from one user's session moves to another user's session connected to same server",
@@ -8881,22 +8888,22 @@
     },
     {
       "date": "2023-05-23",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-05-24",
       "unRespondedItems": [
+        {
+          "title": "WebView2 does not respect the resolutionscale when using multiple monitors",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3505"
+        },
         {
           "title": "How do you Add Languages to Spellchecker?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501"
         },
         {
-          "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
-        },
-        {
           "title": "Unable to capture continuous location.href through AddWebResourceRequestedFilter",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
-        },
-        {
-          "title": "Input Element with Datalist not shown in MAUI Windows Desktop, Webview Runtime Issue.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3496"
         },
         {
           "title": "WebView2 freezes after playing video and resize the UWP app",
@@ -8911,12 +8918,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
         },
         {
-          "title": "Audio clip interruptions in Webview2 UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3457"
+          "title": "[BUG] when i use cpd command at NewWindowRequested, the process will crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3506"
         },
         {
-          "title": "Detect response loaded from chromium cache",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3448"
+          "title": "Webview2 Initialization exception -- Specified cast is not valid. StackTrace",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3504"
+        },
+        {
+          "title": "Can't net6  pass C# Object to JS?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3503"
         },
         {
           "title": "Touch keyboard not displayed when touch/focus to find dialog ",
@@ -8941,13 +8952,9 @@
         {
           "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
-        },
-        {
-          "title": "Why WebViewManager can still send messages to WebView2 after BlazorWebView Unloaded event.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3450"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10709,29 +10716,17 @@
     },
     {
       "date": "2023-05-23",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-05-24",
       "unRespondedItems": [
         {
-          "title": "ice cream webpage",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1538"
-        },
-        {
-          "title": "Changed github repo target",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1536"
-        },
-        {
-          "title": "a",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1533"
-        },
-        {
-          "title": "talcivan",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1537"
-        },
-        {
-          "title": "ScrollIntoView() causing the whole page to move",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1529"
+          "title": "Revert \"Adapt the ADO mirroring workflow to the new area paths\"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1539"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12493,17 +12488,12 @@
     },
     {
       "date": "2023-05-23",
-      "unRespondedItems": [
-        {
-          "title": "AA",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2602"
-        },
-        {
-          "title": "amjad",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2601"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2023-05-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
