@@ -1762,6 +1762,10 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3558,6 +3562,10 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5325,6 +5333,10 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7092,6 +7104,10 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [
         {
           "title": "Edge Instance started from one user's session moves to another user's session connected to same server",
@@ -8892,10 +8908,18 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [
         {
-          "title": "WebView2 does not respect the resolutionscale when using multiple monitors",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3505"
+          "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510"
+        },
+        {
+          "title": "Website hangs in WebView2 but works fine in Edge",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3509"
         },
         {
           "title": "How do you Add Languages to Spellchecker?",
@@ -8914,20 +8938,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
         },
         {
-          "title": "How to get the pdf file real html content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
-        },
-        {
-          "title": "[BUG] when i use cpd command at NewWindowRequested, the process will crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3506"
-        },
-        {
-          "title": "Webview2 Initialization exception -- Specified cast is not valid. StackTrace",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3504"
+          "title": "WebView2 creation fails and crashes in EmbeddedBrowserWebView.dll",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3508"
         },
         {
           "title": "Can't net6  pass C# Object to JS?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3503"
+        },
+        {
+          "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
         },
         {
           "title": "Touch keyboard not displayed when touch/focus to find dialog ",
@@ -8942,6 +8962,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490"
         },
         {
+          "title": "How to get the pdf file real html content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
+        },
+        {
           "title": "WPF+UWP When loading webpage content, the screen will flash white",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
         },
@@ -8954,7 +8978,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10720,13 +10744,12 @@
     },
     {
       "date": "2023-05-24",
-      "unRespondedItems": [
-        {
-          "title": "Revert \"Adapt the ADO mirroring workflow to the new area paths\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1539"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12492,6 +12515,10 @@
     },
     {
       "date": "2023-05-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
