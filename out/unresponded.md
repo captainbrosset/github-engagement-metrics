@@ -10,7 +10,8 @@ Response rate: 91.06%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
+  * [IE Mode won't work if IEDriverServer is launched as admin](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/87)
   * [Edge Instance started from one user's session moves to anoth...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/86)
   * [Could not start a new session. Response code 500. Message: u...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/85)
   * [Unable to use sendkeys() for password in Edge using Selenium...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/84)
@@ -19,19 +20,18 @@ Response rate: 91.06%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
+  * [No scrolling possible at HTML input fields of type "time" ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512)
+  * [Is it possible to hide PointerLock message?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511)
   * [EnsureCoreWebView2Async from ContainsFullScreenElementChange...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510)
-  * [Website hangs in WebView2 but works fine in Edge](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3509)
   * [How do you Add Languages to Spellchecker?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501)
   * [Unable to capture continuous location.href through AddWebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498)
   * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [CoreWebView2.PrintToPdf(Async) - single page pdf (remove emp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487)
-  * [WebView2 creation fails and crashes in EmbeddedBrowserWebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3508)
-  * [Can't net6  pass C# Object to JS?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3503)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
-  * [CoreWebView2 is null](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490)
   * [How to get the pdf file real html content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480)
   * [WPF+UWP When loading webpage content, the screen will flash ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477)
   * [WebView2AutomationPeer for winform win32?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467)

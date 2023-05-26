@@ -1766,6 +1766,10 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [
         {
           "title": "Fix: utils-dom dependency",
@@ -3566,6 +3570,10 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5337,6 +5345,10 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7108,7 +7120,15 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [
+        {
+          "title": "IE Mode won't work if IEDriverServer is launched as admin",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/87"
+        },
         {
           "title": "Edge Instance started from one user's session moves to another user's session connected to same server",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/86"
@@ -7142,7 +7162,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -8912,14 +8932,26 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [
+        {
+          "title": "WebView2 spontaneously reloads previous page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
+        },
+        {
+          "title": "No scrolling possible at HTML input fields of type \"time\" ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512"
+        },
+        {
+          "title": "Is it possible to hide PointerLock message?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511"
+        },
         {
           "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510"
-        },
-        {
-          "title": "Website hangs in WebView2 but works fine in Edge",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3509"
         },
         {
           "title": "How do you Add Languages to Spellchecker?",
@@ -8938,14 +8970,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
         },
         {
-          "title": "WebView2 creation fails and crashes in EmbeddedBrowserWebView.dll",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3508"
-        },
-        {
-          "title": "Can't net6  pass C# Object to JS?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3503"
-        },
-        {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
         },
@@ -8956,10 +8980,6 @@
         {
           "title": "Webview2 crashes when calling document.write on newly opened window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
-        },
-        {
-          "title": "CoreWebView2 is null",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3490"
         },
         {
           "title": "How to get the pdf file real html content",
@@ -8978,7 +8998,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10748,6 +10768,10 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12519,6 +12543,10 @@
     },
     {
       "date": "2023-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
