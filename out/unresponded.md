@@ -1,6 +1,7 @@
-Response rate: 91.06%
+Response rate: 90.46%
 
-* **webhintio/hint** - _85.42%_
+* **webhintio/hint** - _83.33%_
+  * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
@@ -20,21 +21,22 @@ Response rate: 91.06%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
-  * [No scrolling possible at HTML input fields of type "time" ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512)
-  * [Is it possible to hide PointerLock message?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511)
-  * [EnsureCoreWebView2Async from ContainsFullScreenElementChange...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510)
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Webview in MRTK3?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516)
+  * [Мерцание WebView и отключение GPU](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515)
   * [How do you Add Languages to Spellchecker?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501)
   * [Unable to capture continuous location.href through AddWebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498)
   * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [CoreWebView2.PrintToPdf(Async) - single page pdf (remove emp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487)
+  * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
   * [How to get the pdf file real html content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480)
   * [WPF+UWP When loading webpage content, the screen will flash ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477)
   * [WebView2AutomationPeer for winform win32?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467)
-  * [The `CoreWebView2.Navigate()` method not changes `Source` pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+  * [Initializing 2 managed WebView environments with different C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Changelog](https://github.com/microsoft/vscode-edge-devtools/issues/1541)
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解...](https://github.com/MicrosoftDocs/edge-developer/issues/2606)

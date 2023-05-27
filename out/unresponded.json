@@ -1770,7 +1770,15 @@
     },
     {
       "date": "2023-05-26",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-05-27",
       "unRespondedItems": [
+        {
+          "title": "Is Blade.php supported ?",
+          "url": "https://github.com/webhintio/hint/issues/5569"
+        },
         {
           "title": "Fix: utils-dom dependency",
           "url": "https://github.com/webhintio/hint/pull/5564"
@@ -1800,7 +1808,7 @@
           "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "85.42"
+      "rate": "83.33"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3574,6 +3582,10 @@
     },
     {
       "date": "2023-05-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5349,6 +5361,10 @@
     },
     {
       "date": "2023-05-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7124,6 +7140,10 @@
     },
     {
       "date": "2023-05-26",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-05-27",
       "unRespondedItems": [
         {
           "title": "IE Mode won't work if IEDriverServer is launched as admin",
@@ -8936,22 +8956,18 @@
     },
     {
       "date": "2023-05-26",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-05-27",
       "unRespondedItems": [
         {
-          "title": "WebView2 spontaneously reloads previous page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
+          "title": "Webview in MRTK3?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516"
         },
         {
-          "title": "No scrolling possible at HTML input fields of type \"time\" ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512"
-        },
-        {
-          "title": "Is it possible to hide PointerLock message?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511"
-        },
-        {
-          "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510"
+          "title": "Мерцание WebView и отключение GPU",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         },
         {
           "title": "How do you Add Languages to Spellchecker?",
@@ -8968,6 +8984,10 @@
         {
           "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
+        },
+        {
+          "title": "WebView2 spontaneously reloads previous page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
         },
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
@@ -8994,11 +9014,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
         },
         {
-          "title": "The `CoreWebView2.Navigate()` method not changes `Source` property or raise `SourceChanged` event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3461"
+          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         }
       ],
-      "rate": "70.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10772,8 +10792,17 @@
     },
     {
       "date": "2023-05-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-27",
+      "unRespondedItems": [
+        {
+          "title": "Changelog",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1541"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12547,8 +12576,17 @@
     },
     {
       "date": "2023-05-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-27",
+      "unRespondedItems": [
+        {
+          "title": "無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2606"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
