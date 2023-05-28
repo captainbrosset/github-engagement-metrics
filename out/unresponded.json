@@ -1774,6 +1774,10 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3586,6 +3590,10 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5365,8 +5373,17 @@
     },
     {
       "date": "2023-05-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-05-28",
+      "unRespondedItems": [
+        {
+          "title": "关于Drop的一个想法",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/157"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7144,6 +7161,10 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [
         {
           "title": "IE Mode won't work if IEDriverServer is launched as admin",
@@ -8960,7 +8981,15 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [
+        {
+          "title": "Getting error on Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3518"
+        },
         {
           "title": "Webview in MRTK3?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516"
@@ -8988,6 +9017,10 @@
         {
           "title": "WebView2 spontaneously reloads previous page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
+        },
+        {
+          "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510"
         },
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
@@ -9018,7 +9051,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         }
       ],
-      "rate": "72.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10796,13 +10829,25 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1543"
+        },
+        {
+          "title": "clear",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1542"
+        },
         {
           "title": "Changelog",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1541"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12580,6 +12625,10 @@
     },
     {
       "date": "2023-05-27",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-28",
       "unRespondedItems": [
         {
           "title": "無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解",
