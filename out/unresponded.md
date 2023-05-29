@@ -1,4 +1,4 @@
-Response rate: 89.03%
+Response rate: 87.87%
 
 * **webhintio/hint** - _83.33%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -22,7 +22,8 @@ Response rate: 89.03%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [Stream HTTP responses to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519)
   * [Getting error on Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3518)
   * [Webview in MRTK3?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516)
   * [Мерцание WebView и отключение GPU](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515)
@@ -31,6 +32,7 @@ Response rate: 89.03%
   * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [CoreWebView2.PrintToPdf(Async) - single page pdf (remove emp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487)
   * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
+  * [Is it possible to hide PointerLock message?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511)
   * [EnsureCoreWebView2Async from ContainsFullScreenElementChange...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
@@ -39,9 +41,11 @@ Response rate: 89.03%
   * [WPF+UWP When loading webpage content, the screen will flash ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477)
   * [WebView2AutomationPeer for winform win32?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467)
   * [Initializing 2 managed WebView environments with different C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [request a feature](https://github.com/microsoft/vscode-edge-devtools/issues/1544)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1543)
   * [clear](https://github.com/microsoft/vscode-edge-devtools/issues/1542)
   * [Changelog](https://github.com/microsoft/vscode-edge-devtools/issues/1541)
-* **MicrosoftDocs/edge-developer** - _97.87%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [Tracking ](https://github.com/MicrosoftDocs/edge-developer/issues/2609)
   * [無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解...](https://github.com/MicrosoftDocs/edge-developer/issues/2606)

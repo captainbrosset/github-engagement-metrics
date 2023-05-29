@@ -1778,6 +1778,10 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3594,6 +3598,10 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5377,6 +5385,10 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
         {
           "title": "关于Drop的一个想法",
@@ -7165,6 +7177,10 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
         {
           "title": "IE Mode won't work if IEDriverServer is launched as admin",
@@ -8985,7 +9001,15 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
+        {
+          "title": "Stream HTTP responses to WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
+        },
         {
           "title": "Getting error on Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3518"
@@ -9017,6 +9041,10 @@
         {
           "title": "WebView2 spontaneously reloads previous page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
+        },
+        {
+          "title": "Is it possible to hide PointerLock message?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511"
         },
         {
           "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
@@ -9051,7 +9079,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10833,7 +10861,15 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
+        {
+          "title": "request a feature",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1544"
+        },
         {
           "title": "css",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1543"
@@ -10847,7 +10883,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1541"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12629,13 +12665,21 @@
     },
     {
       "date": "2023-05-28",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-05-29",
       "unRespondedItems": [
+        {
+          "title": "Tracking ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2609"
+        },
         {
           "title": "無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2606"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ]
 }
