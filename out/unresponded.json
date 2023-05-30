@@ -1782,6 +1782,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3602,6 +3606,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5389,6 +5397,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
         {
           "title": "关于Drop的一个想法",
@@ -7181,6 +7193,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
         {
           "title": "IE Mode won't work if IEDriverServer is launched as admin",
@@ -9005,7 +9021,19 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
+        {
+          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
+        },
+        {
+          "title": "Security documentation about Update settings based on the origin of the new page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520"
+        },
         {
           "title": "Stream HTTP responses to WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
@@ -9017,10 +9045,6 @@
         {
           "title": "Webview in MRTK3?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516"
-        },
-        {
-          "title": "Мерцание WebView и отключение GPU",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         },
         {
           "title": "How do you Add Languages to Spellchecker?",
@@ -9037,6 +9061,14 @@
         {
           "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
+        },
+        {
+          "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
+        },
+        {
+          "title": "Мерцание WebView и отключение GPU",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         },
         {
           "title": "WebView2 spontaneously reloads previous page",
@@ -9065,18 +9097,6 @@
         {
           "title": "How to get the pdf file real html content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
-        },
-        {
-          "title": "WPF+UWP When loading webpage content, the screen will flash white",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3477"
-        },
-        {
-          "title": "WebView2AutomationPeer for winform win32?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3467"
-        },
-        {
-          "title": "Initializing 2 managed WebView environments with different CoreWebView2EnvironmentOptions leads to null ref",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3466"
         }
       ],
       "rate": "64.00"
@@ -10865,6 +10885,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
         {
           "title": "request a feature",
@@ -12669,6 +12693,10 @@
     },
     {
       "date": "2023-05-29",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-05-30",
       "unRespondedItems": [
         {
           "title": "Tracking ",
