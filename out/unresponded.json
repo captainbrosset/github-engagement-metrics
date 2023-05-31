@@ -1786,6 +1786,10 @@
     },
     {
       "date": "2023-05-30",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-05-31",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3610,6 +3614,10 @@
     },
     {
       "date": "2023-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5401,13 +5409,12 @@
     },
     {
       "date": "2023-05-30",
-      "unRespondedItems": [
-        {
-          "title": "关于Drop的一个想法",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/157"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-05-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7197,31 +7204,11 @@
     },
     {
       "date": "2023-05-30",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-05-31",
       "unRespondedItems": [
-        {
-          "title": "IE Mode won't work if IEDriverServer is launched as admin",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/87"
-        },
-        {
-          "title": "Edge Instance started from one user's session moves to another user's session connected to same server",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/86"
-        },
-        {
-          "title": "Could not start a new session. Response code 500. Message: unknown error: Microsoft Edge failed to start: crashed. Running script using jenkins.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/85"
-        },
-        {
-          "title": "Unable to use sendkeys() for password in Edge using Selenium Automation",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/84"
-        },
-        {
-          "title": "Could not start new session. Possible causes are invalid address of the remote server or browser start-up failure.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/83"
-        },
-        {
-          "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
-        },
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
@@ -7235,7 +7222,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "82.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9025,10 +9012,14 @@
     },
     {
       "date": "2023-05-30",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-05-31",
       "unRespondedItems": [
         {
-          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
+          "title": "Runtime Installer: User Mode never wants to Update. Admin Mode does.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3524"
         },
         {
           "title": "Security documentation about Update settings based on the origin of the new page",
@@ -9037,10 +9028,6 @@
         {
           "title": "Stream HTTP responses to WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
-        },
-        {
-          "title": "Getting error on Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3518"
         },
         {
           "title": "Webview in MRTK3?",
@@ -9063,6 +9050,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
         },
         {
+          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
+        },
+        {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
         },
@@ -9075,12 +9066,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
         },
         {
-          "title": "Is it possible to hide PointerLock message?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3511"
-        },
-        {
-          "title": "EnsureCoreWebView2Async from ContainsFullScreenElementChanged kills app with 0x80000003",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3510"
+          "title": "No scrolling possible at HTML input fields of type \"time\" ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512"
         },
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
@@ -9099,7 +9086,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10889,25 +10876,12 @@
     },
     {
       "date": "2023-05-30",
-      "unRespondedItems": [
-        {
-          "title": "request a feature",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1544"
-        },
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1543"
-        },
-        {
-          "title": "clear",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1542"
-        },
-        {
-          "title": "Changelog",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1541"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2023-05-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12697,17 +12671,33 @@
     },
     {
       "date": "2023-05-30",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-05-31",
       "unRespondedItems": [
         {
-          "title": "Tracking ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2609"
+          "title": "Jan Buřil +420606339626",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2615"
         },
         {
-          "title": "無法發佈擴充功能。您的開發人員帳戶驗證擱置中或遭到拒絕。在您開始發佈之前，請先在 [帳戶設定頁面完成帳戶驗證。 深入了解",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2606"
+          "title": "[Edge WebDriver Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2613"
+        },
+        {
+          "title": "[Add-ons API] Status Not Updating After Publishing",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2612"
+        },
+        {
+          "title": "关于扩展应用的审核太慢了",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2611"
+        },
+        {
+          "title": "[DevTools Docs Feedback]fody&webview2",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2610"
         }
       ],
-      "rate": "95.74"
+      "rate": "89.13"
     }
   ]
 }
