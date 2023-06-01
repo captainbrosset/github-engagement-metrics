@@ -1790,6 +1790,10 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3618,6 +3622,10 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5413,6 +5421,10 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7208,6 +7220,10 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -9016,7 +9032,19 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [
+        {
+          "title": "Spell check correction from context menu doesn't always work ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3527"
+        },
+        {
+          "title": "Suggested WebView2 SDK version",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3526"
+        },
         {
           "title": "Runtime Installer: User Mode never wants to Update. Admin Mode does.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3524"
@@ -9028,10 +9056,6 @@
         {
           "title": "Stream HTTP responses to WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
-        },
-        {
-          "title": "Webview in MRTK3?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3516"
         },
         {
           "title": "How do you Add Languages to Spellchecker?",
@@ -9048,10 +9072,6 @@
         {
           "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
-        },
-        {
-          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
         },
         {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
@@ -10880,8 +10900,17 @@
     },
     {
       "date": "2023-05-31",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-01",
+      "unRespondedItems": [
+        {
+          "title": "npm",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1548"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12675,29 +12704,17 @@
     },
     {
       "date": "2023-05-31",
+      "rate": "89.13"
+    },
+    {
+      "date": "2023-06-01",
       "unRespondedItems": [
         {
-          "title": "Jan Buřil +420606339626",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2615"
-        },
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2613"
-        },
-        {
-          "title": "[Add-ons API] Status Not Updating After Publishing",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2612"
-        },
-        {
-          "title": "关于扩展应用的审核太慢了",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2611"
-        },
-        {
-          "title": "[DevTools Docs Feedback]fody&webview2",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2610"
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2616"
         }
       ],
-      "rate": "89.13"
+      "rate": "97.83"
     }
   ]
 }
