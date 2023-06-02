@@ -1,4 +1,4 @@
-Response rate: 91.31%
+Response rate: 90.76%
 
 * **webhintio/hint** - _83.33%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -15,9 +15,11 @@ Response rate: 91.31%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [Inconsistent reporting of UI Automation elements](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3530)
+  * [AllowSingleSignOnUsingOSPrimaryAccount in CoreWebView2Enviro...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3529)
+  * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
   * [Spell check correction from context menu doesn't always work...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3527)
-  * [Suggested WebView2 SDK version](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3526)
   * [Runtime Installer: User Mode never wants to Update. Admin Mo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3524)
   * [Security documentation about Update settings based on the or...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520)
   * [Stream HTTP responses to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519)
@@ -33,7 +35,7 @@ Response rate: 91.31%
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
   * [How to get the pdf file real html content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480)
+  * [Blank screen when running FormApp](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3479)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [npm](https://github.com/microsoft/vscode-edge-devtools/issues/1548)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2616)
+  * [i want your "d" in my "v" as deep as it will go ](https://github.com/microsoft/vscode-edge-devtools/issues/1549)
+* **MicrosoftDocs/edge-developer** - _100.00%_

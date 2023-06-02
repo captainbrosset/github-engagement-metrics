@@ -1794,6 +1794,10 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3626,6 +3630,10 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5425,6 +5433,10 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7224,6 +7236,10 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -9036,14 +9052,26 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [
+        {
+          "title": "Inconsistent reporting of UI Automation elements",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3530"
+        },
+        {
+          "title": "AllowSingleSignOnUsingOSPrimaryAccount in CoreWebView2EnvironmentOptions Class",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3529"
+        },
+        {
+          "title": "Browser policies for WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
+        },
         {
           "title": "Spell check correction from context menu doesn't always work ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3527"
-        },
-        {
-          "title": "Suggested WebView2 SDK version",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3526"
         },
         {
           "title": "Runtime Installer: User Mode never wants to Update. Admin Mode does.",
@@ -9104,9 +9132,13 @@
         {
           "title": "How to get the pdf file real html content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
+        },
+        {
+          "title": "Blank screen when running FormApp",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3479"
         }
       ],
-      "rate": "66.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10904,10 +10936,14 @@
     },
     {
       "date": "2023-06-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-06-02",
       "unRespondedItems": [
         {
-          "title": "npm",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1548"
+          "title": "i want your \"d\" in my \"v\" as deep as it will go ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1549"
         }
       ],
       "rate": "98.00"
@@ -12708,13 +12744,12 @@
     },
     {
       "date": "2023-06-01",
-      "unRespondedItems": [
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2616"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-06-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
