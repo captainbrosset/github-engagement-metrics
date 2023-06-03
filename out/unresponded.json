@@ -1798,6 +1798,10 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -1826,13 +1830,9 @@
         {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
-        },
-        {
-          "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
-          "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "83.33"
+      "rate": "85.42"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3634,6 +3634,10 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5437,6 +5441,10 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7240,6 +7248,10 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -9056,18 +9068,26 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [
+        {
+          "title": "Unable to view embedded images in HTMLBody on Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
+        },
+        {
+          "title": "Select list (dropdown) cannot scroll with mouse wheel.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3534"
+        },
+        {
+          "title": "How to modify the title of window launched from WEB side",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3533"
+        },
         {
           "title": "Inconsistent reporting of UI Automation elements",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3530"
-        },
-        {
-          "title": "AllowSingleSignOnUsingOSPrimaryAccount in CoreWebView2EnvironmentOptions Class",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3529"
-        },
-        {
-          "title": "Browser policies for WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         },
         {
           "title": "Spell check correction from context menu doesn't always work ",
@@ -9102,6 +9122,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
         },
         {
+          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
+        },
+        {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
         },
@@ -9114,10 +9138,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
         },
         {
-          "title": "No scrolling possible at HTML input fields of type \"time\" ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3512"
-        },
-        {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
         },
@@ -9128,17 +9148,9 @@
         {
           "title": "Webview2 crashes when calling document.write on newly opened window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
-        },
-        {
-          "title": "How to get the pdf file real html content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3480"
-        },
-        {
-          "title": "Blank screen when running FormApp",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3479"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10940,13 +10952,12 @@
     },
     {
       "date": "2023-06-02",
-      "unRespondedItems": [
-        {
-          "title": "i want your \"d\" in my \"v\" as deep as it will go ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1549"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-06-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12748,6 +12759,10 @@
     },
     {
       "date": "2023-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
