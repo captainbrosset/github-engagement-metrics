@@ -1802,6 +1802,10 @@
     },
     {
       "date": "2023-06-03",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-04",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3638,6 +3642,10 @@
     },
     {
       "date": "2023-06-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5445,8 +5453,17 @@
     },
     {
       "date": "2023-06-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-04",
+      "unRespondedItems": [
+        {
+          "title": "My debugger is throwing an exception",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/158"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7252,6 +7269,10 @@
     },
     {
       "date": "2023-06-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-04",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -9072,7 +9093,15 @@
     },
     {
       "date": "2023-06-03",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-06-04",
       "unRespondedItems": [
+        {
+          "title": "WebView2Loader.dll for vba,VB6 need ADD some Export API",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536"
+        },
         {
           "title": "Unable to view embedded images in HTMLBody on Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
@@ -9150,7 +9179,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -10956,8 +10985,17 @@
     },
     {
       "date": "2023-06-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-04",
+      "unRespondedItems": [
+        {
+          "title": "how we add decives in vs ode",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1551"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12763,8 +12801,17 @@
     },
     {
       "date": "2023-06-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-04",
+      "unRespondedItems": [
+        {
+          "title": "Mention Ask Playwright",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2621"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }

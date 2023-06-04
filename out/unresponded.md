@@ -1,4 +1,4 @@
-Response rate: 91.63%
+Response rate: 90.46%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -9,12 +9,14 @@ Response rate: 91.63%
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [My debugger is throwing an exception](https://github.com/MicrosoftEdge/DevTools/issues/158)
 * **MicrosoftEdge/EdgeWebDriver** - _94.00%_
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [WebView2Loader.dll for vba,VB6 need ADD some Export API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536)
   * [Unable to view embedded images in HTMLBody on Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535)
   * [Select list (dropdown) cannot scroll with mouse wheel.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3534)
   * [How to modify the title of window launched from WEB side](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3533)
@@ -34,5 +36,7 @@ Response rate: 91.63%
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [how we add decives in vs ode](https://github.com/microsoft/vscode-edge-devtools/issues/1551)
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [Mention Ask Playwright](https://github.com/MicrosoftDocs/edge-developer/issues/2621)
