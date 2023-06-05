@@ -27,7 +27,6 @@ Response rate: 90.46%
   * [Stream HTTP responses to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519)
   * [How do you Add Languages to Spellchecker?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501)
   * [Unable to capture continuous location.href through AddWebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498)
-  * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [CoreWebView2.PrintToPdf(Async) - single page pdf (remove emp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487)
   * [COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523)
   * [setting6 put_IsSwipeNavigationEnabled,this not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521)
@@ -35,6 +34,7 @@ Response rate: 90.46%
   * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
+  * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
   * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [how we add decives in vs ode](https://github.com/microsoft/vscode-edge-devtools/issues/1551)

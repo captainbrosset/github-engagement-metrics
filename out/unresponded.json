@@ -1806,6 +1806,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3646,6 +3650,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5457,6 +5465,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "My debugger is throwing an exception",
@@ -7273,6 +7285,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
@@ -9097,6 +9113,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "WebView2Loader.dll for vba,VB6 need ADD some Export API",
@@ -9143,10 +9163,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
         },
         {
-          "title": "WebView2 freezes after playing video and resize the UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492"
-        },
-        {
           "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
         },
@@ -9173,6 +9189,10 @@
         {
           "title": "Touch keyboard not displayed when touch/focus to find dialog ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
+        },
+        {
+          "title": "WebView2 freezes after playing video and resize the UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492"
         },
         {
           "title": "Webview2 crashes when calling document.write on newly opened window",
@@ -10989,6 +11009,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "how we add decives in vs ode",
@@ -12805,6 +12829,10 @@
     },
     {
       "date": "2023-06-04",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-05",
       "unRespondedItems": [
         {
           "title": "Mention Ask Playwright",
