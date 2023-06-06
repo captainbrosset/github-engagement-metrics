@@ -1810,6 +1810,10 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -1838,9 +1842,13 @@
         {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
+        },
+        {
+          "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
+          "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "85.42"
+      "rate": "83.33"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3654,6 +3662,10 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5469,13 +5481,21 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
         {
-          "title": "My debugger is throwing an exception",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/158"
+          "title": "What happened to the colour contrast information in the Issues panel? ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/160"
+        },
+        {
+          "title": "my devtool missing top region",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/159"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7289,7 +7309,15 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
+        {
+          "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88"
+        },
         {
           "title": "EdgeDriverService is not launching the browser in the second iteration",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
@@ -7303,7 +7331,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9117,7 +9145,23 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
+        {
+          "title": "Add ICoreWebView2PrintSettings argument to ShowPrintUI method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3543"
+        },
+        {
+          "title": "WebView2 Focus for offscreen rendered content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
+        },
+        {
+          "title": "CoreWebView2.WebResourceResponseReceived for frames",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
+        },
         {
           "title": "WebView2Loader.dll for vba,VB6 need ADD some Export API",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536"
@@ -9125,18 +9169,6 @@
         {
           "title": "Unable to view embedded images in HTMLBody on Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
-        },
-        {
-          "title": "Select list (dropdown) cannot scroll with mouse wheel.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3534"
-        },
-        {
-          "title": "How to modify the title of window launched from WEB side",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3533"
-        },
-        {
-          "title": "Inconsistent reporting of UI Automation elements",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3530"
         },
         {
           "title": "Spell check correction from context menu doesn't always work ",
@@ -9163,12 +9195,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
         },
         {
-          "title": "CoreWebView2.PrintToPdf(Async) - single page pdf (remove empty pages)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3487"
-        },
-        {
-          "title": "COMException 0x8007139F in Microsoft.UI.Xaml.Controls.WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3523"
+          "title": "Browser policies for WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         },
         {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
@@ -9199,7 +9227,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11013,13 +11041,25 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
         {
-          "title": "how we add decives in vs ode",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1551"
+          "title": "在线客服",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1555"
+        },
+        {
+          "title": "auto update the browser when saving a file",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1554"
+        },
+        {
+          "title": "debbugging",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1553"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12833,13 +12873,21 @@
     },
     {
       "date": "2023-06-05",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-06",
       "unRespondedItems": [
         {
-          "title": "Mention Ask Playwright",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2621"
+          "title": "documentation for clipboardRead and clipboardWrite is inaccurate",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2626"
+        },
+        {
+          "title": "I Cant see the Microsoft.Web.WebView2 after searched",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2622"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.35"
     }
   ]
 }
