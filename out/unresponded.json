@@ -1814,6 +1814,10 @@
     },
     {
       "date": "2023-06-06",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-07",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3666,6 +3670,10 @@
     },
     {
       "date": "2023-06-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5485,17 +5493,12 @@
     },
     {
       "date": "2023-06-06",
-      "unRespondedItems": [
-        {
-          "title": "What happened to the colour contrast information in the Issues panel? ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/160"
-        },
-        {
-          "title": "my devtool missing top region",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/159"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-06-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7313,6 +7316,10 @@
     },
     {
       "date": "2023-06-06",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-06-07",
       "unRespondedItems": [
         {
           "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
@@ -9149,11 +9156,11 @@
     },
     {
       "date": "2023-06-06",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-06-07",
       "unRespondedItems": [
-        {
-          "title": "Add ICoreWebView2PrintSettings argument to ShowPrintUI method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3543"
-        },
         {
           "title": "WebView2 Focus for offscreen rendered content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
@@ -9193,6 +9200,10 @@
         {
           "title": "Unable to capture continuous location.href through AddWebResourceRequestedFilter",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
+        },
+        {
+          "title": "WinUI3 C# AddHostObjectToScript  throw exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542"
         },
         {
           "title": "Browser policies for WebView2",
@@ -11045,21 +11056,12 @@
     },
     {
       "date": "2023-06-06",
-      "unRespondedItems": [
-        {
-          "title": "在线客服",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1555"
-        },
-        {
-          "title": "auto update the browser when saving a file",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1554"
-        },
-        {
-          "title": "debbugging",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1553"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-06-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12877,17 +12879,21 @@
     },
     {
       "date": "2023-06-06",
+      "rate": "95.35"
+    },
+    {
+      "date": "2023-06-07",
       "unRespondedItems": [
         {
           "title": "documentation for clipboardRead and clipboardWrite is inaccurate",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2626"
         },
         {
-          "title": "I Cant see the Microsoft.Web.WebView2 after searched",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2622"
+          "title": "New pointer topic \"Use Playwright to automate and test in WebView2\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2623"
         }
       ],
-      "rate": "95.35"
+      "rate": "95.45"
     }
   ]
 }
