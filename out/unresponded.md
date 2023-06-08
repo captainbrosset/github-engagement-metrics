@@ -1,4 +1,4 @@
-Response rate: 90.40%
+Response rate: 90.76%
 
 * **webhintio/hint** - _83.33%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -11,12 +11,15 @@ Response rate: 90.40%
   * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+  * [edge-driver Homebrew cask](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [Improve UWP file downloads integration #2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547)
+  * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
   * [WebView2Loader.dll for vba,VB6 need ADD some Export API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536)
@@ -34,9 +37,5 @@ Response rate: 90.40%
   * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
   * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
-  * [WebView2 freezes after playing video and resize the UWP app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492)
-  * [Webview2 crashes when calling document.write on newly opened...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.45%_
-  * [documentation for clipboardRead and clipboardWrite is inaccu...](https://github.com/MicrosoftDocs/edge-developer/issues/2626)
-  * [New pointer topic "Use Playwright to automate and test in We...](https://github.com/MicrosoftDocs/edge-developer/pull/2623)
+* **MicrosoftDocs/edge-developer** - _100.00%_

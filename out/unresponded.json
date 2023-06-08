@@ -1818,6 +1818,10 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3674,6 +3678,10 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5497,6 +5505,10 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7320,7 +7332,15 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [
+        {
+          "title": "edge-driver Homebrew cask",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89"
+        },
         {
           "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88"
@@ -7338,7 +7358,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9160,7 +9180,19 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [
+        {
+          "title": "Improve UWP file downloads integration #2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547"
+        },
+        {
+          "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
+        },
         {
           "title": "WebView2 Focus for offscreen rendered content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
@@ -9228,14 +9260,6 @@
         {
           "title": "Touch keyboard not displayed when touch/focus to find dialog ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
-        },
-        {
-          "title": "WebView2 freezes after playing video and resize the UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3492"
-        },
-        {
-          "title": "Webview2 crashes when calling document.write on newly opened window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3491"
         }
       ],
       "rate": "62.00"
@@ -11060,6 +11084,10 @@
     },
     {
       "date": "2023-06-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12883,17 +12911,12 @@
     },
     {
       "date": "2023-06-07",
-      "unRespondedItems": [
-        {
-          "title": "documentation for clipboardRead and clipboardWrite is inaccurate",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2626"
-        },
-        {
-          "title": "New pointer topic \"Use Playwright to automate and test in WebView2\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2623"
-        }
-      ],
       "rate": "95.45"
+    },
+    {
+      "date": "2023-06-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
