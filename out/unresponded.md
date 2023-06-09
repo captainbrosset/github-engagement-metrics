@@ -1,6 +1,6 @@
-Response rate: 90.76%
+Response rate: 90.17%
 
-* **webhintio/hint** - _83.33%_
+* **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,16 +8,18 @@ Response rate: 90.76%
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
-  * [[Docs Bug] Test development environment documentation so a f...](https://github.com/webhintio/hint/issues/5404)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Can't see .har webrequests info when importing .har files in...](https://github.com/MicrosoftEdge/DevTools/issues/161)
 * **MicrosoftEdge/EdgeWebDriver** - _90.00%_
   * [edge-driver Homebrew cask](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [System.MissingMethodException (Microsoft.Web.WebView2.Wpf.dl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3549)
+  * [Context Menu always available within Print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3548)
   * [Improve UWP file downloads integration #2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
@@ -36,6 +38,6 @@ Response rate: 90.76%
   * [Мерцание WebView и отключение GPU](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515)
   * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
   * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
-  * [Touch keyboard not displayed when touch/focus to find dialog...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [Your message to ietoedge@microsoft.com couldn't be delivered...](https://github.com/MicrosoftDocs/edge-developer/issues/2632)

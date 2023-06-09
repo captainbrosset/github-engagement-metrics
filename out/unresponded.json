@@ -1822,6 +1822,10 @@
     },
     {
       "date": "2023-06-08",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-09",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -1850,13 +1854,9 @@
         {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
           "url": "https://github.com/webhintio/hint/pull/5471"
-        },
-        {
-          "title": "[Docs Bug] Test development environment documentation so a first time contributor can get started quickly",
-          "url": "https://github.com/webhintio/hint/issues/5404"
         }
       ],
-      "rate": "83.33"
+      "rate": "85.42"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3682,6 +3682,10 @@
     },
     {
       "date": "2023-06-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5509,8 +5513,17 @@
     },
     {
       "date": "2023-06-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-09",
+      "unRespondedItems": [
+        {
+          "title": "Can't see .har webrequests info when importing .har files in Edge 114",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/161"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7336,6 +7349,10 @@
     },
     {
       "date": "2023-06-08",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-06-09",
       "unRespondedItems": [
         {
           "title": "edge-driver Homebrew cask",
@@ -9184,7 +9201,19 @@
     },
     {
       "date": "2023-06-08",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-06-09",
       "unRespondedItems": [
+        {
+          "title": "System.MissingMethodException (Microsoft.Web.WebView2.Wpf.dll)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3549"
+        },
+        {
+          "title": "Context Menu always available within Print dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3548"
+        },
         {
           "title": "Improve UWP file downloads integration #2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547"
@@ -9256,13 +9285,9 @@
         {
           "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
-        },
-        {
-          "title": "Touch keyboard not displayed when touch/focus to find dialog ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3493"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11088,6 +11113,10 @@
     },
     {
       "date": "2023-06-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12915,8 +12944,17 @@
     },
     {
       "date": "2023-06-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-09",
+      "unRespondedItems": [
+        {
+          "title": "Your message to ietoedge@microsoft.com couldn't be delivered.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2632"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
