@@ -1826,7 +1826,15 @@
     },
     {
       "date": "2023-06-09",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-10",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Error [ERR_REQUIRE_ESM] since last update",
+          "url": "https://github.com/webhintio/hint/issues/5614"
+        },
         {
           "title": "Is Blade.php supported ?",
           "url": "https://github.com/webhintio/hint/issues/5569"
@@ -1856,7 +1864,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "85.42"
+      "rate": "83.33"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3686,6 +3694,10 @@
     },
     {
       "date": "2023-06-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5517,13 +5529,12 @@
     },
     {
       "date": "2023-06-09",
-      "unRespondedItems": [
-        {
-          "title": "Can't see .har webrequests info when importing .har files in Edge 114",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/161"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-06-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7353,7 +7364,15 @@
     },
     {
       "date": "2023-06-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-06-10",
       "unRespondedItems": [
+        {
+          "title": "edgeoptions class does not have addExtensions method ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/90"
+        },
         {
           "title": "edge-driver Homebrew cask",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89"
@@ -7375,7 +7394,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9205,14 +9224,22 @@
     },
     {
       "date": "2023-06-09",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-06-10",
       "unRespondedItems": [
         {
-          "title": "System.MissingMethodException (Microsoft.Web.WebView2.Wpf.dll)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3549"
+          "title": "CreateTextureStream returns an HRESULT of ERROR_NOT_SUPPORTED (0x80070032)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3554"
         },
         {
-          "title": "Context Menu always available within Print dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3548"
+          "title": "HTML Input type \"datetime\" 6 digits as year possible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3553"
+        },
+        {
+          "title": "Clarification for CoreWebView2Environment.GetAvailableBrowserVersionString(String) Method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3552"
         },
         {
           "title": "Improve UWP file downloads integration #2",
@@ -9259,10 +9286,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501"
         },
         {
-          "title": "Unable to capture continuous location.href through AddWebResourceRequestedFilter",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498"
-        },
-        {
           "title": "WinUI3 C# AddHostObjectToScript  throw exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542"
         },
@@ -9277,17 +9300,9 @@
         {
           "title": "Мерцание WebView и отключение GPU",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
-        },
-        {
-          "title": "WebView2 spontaneously reloads previous page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513"
-        },
-        {
-          "title": "How to directly save a PDF instead of seeing a preview - alternative: saving a PDF directly without save-as-dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499"
         }
       ],
-      "rate": "60.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11117,8 +11132,17 @@
     },
     {
       "date": "2023-06-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-10",
+      "unRespondedItems": [
+        {
+          "title": "File '@tsconfig/docusaurus/tsconfig.json' ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1558"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12948,10 +12972,14 @@
     },
     {
       "date": "2023-06-09",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-10",
       "unRespondedItems": [
         {
-          "title": "Your message to ietoedge@microsoft.com couldn't be delivered.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2632"
+          "title": "Missing information for \"Emulates Microsoft-recommended hardware and network performance presets.\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2634"
         }
       ],
       "rate": "97.78"

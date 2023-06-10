@@ -1,6 +1,7 @@
-Response rate: 90.17%
+Response rate: 90.15%
 
-* **webhintio/hint** - _85.42%_
+* **webhintio/hint** - _83.33%_
+  * [[Bug] Error [ERR_REQUIRE_ESM] since last update](https://github.com/webhintio/hint/issues/5614)
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -9,17 +10,18 @@ Response rate: 90.17%
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Can't see .har webrequests info when importing .har files in...](https://github.com/MicrosoftEdge/DevTools/issues/161)
-* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+  * [edgeoptions class does not have addExtensions method ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/90)
   * [edge-driver Homebrew cask](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [System.MissingMethodException (Microsoft.Web.WebView2.Wpf.dl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3549)
-  * [Context Menu always available within Print dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3548)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [CreateTextureStream returns an HRESULT of ERROR_NOT_SUPPORTE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3554)
+  * [HTML Input type "datetime" 6 digits as year possible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3553)
+  * [Clarification for CoreWebView2Environment.GetAvailableBrowse...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3552)
   * [Improve UWP file downloads integration #2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
@@ -31,13 +33,11 @@ Response rate: 90.17%
   * [Security documentation about Update settings based on the or...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520)
   * [Stream HTTP responses to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519)
   * [How do you Add Languages to Spellchecker?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501)
-  * [Unable to capture continuous location.href through AddWebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3498)
   * [WinUI3 C# AddHostObjectToScript  throw exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542)
   * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
   * [setting6 put_IsSwipeNavigationEnabled,this not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521)
   * [Мерцание WebView и отключение GPU](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515)
-  * [WebView2 spontaneously reloads previous page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3513)
-  * [How to directly save a PDF instead of seeing a preview - alt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3499)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [File '@tsconfig/docusaurus/tsconfig.json' ](https://github.com/microsoft/vscode-edge-devtools/issues/1558)
 * **MicrosoftDocs/edge-developer** - _97.78%_
-  * [Your message to ietoedge@microsoft.com couldn't be delivered...](https://github.com/MicrosoftDocs/edge-developer/issues/2632)
+  * [Missing information for "Emulates Microsoft-recommended hard...](https://github.com/MicrosoftDocs/edge-developer/issues/2634)
