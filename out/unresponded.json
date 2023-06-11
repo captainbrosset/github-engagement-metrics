@@ -1830,11 +1830,11 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "83.33"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Error [ERR_REQUIRE_ESM] since last update",
-          "url": "https://github.com/webhintio/hint/issues/5614"
-        },
         {
           "title": "Is Blade.php supported ?",
           "url": "https://github.com/webhintio/hint/issues/5569"
@@ -1864,7 +1864,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "83.33"
+      "rate": "85.42"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3698,6 +3698,10 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5533,6 +5537,10 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7368,6 +7376,10 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9228,7 +9240,15 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [
+        {
+          "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
+        },
         {
           "title": "CreateTextureStream returns an HRESULT of ERROR_NOT_SUPPORTED (0x80070032)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3554"
@@ -9302,7 +9322,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11136,13 +11156,25 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [
+        {
+          "title": "Internet explorer",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1562"
+        },
+        {
+          "title": "GitHub is learning in html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1561"
+        },
         {
           "title": "File '@tsconfig/docusaurus/tsconfig.json' ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1558"
         }
       ],
-      "rate": "97.96"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -12976,6 +13008,10 @@
     },
     {
       "date": "2023-06-10",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-11",
       "unRespondedItems": [
         {
           "title": "Missing information for \"Emulates Microsoft-recommended hardware and network performance presets.\"",
