@@ -1834,6 +1834,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3702,6 +3706,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5541,6 +5549,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7380,6 +7392,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9244,7 +9260,23 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Changelog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3558"
+        },
+        {
+          "title": "Proposal: Adding ability to get the HTML Source code without Executing a script on the page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557"
+        },
+        {
+          "title": "Any way to specify msedgewebview2.exe location statically",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3556"
+        },
         {
           "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
@@ -9302,10 +9334,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
         },
         {
-          "title": "How do you Add Languages to Spellchecker?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501"
-        },
-        {
           "title": "WinUI3 C# AddHostObjectToScript  throw exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542"
         },
@@ -9322,7 +9350,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11160,6 +11188,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [
         {
           "title": "Internet explorer",
@@ -11168,13 +11200,9 @@
         {
           "title": "GitHub is learning in html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1561"
-        },
-        {
-          "title": "File '@tsconfig/docusaurus/tsconfig.json' ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1558"
         }
       ],
-      "rate": "93.88"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13012,6 +13040,10 @@
     },
     {
       "date": "2023-06-11",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-12",
       "unRespondedItems": [
         {
           "title": "Missing information for \"Emulates Microsoft-recommended hardware and network performance presets.\"",

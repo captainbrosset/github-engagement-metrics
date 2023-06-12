@@ -1,4 +1,4 @@
-Response rate: 89.58%
+Response rate: 89.30%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -17,7 +17,10 @@ Response rate: 89.58%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [WebView2 Changelog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3558)
+  * [Proposal: Adding ability to get the HTML Source code without...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557)
+  * [Any way to specify msedgewebview2.exe location statically](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3556)
   * [Base64 string returned from ExecuteScriptAsync decode error ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555)
   * [CreateTextureStream returns an HRESULT of ERROR_NOT_SUPPORTE...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3554)
   * [HTML Input type "datetime" 6 digits as year possible](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3553)
@@ -32,14 +35,12 @@ Response rate: 89.58%
   * [Runtime Installer: User Mode never wants to Update. Admin Mo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3524)
   * [Security documentation about Update settings based on the or...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520)
   * [Stream HTTP responses to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519)
-  * [How do you Add Languages to Spellchecker?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3501)
   * [WinUI3 C# AddHostObjectToScript  throw exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542)
   * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
   * [setting6 put_IsSwipeNavigationEnabled,this not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521)
   * [Мерцание WebView и отключение GPU](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515)
-* **microsoft/vscode-edge-devtools** - _93.88%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
   * [Internet explorer](https://github.com/microsoft/vscode-edge-devtools/issues/1562)
   * [GitHub is learning in html](https://github.com/microsoft/vscode-edge-devtools/issues/1561)
-  * [File '@tsconfig/docusaurus/tsconfig.json' ](https://github.com/microsoft/vscode-edge-devtools/issues/1558)
 * **MicrosoftDocs/edge-developer** - _97.78%_
   * [Missing information for "Emulates Microsoft-recommended hard...](https://github.com/MicrosoftDocs/edge-developer/issues/2634)
