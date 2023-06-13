@@ -1838,6 +1838,10 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3710,6 +3714,10 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5553,6 +5561,10 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7396,6 +7408,10 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9264,42 +9280,14 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [
-        {
-          "title": "WebView2 Changelog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3558"
-        },
-        {
-          "title": "Proposal: Adding ability to get the HTML Source code without Executing a script on the page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557"
-        },
-        {
-          "title": "Any way to specify msedgewebview2.exe location statically",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3556"
-        },
         {
           "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
-        },
-        {
-          "title": "CreateTextureStream returns an HRESULT of ERROR_NOT_SUPPORTED (0x80070032)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3554"
-        },
-        {
-          "title": "HTML Input type \"datetime\" 6 digits as year possible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3553"
-        },
-        {
-          "title": "Clarification for CoreWebView2Environment.GetAvailableBrowserVersionString(String) Method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3552"
-        },
-        {
-          "title": "Improve UWP file downloads integration #2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3547"
-        },
-        {
-          "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         },
         {
           "title": "WebView2 Focus for offscreen rendered content",
@@ -9322,16 +9310,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3527"
         },
         {
-          "title": "Runtime Installer: User Mode never wants to Update. Admin Mode does.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3524"
-        },
-        {
-          "title": "Security documentation about Update settings based on the origin of the new page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520"
-        },
-        {
           "title": "Stream HTTP responses to WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
+        },
+        {
+          "title": "Contents returned by document.body.innerText for raw JSON have changed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560"
+        },
+        {
+          "title": "Proposal: Adding ability to get the HTML Source code without Executing a script on the page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557"
+        },
+        {
+          "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         },
         {
           "title": "WinUI3 C# AddHostObjectToScript  throw exception",
@@ -9346,11 +9338,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
         },
         {
+          "title": "Security documentation about Update settings based on the origin of the new page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520"
+        },
+        {
           "title": "Мерцание WebView и отключение GPU",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         }
       ],
-      "rate": "58.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11192,17 +11188,12 @@
     },
     {
       "date": "2023-06-12",
-      "unRespondedItems": [
-        {
-          "title": "Internet explorer",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1562"
-        },
-        {
-          "title": "GitHub is learning in html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1561"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-06-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13044,10 +13035,14 @@
     },
     {
       "date": "2023-06-12",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-06-13",
       "unRespondedItems": [
         {
-          "title": "Missing information for \"Emulates Microsoft-recommended hardware and network performance presets.\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2634"
+          "title": "Dev Tools have lost their Windows Title Bar Edge Dev Version 115.0.1880.3 (Official build) dev (64-bit)",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2635"
         }
       ],
       "rate": "97.78"
