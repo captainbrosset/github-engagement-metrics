@@ -1842,6 +1842,10 @@
     },
     {
       "date": "2023-06-13",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-14",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3718,6 +3722,10 @@
     },
     {
       "date": "2023-06-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5565,6 +5573,10 @@
     },
     {
       "date": "2023-06-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7412,6 +7424,10 @@
     },
     {
       "date": "2023-06-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-14",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9284,7 +9300,15 @@
     },
     {
       "date": "2023-06-13",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-14",
       "unRespondedItems": [
+        {
+          "title": "Print IFrame to PDF",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3563"
+        },
         {
           "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
@@ -9292,10 +9316,6 @@
         {
           "title": "WebView2 Focus for offscreen rendered content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
-        },
-        {
-          "title": "CoreWebView2.WebResourceResponseReceived for frames",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         },
         {
           "title": "WebView2Loader.dll for vba,VB6 need ADD some Export API",
@@ -9306,12 +9326,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
         },
         {
-          "title": "Spell check correction from context menu doesn't always work ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3527"
-        },
-        {
           "title": "Stream HTTP responses to WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
+        },
+        {
+          "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
         },
         {
           "title": "Contents returned by document.body.innerText for raw JSON have changed",
@@ -9330,16 +9350,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542"
         },
         {
+          "title": "CoreWebView2.WebResourceResponseReceived for frames",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
+        },
+        {
           "title": "Browser policies for WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         },
         {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
-        },
-        {
-          "title": "Security documentation about Update settings based on the origin of the new page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3520"
         },
         {
           "title": "Мерцание WebView и отключение GPU",
@@ -11192,8 +11212,21 @@
     },
     {
       "date": "2023-06-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-14",
+      "unRespondedItems": [
+        {
+          "title": "class Human {   constructor(name) {     this.name = name;     this.sureName = 'Smith';     this.speed = 0;     this.state = undefined;   }    run(speed) {     this.speed = speed;     alert(`Name: ${this.name}, Speed: ${this.speed}`);   }    stop() {     this.speed = 0;     alert(`${this.name} is stopped.`);   }    changeState(state) {     this.state = state;   } }  // Creating an instance of the Human class const john = new Human('John');",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1565"
+        },
+        {
+          "title": "fl studio 21",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1564"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13039,13 +13072,12 @@
     },
     {
       "date": "2023-06-13",
-      "unRespondedItems": [
-        {
-          "title": "Dev Tools have lost their Windows Title Bar Edge Dev Version 115.0.1880.3 (Official build) dev (64-bit)",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2635"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2023-06-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
