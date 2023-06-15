@@ -1846,6 +1846,10 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3726,6 +3730,10 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5577,6 +5585,10 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7428,6 +7440,10 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9304,7 +9320,35 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [
+        {
+          "title": "Win32 | MFC | Dialog and Inspect Tool",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3572"
+        },
+        {
+          "title": "Problem with decoding VP9 stream with HW accelerator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
+        },
+        {
+          "title": "Hololens 2 virtual keyboard sometimes does not pass value to textinput in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3570"
+        },
+        {
+          "title": "Crash after downloading any APK file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569"
+        },
+        {
+          "title": "Service worker cache location",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3567"
+        },
+        {
+          "title": "Support to provide folder restrictions in webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3566"
+        },
         {
           "title": "Print IFrame to PDF",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3563"
@@ -9326,10 +9370,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
         },
         {
-          "title": "Stream HTTP responses to WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3519"
-        },
-        {
           "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
         },
@@ -9346,10 +9386,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         },
         {
-          "title": "WinUI3 C# AddHostObjectToScript  throw exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3542"
-        },
-        {
           "title": "CoreWebView2.WebResourceResponseReceived for frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         },
@@ -9360,13 +9396,9 @@
         {
           "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
-        },
-        {
-          "title": "Мерцание WebView и отключение GPU",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3515"
         }
       ],
-      "rate": "70.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11216,17 +11248,12 @@
     },
     {
       "date": "2023-06-14",
-      "unRespondedItems": [
-        {
-          "title": "class Human {   constructor(name) {     this.name = name;     this.sureName = 'Smith';     this.speed = 0;     this.state = undefined;   }    run(speed) {     this.speed = speed;     alert(`Name: ${this.name}, Speed: ${this.speed}`);   }    stop() {     this.speed = 0;     alert(`${this.name} is stopped.`);   }    changeState(state) {     this.state = state;   } }  // Creating an instance of the Human class const john = new Human('John');",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1565"
-        },
-        {
-          "title": "fl studio 21",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1564"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-06-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13076,6 +13103,10 @@
     },
     {
       "date": "2023-06-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
