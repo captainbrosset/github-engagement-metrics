@@ -1850,6 +1850,10 @@
     },
     {
       "date": "2023-06-15",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-16",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3734,6 +3738,10 @@
     },
     {
       "date": "2023-06-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5589,6 +5597,10 @@
     },
     {
       "date": "2023-06-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7444,6 +7456,10 @@
     },
     {
       "date": "2023-06-15",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-16",
       "unRespondedItems": [
         {
           "title": "edgeoptions class does not have addExtensions method ",
@@ -9324,38 +9340,18 @@
     },
     {
       "date": "2023-06-15",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-06-16",
       "unRespondedItems": [
         {
-          "title": "Win32 | MFC | Dialog and Inspect Tool",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3572"
-        },
-        {
-          "title": "Problem with decoding VP9 stream with HW accelerator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
-        },
-        {
-          "title": "Hololens 2 virtual keyboard sometimes does not pass value to textinput in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3570"
+          "title": "Problem with scrolling (Threaded scrolling)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3576"
         },
         {
           "title": "Crash after downloading any APK file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569"
-        },
-        {
-          "title": "Service worker cache location",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3567"
-        },
-        {
-          "title": "Support to provide folder restrictions in webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3566"
-        },
-        {
-          "title": "Print IFrame to PDF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3563"
-        },
-        {
-          "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
         },
         {
           "title": "WebView2 Focus for offscreen rendered content",
@@ -9368,6 +9364,22 @@
         {
           "title": "Unable to view embedded images in HTMLBody on Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
+        },
+        {
+          "title": "Edge webview initialization failing during shutting down of system",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574"
+        },
+        {
+          "title": "Win32 | MFC | Dialog and Inspect Tool",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3572"
+        },
+        {
+          "title": "Problem with decoding VP9 stream with HW accelerator",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
+        },
+        {
+          "title": "Service worker cache location",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3567"
         },
         {
           "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
@@ -9392,13 +9404,9 @@
         {
           "title": "Browser policies for WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
-        },
-        {
-          "title": "setting6 put_IsSwipeNavigationEnabled,this not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3521"
         }
       ],
-      "rate": "64.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11252,8 +11260,17 @@
     },
     {
       "date": "2023-06-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-16",
+      "unRespondedItems": [
+        {
+          "title": "powershell en visual studio code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1567"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13107,8 +13124,29 @@
     },
     {
       "date": "2023-06-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-16",
+      "unRespondedItems": [
+        {
+          "title": "can you add PWA application Link Handling for bing chat website?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2647"
+        },
+        {
+          "title": "The email address on this website doesn't work",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2646"
+        },
+        {
+          "title": "[Add-ons API]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2645"
+        },
+        {
+          "title": "It is very practical and provides good features to the developer",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2643"
+        }
+      ],
+      "rate": "91.49"
     }
   ]
 }
