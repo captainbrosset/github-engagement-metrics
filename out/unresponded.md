@@ -1,4 +1,4 @@
-Response rate: 90.41%
+Response rate: 89.88%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -9,16 +9,19 @@ Response rate: 90.41%
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [Support for AVIF image format in Microsoft Edge](https://github.com/MicrosoftEdge/DevTools/issues/164)
+  * [Extensions which add Devtools panels/etc no longer do so as ...](https://github.com/MicrosoftEdge/DevTools/issues/163)
+* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
+  * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [edgeoptions class does not have addExtensions method ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/90)
   * [edge-driver Homebrew cask](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [Problem with scrolling (Threaded scrolling)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3576)
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [Is there a way to monitor js errors in a webview2 control ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577)
   * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
   * [WebView2Loader.dll for vba,VB6 need ADD some Export API](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536)
@@ -30,13 +33,12 @@ Response rate: 90.41%
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
   * [Contents returned by document.body.innerText for raw JSON ha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560)
   * [Proposal: Adding ability to get the HTML Source code without...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557)
+  * [Base64 string returned from ExecuteScriptAsync decode error ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
   * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
-* **microsoft/vscode-edge-devtools** - _97.96%_
-  * [powershell en visual studio code](https://github.com/microsoft/vscode-edge-devtools/issues/1567)
-* **MicrosoftDocs/edge-developer** - _91.49%_
-  * [can you add PWA application Link Handling for bing chat webs...](https://github.com/MicrosoftDocs/edge-developer/issues/2647)
-  * [The email address on this website doesn't work](https://github.com/MicrosoftDocs/edge-developer/issues/2646)
-  * [[Add-ons API]](https://github.com/MicrosoftDocs/edge-developer/issues/2645)
-  * [It is very practical and provides good features to the devel...](https://github.com/MicrosoftDocs/edge-developer/issues/2643)
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1569)
+  * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1568)
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [_manifest.json should not have the underscore](https://github.com/MicrosoftDocs/edge-developer/issues/2651)

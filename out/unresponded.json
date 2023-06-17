@@ -1854,6 +1854,10 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3742,6 +3746,10 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5601,8 +5609,21 @@
     },
     {
       "date": "2023-06-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-17",
+      "unRespondedItems": [
+        {
+          "title": "Support for AVIF image format in Microsoft Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/164"
+        },
+        {
+          "title": "Extensions which add Devtools panels/etc no longer do so as of Edge Dev 116.0.1908.0",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/163"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7460,7 +7481,15 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [
+        {
+          "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
+        },
         {
           "title": "edgeoptions class does not have addExtensions method ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/90"
@@ -7486,7 +7515,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9344,10 +9373,14 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [
         {
-          "title": "Problem with scrolling (Threaded scrolling)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3576"
+          "title": "Is there a way to monitor js errors in a webview2 control ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577"
         },
         {
           "title": "Crash after downloading any APK file",
@@ -9394,6 +9427,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557"
         },
         {
+          "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
+        },
+        {
           "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         },
@@ -9406,7 +9443,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11264,13 +11301,21 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [
         {
-          "title": "powershell en visual studio code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1567"
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1569"
+        },
+        {
+          "title": "live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1568"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13128,25 +13173,17 @@
     },
     {
       "date": "2023-06-16",
+      "rate": "91.49"
+    },
+    {
+      "date": "2023-06-17",
       "unRespondedItems": [
         {
-          "title": "can you add PWA application Link Handling for bing chat website?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2647"
-        },
-        {
-          "title": "The email address on this website doesn't work",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2646"
-        },
-        {
-          "title": "[Add-ons API]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2645"
-        },
-        {
-          "title": "It is very practical and provides good features to the developer",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2643"
+          "title": "_manifest.json should not have the underscore",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2651"
         }
       ],
-      "rate": "91.49"
+      "rate": "97.83"
     }
   ]
 }
