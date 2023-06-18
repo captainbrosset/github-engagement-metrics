@@ -1,12 +1,12 @@
-Response rate: 89.88%
+Response rate: 89.30%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
-  * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
   * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
+  * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _96.00%_
@@ -20,7 +20,8 @@ Response rate: 89.88%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
   * [Is there a way to monitor js errors in a webview2 control ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577)
   * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
@@ -37,7 +38,8 @@ Response rate: 89.88%
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
   * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
-* **microsoft/vscode-edge-devtools** - _95.92%_
+* **microsoft/vscode-edge-devtools** - _93.88%_
+  * [live sever](https://github.com/microsoft/vscode-edge-devtools/issues/1570)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1569)
   * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1568)
 * **MicrosoftDocs/edge-developer** - _97.83%_

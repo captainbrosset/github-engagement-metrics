@@ -1858,14 +1858,14 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
           "url": "https://github.com/webhintio/hint/issues/5569"
-        },
-        {
-          "title": "Fix: utils-dom dependency",
-          "url": "https://github.com/webhintio/hint/pull/5564"
         },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -1882,6 +1882,10 @@
         {
           "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
           "url": "https://github.com/webhintio/hint/issues/5417"
+        },
+        {
+          "title": "Fix: utils-dom dependency",
+          "url": "https://github.com/webhintio/hint/pull/5564"
         },
         {
           "title": "Fix: Update 'latest-version' from 5.1.0 to 7.0.0",
@@ -3750,6 +3754,10 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5613,6 +5621,10 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
         {
           "title": "Support for AVIF image format in Microsoft Edge",
@@ -7485,6 +7497,10 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9377,7 +9393,15 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
+        },
         {
           "title": "Is there a way to monitor js errors in a webview2 control ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577"
@@ -9443,7 +9467,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11305,7 +11329,15 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
+        {
+          "title": "live sever",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1570"
+        },
         {
           "title": "html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1569"
@@ -11315,7 +11347,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1568"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13177,6 +13209,10 @@
     },
     {
       "date": "2023-06-17",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-06-18",
       "unRespondedItems": [
         {
           "title": "_manifest.json should not have the underscore",
