@@ -1,4 +1,4 @@
-Response rate: 89.30%
+Response rate: 88.43%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -38,7 +38,10 @@ Response rate: 89.30%
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
   * [Browser policies for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528)
-* **microsoft/vscode-edge-devtools** - _93.88%_
+* **microsoft/vscode-edge-devtools** - _87.76%_
+  * [while vs code is open the interface start crashing and runs ...](https://github.com/microsoft/vscode-edge-devtools/issues/1574)
+  * [keyboard](https://github.com/microsoft/vscode-edge-devtools/issues/1573)
+  * [waani.com](https://github.com/microsoft/vscode-edge-devtools/issues/1572)
   * [live sever](https://github.com/microsoft/vscode-edge-devtools/issues/1570)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1569)
   * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1568)

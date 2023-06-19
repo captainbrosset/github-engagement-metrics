@@ -1862,6 +1862,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3758,6 +3762,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5625,6 +5633,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
         {
           "title": "Support for AVIF image format in Microsoft Edge",
@@ -7501,6 +7513,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9397,6 +9413,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
@@ -11333,7 +11353,23 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
+        {
+          "title": "while vs code is open the interface start crashing and runs quiet slowly sometimes. I reinstalled it but that problem does not go.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1574"
+        },
+        {
+          "title": "keyboard",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1573"
+        },
+        {
+          "title": "waani.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1572"
+        },
         {
           "title": "live sever",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1570"
@@ -11347,7 +11383,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1568"
         }
       ],
-      "rate": "93.88"
+      "rate": "87.76"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13213,6 +13249,10 @@
     },
     {
       "date": "2023-06-18",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-06-19",
       "unRespondedItems": [
         {
           "title": "_manifest.json should not have the underscore",
