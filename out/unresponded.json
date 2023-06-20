@@ -1866,6 +1866,10 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3766,6 +3770,10 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5637,17 +5645,12 @@
     },
     {
       "date": "2023-06-19",
-      "unRespondedItems": [
-        {
-          "title": "Support for AVIF image format in Microsoft Edge",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/164"
-        },
-        {
-          "title": "Extensions which add Devtools panels/etc no longer do so as of Edge Dev 116.0.1908.0",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/163"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-06-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7517,6 +7520,10 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9417,7 +9424,19 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [
+        {
+          "title": "Windows GUI freeze",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
+        },
+        {
+          "title": "Win32: WebView2 creation fails with -2147483645",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
+        },
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
@@ -9455,20 +9474,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
         },
         {
-          "title": "Service worker cache location",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3567"
-        },
-        {
           "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
         },
         {
           "title": "Contents returned by document.body.innerText for raw JSON have changed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560"
-        },
-        {
-          "title": "Proposal: Adding ability to get the HTML Source code without Executing a script on the page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3557"
         },
         {
           "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
@@ -9481,13 +9492,9 @@
         {
           "title": "CoreWebView2.WebResourceResponseReceived for frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
-        },
-        {
-          "title": "Browser policies for WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3528"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11357,33 +11364,17 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [
         {
-          "title": "while vs code is open the interface start crashing and runs quiet slowly sometimes. I reinstalled it but that problem does not go.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1574"
-        },
-        {
-          "title": "keyboard",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1573"
-        },
-        {
-          "title": "waani.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1572"
-        },
-        {
-          "title": "live sever",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1570"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1569"
-        },
-        {
-          "title": "live server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1568"
+          "title": "Thumb",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1575"
         }
       ],
-      "rate": "87.76"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13253,13 +13244,21 @@
     },
     {
       "date": "2023-06-19",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-06-20",
       "unRespondedItems": [
         {
-          "title": "_manifest.json should not have the underscore",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2651"
+          "title": "Actions",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2663"
+        },
+        {
+          "title": "Remove underscore in Extensions tutorial",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2653"
         }
       ],
-      "rate": "97.83"
+      "rate": "95.65"
     }
   ]
 }
