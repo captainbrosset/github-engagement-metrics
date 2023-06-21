@@ -1,4 +1,4 @@
-Response rate: 90.43%
+Response rate: 91.05%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -18,9 +18,8 @@ Response rate: 90.43%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
   * [Windows GUI freeze](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581)
-  * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
   * [Is there a way to monitor js errors in a webview2 control ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577)
   * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
@@ -35,8 +34,7 @@ Response rate: 90.43%
   * [Base64 string returned from ExecuteScriptAsync decode error ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
-* **microsoft/vscode-edge-devtools** - _97.96%_
-  * [Thumb](https://github.com/microsoft/vscode-edge-devtools/issues/1575)
-* **MicrosoftDocs/edge-developer** - _95.65%_
-  * [Actions](https://github.com/MicrosoftDocs/edge-developer/issues/2663)
-  * [Remove underscore in Extensions tutorial](https://github.com/MicrosoftDocs/edge-developer/pull/2653)
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [index.html](https://github.com/microsoft/vscode-edge-devtools/issues/1577)
+  * [I am not able to run my code ](https://github.com/microsoft/vscode-edge-devtools/issues/1576)
+* **MicrosoftDocs/edge-developer** - _100.00%_

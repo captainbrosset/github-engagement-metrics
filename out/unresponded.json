@@ -1870,6 +1870,10 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3774,6 +3778,10 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5649,6 +5657,10 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7524,6 +7536,10 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9428,14 +9444,14 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [
         {
           "title": "Windows GUI freeze",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
-        },
-        {
-          "title": "Win32: WebView2 creation fails with -2147483645",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
         },
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
@@ -9494,7 +9510,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11368,13 +11384,21 @@
     },
     {
       "date": "2023-06-20",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-21",
       "unRespondedItems": [
         {
-          "title": "Thumb",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1575"
+          "title": "index.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1577"
+        },
+        {
+          "title": "I am not able to run my code ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1576"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13248,17 +13272,12 @@
     },
     {
       "date": "2023-06-20",
-      "unRespondedItems": [
-        {
-          "title": "Actions",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2663"
-        },
-        {
-          "title": "Remove underscore in Extensions tutorial",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2653"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2023-06-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
