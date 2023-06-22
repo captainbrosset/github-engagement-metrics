@@ -1874,6 +1874,10 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3782,6 +3786,10 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5661,6 +5669,10 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7540,6 +7552,10 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9448,7 +9464,23 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [
+        {
+          "title": "Regression: WebView2 keyboard navigation with Tab key not getting registered  (accessibility issue)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
+        },
+        {
+          "title": "Regression: Form does not display on the foreground anymore in the beta runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584"
+        },
+        {
+          "title": "Launching an external or a custom URI scheme in a new window provided by `add_NewWindowRequested` does not work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3583"
+        },
         {
           "title": "Windows GUI freeze",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
@@ -9478,12 +9510,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
         },
         {
-          "title": "Edge webview initialization failing during shutting down of system",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574"
+          "title": "ClearBrowsingData Add Source",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         },
         {
-          "title": "Win32 | MFC | Dialog and Inspect Tool",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3572"
+          "title": "Edge webview initialization failing during shutting down of system",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574"
         },
         {
           "title": "Problem with decoding VP9 stream with HW accelerator",
@@ -9510,7 +9542,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         }
       ],
-      "rate": "70.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11388,17 +11420,17 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [
         {
-          "title": "index.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1577"
-        },
-        {
-          "title": "I am not able to run my code ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1576"
+          "title": "I suggest to have extensions from Microsoft Edge Add-ons on vscode edge devtools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1578"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13276,6 +13308,10 @@
     },
     {
       "date": "2023-06-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
