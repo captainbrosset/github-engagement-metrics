@@ -1878,6 +1878,10 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3790,6 +3794,10 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5673,6 +5681,10 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7556,6 +7568,10 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9468,7 +9484,31 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [
+        {
+          "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3592"
+        },
+        {
+          "title": "Support formats other than NV12 for Texture Streaming",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3591"
+        },
+        {
+          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
+        },
+        {
+          "title": "I got EmbeddedBrowserWebView.dll crash sometimes,",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3589"
+        },
+        {
+          "title": "Round corners",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588"
+        },
         {
           "title": "Regression: WebView2 keyboard navigation with Tab key not getting registered  (accessibility issue)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
@@ -9480,10 +9520,6 @@
         {
           "title": "Launching an external or a custom URI scheme in a new window provided by `add_NewWindowRequested` does not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3583"
-        },
-        {
-          "title": "Windows GUI freeze",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
         },
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
@@ -9502,16 +9538,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
         },
         {
-          "title": "WebView2Loader.dll for vba,VB6 need ADD some Export API",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3536"
-        },
-        {
-          "title": "Unable to view embedded images in HTMLBody on Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3535"
-        },
-        {
           "title": "ClearBrowsingData Add Source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
+        },
+        {
+          "title": "Windows GUI freeze",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
         },
         {
           "title": "Edge webview initialization failing during shutting down of system",
@@ -9530,6 +9562,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560"
         },
         {
+          "title": "Hang up issue when using WebView2Runtime109.*",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559"
+        },
+        {
           "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
         },
@@ -9542,7 +9578,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         }
       ],
-      "rate": "64.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11424,6 +11460,10 @@
     },
     {
       "date": "2023-06-22",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-23",
       "unRespondedItems": [
         {
           "title": "I suggest to have extensions from Microsoft Edge Add-ons on vscode edge devtools",
@@ -13312,8 +13352,17 @@
     },
     {
       "date": "2023-06-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-23",
+      "unRespondedItems": [
+        {
+          "title": "Invalid Email Address",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2667"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
