@@ -1882,6 +1882,10 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3798,6 +3802,10 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5685,6 +5693,10 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7572,6 +7584,10 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9488,6 +9504,10 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [
         {
           "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
@@ -9526,10 +9546,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
         },
         {
-          "title": "Is there a way to monitor js errors in a webview2 control ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577"
-        },
-        {
           "title": "Crash after downloading any APK file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569"
         },
@@ -9544,6 +9560,10 @@
         {
           "title": "Windows GUI freeze",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
+        },
+        {
+          "title": "Win32: WebView2 creation fails with -2147483645",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
         },
         {
           "title": "Edge webview initialization failing during shutting down of system",
@@ -11464,10 +11484,14 @@
     },
     {
       "date": "2023-06-23",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-24",
       "unRespondedItems": [
         {
-          "title": "I suggest to have extensions from Microsoft Edge Add-ons on vscode edge devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1578"
+          "title": "video.streams.filter(file_extension='mp4').first().download()",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1580"
         }
       ],
       "rate": "97.96"
@@ -13356,13 +13380,12 @@
     },
     {
       "date": "2023-06-23",
-      "unRespondedItems": [
-        {
-          "title": "Invalid Email Address",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2667"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-06-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

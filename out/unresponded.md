@@ -1,4 +1,4 @@
-Response rate: 89.03%
+Response rate: 89.34%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -28,11 +28,11 @@ Response rate: 89.03%
   * [Regression: Form does not display on the foreground anymore ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584)
   * [Launching an external or a custom URI scheme in a new window...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3583)
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
-  * [Is there a way to monitor js errors in a webview2 control ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3577)
   * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
   * [Windows GUI freeze](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581)
+  * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
   * [Edge webview initialization failing during shutting down of ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574)
   * [Problem with decoding VP9 stream with HW accelerator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571)
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
@@ -42,6 +42,5 @@ Response rate: 89.03%
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
   * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
 * **microsoft/vscode-edge-devtools** - _97.96%_
-  * [I suggest to have extensions from Microsoft Edge Add-ons on ...](https://github.com/microsoft/vscode-edge-devtools/issues/1578)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [Invalid Email Address](https://github.com/MicrosoftDocs/edge-developer/issues/2667)
+  * [video.streams.filter(file_extension='mp4').first().download(...](https://github.com/microsoft/vscode-edge-devtools/issues/1580)
+* **MicrosoftDocs/edge-developer** - _100.00%_
