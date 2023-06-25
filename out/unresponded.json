@@ -1886,6 +1886,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3806,6 +3810,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5697,6 +5705,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7588,6 +7600,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9508,6 +9524,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [
         {
           "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
@@ -9554,6 +9574,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
         },
         {
+          "title": "Element in WebView would lose focus when cursor moves out WebView area",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
+        },
+        {
           "title": "ClearBrowsingData Add Source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         },
@@ -9592,10 +9616,6 @@
         {
           "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
-        },
-        {
-          "title": "CoreWebView2.WebResourceResponseReceived for frames",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540"
         }
       ],
       "rate": "56.00"
@@ -11488,13 +11508,33 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [
+        {
+          "title": "caniuse",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1584"
+        },
+        {
+          "title": "browser",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1583"
+        },
+        {
+          "title": "browserlist",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1582"
+        },
+        {
+          "title": "x",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1581"
+        },
         {
           "title": "video.streams.filter(file_extension='mp4').first().download()",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1580"
         }
       ],
-      "rate": "97.96"
+      "rate": "89.80"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13384,6 +13424,10 @@
     },
     {
       "date": "2023-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }

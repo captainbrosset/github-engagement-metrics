@@ -1,4 +1,4 @@
-Response rate: 89.34%
+Response rate: 88.17%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -30,6 +30,7 @@ Response rate: 89.34%
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
   * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
   * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
+  * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
   * [Windows GUI freeze](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581)
   * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
@@ -40,7 +41,10 @@ Response rate: 89.34%
   * [Hang up issue when using WebView2Runtime109.*](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559)
   * [Base64 string returned from ExecuteScriptAsync decode error ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
-  * [CoreWebView2.WebResourceResponseReceived for frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3540)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+* **microsoft/vscode-edge-devtools** - _89.80%_
+  * [caniuse](https://github.com/microsoft/vscode-edge-devtools/issues/1584)
+  * [browser](https://github.com/microsoft/vscode-edge-devtools/issues/1583)
+  * [browserlist](https://github.com/microsoft/vscode-edge-devtools/issues/1582)
+  * [x](https://github.com/microsoft/vscode-edge-devtools/issues/1581)
   * [video.streams.filter(file_extension='mp4').first().download(...](https://github.com/microsoft/vscode-edge-devtools/issues/1580)
 * **MicrosoftDocs/edge-developer** - _100.00%_
