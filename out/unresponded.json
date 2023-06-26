@@ -1890,6 +1890,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3814,6 +3818,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5709,6 +5717,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7604,6 +7616,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -9528,6 +9544,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [
         {
           "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
@@ -9566,12 +9586,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
         },
         {
-          "title": "Crash after downloading any APK file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569"
-        },
-        {
-          "title": "WebView2 Focus for offscreen rendered content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541"
+          "title": "How to Scroll by SendMouseInput?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3594"
         },
         {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
@@ -9618,7 +9634,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11512,7 +11528,31 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [
+        {
+          "title": "server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1590"
+        },
+        {
+          "title": "CSS Mirroring Not Working in WSL",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1589"
+        },
+        {
+          "title": "responsive website",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1588"
+        },
+        {
+          "title": "menu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1587"
+        },
+        {
+          "title": "Update main.yml",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1585"
+        },
         {
           "title": "caniuse",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1584"
@@ -11530,11 +11570,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1581"
         },
         {
+          "title": "I need to install node for visual studio but am a total newbie, can anyone help?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1586"
+        },
+        {
           "title": "video.streams.filter(file_extension='mp4').first().download()",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1580"
         }
       ],
-      "rate": "89.80"
+      "rate": "77.55"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13428,6 +13472,10 @@
     },
     {
       "date": "2023-06-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }

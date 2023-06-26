@@ -1,4 +1,4 @@
-Response rate: 88.17%
+Response rate: 86.71%
 
 * **webhintio/hint** - _85.42%_
   * [Is Blade.php supported ?](https://github.com/webhintio/hint/issues/5569)
@@ -18,7 +18,7 @@ Response rate: 88.17%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
   * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [Cannot start web camera and microphone in a Google Meet and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3592)
   * [Support formats other than NV12 for Texture Streaming](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3591)
   * [EnsureCoreWebView2Async throws Exception: An attempt was mad...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590)
@@ -28,8 +28,7 @@ Response rate: 88.17%
   * [Regression: Form does not display on the foreground anymore ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584)
   * [Launching an external or a custom URI scheme in a new window...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3583)
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
-  * [Crash after downloading any APK file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3569)
-  * [WebView2 Focus for offscreen rendered content](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3541)
+  * [How to Scroll by SendMouseInput?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3594)
   * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
   * [Windows GUI freeze](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581)
@@ -41,10 +40,16 @@ Response rate: 88.17%
   * [Hang up issue when using WebView2Runtime109.*](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559)
   * [Base64 string returned from ExecuteScriptAsync decode error ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555)
   * [SCCM Remote Control freezes any mouse or touch input after c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546)
-* **microsoft/vscode-edge-devtools** - _89.80%_
+* **microsoft/vscode-edge-devtools** - _77.55%_
+  * [server](https://github.com/microsoft/vscode-edge-devtools/issues/1590)
+  * [CSS Mirroring Not Working in WSL](https://github.com/microsoft/vscode-edge-devtools/issues/1589)
+  * [responsive website](https://github.com/microsoft/vscode-edge-devtools/issues/1588)
+  * [menu](https://github.com/microsoft/vscode-edge-devtools/issues/1587)
+  * [Update main.yml](https://github.com/microsoft/vscode-edge-devtools/pull/1585)
   * [caniuse](https://github.com/microsoft/vscode-edge-devtools/issues/1584)
   * [browser](https://github.com/microsoft/vscode-edge-devtools/issues/1583)
   * [browserlist](https://github.com/microsoft/vscode-edge-devtools/issues/1582)
   * [x](https://github.com/microsoft/vscode-edge-devtools/issues/1581)
+  * [I need to install node for visual studio but am a total newb...](https://github.com/microsoft/vscode-edge-devtools/issues/1586)
   * [video.streams.filter(file_extension='mp4').first().download(...](https://github.com/microsoft/vscode-edge-devtools/issues/1580)
 * **MicrosoftDocs/edge-developer** - _100.00%_
