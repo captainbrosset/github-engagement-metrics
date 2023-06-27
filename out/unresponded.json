@@ -1894,6 +1894,10 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [
         {
           "title": "Is Blade.php supported ?",
@@ -3822,6 +3826,10 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5721,6 +5729,10 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7620,7 +7632,15 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [
+        {
+          "title": " Getting blank or black screenshot while running the test scripts on azure self hosted agent in service mode for Edge in IE mode",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/92"
+        },
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
@@ -7650,7 +7670,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9548,50 +9568,34 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [
+        {
+          "title": "Support \"popup\" feature in window.open()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3597"
+        },
         {
           "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3592"
-        },
-        {
-          "title": "Support formats other than NV12 for Texture Streaming",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3591"
-        },
-        {
-          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
-        },
-        {
-          "title": "I got EmbeddedBrowserWebView.dll crash sometimes,",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3589"
-        },
-        {
-          "title": "Round corners",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588"
-        },
-        {
-          "title": "Regression: WebView2 keyboard navigation with Tab key not getting registered  (accessibility issue)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
-        },
-        {
-          "title": "Regression: Form does not display on the foreground anymore in the beta runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584"
-        },
-        {
-          "title": "Launching an external or a custom URI scheme in a new window provided by `add_NewWindowRequested` does not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3583"
         },
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
         },
         {
-          "title": "How to Scroll by SendMouseInput?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3594"
-        },
-        {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
+        },
+        {
+          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
+        },
+        {
+          "title": "Round corners",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588"
         },
         {
           "title": "ClearBrowsingData Add Source",
@@ -9634,7 +9638,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         }
       ],
-      "rate": "58.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11532,53 +11536,17 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "77.55"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [
         {
-          "title": "server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1590"
-        },
-        {
-          "title": "CSS Mirroring Not Working in WSL",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1589"
-        },
-        {
-          "title": "responsive website",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1588"
-        },
-        {
-          "title": "menu",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1587"
-        },
-        {
-          "title": "Update main.yml",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1585"
-        },
-        {
-          "title": "caniuse",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1584"
-        },
-        {
-          "title": "browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1583"
-        },
-        {
-          "title": "browserlist",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1582"
-        },
-        {
-          "title": "x",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1581"
-        },
-        {
-          "title": "I need to install node for visual studio but am a total newbie, can anyone help?",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1586"
-        },
-        {
-          "title": "video.streams.filter(file_extension='mp4').first().download()",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1580"
+          "title": "please add bing chat ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1593"
         }
       ],
-      "rate": "77.55"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13476,6 +13444,10 @@
     },
     {
       "date": "2023-06-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
