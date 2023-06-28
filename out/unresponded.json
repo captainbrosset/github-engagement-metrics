@@ -1898,11 +1898,11 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [
-        {
-          "title": "Is Blade.php supported ?",
-          "url": "https://github.com/webhintio/hint/issues/5569"
-        },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
           "url": "https://github.com/webhintio/hint/issues/5563"
@@ -1928,7 +1928,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "85.42"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3830,6 +3830,10 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5733,6 +5737,10 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7636,6 +7644,10 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [
         {
           "title": " Getting blank or black screenshot while running the test scripts on azure self hosted agent in service mode for Edge in IE mode",
@@ -7664,13 +7676,9 @@
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
-        },
-        {
-          "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9572,7 +9580,19 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [
+        {
+          "title": "Reentrancy issue when printing from context menu or “ctrl + p”",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3599"
+        },
+        {
+          "title": "How to use multi-factor authentication and remember device for example 30 days",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598"
+        },
         {
           "title": "Support \"popup\" feature in window.open()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3597"
@@ -9588,10 +9608,6 @@
         {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
-        },
-        {
-          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
         },
         {
           "title": "Round corners",
@@ -9628,17 +9644,9 @@
         {
           "title": "Hang up issue when using WebView2Runtime109.*",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559"
-        },
-        {
-          "title": "Base64 string returned from ExecuteScriptAsync decode error and shorter than the original string",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3555"
-        },
-        {
-          "title": "SCCM Remote Control freezes any mouse or touch input after connecting",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3546"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11540,13 +11548,25 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [
         {
-          "title": "please add bing chat ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1593"
+          "title": "how can I increase the font size of the  Edge devtool's plugin in visual studio code ?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1595"
+        },
+        {
+          "title": "java not running in vsc ode",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1594"
+        },
+        {
+          "title": "how to add devices in vscode",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1551"
         }
       ],
-      "rate": "97.96"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13448,6 +13468,10 @@
     },
     {
       "date": "2023-06-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
