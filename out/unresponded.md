@@ -1,4 +1,4 @@
-Response rate: 91.05%
+Response rate: 91.03%
 
 * **webhintio/hint** - _87.50%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -18,10 +18,10 @@ Response rate: 91.05%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [Reentrancy issue when printing from context menu or “ctrl + ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3599)
+  * [app-region: drag moves wrong window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3605)
+  * [Does the CoreWebView2.WebResourceRequested Event handle cust...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3603)
+  * [Copy/Paste image from clipboard is not working.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3601)
   * [How to use multi-factor authentication and remember device f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598)
-  * [Support "popup" feature in window.open()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3597)
-  * [Cannot start web camera and microphone in a Google Meet and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3592)
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
   * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
   * [Round corners](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588)
@@ -33,8 +33,8 @@ Response rate: 91.05%
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
   * [Contents returned by document.body.innerText for raw JSON ha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560)
   * [Hang up issue when using WebView2Runtime109.*](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559)
-* **microsoft/vscode-edge-devtools** - _93.88%_
-  * [how can I increase the font size of the  Edge devtool's plug...](https://github.com/microsoft/vscode-edge-devtools/issues/1595)
-  * [java not running in vsc ode](https://github.com/microsoft/vscode-edge-devtools/issues/1594)
-  * [how to add devices in vscode](https://github.com/microsoft/vscode-edge-devtools/issues/1551)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [source control button](https://github.com/microsoft/vscode-edge-devtools/issues/1599)
+  * [go live](https://github.com/microsoft/vscode-edge-devtools/issues/1597)
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [Eradzh ](https://github.com/MicrosoftDocs/edge-developer/issues/2674)

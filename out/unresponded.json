@@ -1902,6 +1902,10 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -3834,6 +3838,10 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5741,6 +5749,10 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7648,6 +7660,10 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [
         {
           "title": " Getting blank or black screenshot while running the test scripts on azure self hosted agent in service mode for Edge in IE mode",
@@ -9584,22 +9600,26 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [
         {
-          "title": "Reentrancy issue when printing from context menu or “ctrl + p”",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3599"
+          "title": "app-region: drag moves wrong window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3605"
+        },
+        {
+          "title": "Does the CoreWebView2.WebResourceRequested Event handle custom schemes?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3603"
+        },
+        {
+          "title": "Copy/Paste image from clipboard is not working.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3601"
         },
         {
           "title": "How to use multi-factor authentication and remember device for example 30 days",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598"
-        },
-        {
-          "title": "Support \"popup\" feature in window.open()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3597"
-        },
-        {
-          "title": "Cannot start web camera and microphone in a Google Meet and Microsoft Teams call",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3592"
         },
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
@@ -11552,21 +11572,21 @@
     },
     {
       "date": "2023-06-28",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-06-29",
       "unRespondedItems": [
         {
-          "title": "how can I increase the font size of the  Edge devtool's plugin in visual studio code ?",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1595"
+          "title": "source control button",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1599"
         },
         {
-          "title": "java not running in vsc ode",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1594"
-        },
-        {
-          "title": "how to add devices in vscode",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1551"
+          "title": "go live",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1597"
         }
       ],
-      "rate": "93.88"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13472,8 +13492,17 @@
     },
     {
       "date": "2023-06-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-06-29",
+      "unRespondedItems": [
+        {
+          "title": "Eradzh ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2674"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
