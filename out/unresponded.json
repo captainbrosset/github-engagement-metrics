@@ -1906,6 +1906,10 @@
     },
     {
       "date": "2023-06-29",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-06-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -3842,6 +3846,10 @@
     },
     {
       "date": "2023-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5753,6 +5761,10 @@
     },
     {
       "date": "2023-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7664,7 +7676,15 @@
     },
     {
       "date": "2023-06-29",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-06-30",
       "unRespondedItems": [
+        {
+          "title": "Need to zoom in to edge browser in automation using selenium C#",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93"
+        },
         {
           "title": " Getting blank or black screenshot while running the test scripts on azure self hosted agent in service mode for Edge in IE mode",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/92"
@@ -7694,7 +7714,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9604,14 +9624,22 @@
     },
     {
       "date": "2023-06-29",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-06-30",
       "unRespondedItems": [
         {
-          "title": "app-region: drag moves wrong window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3605"
+          "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         },
         {
-          "title": "Does the CoreWebView2.WebResourceRequested Event handle custom schemes?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3603"
+          "title": "OnNavigationCompleted  sometimes return COREWEBVIEW2_WEB_ERROR_STATUS_CONNECTION_ABORTED   ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3607"
+        },
+        {
+          "title": "Can you provide an dotnet SDK package without winform/wpf?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3606"
         },
         {
           "title": "Copy/Paste image from clipboard is not working.",
@@ -9666,7 +9694,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11576,17 +11604,12 @@
     },
     {
       "date": "2023-06-29",
-      "unRespondedItems": [
-        {
-          "title": "source control button",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1599"
-        },
-        {
-          "title": "go live",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1597"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-06-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13496,13 +13519,12 @@
     },
     {
       "date": "2023-06-29",
-      "unRespondedItems": [
-        {
-          "title": "Eradzh ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2674"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2023-06-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
