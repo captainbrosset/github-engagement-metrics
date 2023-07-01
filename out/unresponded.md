@@ -1,4 +1,4 @@
-Response rate: 91.36%
+Response rate: 89.28%
 
 * **webhintio/hint** - _87.50%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -18,22 +18,29 @@ Response rate: 91.36%
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
-  * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
-  * [OnNavigationCompleted  sometimes return COREWEBVIEW2_WEB_ERR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3607)
-  * [Can you provide an dotnet SDK package without winform/wpf?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3606)
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [`add_WebMessageReceived` not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611)
+  * [WebView2 chrome tasks getting killed often](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3610)
+  * [Search engine switcher toggle in toolbar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609)
   * [Copy/Paste image from clipboard is not working.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3601)
   * [How to use multi-factor authentication and remember device f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598)
   * [WebView2 Downloads UI - Open file or  Show in folder options...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578)
   * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
   * [Round corners](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
-  * [Windows GUI freeze](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581)
+  * [Regression: WebView2 keyboard navigation with Tab key not ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585)
+  * [Regression: Form does not display on the foreground anymore ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584)
   * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
   * [Edge webview initialization failing during shutting down of ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574)
   * [Problem with decoding VP9 stream with HW accelerator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571)
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
   * [Contents returned by document.body.innerText for raw JSON ha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560)
   * [Hang up issue when using WebView2Runtime109.*](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _91.84%_
+  * [لضمان المساح بالتحرير](https://github.com/microsoft/vscode-edge-devtools/issues/1607)
+  * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1606)
+  * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1605)
+  * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1604)
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2676)
+  * [Edge Sidebar PWA documentation not working](https://github.com/MicrosoftDocs/edge-developer/issues/2675)

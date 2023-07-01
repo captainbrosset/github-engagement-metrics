@@ -1910,6 +1910,10 @@
     },
     {
       "date": "2023-06-30",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-07-01",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -3850,6 +3854,10 @@
     },
     {
       "date": "2023-06-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5765,6 +5773,10 @@
     },
     {
       "date": "2023-06-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7680,6 +7692,10 @@
     },
     {
       "date": "2023-06-30",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-07-01",
       "unRespondedItems": [
         {
           "title": "Need to zoom in to edge browser in automation using selenium C#",
@@ -9628,18 +9644,22 @@
     },
     {
       "date": "2023-06-30",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-07-01",
       "unRespondedItems": [
         {
-          "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
+          "title": "`add_WebMessageReceived` not fired",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611"
         },
         {
-          "title": "OnNavigationCompleted  sometimes return COREWEBVIEW2_WEB_ERROR_STATUS_CONNECTION_ABORTED   ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3607"
+          "title": "WebView2 chrome tasks getting killed often",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3610"
         },
         {
-          "title": "Can you provide an dotnet SDK package without winform/wpf?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3606"
+          "title": "Search engine switcher toggle in toolbar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609"
         },
         {
           "title": "Copy/Paste image from clipboard is not working.",
@@ -9666,8 +9686,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         },
         {
-          "title": "Windows GUI freeze",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3581"
+          "title": "Regression: WebView2 keyboard navigation with Tab key not getting registered  (accessibility issue)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
+        },
+        {
+          "title": "Regression: Form does not display on the foreground anymore in the beta runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584"
         },
         {
           "title": "Win32: WebView2 creation fails with -2147483645",
@@ -9694,7 +9718,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11608,8 +11632,29 @@
     },
     {
       "date": "2023-06-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-01",
+      "unRespondedItems": [
+        {
+          "title": "لضمان المساح بالتحرير",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1607"
+        },
+        {
+          "title": "مهند البعني",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1606"
+        },
+        {
+          "title": "مهند البعني",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1605"
+        },
+        {
+          "title": "مهند البعني",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1604"
+        }
+      ],
+      "rate": "91.84"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13523,8 +13568,21 @@
     },
     {
       "date": "2023-06-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-01",
+      "unRespondedItems": [
+        {
+          "title": "References to old Edge versions detected",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2676"
+        },
+        {
+          "title": "Edge Sidebar PWA documentation not working",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
+        }
+      ],
+      "rate": "95.65"
     }
   ]
 }
