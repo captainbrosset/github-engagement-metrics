@@ -1,4 +1,4 @@
-Response rate: 89.28%
+Response rate: 88.95%
 
 * **webhintio/hint** - _87.50%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -19,6 +19,7 @@ Response rate: 89.28%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Can webview2 support UE4 in the future](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3612)
   * [`add_WebMessageReceived` not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611)
   * [WebView2 chrome tasks getting killed often](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3610)
   * [Search engine switcher toggle in toolbar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609)
@@ -35,12 +36,12 @@ Response rate: 89.28%
   * [Problem with decoding VP9 stream with HW accelerator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571)
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
   * [Contents returned by document.body.innerText for raw JSON ha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560)
-  * [Hang up issue when using WebView2Runtime109.*](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559)
 * **microsoft/vscode-edge-devtools** - _91.84%_
   * [لضمان المساح بالتحرير](https://github.com/microsoft/vscode-edge-devtools/issues/1607)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1606)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1605)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1604)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _93.33%_
+  * [Checking](https://github.com/MicrosoftDocs/edge-developer/issues/2678)
   * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2676)
   * [Edge Sidebar PWA documentation not working](https://github.com/MicrosoftDocs/edge-developer/issues/2675)

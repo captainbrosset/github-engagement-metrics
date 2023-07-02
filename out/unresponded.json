@@ -1914,6 +1914,10 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -3858,6 +3862,10 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5777,6 +5785,10 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7696,6 +7708,10 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [
         {
           "title": "Need to zoom in to edge browser in automation using selenium C#",
@@ -9648,7 +9664,15 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [
+        {
+          "title": "Can webview2 support UE4 in the future",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3612"
+        },
         {
           "title": "`add_WebMessageReceived` not fired",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611"
@@ -9712,10 +9736,6 @@
         {
           "title": "Contents returned by document.body.innerText for raw JSON have changed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560"
-        },
-        {
-          "title": "Hang up issue when using WebView2Runtime109.*",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3559"
         }
       ],
       "rate": "66.00"
@@ -11636,6 +11656,10 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [
         {
           "title": "لضمان المساح بالتحرير",
@@ -13572,7 +13596,15 @@
     },
     {
       "date": "2023-07-01",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-07-02",
       "unRespondedItems": [
+        {
+          "title": "Checking",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2678"
+        },
         {
           "title": "References to old Edge versions detected",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2676"
@@ -13582,7 +13614,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
         }
       ],
-      "rate": "95.65"
+      "rate": "93.33"
     }
   ]
 }
