@@ -1918,6 +1918,10 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -1932,10 +1936,6 @@
           "url": "https://github.com/webhintio/hint/issues/5432"
         },
         {
-          "title": "[Docs Bug] `X-Content-Type-Options` for 304 responses",
-          "url": "https://github.com/webhintio/hint/issues/5417"
-        },
-        {
           "title": "Fix: utils-dom dependency",
           "url": "https://github.com/webhintio/hint/pull/5564"
         },
@@ -1944,7 +1944,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "87.50"
+      "rate": "89.58"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3866,6 +3866,10 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5789,6 +5793,10 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7712,6 +7720,10 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [
         {
           "title": "Need to zoom in to edge browser in automation using selenium C#",
@@ -9668,7 +9680,15 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [
+        {
+          "title": "Canary fails with __debugbreak() and illegal instruction",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
+        },
         {
           "title": "Can webview2 support UE4 in the future",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3612"
@@ -9732,10 +9752,6 @@
         {
           "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
-        },
-        {
-          "title": "Contents returned by document.body.innerText for raw JSON have changed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560"
         }
       ],
       "rate": "66.00"
@@ -11660,7 +11676,15 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [
+        {
+          "title": "https://github.com/Frankkko12/gs-ecs-5.git",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1608"
+        },
         {
           "title": "لضمان المساح بالتحرير",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1607"
@@ -11678,7 +11702,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1604"
         }
       ],
-      "rate": "91.84"
+      "rate": "89.80"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13600,7 +13624,15 @@
     },
     {
       "date": "2023-07-02",
+      "rate": "93.33"
+    },
+    {
+      "date": "2023-07-03",
       "unRespondedItems": [
+        {
+          "title": "#####9875",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2680"
+        },
         {
           "title": "Checking",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2678"
@@ -13614,7 +13646,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
         }
       ],
-      "rate": "93.33"
+      "rate": "91.11"
     }
   ]
 }

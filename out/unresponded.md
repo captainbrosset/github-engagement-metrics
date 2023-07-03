@@ -1,10 +1,9 @@
-Response rate: 88.95%
+Response rate: 88.64%
 
-* **webhintio/hint** - _87.50%_
+* **webhintio/hint** - _89.58%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [Error: EACCES: permission denied, copyfile](https://github.com/webhintio/hint/issues/5432)
-  * [[Docs Bug] `X-Content-Type-Options` for 304 responses](https://github.com/webhintio/hint/issues/5417)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -19,6 +18,7 @@ Response rate: 88.95%
   * [EdgeDriverService is not launching the browser in the second...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Canary fails with __debugbreak() and illegal instruction](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Can webview2 support UE4 in the future](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3612)
   * [`add_WebMessageReceived` not fired](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611)
   * [WebView2 chrome tasks getting killed often](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3610)
@@ -35,13 +35,14 @@ Response rate: 88.95%
   * [Edge webview initialization failing during shutting down of ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574)
   * [Problem with decoding VP9 stream with HW accelerator](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571)
   * [How to add authorization token in the request header for URI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564)
-  * [Contents returned by document.body.innerText for raw JSON ha...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3560)
-* **microsoft/vscode-edge-devtools** - _91.84%_
+* **microsoft/vscode-edge-devtools** - _89.80%_
+  * [https://github.com/Frankkko12/gs-ecs-5.git](https://github.com/microsoft/vscode-edge-devtools/issues/1608)
   * [لضمان المساح بالتحرير](https://github.com/microsoft/vscode-edge-devtools/issues/1607)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1606)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1605)
   * [مهند البعني](https://github.com/microsoft/vscode-edge-devtools/issues/1604)
-* **MicrosoftDocs/edge-developer** - _93.33%_
+* **MicrosoftDocs/edge-developer** - _91.11%_
+  * [#####9875](https://github.com/MicrosoftDocs/edge-developer/issues/2680)
   * [Checking](https://github.com/MicrosoftDocs/edge-developer/issues/2678)
   * [References to old Edge versions detected](https://github.com/MicrosoftDocs/edge-developer/issues/2676)
   * [Edge Sidebar PWA documentation not working](https://github.com/MicrosoftDocs/edge-developer/issues/2675)
