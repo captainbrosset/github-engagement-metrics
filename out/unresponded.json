@@ -1922,6 +1922,10 @@
     },
     {
       "date": "2023-07-03",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-07-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -1936,6 +1940,10 @@
           "url": "https://github.com/webhintio/hint/issues/5432"
         },
         {
+          "title": "[Bug] `yarn build` fails on a fresh clone of this repository",
+          "url": "https://github.com/webhintio/hint/issues/5657"
+        },
+        {
           "title": "Fix: utils-dom dependency",
           "url": "https://github.com/webhintio/hint/pull/5564"
         },
@@ -1944,7 +1952,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "89.58"
+      "rate": "87.50"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3870,6 +3878,10 @@
     },
     {
       "date": "2023-07-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5797,8 +5809,17 @@
     },
     {
       "date": "2023-07-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-04",
+      "unRespondedItems": [
+        {
+          "title": "Problem with gps coordinates after recent update of Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/165"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7724,7 +7745,15 @@
     },
     {
       "date": "2023-07-03",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-07-04",
       "unRespondedItems": [
+        {
+          "title": "Add service_log_path option",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/94"
+        },
         {
           "title": "Need to zoom in to edge browser in automation using selenium C#",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93"
@@ -7758,7 +7787,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9684,26 +9713,14 @@
     },
     {
       "date": "2023-07-03",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-04",
       "unRespondedItems": [
         {
           "title": "Canary fails with __debugbreak() and illegal instruction",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
-        },
-        {
-          "title": "Can webview2 support UE4 in the future",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3612"
-        },
-        {
-          "title": "`add_WebMessageReceived` not fired",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3611"
-        },
-        {
-          "title": "WebView2 chrome tasks getting killed often",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3610"
-        },
-        {
-          "title": "Search engine switcher toggle in toolbar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609"
         },
         {
           "title": "Copy/Paste image from clipboard is not working.",
@@ -9716,6 +9733,14 @@
         {
           "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
+        },
+        {
+          "title": "Search engine switcher toggle in toolbar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609"
+        },
+        {
+          "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         },
         {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
@@ -9734,10 +9759,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
         },
         {
-          "title": "Regression: Form does not display on the foreground anymore in the beta runtime",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3584"
-        },
-        {
           "title": "Win32: WebView2 creation fails with -2147483645",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
         },
@@ -9754,7 +9775,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
         }
       ],
-      "rate": "66.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11680,29 +11701,12 @@
     },
     {
       "date": "2023-07-03",
-      "unRespondedItems": [
-        {
-          "title": "https://github.com/Frankkko12/gs-ecs-5.git",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1608"
-        },
-        {
-          "title": "لضمان المساح بالتحرير",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1607"
-        },
-        {
-          "title": "مهند البعني",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1606"
-        },
-        {
-          "title": "مهند البعني",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1605"
-        },
-        {
-          "title": "مهند البعني",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1604"
-        }
-      ],
       "rate": "89.80"
+    },
+    {
+      "date": "2023-07-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13628,25 +13632,17 @@
     },
     {
       "date": "2023-07-03",
+      "rate": "91.11"
+    },
+    {
+      "date": "2023-07-04",
       "unRespondedItems": [
-        {
-          "title": "#####9875",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2680"
-        },
-        {
-          "title": "Checking",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2678"
-        },
-        {
-          "title": "References to old Edge versions detected",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2676"
-        },
         {
           "title": "Edge Sidebar PWA documentation not working",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
         }
       ],
-      "rate": "91.11"
+      "rate": "97.78"
     }
   ]
 }
