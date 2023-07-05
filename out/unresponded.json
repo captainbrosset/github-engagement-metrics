@@ -1926,6 +1926,10 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -3882,6 +3886,10 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5813,6 +5821,10 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [
         {
           "title": "Problem with gps coordinates after recent update of Edge",
@@ -7749,7 +7761,15 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [
+        {
+          "title": "session not created from no such execution context: loader has changed while resolving nodes",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
+        },
         {
           "title": "Add service_log_path option",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/94"
@@ -7787,7 +7807,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9717,7 +9737,23 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [
+        {
+          "title": "CreateCoreWebView2ControllerAsync can't get a await return",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3617"
+        },
+        {
+          "title": "Migration from IE Web Browser control to WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3616"
+        },
+        {
+          "title": "Webview2 window disappear when switch to high contrast mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614"
+        },
         {
           "title": "Canary fails with __debugbreak() and illegal instruction",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
@@ -9747,6 +9783,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
         },
         {
+          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
+        },
+        {
           "title": "Round corners",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588"
         },
@@ -9769,13 +9809,9 @@
         {
           "title": "Problem with decoding VP9 stream with HW accelerator",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
-        },
-        {
-          "title": "How to add authorization token in the request header for URI obtained using add_NewWindowRequested()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3564"
         }
       ],
-      "rate": "72.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11705,8 +11741,17 @@
     },
     {
       "date": "2023-07-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-05",
+      "unRespondedItems": [
+        {
+          "title": "auto run a code when needed to",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1609"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13636,13 +13681,21 @@
     },
     {
       "date": "2023-07-04",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-07-05",
       "unRespondedItems": [
+        {
+          "title": "Add documentation link to the Repo page",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2685"
+        },
         {
           "title": "Edge Sidebar PWA documentation not working",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ]
 }
