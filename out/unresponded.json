@@ -1930,7 +1930,15 @@
     },
     {
       "date": "2023-07-05",
+      "rate": "87.50"
+    },
+    {
+      "date": "2023-07-06",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5658"
+        },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
           "url": "https://github.com/webhintio/hint/issues/5563"
@@ -1956,7 +1964,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "87.50"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -3890,6 +3898,10 @@
     },
     {
       "date": "2023-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5825,13 +5837,12 @@
     },
     {
       "date": "2023-07-05",
-      "unRespondedItems": [
-        {
-          "title": "Problem with gps coordinates after recent update of Edge",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/165"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-07-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7765,49 +7776,25 @@
     },
     {
       "date": "2023-07-05",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-07-06",
       "unRespondedItems": [
         {
           "title": "session not created from no such execution context: loader has changed while resolving nodes",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
         },
         {
-          "title": "Add service_log_path option",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/94"
-        },
-        {
-          "title": "Need to zoom in to edge browser in automation using selenium C#",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93"
-        },
-        {
-          "title": " Getting blank or black screenshot while running the test scripts on azure self hosted agent in service mode for Edge in IE mode",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/92"
-        },
-        {
-          "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
-        },
-        {
-          "title": "edgeoptions class does not have addExtensions method ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/90"
-        },
-        {
-          "title": "edge-driver Homebrew cask",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/89"
-        },
-        {
           "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88"
-        },
-        {
-          "title": "EdgeDriverService is not launching the browser in the second iteration",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/75"
         },
         {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "80.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9741,7 +9728,27 @@
     },
     {
       "date": "2023-07-05",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-06",
       "unRespondedItems": [
+        {
+          "title": "Getting unexpected Windows Security login dialog for SSO",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
+        },
+        {
+          "title": "CoreWebView2 process dies when program prevents a shutdown/restart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3620"
+        },
+        {
+          "title": "How to disable the security alert of showSaveFilePicker",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3619"
+        },
+        {
+          "title": "webview2 Native File Drag & Drop",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3618"
+        },
         {
           "title": "CreateCoreWebView2ControllerAsync can't get a await return",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3617"
@@ -9755,20 +9762,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614"
         },
         {
-          "title": "Canary fails with __debugbreak() and illegal instruction",
+          "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
-        },
-        {
-          "title": "Copy/Paste image from clipboard is not working.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3601"
-        },
-        {
-          "title": "How to use multi-factor authentication and remember device for example 30 days",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598"
-        },
-        {
-          "title": "WebView2 Downloads UI - Open file or  Show in folder options are not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3578"
         },
         {
           "title": "Search engine switcher toggle in toolbar",
@@ -9779,12 +9774,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         },
         {
-          "title": "Element in WebView would lose focus when cursor moves out WebView area",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
+          "title": "How to use multi-factor authentication and remember device for example 30 days",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598"
         },
         {
-          "title": "EnsureCoreWebView2Async throws Exception: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3590"
+          "title": "Element in WebView would lose focus when cursor moves out WebView area",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
         },
         {
           "title": "Round corners",
@@ -9793,10 +9788,6 @@
         {
           "title": "ClearBrowsingData Add Source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
-        },
-        {
-          "title": "Regression: WebView2 keyboard navigation with Tab key not getting registered  (accessibility issue)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3585"
         },
         {
           "title": "Win32: WebView2 creation fails with -2147483645",
@@ -11745,13 +11736,25 @@
     },
     {
       "date": "2023-07-05",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-07-06",
       "unRespondedItems": [
         {
-          "title": "auto run a code when needed to",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1609"
+          "title": "erro bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1612"
+        },
+        {
+          "title": "IEChooser debugging in VSC",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1611"
+        },
+        {
+          "title": "Hello, view of browser is blue ? How I can fix it",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1610"
         }
       ],
-      "rate": "97.96"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13685,17 +13688,12 @@
     },
     {
       "date": "2023-07-05",
-      "unRespondedItems": [
-        {
-          "title": "Add documentation link to the Repo page",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2685"
-        },
-        {
-          "title": "Edge Sidebar PWA documentation not working",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2675"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2023-07-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
