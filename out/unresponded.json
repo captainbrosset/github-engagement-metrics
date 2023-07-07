@@ -1934,6 +1934,10 @@
     },
     {
       "date": "2023-07-06",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3902,6 +3906,10 @@
     },
     {
       "date": "2023-07-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5841,6 +5849,10 @@
     },
     {
       "date": "2023-07-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7780,10 +7792,22 @@
     },
     {
       "date": "2023-07-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-07-07",
       "unRespondedItems": [
         {
           "title": "session not created from no such execution context: loader has changed while resolving nodes",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
+        },
+        {
+          "title": "\"No node with given id found\" issue",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96"
+        },
+        {
+          "title": "Need to zoom in to edge browser in automation using selenium C#",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93"
         },
         {
           "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
@@ -7794,7 +7818,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9732,26 +9756,22 @@
     },
     {
       "date": "2023-07-06",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-07",
       "unRespondedItems": [
         {
-          "title": "Getting unexpected Windows Security login dialog for SSO",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
+          "title": "Include \"AutoLaunchProtocolsFromOrigins\" in group policy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3623"
         },
         {
-          "title": "CoreWebView2 process dies when program prevents a shutdown/restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3620"
+          "title": "css @page.size does not override printer page size",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3622"
         },
         {
           "title": "How to disable the security alert of showSaveFilePicker",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3619"
-        },
-        {
-          "title": "webview2 Native File Drag & Drop",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3618"
-        },
-        {
-          "title": "CreateCoreWebView2ControllerAsync can't get a await return",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3617"
         },
         {
           "title": "Migration from IE Web Browser control to WebView2",
@@ -9760,6 +9780,10 @@
         {
           "title": "Webview2 window disappear when switch to high contrast mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614"
+        },
+        {
+          "title": "Getting unexpected Windows Security login dialog for SSO",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
         },
         {
           "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
@@ -9796,13 +9820,9 @@
         {
           "title": "Edge webview initialization failing during shutting down of system",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574"
-        },
-        {
-          "title": "Problem with decoding VP9 stream with HW accelerator",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3571"
         }
       ],
-      "rate": "66.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11740,21 +11760,12 @@
     },
     {
       "date": "2023-07-06",
-      "unRespondedItems": [
-        {
-          "title": "erro bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1612"
-        },
-        {
-          "title": "IEChooser debugging in VSC",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1611"
-        },
-        {
-          "title": "Hello, view of browser is blue ? How I can fix it",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1610"
-        }
-      ],
       "rate": "93.88"
+    },
+    {
+      "date": "2023-07-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13692,8 +13703,17 @@
     },
     {
       "date": "2023-07-06",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-07",
+      "unRespondedItems": [
+        {
+          "title": "Like in firefox please implement in in edge console so that when we type console.log the parenthesis automatically come after typing log in console.log",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2687"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
