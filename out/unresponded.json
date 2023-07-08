@@ -1938,6 +1938,10 @@
     },
     {
       "date": "2023-07-07",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3910,6 +3914,10 @@
     },
     {
       "date": "2023-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5853,8 +5861,17 @@
     },
     {
       "date": "2023-07-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-08",
+      "unRespondedItems": [
+        {
+          "title": "Autocomplete like firefox",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/166"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7796,6 +7813,10 @@
     },
     {
       "date": "2023-07-07",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-08",
       "unRespondedItems": [
         {
           "title": "session not created from no such execution context: loader has changed while resolving nodes",
@@ -9760,7 +9781,27 @@
     },
     {
       "date": "2023-07-07",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-07-08",
       "unRespondedItems": [
+        {
+          "title": "how can I get webview2 controls pages logs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3627"
+        },
+        {
+          "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
+        },
+        {
+          "title": "WebView2 - COM object that has been separated from its underlying RCW cannot be used",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3625"
+        },
+        {
+          "title": "Executing IWithMouseEvents.MouseEvent(...) releases MRTK's PointerDown.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3624"
+        },
         {
           "title": "Include \"AutoLaunchProtocolsFromOrigins\" in group policy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3623"
@@ -9772,10 +9813,6 @@
         {
           "title": "How to disable the security alert of showSaveFilePicker",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3619"
-        },
-        {
-          "title": "Migration from IE Web Browser control to WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3616"
         },
         {
           "title": "Webview2 window disappear when switch to high contrast mode",
@@ -9816,13 +9853,9 @@
         {
           "title": "Win32: WebView2 creation fails with -2147483645",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
-        },
-        {
-          "title": "Edge webview initialization failing during shutting down of system",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11764,8 +11797,17 @@
     },
     {
       "date": "2023-07-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-08",
+      "unRespondedItems": [
+        {
+          "title": "can i get an audio feature",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1614"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13707,10 +13749,14 @@
     },
     {
       "date": "2023-07-07",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-07-08",
       "unRespondedItems": [
         {
-          "title": "Like in firefox please implement in in edge console so that when we type console.log the parenthesis automatically come after typing log in console.log",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2687"
+          "title": "Added screenshot for the Disable cache option in the Network conditions drawer",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2688"
         }
       ],
       "rate": "97.78"

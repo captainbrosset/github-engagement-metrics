@@ -1,4 +1,4 @@
-Response rate: 91.93%
+Response rate: 90.78%
 
 * **webhintio/hint** - _85.71%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5658)
@@ -9,18 +9,22 @@ Response rate: 91.93%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Autocomplete like firefox](https://github.com/MicrosoftEdge/DevTools/issues/166)
 * **MicrosoftEdge/EdgeWebDriver** - _90.00%_
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [Need to zoom in to edge browser in automation using selenium...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [how can I get webview2 controls pages logs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3627)
+  * [Not able to use Edge webview WPF sample app when there are m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626)
+  * [WebView2 - COM object that has been separated from its under...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3625)
+  * [Executing IWithMouseEvents.MouseEvent(...) releases MRTK's P...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3624)
   * [Include "AutoLaunchProtocolsFromOrigins" in group policy](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3623)
   * [css @page.size does not override printer page size](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3622)
   * [How to disable the security alert of showSaveFilePicker](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3619)
-  * [Migration from IE Web Browser control to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3616)
   * [Webview2 window disappear when switch to high contrast mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614)
   * [Getting unexpected Windows Security login dialog for SSO](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621)
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
@@ -31,7 +35,7 @@ Response rate: 91.93%
   * [Round corners](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
   * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
-  * [Edge webview initialization failing during shutting down of ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3574)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [can i get an audio feature](https://github.com/microsoft/vscode-edge-devtools/issues/1614)
 * **MicrosoftDocs/edge-developer** - _97.78%_
-  * [Like in firefox please implement in in edge console so that ...](https://github.com/MicrosoftDocs/edge-developer/issues/2687)
+  * [Added screenshot for the Disable cache option in the Network...](https://github.com/MicrosoftDocs/edge-developer/pull/2688)
