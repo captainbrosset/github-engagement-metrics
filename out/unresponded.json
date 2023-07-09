@@ -1942,6 +1942,10 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3918,6 +3922,10 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5865,6 +5873,10 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
         {
           "title": "Autocomplete like firefox",
@@ -7817,6 +7829,10 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
         {
           "title": "session not created from no such execution context: loader has changed while resolving nodes",
@@ -9785,14 +9801,14 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
         {
           "title": "how can I get webview2 controls pages logs",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3627"
-        },
-        {
-          "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
         },
         {
           "title": "WebView2 - COM object that has been separated from its underlying RCW cannot be used",
@@ -9817,6 +9833,10 @@
         {
           "title": "Webview2 window disappear when switch to high contrast mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614"
+        },
+        {
+          "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
         },
         {
           "title": "Getting unexpected Windows Security login dialog for SSO",
@@ -11801,13 +11821,21 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
         {
           "title": "can i get an audio feature",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1614"
+        },
+        {
+          "title": "muhannad150",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1615"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13753,13 +13781,21 @@
     },
     {
       "date": "2023-07-08",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-07-09",
       "unRespondedItems": [
+        {
+          "title": "project123",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2689"
+        },
         {
           "title": "Added screenshot for the Disable cache option in the Network conditions drawer",
           "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2688"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ]
 }
