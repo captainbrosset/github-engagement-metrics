@@ -1,4 +1,4 @@
-Response rate: 90.17%
+Response rate: 89.32%
 
 * **webhintio/hint** - _85.71%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5658)
@@ -35,7 +35,10 @@ Response rate: 90.17%
   * [Round corners](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
   * [Win32: WebView2 creation fails with -2147483645](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580)
-* **microsoft/vscode-edge-devtools** - _95.92%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [hola](https://github.com/microsoft/vscode-edge-devtools/issues/1619)
+  * [ISSUE REPORT](https://github.com/microsoft/vscode-edge-devtools/issues/1618)
+  * [Developer](https://github.com/microsoft/vscode-edge-devtools/issues/1617)
   * [can i get an audio feature](https://github.com/microsoft/vscode-edge-devtools/issues/1614)
   * [muhannad150](https://github.com/microsoft/vscode-edge-devtools/issues/1615)
 * **MicrosoftDocs/edge-developer** - _95.56%_

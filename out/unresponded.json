@@ -1946,6 +1946,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3926,6 +3930,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5877,6 +5885,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
         {
           "title": "Autocomplete like firefox",
@@ -7833,6 +7845,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
         {
           "title": "session not created from no such execution context: loader has changed while resolving nodes",
@@ -9805,6 +9821,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
         {
           "title": "how can I get webview2 controls pages logs",
@@ -11825,7 +11845,23 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
+        {
+          "title": "hola",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1619"
+        },
+        {
+          "title": "ISSUE REPORT",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1618"
+        },
+        {
+          "title": "Developer",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1617"
+        },
         {
           "title": "can i get an audio feature",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1614"
@@ -11835,7 +11871,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1615"
         }
       ],
-      "rate": "95.92"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13785,6 +13821,10 @@
     },
     {
       "date": "2023-07-09",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-07-10",
       "unRespondedItems": [
         {
           "title": "project123",
