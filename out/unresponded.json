@@ -1950,6 +1950,10 @@
     },
     {
       "date": "2023-07-10",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3934,6 +3938,10 @@
     },
     {
       "date": "2023-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5889,13 +5897,12 @@
     },
     {
       "date": "2023-07-10",
-      "unRespondedItems": [
-        {
-          "title": "Autocomplete like firefox",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/166"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-07-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7849,14 +7856,18 @@
     },
     {
       "date": "2023-07-10",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-11",
       "unRespondedItems": [
-        {
-          "title": "session not created from no such execution context: loader has changed while resolving nodes",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
-        },
         {
           "title": "\"No node with given id found\" issue",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96"
+        },
+        {
+          "title": "session not created from no such execution context: loader has changed while resolving nodes",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
         },
         {
           "title": "Need to zoom in to edge browser in automation using selenium C#",
@@ -9825,50 +9836,38 @@
     },
     {
       "date": "2023-07-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-07-11",
       "unRespondedItems": [
         {
-          "title": "how can I get webview2 controls pages logs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3627"
+          "title": "WebView2 loads page only if I debug",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3631"
         },
         {
-          "title": "WebView2 - COM object that has been separated from its underlying RCW cannot be used",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3625"
+          "title": "Microsoft Edge Stable 114.0.1823.67-1 cannot open in Linux Ubuntu 23.04",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3630"
         },
         {
-          "title": "Executing IWithMouseEvents.MouseEvent(...) releases MRTK's PointerDown.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3624"
-        },
-        {
-          "title": "Include \"AutoLaunchProtocolsFromOrigins\" in group policy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3623"
-        },
-        {
-          "title": "css @page.size does not override printer page size",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3622"
-        },
-        {
-          "title": "How to disable the security alert of showSaveFilePicker",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3619"
-        },
-        {
-          "title": "Webview2 window disappear when switch to high contrast mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3614"
+          "title": "CreateWebResourceResponse with content-encoding gzip",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629"
         },
         {
           "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
         },
         {
-          "title": "Getting unexpected Windows Security login dialog for SSO",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
+          "title": "css @page.size does not override printer page size",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3622"
+        },
+        {
+          "title": "Migration from IE Web Browser control to WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3616"
         },
         {
           "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
-        },
-        {
-          "title": "Search engine switcher toggle in toolbar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3609"
         },
         {
           "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
@@ -9895,7 +9894,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
         }
       ],
-      "rate": "66.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11849,29 +11848,17 @@
     },
     {
       "date": "2023-07-10",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-11",
       "unRespondedItems": [
         {
-          "title": "hola",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1619"
-        },
-        {
-          "title": "ISSUE REPORT",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1618"
-        },
-        {
-          "title": "Developer",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1617"
-        },
-        {
-          "title": "can i get an audio feature",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1614"
-        },
-        {
-          "title": "muhannad150",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1615"
+          "title": "Setting moduleResolution to bundler causes red squiggles",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1620"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13825,17 +13812,12 @@
     },
     {
       "date": "2023-07-10",
-      "unRespondedItems": [
-        {
-          "title": "project123",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2689"
-        },
-        {
-          "title": "Added screenshot for the Disable cache option in the Network conditions drawer",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2688"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2023-07-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
