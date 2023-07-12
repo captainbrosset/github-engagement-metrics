@@ -1954,6 +1954,10 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3942,6 +3946,10 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5901,6 +5909,10 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7860,6 +7872,10 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -9840,14 +9856,26 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [
+        {
+          "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
+        },
+        {
+          "title": "Memory leak when registering an IAsyncOperation Complete handler before app termination (C++/WinRT & MFC)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3633"
+        },
+        {
+          "title": "Add to dictionary option is missing from the context menu",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
         {
           "title": "WebView2 loads page only if I debug",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3631"
-        },
-        {
-          "title": "Microsoft Edge Stable 114.0.1823.67-1 cannot open in Linux Ubuntu 23.04",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3630"
         },
         {
           "title": "CreateWebResourceResponse with content-encoding gzip",
@@ -9856,10 +9884,6 @@
         {
           "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
-        },
-        {
-          "title": "css @page.size does not override printer page size",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3622"
         },
         {
           "title": "Migration from IE Web Browser control to WebView2",
@@ -9888,10 +9912,6 @@
         {
           "title": "ClearBrowsingData Add Source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
-        },
-        {
-          "title": "Win32: WebView2 creation fails with -2147483645",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3580"
         }
       ],
       "rate": "74.00"
@@ -11852,13 +11872,12 @@
     },
     {
       "date": "2023-07-11",
-      "unRespondedItems": [
-        {
-          "title": "Setting moduleResolution to bundler causes red squiggles",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1620"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-07-12",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13816,6 +13835,10 @@
     },
     {
       "date": "2023-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
