@@ -1,4 +1,4 @@
-Response rate: 92.82%
+Response rate: 92.53%
 
 * **webhintio/hint** - _85.71%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5658)
@@ -16,10 +16,11 @@ Response rate: 92.82%
   * [Need to zoom in to edge browser in automation using selenium...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Setting CoreWebView2EnvironmentOptions Language property doe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3635)
+  * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
   * [Memory leak when registering an IAsyncOperation Complete han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3633)
-  * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [WebView2 loads page only if I debug](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3631)
   * [CreateWebResourceResponse with content-encoding gzip](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629)
   * [Not able to use Edge webview WPF sample app when there are m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626)

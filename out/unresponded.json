@@ -1958,6 +1958,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3950,6 +3954,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5913,6 +5921,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7876,6 +7888,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -9860,7 +9876,19 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [
+        {
+          "title": "Setting CoreWebView2EnvironmentOptions Language property doesn't change accept-language http header",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3635"
+        },
+        {
+          "title": "Add to dictionary option is missing from the context menu",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
         {
           "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
@@ -9868,10 +9896,6 @@
         {
           "title": "Memory leak when registering an IAsyncOperation Complete handler before app termination (C++/WinRT & MFC)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3633"
-        },
-        {
-          "title": "Add to dictionary option is missing from the context menu",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
         },
         {
           "title": "WebView2 loads page only if I debug",
@@ -9914,7 +9938,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11876,6 +11900,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13839,6 +13867,10 @@
     },
     {
       "date": "2023-07-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
