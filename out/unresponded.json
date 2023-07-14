@@ -1962,6 +1962,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3958,6 +3962,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5925,6 +5933,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7892,6 +7904,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -9880,10 +9896,18 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [
         {
-          "title": "Setting CoreWebView2EnvironmentOptions Language property doesn't change accept-language http header",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3635"
+          "title": "Downloads window makes items around it not clickable",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638"
+        },
+        {
+          "title": "In-memory or no-profile mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3637"
         },
         {
           "title": "Add to dictionary option is missing from the context menu",
@@ -9894,20 +9918,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
         },
         {
-          "title": "Memory leak when registering an IAsyncOperation Complete handler before app termination (C++/WinRT & MFC)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3633"
-        },
-        {
-          "title": "WebView2 loads page only if I debug",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3631"
-        },
-        {
           "title": "CreateWebResourceResponse with content-encoding gzip",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629"
         },
         {
-          "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
+          "title": "corewebview2  select tag  in flutter can't work correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628"
         },
         {
           "title": "Migration from IE Web Browser control to WebView2",
@@ -9922,10 +9938,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         },
         {
-          "title": "How to use multi-factor authentication and remember device for example 30 days",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598"
-        },
-        {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
         },
@@ -9938,7 +9950,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         }
       ],
-      "rate": "72.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11904,6 +11916,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13871,6 +13887,10 @@
     },
     {
       "date": "2023-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }

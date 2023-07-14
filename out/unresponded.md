@@ -1,4 +1,4 @@
-Response rate: 92.53%
+Response rate: 93.10%
 
 * **webhintio/hint** - _85.71%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5658)
@@ -16,18 +16,16 @@ Response rate: 92.53%
   * [Need to zoom in to edge browser in automation using selenium...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [Setting CoreWebView2EnvironmentOptions Language property doe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3635)
+* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+  * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
+  * [In-memory or no-profile mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3637)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
-  * [Memory leak when registering an IAsyncOperation Complete han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3633)
-  * [WebView2 loads page only if I debug](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3631)
   * [CreateWebResourceResponse with content-encoding gzip](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629)
-  * [Not able to use Edge webview WPF sample app when there are m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626)
+  * [corewebview2  select tag  in flutter can't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628)
   * [Migration from IE Web Browser control to WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3616)
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
-  * [How to use multi-factor authentication and remember device f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3598)
   * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
   * [Round corners](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588)
   * [ClearBrowsingData Add Source](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586)
