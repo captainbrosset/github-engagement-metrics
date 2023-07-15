@@ -1966,6 +1966,10 @@
     },
     {
       "date": "2023-07-14",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3966,6 +3970,10 @@
     },
     {
       "date": "2023-07-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5937,6 +5945,10 @@
     },
     {
       "date": "2023-07-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7908,6 +7920,10 @@
     },
     {
       "date": "2023-07-14",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-15",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -7918,8 +7934,8 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
         },
         {
-          "title": "Need to zoom in to edge browser in automation using selenium C#",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/93"
+          "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         },
         {
           "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
@@ -9900,18 +9916,26 @@
     },
     {
       "date": "2023-07-14",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-07-15",
       "unRespondedItems": [
         {
-          "title": "Downloads window makes items around it not clickable",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638"
+          "title": "Apostrophe character ( ' ) in prevents custom HTML page from loading contents",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3641"
         },
         {
-          "title": "In-memory or no-profile mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3637"
+          "title": "get_CoreWebView2 get nil",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3640"
         },
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
+        {
+          "title": "Downloads window makes items around it not clickable",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638"
         },
         {
           "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
@@ -9924,6 +9948,10 @@
         {
           "title": "corewebview2  select tag  in flutter can't work correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628"
+        },
+        {
+          "title": "Not able to use Edge webview WPF sample app when there are multiple RDP connections to the Server OS with the same user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
         },
         {
           "title": "Migration from IE Web Browser control to WebView2",
@@ -9940,14 +9968,6 @@
         {
           "title": "Element in WebView would lose focus when cursor moves out WebView area",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
-        },
-        {
-          "title": "Round corners",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3588"
-        },
-        {
-          "title": "ClearBrowsingData Add Source",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3586"
         }
       ],
       "rate": "76.00"
@@ -11920,8 +11940,17 @@
     },
     {
       "date": "2023-07-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-15",
+      "unRespondedItems": [
+        {
+          "title": "crbug/1173575, non-JS module files deprecated.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1625"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13891,8 +13920,21 @@
     },
     {
       "date": "2023-07-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-15",
+      "unRespondedItems": [
+        {
+          "title": "WebView2 Stopped working after installing some NuGet packages",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2710"
+        },
+        {
+          "title": "can we automate the login for a msft authenticated website through this?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2708"
+        }
+      ],
+      "rate": "95.74"
     }
   ]
 }
