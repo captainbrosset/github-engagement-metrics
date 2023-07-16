@@ -16,9 +16,8 @@ Response rate: 92.21%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Edge - IE Mode. Internet Explorer can't be found . You need ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
   * [Apostrophe character ( ' ) in prevents custom HTML page from...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3641)
-  * [get_CoreWebView2 get nil](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3640)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
@@ -29,7 +28,8 @@ Response rate: 92.21%
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
   * [Element in WebView would lose focus when cursor moves out We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [m](https://github.com/microsoft/vscode-edge-devtools/issues/1626)
   * [crbug/1173575, non-JS module files deprecated.](https://github.com/microsoft/vscode-edge-devtools/issues/1625)
 * **MicrosoftDocs/edge-developer** - _95.74%_
   * [WebView2 Stopped working after installing some NuGet package...](https://github.com/MicrosoftDocs/edge-developer/issues/2710)

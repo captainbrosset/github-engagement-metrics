@@ -1970,6 +1970,10 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3974,6 +3978,10 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5949,6 +5957,10 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7924,6 +7936,10 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -9920,14 +9936,14 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [
         {
           "title": "Apostrophe character ( ' ) in prevents custom HTML page from loading contents",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3641"
-        },
-        {
-          "title": "get_CoreWebView2 get nil",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3640"
         },
         {
           "title": "Add to dictionary option is missing from the context menu",
@@ -9970,7 +9986,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
         }
       ],
-      "rate": "76.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -11944,13 +11960,21 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [
+        {
+          "title": "m",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1626"
+        },
         {
           "title": "crbug/1173575, non-JS module files deprecated.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1625"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -13924,6 +13948,10 @@
     },
     {
       "date": "2023-07-15",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-07-16",
       "unRespondedItems": [
         {
           "title": "WebView2 Stopped working after installing some NuGet packages",
