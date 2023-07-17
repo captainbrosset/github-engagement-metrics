@@ -1,4 +1,4 @@
-Response rate: 92.21%
+Response rate: 91.92%
 
 * **webhintio/hint** - _85.71%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5658)
@@ -31,6 +31,7 @@ Response rate: 92.21%
 * **microsoft/vscode-edge-devtools** - _96.00%_
   * [m](https://github.com/microsoft/vscode-edge-devtools/issues/1626)
   * [crbug/1173575, non-JS module files deprecated.](https://github.com/microsoft/vscode-edge-devtools/issues/1625)
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **MicrosoftDocs/edge-developer** - _93.75%_
+  * [contributing guidelines and code of conduct](https://github.com/MicrosoftDocs/edge-developer/issues/2711)
   * [WebView2 Stopped working after installing some NuGet package...](https://github.com/MicrosoftDocs/edge-developer/issues/2710)
   * [can we automate the login for a msft authenticated website t...](https://github.com/MicrosoftDocs/edge-developer/issues/2708)

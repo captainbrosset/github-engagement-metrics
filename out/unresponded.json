@@ -1974,6 +1974,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3982,6 +3986,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5961,6 +5969,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7940,6 +7952,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -9940,6 +9956,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [
         {
           "title": "Apostrophe character ( ' ) in prevents custom HTML page from loading contents",
@@ -11964,6 +11984,10 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [
         {
           "title": "m",
@@ -13952,7 +13976,15 @@
     },
     {
       "date": "2023-07-16",
+      "rate": "95.74"
+    },
+    {
+      "date": "2023-07-17",
       "unRespondedItems": [
+        {
+          "title": "contributing guidelines and code of conduct",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2711"
+        },
         {
           "title": "WebView2 Stopped working after installing some NuGet packages",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2710"
@@ -13962,7 +13994,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2708"
         }
       ],
-      "rate": "95.74"
+      "rate": "93.75"
     }
   ]
 }
