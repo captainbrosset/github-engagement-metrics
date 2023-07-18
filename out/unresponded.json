@@ -1978,6 +1978,10 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -3990,6 +3994,10 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5973,6 +5981,10 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7956,6 +7968,10 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -7970,15 +7986,11 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         },
         {
-          "title": "Edge - IE Mode. Internet Explorer can't be found . You need to Re-install or re-enable Internet explorer",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/88"
-        },
-        {
           "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "90.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -9960,10 +9972,14 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [
         {
-          "title": "Apostrophe character ( ' ) in prevents custom HTML page from loading contents",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3641"
+          "title": "CoreWebView2Frame.Destroyed event invoked with a wrong CoreWebView2Frame object",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3642"
         },
         {
           "title": "Add to dictionary option is missing from the context menu",
@@ -11988,14 +12004,18 @@
     },
     {
       "date": "2023-07-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-07-18",
       "unRespondedItems": [
         {
-          "title": "m",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1626"
+          "title": "Avoid Edge code actions on save",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1630"
         },
         {
-          "title": "crbug/1173575, non-JS module files deprecated.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1625"
+          "title": "Xondamir",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1629"
         }
       ],
       "rate": "96.00"
@@ -13980,21 +14000,12 @@
     },
     {
       "date": "2023-07-17",
-      "unRespondedItems": [
-        {
-          "title": "contributing guidelines and code of conduct",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2711"
-        },
-        {
-          "title": "WebView2 Stopped working after installing some NuGet packages",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2710"
-        },
-        {
-          "title": "can we automate the login for a msft authenticated website through this?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2708"
-        }
-      ],
       "rate": "93.75"
+    },
+    {
+      "date": "2023-07-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
