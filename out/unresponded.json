@@ -1986,7 +1986,15 @@
     },
     {
       "date": "2023-07-19",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-07-20",
       "unRespondedItems": [
+        {
+          "title": "help ",
+          "url": "https://github.com/webhintio/hint/issues/5660"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5658"
@@ -2016,7 +2024,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "85.71"
+      "rate": "83.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4006,6 +4014,10 @@
     },
     {
       "date": "2023-07-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -5997,13 +6009,12 @@
     },
     {
       "date": "2023-07-19",
-      "unRespondedItems": [
-        {
-          "title": "Edge Dev's video decoding has issues when playing videos on bilibili.",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/167"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-07-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -7993,6 +8004,10 @@
     },
     {
       "date": "2023-07-19",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-20",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -10001,7 +10016,19 @@
     },
     {
       "date": "2023-07-19",
+      "rate": "82.00"
+    },
+    {
+      "date": "2023-07-20",
       "unRespondedItems": [
+        {
+          "title": "Dependency on Explorer when process is fully elevated",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3651"
+        },
+        {
+          "title": "NavigationStarting only raised once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649"
+        },
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
@@ -10027,19 +10054,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626"
         },
         {
+          "title": "Getting unexpected Windows Security login dialog for SSO",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
+        },
+        {
           "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
         },
         {
           "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
-        },
-        {
-          "title": "Element in WebView would lose focus when cursor moves out WebView area",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3593"
         }
       ],
-      "rate": "82.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12029,21 +12056,12 @@
     },
     {
       "date": "2023-07-19",
-      "unRespondedItems": [
-        {
-          "title": "i want auto sync available in microsoft browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1634"
-        },
-        {
-          "title": "facing some error during debugging and live server preview ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1633"
-        },
-        {
-          "title": "anas",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1632"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-07-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14033,8 +14051,17 @@
     },
     {
       "date": "2023-07-19",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-20",
+      "unRespondedItems": [
+        {
+          "title": "example code error related to `this` . reference",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2721"
+        }
+      ],
+      "rate": "97.92"
     }
   ]
 }
