@@ -1,4 +1,4 @@
-Response rate: 93.08%
+Response rate: 93.37%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -16,9 +16,8 @@ Response rate: 93.08%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
-  * [Dependency on Explorer when process is fully elevated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3651)
-  * [NavigationStarting only raised once](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649)
+* **MicrosoftEdge/WebView2Feedback** - _80.00%_
+  * [Hololens2 virtual keyboard not opening after javascript "bef...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
@@ -30,4 +29,4 @@ Response rate: 93.08%
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **MicrosoftDocs/edge-developer** - _97.92%_
-  * [example code error related to `this` . reference](https://github.com/MicrosoftDocs/edge-developer/issues/2721)
+  * [Autenticador ](https://github.com/MicrosoftDocs/edge-developer/issues/2723)

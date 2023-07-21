@@ -1990,6 +1990,10 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4018,6 +4022,10 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6013,6 +6021,10 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8008,6 +8020,10 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -10020,14 +10036,14 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [
         {
-          "title": "Dependency on Explorer when process is fully elevated",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3651"
-        },
-        {
-          "title": "NavigationStarting only raised once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649"
+          "title": "Hololens2 virtual keyboard not opening after javascript \"beforeunload\" event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654"
         },
         {
           "title": "Add to dictionary option is missing from the context menu",
@@ -10066,7 +10082,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         }
       ],
-      "rate": "78.00"
+      "rate": "80.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12060,6 +12076,10 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14055,10 +14075,14 @@
     },
     {
       "date": "2023-07-20",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-07-21",
       "unRespondedItems": [
         {
-          "title": "example code error related to `this` . reference",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2721"
+          "title": "Autenticador ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2723"
         }
       ],
       "rate": "97.92"
