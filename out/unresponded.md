@@ -1,4 +1,4 @@
-Response rate: 93.37%
+Response rate: 93.38%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -17,8 +17,8 @@ Response rate: 93.37%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
 * **MicrosoftEdge/WebView2Feedback** - _80.00%_
-  * [Hololens2 virtual keyboard not opening after javascript "bef...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
+  * [NavigationStarting only raised once](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
   * [CreateWebResourceResponse with content-encoding gzip](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629)
@@ -28,5 +28,5 @@ Response rate: 93.37%
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **MicrosoftDocs/edge-developer** - _97.96%_
   * [Autenticador ](https://github.com/MicrosoftDocs/edge-developer/issues/2723)

@@ -1994,6 +1994,10 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4026,6 +4030,10 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6025,6 +6033,10 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8024,6 +8036,10 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -10040,14 +10056,18 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [
-        {
-          "title": "Hololens2 virtual keyboard not opening after javascript \"beforeunload\" event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654"
-        },
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
+        {
+          "title": "NavigationStarting only raised once",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649"
         },
         {
           "title": "Downloads window makes items around it not clickable",
@@ -12080,6 +12100,10 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14079,13 +14103,17 @@
     },
     {
       "date": "2023-07-21",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-07-22",
       "unRespondedItems": [
         {
           "title": "Autenticador ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2723"
         }
       ],
-      "rate": "97.92"
+      "rate": "97.96"
     }
   ]
 }
