@@ -1,4 +1,4 @@
-Response rate: 93.38%
+Response rate: 93.07%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -28,5 +28,6 @@ Response rate: 93.38%
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.96%_
+* **MicrosoftDocs/edge-developer** - _95.83%_
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2727)
   * [Autenticador ](https://github.com/MicrosoftDocs/edge-developer/issues/2723)

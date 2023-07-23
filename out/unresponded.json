@@ -1998,6 +1998,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4034,6 +4038,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6037,6 +6045,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8040,6 +8052,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -10060,6 +10076,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [
         {
           "title": "Add to dictionary option is missing from the context menu",
@@ -12104,6 +12124,10 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14107,13 +14131,21 @@
     },
     {
       "date": "2023-07-22",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-07-23",
       "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2727"
+        },
         {
           "title": "Autenticador ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2723"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.83"
     }
   ]
 }
