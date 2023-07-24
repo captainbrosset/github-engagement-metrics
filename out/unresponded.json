@@ -2002,6 +2002,10 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4042,6 +4046,10 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6049,8 +6057,17 @@
     },
     {
       "date": "2023-07-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-24",
+      "unRespondedItems": [
+        {
+          "title": "\"Lighthouse is warming up...\" ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/169"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8056,6 +8073,10 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [
         {
           "title": "\"No node with given id found\" issue",
@@ -10080,10 +10101,18 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
+        {
+          "title": "Hololens2 virtual keyboard not opening after javascript \"beforeunload\" event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654"
         },
         {
           "title": "NavigationStarting only raised once",
@@ -10122,7 +10151,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12128,6 +12157,10 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14135,6 +14168,10 @@
     },
     {
       "date": "2023-07-23",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-07-24",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
