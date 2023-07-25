@@ -2006,6 +2006,10 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4050,6 +4054,10 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6061,13 +6069,12 @@
     },
     {
       "date": "2023-07-24",
-      "unRespondedItems": [
-        {
-          "title": "\"Lighthouse is warming up...\" ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/169"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-07-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8077,7 +8084,15 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [
+        {
+          "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
+        },
         {
           "title": "\"No node with given id found\" issue",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96"
@@ -8095,7 +8110,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10105,14 +10120,30 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [
+        {
+          "title": "How to debug when the Webview2 UI go into hang?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
+        },
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
         },
         {
-          "title": "Hololens2 virtual keyboard not opening after javascript \"beforeunload\" event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654"
+          "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
+        },
+        {
+          "title": "WebView2 PDF Menu doesn't display if your control is small on load; ever",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3656"
+        },
+        {
+          "title": "Crash when using SetVirtualHostMapping",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3652"
         },
         {
           "title": "NavigationStarting only raised once",
@@ -10151,7 +10182,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         }
       ],
-      "rate": "78.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12161,6 +12192,10 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14172,17 +14207,17 @@
     },
     {
       "date": "2023-07-24",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-07-25",
       "unRespondedItems": [
         {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2727"
-        },
-        {
-          "title": "Autenticador ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2723"
+          "title": "Specifying root folder when source is remote (VM via Azure Bastion)",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2730"
         }
       ],
-      "rate": "95.83"
+      "rate": "97.92"
     }
   ]
 }

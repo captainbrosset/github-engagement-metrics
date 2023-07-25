@@ -1,4 +1,4 @@
-Response rate: 92.50%
+Response rate: 91.94%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -10,16 +10,19 @@ Response rate: 92.50%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * ["Lighthouse is warming up..." ](https://github.com/MicrosoftEdge/DevTools/issues/169)
-* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+  * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
-  * [Hololens2 virtual keyboard not opening after javascript "bef...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3654)
+  * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
+  * [WebView2 PDF Menu doesn't display if your control is small o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3656)
+  * [Crash when using SetVirtualHostMapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3652)
   * [NavigationStarting only raised once](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
@@ -30,6 +33,5 @@ Response rate: 92.50%
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2727)
-  * [Autenticador ](https://github.com/MicrosoftDocs/edge-developer/issues/2723)
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [Specifying root folder when source is remote (VM via Azure B...](https://github.com/MicrosoftDocs/edge-developer/issues/2730)
