@@ -2010,6 +2010,10 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4058,6 +4062,10 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6073,6 +6081,10 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8088,6 +8100,10 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [
         {
           "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
@@ -10124,7 +10140,15 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [
+        {
+          "title": "Navigate to memory buffer (xml)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3661"
+        },
         {
           "title": "How to debug when the Webview2 UI go into hang?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
@@ -10134,20 +10158,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
         },
         {
+          "title": "window.chrome.webview.hostObjects.sync.MyFunc return weird Error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3660"
+        },
+        {
+          "title": "WebView window position is not set correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3659"
+        },
+        {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
-        },
-        {
-          "title": "WebView2 PDF Menu doesn't display if your control is small on load; ever",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3656"
-        },
-        {
-          "title": "Crash when using SetVirtualHostMapping",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3652"
-        },
-        {
-          "title": "NavigationStarting only raised once",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649"
         },
         {
           "title": "Downloads window makes items around it not clickable",
@@ -12196,8 +12216,33 @@
     },
     {
       "date": "2023-07-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-26",
+      "unRespondedItems": [
+        {
+          "title": "Can I request a feature? Thank you!",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1648"
+        },
+        {
+          "title": "Issue features",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1647"
+        },
+        {
+          "title": "Title",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1645"
+        },
+        {
+          "title": "this <",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1644"
+        },
+        {
+          "title": "my < tag isnt working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1643"
+        }
+      ],
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14211,13 +14256,21 @@
     },
     {
       "date": "2023-07-25",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-07-26",
       "unRespondedItems": [
+        {
+          "title": "sidebar api not working",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2731"
+        },
         {
           "title": "Specifying root folder when source is remote (VM via Azure Bastion)",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2730"
         }
       ],
-      "rate": "97.92"
+      "rate": "95.83"
     }
   ]
 }

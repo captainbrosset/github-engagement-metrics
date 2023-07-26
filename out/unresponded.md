@@ -1,4 +1,4 @@
-Response rate: 91.94%
+Response rate: 90.21%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -18,12 +18,12 @@ Response rate: 91.94%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
 * **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Navigate to memory buffer (xml)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3661)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
+  * [window.chrome.webview.hostObjects.sync.MyFunc return weird E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3660)
+  * [WebView window position is not set correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3659)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-  * [WebView2 PDF Menu doesn't display if your control is small o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3656)
-  * [Crash when using SetVirtualHostMapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3652)
-  * [NavigationStarting only raised once](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3649)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
   * [CreateWebResourceResponse with content-encoding gzip](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629)
@@ -32,6 +32,12 @@ Response rate: 91.94%
   * [Getting unexpected Windows Security login dialog for SSO](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621)
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Can I request a feature? Thank you!](https://github.com/microsoft/vscode-edge-devtools/issues/1648)
+  * [Issue features](https://github.com/microsoft/vscode-edge-devtools/issues/1647)
+  * [Title](https://github.com/microsoft/vscode-edge-devtools/issues/1645)
+  * [this <](https://github.com/microsoft/vscode-edge-devtools/issues/1644)
+  * [my < tag isnt working](https://github.com/microsoft/vscode-edge-devtools/issues/1643)
+* **MicrosoftDocs/edge-developer** - _95.83%_
+  * [sidebar api not working](https://github.com/MicrosoftDocs/edge-developer/issues/2731)
   * [Specifying root folder when source is remote (VM via Azure B...](https://github.com/MicrosoftDocs/edge-developer/issues/2730)
