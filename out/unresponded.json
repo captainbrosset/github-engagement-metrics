@@ -2014,6 +2014,10 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4066,6 +4070,10 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6085,6 +6093,10 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8104,10 +8116,18 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [
         {
           "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
+        },
+        {
+          "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions?",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
         },
         {
           "title": "\"No node with given id found\" issue",
@@ -8126,7 +8146,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10144,10 +10164,14 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [
         {
-          "title": "Navigate to memory buffer (xml)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3661"
+          "title": "XSLT Transformation query",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3663"
         },
         {
           "title": "How to debug when the Webview2 UI go into hang?",
@@ -10156,14 +10180,6 @@
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
-        },
-        {
-          "title": "window.chrome.webview.hostObjects.sync.MyFunc return weird Error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3660"
-        },
-        {
-          "title": "WebView window position is not set correctly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3659"
         },
         {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
@@ -10202,7 +10218,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         }
       ],
-      "rate": "72.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12220,7 +12236,19 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [
+        {
+          "title": "edge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1650"
+        },
+        {
+          "title": "my live server extention is not working in my system.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1649"
+        },
         {
           "title": "Can I request a feature? Thank you!",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1648"
@@ -12242,7 +12270,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1643"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14260,6 +14288,10 @@
     },
     {
       "date": "2023-07-26",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-07-27",
       "unRespondedItems": [
         {
           "title": "sidebar api not working",

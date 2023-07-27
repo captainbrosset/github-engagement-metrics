@@ -1,4 +1,4 @@
-Response rate: 90.21%
+Response rate: 89.93%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -11,18 +11,17 @@ Response rate: 90.21%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
   * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
+  * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [EdgeDriver.GetDevToolsSession hangs SocketException](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [Navigate to memory buffer (xml)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3661)
+* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+  * [XSLT Transformation query](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3663)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
-  * [window.chrome.webview.hostObjects.sync.MyFunc return weird E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3660)
-  * [WebView window position is not set correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3659)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
   * [Downloads window makes items around it not clickable](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
@@ -32,7 +31,9 @@ Response rate: 90.21%
   * [Getting unexpected Windows Security login dialog for SSO](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621)
   * [Canary fails with __debugbreak() and illegal instruction whe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613)
   * [Control location coordinates incorrect when using UIAutomati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [edge](https://github.com/microsoft/vscode-edge-devtools/issues/1650)
+  * [my live server extention is not working in my system.](https://github.com/microsoft/vscode-edge-devtools/issues/1649)
   * [Can I request a feature? Thank you!](https://github.com/microsoft/vscode-edge-devtools/issues/1648)
   * [Issue features](https://github.com/microsoft/vscode-edge-devtools/issues/1647)
   * [Title](https://github.com/microsoft/vscode-edge-devtools/issues/1645)
