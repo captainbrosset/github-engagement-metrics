@@ -2018,6 +2018,10 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4074,8 +4078,21 @@
     },
     {
       "date": "2023-07-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-07-28",
+      "unRespondedItems": [
+        {
+          "title": "https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/README.md",
+          "url": "https://github.com/MicrosoftEdge/Demos/issues/23"
+        },
+        {
+          "title": "Update URLs to `selectmenu` proposal",
+          "url": "https://github.com/MicrosoftEdge/Demos/pull/22"
+        }
+      ],
+      "rate": "90.48"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -6097,6 +6114,10 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8120,14 +8141,18 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [
+        {
+          "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
+        },
         {
           "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
-        },
-        {
-          "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions?",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
         },
         {
           "title": "\"No node with given id found\" issue",
@@ -8140,13 +8165,9 @@
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
-        },
-        {
-          "title": "EdgeDriver.GetDevToolsSession hangs SocketException",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/65"
         }
       ],
-      "rate": "88.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10168,7 +10189,23 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [
+        {
+          "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
+        },
+        {
+          "title": "put_ShouldDetectMonitorScaleChanges unable to block Windows DPI scale",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3665"
+        },
+        {
+          "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
+        },
         {
           "title": "XSLT Transformation query",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3663"
@@ -10184,10 +10221,6 @@
         {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
-        },
-        {
-          "title": "Downloads window makes items around it not clickable",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3638"
         },
         {
           "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
@@ -10212,13 +10245,9 @@
         {
           "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
-        },
-        {
-          "title": "Control location coordinates incorrect when using UIAutomation and monitor scaling",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3608"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12240,7 +12269,31 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [
+        {
+          "title": "CONJ App",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1655"
+        },
+        {
+          "title": "Front-End",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1654"
+        },
+        {
+          "title": "S",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1653"
+        },
+        {
+          "title": "in my laptop cursor is not working properly and when I am trying to delete the letters it was not deleting it's moving",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1652"
+        },
+        {
+          "title": "php",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1651"
+        },
         {
           "title": "edge",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1650"
@@ -12270,7 +12323,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1643"
         }
       ],
-      "rate": "86.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14292,6 +14345,10 @@
     },
     {
       "date": "2023-07-27",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-07-28",
       "unRespondedItems": [
         {
           "title": "sidebar api not working",
