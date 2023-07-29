@@ -2022,6 +2022,10 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4082,17 +4086,17 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "90.48"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
         {
           "title": "https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/README.md",
           "url": "https://github.com/MicrosoftEdge/Demos/issues/23"
-        },
-        {
-          "title": "Update URLs to `selectmenu` proposal",
-          "url": "https://github.com/MicrosoftEdge/Demos/pull/22"
         }
       ],
-      "rate": "90.48"
+      "rate": "95.24"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -6118,6 +6122,10 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8145,6 +8153,10 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
         {
           "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
@@ -10193,22 +10205,26 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
+        {
+          "title": "equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671"
+        },
+        {
+          "title": "Permission for bluetooth scan",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3670"
+        },
         {
           "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
         },
         {
-          "title": "put_ShouldDetectMonitorScaleChanges unable to block Windows DPI scale",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3665"
-        },
-        {
           "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
-        },
-        {
-          "title": "XSLT Transformation query",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3663"
         },
         {
           "title": "How to debug when the Webview2 UI go into hang?",
@@ -10217,6 +10233,10 @@
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
+        {
+          "title": "put_ShouldDetectMonitorScaleChanges unable to block Windows DPI scale",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3665"
         },
         {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
@@ -10241,10 +10261,6 @@
         {
           "title": "Getting unexpected Windows Security login dialog for SSO",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
-        },
-        {
-          "title": "Canary fails with __debugbreak() and illegal instruction when accessing COM-property that return NULL for BSTR",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3613"
         }
       ],
       "rate": "74.00"
@@ -12273,7 +12289,15 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
+        {
+          "title": "Cursor Pointer Issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1656"
+        },
         {
           "title": "CONJ App",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1655"
@@ -12323,7 +12347,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1643"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14349,7 +14373,15 @@
     },
     {
       "date": "2023-07-28",
+      "rate": "95.83"
+    },
+    {
+      "date": "2023-07-29",
       "unRespondedItems": [
+        {
+          "title": "Experimental Edge Features",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2732"
+        },
         {
           "title": "sidebar api not working",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2731"
@@ -14359,7 +14391,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2730"
         }
       ],
-      "rate": "95.83"
+      "rate": "94.00"
     }
   ]
 }
