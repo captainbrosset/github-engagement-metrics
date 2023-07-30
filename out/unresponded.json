@@ -2026,6 +2026,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4090,6 +4094,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "95.24"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
         {
           "title": "https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/README.md",
@@ -6126,6 +6134,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8157,6 +8169,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
         {
           "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
@@ -10209,6 +10225,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
         {
           "title": "equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ",
@@ -12293,6 +12313,10 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
         {
           "title": "Cursor Pointer Issue",
@@ -14377,7 +14401,59 @@
     },
     {
       "date": "2023-07-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-07-30",
       "unRespondedItems": [
+        {
+          "title": "people",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2745"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2744"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2743"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2742"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2741"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2740"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2739"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2738"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2737"
+        },
+        {
+          "title": "\",",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2736"
+        },
+        {
+          "title": "\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2735"
+        },
+        {
+          "title": "\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2734"
+        },
         {
           "title": "Experimental Edge Features",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2732"
@@ -14391,7 +14467,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2730"
         }
       ],
-      "rate": "94.00"
+      "rate": "70.00"
     }
   ]
 }

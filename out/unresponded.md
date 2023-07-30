@@ -1,4 +1,4 @@
-Response rate: 87.27%
+Response rate: 83.84%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -46,7 +46,19 @@ Response rate: 87.27%
   * [Title](https://github.com/microsoft/vscode-edge-devtools/issues/1645)
   * [this <](https://github.com/microsoft/vscode-edge-devtools/issues/1644)
   * [my < tag isnt working](https://github.com/microsoft/vscode-edge-devtools/issues/1643)
-* **MicrosoftDocs/edge-developer** - _94.00%_
+* **MicrosoftDocs/edge-developer** - _70.00%_
+  * [people](https://github.com/MicrosoftDocs/edge-developer/issues/2745)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2744)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2743)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2742)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2741)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2740)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2739)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2738)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2737)
+  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2736)
+  * ["](https://github.com/MicrosoftDocs/edge-developer/issues/2735)
+  * ["](https://github.com/MicrosoftDocs/edge-developer/issues/2734)
   * [Experimental Edge Features](https://github.com/MicrosoftDocs/edge-developer/issues/2732)
   * [sidebar api not working](https://github.com/MicrosoftDocs/edge-developer/issues/2731)
   * [Specifying root folder when source is remote (VM via Azure B...](https://github.com/MicrosoftDocs/edge-developer/issues/2730)
