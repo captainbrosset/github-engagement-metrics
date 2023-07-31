@@ -2030,6 +2030,10 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4098,6 +4102,10 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "95.24"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
         {
           "title": "https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/README.md",
@@ -6138,6 +6146,10 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8173,7 +8185,15 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
+        {
+          "title": "[1690704215.872][SEVERE]: Error parsing certificate: ERROR: Failed parsing extensions",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99"
+        },
         {
           "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
@@ -8195,7 +8215,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10229,7 +10249,15 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
+        {
+          "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
+        },
         {
           "title": "equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671"
@@ -10283,7 +10311,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12317,6 +12345,10 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
         {
           "title": "Cursor Pointer Issue",
@@ -14405,6 +14437,10 @@
     },
     {
       "date": "2023-07-30",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-07-31",
       "unRespondedItems": [
         {
           "title": "people",

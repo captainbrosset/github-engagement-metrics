@@ -1,4 +1,4 @@
-Response rate: 83.84%
+Response rate: 83.27%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -12,13 +12,15 @@ Response rate: 83.84%
 * **MicrosoftEdge/demos** - _95.24%_
   * [https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/...](https://github.com/MicrosoftEdge/Demos/issues/23)
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+  * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
   * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671)
   * [Permission for bluetooth scan](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3670)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
