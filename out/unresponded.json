@@ -2034,6 +2034,10 @@
     },
     {
       "date": "2023-07-31",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-08-01",
       "unRespondedItems": [
         {
           "title": "help ",
@@ -4106,13 +4110,12 @@
     },
     {
       "date": "2023-07-31",
-      "unRespondedItems": [
-        {
-          "title": "https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/README.md",
-          "url": "https://github.com/MicrosoftEdge/Demos/issues/23"
-        }
-      ],
       "rate": "95.24"
+    },
+    {
+      "date": "2023-08-01",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -6150,6 +6153,10 @@
     },
     {
       "date": "2023-07-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8189,6 +8196,10 @@
     },
     {
       "date": "2023-07-31",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-08-01",
       "unRespondedItems": [
         {
           "title": "[1690704215.872][SEVERE]: Error parsing certificate: ERROR: Failed parsing extensions",
@@ -10253,18 +10264,18 @@
     },
     {
       "date": "2023-07-31",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-08-01",
       "unRespondedItems": [
         {
-          "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
+          "title": "In WebView2 PDF toolbar buttons disappear or get disabled.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3676"
         },
         {
-          "title": "equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671"
-        },
-        {
-          "title": "Permission for bluetooth scan",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3670"
+          "title": "The control is not loading while using Webview2 in the HybridWebview custom renderer on the Xamarin.Forms.UWP platform.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3673"
         },
         {
           "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
@@ -10281,6 +10292,14 @@
         {
           "title": "Add to dictionary option is missing from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
+        },
+        {
+          "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
+        },
+        {
+          "title": "equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671"
         },
         {
           "title": "put_ShouldDetectMonitorScaleChanges unable to block Windows DPI scale",
@@ -10311,7 +10330,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12349,61 +12368,12 @@
     },
     {
       "date": "2023-07-31",
-      "unRespondedItems": [
-        {
-          "title": "Cursor Pointer Issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1656"
-        },
-        {
-          "title": "CONJ App",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1655"
-        },
-        {
-          "title": "Front-End",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1654"
-        },
-        {
-          "title": "S",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1653"
-        },
-        {
-          "title": "in my laptop cursor is not working properly and when I am trying to delete the letters it was not deleting it's moving",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1652"
-        },
-        {
-          "title": "php",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1651"
-        },
-        {
-          "title": "edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1650"
-        },
-        {
-          "title": "my live server extention is not working in my system.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1649"
-        },
-        {
-          "title": "Can I request a feature? Thank you!",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1648"
-        },
-        {
-          "title": "Issue features",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1647"
-        },
-        {
-          "title": "Title",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1645"
-        },
-        {
-          "title": "this <",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1644"
-        },
-        {
-          "title": "my < tag isnt working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1643"
-        }
-      ],
       "rate": "74.00"
+    },
+    {
+      "date": "2023-08-01",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14441,69 +14411,12 @@
     },
     {
       "date": "2023-07-31",
-      "unRespondedItems": [
-        {
-          "title": "people",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2745"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2744"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2743"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2742"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2741"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2740"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2739"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2738"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2737"
-        },
-        {
-          "title": "\",",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2736"
-        },
-        {
-          "title": "\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2735"
-        },
-        {
-          "title": "\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2734"
-        },
-        {
-          "title": "Experimental Edge Features",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2732"
-        },
-        {
-          "title": "sidebar api not working",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2731"
-        },
-        {
-          "title": "Specifying root folder when source is remote (VM via Azure Bastion)",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2730"
-        }
-      ],
       "rate": "70.00"
+    },
+    {
+      "date": "2023-08-01",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

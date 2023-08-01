@@ -1,4 +1,4 @@
-Response rate: 83.27%
+Response rate: 91.67%
 
 * **webhintio/hint** - _83.67%_
   * [help ](https://github.com/webhintio/hint/issues/5660)
@@ -9,8 +9,7 @@ Response rate: 83.27%
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
-* **MicrosoftEdge/demos** - _95.24%_
-  * [https://github.com/MicrosoftEdge/Demos/blob/main/demo-to-do/...](https://github.com/MicrosoftEdge/Demos/issues/23)
+* **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _88.00%_
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
@@ -19,14 +18,15 @@ Response rate: 83.27%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
-  * [equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671)
-  * [Permission for bluetooth scan](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3670)
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [In WebView2 PDF toolbar buttons disappear or get disabled.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3676)
+  * [The control is not loading while using Webview2 in the Hybri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3673)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
+  * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
+  * [equivalent of ChromiumWebBrowser.GetHost().SendKeyEvent() ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3671)
   * [put_ShouldDetectMonitorScaleChanges unable to block Windows ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3665)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
@@ -34,33 +34,5 @@ Response rate: 83.27%
   * [corewebview2  select tag  in flutter can't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628)
   * [Not able to use Edge webview WPF sample app when there are m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3626)
   * [Getting unexpected Windows Security login dialog for SSO](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621)
-* **microsoft/vscode-edge-devtools** - _74.00%_
-  * [Cursor Pointer Issue](https://github.com/microsoft/vscode-edge-devtools/issues/1656)
-  * [CONJ App](https://github.com/microsoft/vscode-edge-devtools/issues/1655)
-  * [Front-End](https://github.com/microsoft/vscode-edge-devtools/issues/1654)
-  * [S](https://github.com/microsoft/vscode-edge-devtools/issues/1653)
-  * [in my laptop cursor is not working properly and when I am tr...](https://github.com/microsoft/vscode-edge-devtools/issues/1652)
-  * [php](https://github.com/microsoft/vscode-edge-devtools/issues/1651)
-  * [edge](https://github.com/microsoft/vscode-edge-devtools/issues/1650)
-  * [my live server extention is not working in my system.](https://github.com/microsoft/vscode-edge-devtools/issues/1649)
-  * [Can I request a feature? Thank you!](https://github.com/microsoft/vscode-edge-devtools/issues/1648)
-  * [Issue features](https://github.com/microsoft/vscode-edge-devtools/issues/1647)
-  * [Title](https://github.com/microsoft/vscode-edge-devtools/issues/1645)
-  * [this <](https://github.com/microsoft/vscode-edge-devtools/issues/1644)
-  * [my < tag isnt working](https://github.com/microsoft/vscode-edge-devtools/issues/1643)
-* **MicrosoftDocs/edge-developer** - _70.00%_
-  * [people](https://github.com/MicrosoftDocs/edge-developer/issues/2745)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2744)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2743)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2742)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2741)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2740)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2739)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2738)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2737)
-  * [",](https://github.com/MicrosoftDocs/edge-developer/issues/2736)
-  * ["](https://github.com/MicrosoftDocs/edge-developer/issues/2735)
-  * ["](https://github.com/MicrosoftDocs/edge-developer/issues/2734)
-  * [Experimental Edge Features](https://github.com/MicrosoftDocs/edge-developer/issues/2732)
-  * [sidebar api not working](https://github.com/MicrosoftDocs/edge-developer/issues/2731)
-  * [Specifying root folder when source is remote (VM via Azure B...](https://github.com/MicrosoftDocs/edge-developer/issues/2730)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_
