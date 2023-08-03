@@ -2042,6 +2042,10 @@
     },
     {
       "date": "2023-08-02",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -2050,10 +2054,6 @@
         {
           "title": "[Bug] Browserslist configuration not being followed",
           "url": "https://github.com/webhintio/hint/issues/5556"
-        },
-        {
-          "title": "Error: EACCES: permission denied, copyfile",
-          "url": "https://github.com/webhintio/hint/issues/5432"
         },
         {
           "title": "[Bug] `yarn build` fails on a fresh clone of this repository",
@@ -2068,7 +2068,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "87.76"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4114,6 +4114,10 @@
     },
     {
       "date": "2023-08-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6161,8 +6165,17 @@
     },
     {
       "date": "2023-08-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-03",
+      "unRespondedItems": [
+        {
+          "title": "Dev tool crashes Edge completely when viewing .mht files",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/170"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8208,6 +8221,10 @@
     },
     {
       "date": "2023-08-02",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-08-03",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10284,10 +10301,18 @@
     },
     {
       "date": "2023-08-02",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-08-03",
       "unRespondedItems": [
         {
-          "title": "reentrance error in debug mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3677"
+          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
+        },
+        {
+          "title": "AddHostObjectToScript() results in exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680"
         },
         {
           "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
@@ -10310,10 +10335,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
         },
         {
-          "title": "put_ShouldDetectMonitorScaleChanges unable to block Windows DPI scale",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3665"
-        },
-        {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         },
@@ -10328,13 +10349,9 @@
         {
           "title": "corewebview2  select tag  in flutter can't work correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628"
-        },
-        {
-          "title": "Getting unexpected Windows Security login dialog for SSO",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3621"
         }
       ],
-      "rate": "76.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12380,18 +12397,22 @@
     },
     {
       "date": "2023-08-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-03",
       "unRespondedItems": [
         {
-          "title": "Git/Test",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1660"
+          "title": "casa avi",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1664"
         },
         {
-          "title": "not opening",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1659"
+          "title": "casa avi",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1663"
         },
         {
-          "title": "Support for web too.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1658"
+          "title": "Activity 3",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1662"
         }
       ],
       "rate": "94.00"
@@ -14440,13 +14461,12 @@
     },
     {
       "date": "2023-08-02",
-      "unRespondedItems": [
-        {
-          "title": "Where is \"To enable widget support in Microsoft Edge for users of your production PWA, enroll your site in the Web App Widgets origin trial.\"  ?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2749"
-        }
-      ],
       "rate": "97.96"
+    },
+    {
+      "date": "2023-08-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
