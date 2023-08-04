@@ -2046,7 +2046,15 @@
     },
     {
       "date": "2023-08-03",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-08-04",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5688"
+        },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
           "url": "https://github.com/webhintio/hint/issues/5563"
@@ -2068,7 +2076,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "89.80"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4118,6 +4126,10 @@
     },
     {
       "date": "2023-08-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6169,13 +6181,12 @@
     },
     {
       "date": "2023-08-03",
-      "unRespondedItems": [
-        {
-          "title": "Dev tool crashes Edge completely when viewing .mht files",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/170"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-08-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8225,7 +8236,15 @@
     },
     {
       "date": "2023-08-03",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-08-04",
       "unRespondedItems": [
+        {
+          "title": "Microsoft Edge WebDriver 115 fails to launch browser with \"cannot find msedge binary\" on Linux",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/102"
+        },
         {
           "title": "DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
@@ -8255,7 +8274,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10305,10 +10324,14 @@
     },
     {
       "date": "2023-08-03",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-04",
       "unRespondedItems": [
         {
-          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
+          "title": "FIPS Compliance",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
         },
         {
           "title": "AddHostObjectToScript() results in exception",
@@ -10331,6 +10354,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
         },
         {
+          "title": "Touchscreen not working after rapidly clicking while app startup",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685"
+        },
+        {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
         },
@@ -10351,7 +10378,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12401,21 +12428,21 @@
     },
     {
       "date": "2023-08-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-04",
       "unRespondedItems": [
         {
-          "title": "casa avi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1664"
+          "title": "web guyane",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1667"
         },
         {
-          "title": "casa avi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1663"
-        },
-        {
-          "title": "Activity 3",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1662"
+          "title": "preview",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1666"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14465,8 +14492,25 @@
     },
     {
       "date": "2023-08-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-04",
+      "unRespondedItems": [
+        {
+          "title": "test",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2759"
+        },
+        {
+          "title": "journey begin",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2757"
+        },
+        {
+          "title": "Missing docs about the Easing editor feature",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2755"
+        }
+      ],
+      "rate": "93.75"
     }
   ]
 }
