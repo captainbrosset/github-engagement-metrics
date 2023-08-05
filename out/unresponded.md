@@ -1,4 +1,4 @@
-Response rate: 91.07%
+Response rate: 89.83%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
@@ -7,10 +7,10 @@ Response rate: 91.07%
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
-* **MicrosoftEdge/demos** - _100.00%_
+* **MicrosoftEdge/demos** - _95.45%_
+  * [detached-elements demo shows [object Promise] in Detached El...](https://github.com/MicrosoftEdge/Demos/issues/24)
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
-  * [Microsoft Edge WebDriver 115 fails to launch browser with "c...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/102)
+* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
@@ -18,7 +18,10 @@ Response rate: 91.07%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [BinSkim warns that Microsoft.Web.WebView2.Core.dll does not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689)
+  * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
+  * [EmbeddedBrowserWebView.dll crash on Callback to add_NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3686)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
@@ -29,12 +32,12 @@ Response rate: 91.07%
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
-  * [CreateWebResourceResponse with content-encoding gzip](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629)
-  * [corewebview2  select tag  in flutter can't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628)
 * **microsoft/vscode-edge-devtools** - _96.00%_
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
-* **MicrosoftDocs/edge-developer** - _93.75%_
+* **MicrosoftDocs/edge-developer** - _89.58%_
+  * [Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation p...](https://github.com/MicrosoftDocs/edge-developer/issues/2762)
   * [test](https://github.com/MicrosoftDocs/edge-developer/issues/2759)
   * [journey begin](https://github.com/MicrosoftDocs/edge-developer/issues/2757)
   * [Missing docs about the Easing editor feature](https://github.com/MicrosoftDocs/edge-developer/issues/2755)
+  * [PWA widgets isn't working](https://github.com/MicrosoftDocs/edge-developer/issues/2763)

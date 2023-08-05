@@ -2050,6 +2050,10 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4130,8 +4134,17 @@
     },
     {
       "date": "2023-08-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-05",
+      "unRespondedItems": [
+        {
+          "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
+          "url": "https://github.com/MicrosoftEdge/Demos/issues/24"
+        }
+      ],
+      "rate": "95.45"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -6185,6 +6198,10 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8240,11 +8257,11 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [
-        {
-          "title": "Microsoft Edge WebDriver 115 fails to launch browser with \"cannot find msedge binary\" on Linux",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/102"
-        },
         {
           "title": "DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
@@ -8274,7 +8291,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10328,7 +10345,23 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [
+        {
+          "title": "BinSkim warns that Microsoft.Web.WebView2.Core.dll does not enable Control-flow Enforcement Technology (CET) Shadow Stack mitigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689"
+        },
+        {
+          "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
+        },
+        {
+          "title": "EmbeddedBrowserWebView.dll crash on Callback to add_NewWindowRequested only when add_ServerCertificateErrorDetected is added",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3686"
+        },
         {
           "title": "FIPS Compliance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
@@ -10368,17 +10401,9 @@
         {
           "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
-        },
-        {
-          "title": "CreateWebResourceResponse with content-encoding gzip",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3629"
-        },
-        {
-          "title": "corewebview2  select tag  in flutter can't work correctly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3628"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12432,6 +12457,10 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [
         {
           "title": "web guyane",
@@ -14496,7 +14525,15 @@
     },
     {
       "date": "2023-08-04",
+      "rate": "93.75"
+    },
+    {
+      "date": "2023-08-05",
       "unRespondedItems": [
+        {
+          "title": "Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation problem",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2762"
+        },
         {
           "title": "test",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2759"
@@ -14508,9 +14545,13 @@
         {
           "title": "Missing docs about the Easing editor feature",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2755"
+        },
+        {
+          "title": "PWA widgets isn't working",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2763"
         }
       ],
-      "rate": "93.75"
+      "rate": "89.58"
     }
   ]
 }
