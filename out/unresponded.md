@@ -1,4 +1,4 @@
-Response rate: 89.83%
+Response rate: 89.54%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
@@ -32,7 +32,8 @@ Response rate: 89.83%
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [application de calcule de chaque consommation](https://github.com/microsoft/vscode-edge-devtools/issues/1668)
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
 * **MicrosoftDocs/edge-developer** - _89.58%_
