@@ -1,4 +1,4 @@
-Response rate: 89.54%
+Response rate: 87.19%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
@@ -10,15 +10,17 @@ Response rate: 89.54%
 * **MicrosoftEdge/demos** - _95.45%_
   * [detached-elements demo shows [object Promise] in Detached El...](https://github.com/MicrosoftEdge/Demos/issues/24)
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
   * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
+  * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [the biggest security hole and crap ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3690)
   * [BinSkim warns that Microsoft.Web.WebView2.Core.dll does not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
   * [EmbeddedBrowserWebView.dll crash on Callback to add_NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3686)
@@ -29,14 +31,20 @@ Response rate: 89.54%
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
   * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [Touchscreen not working after rapidly clicking while app sta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685)
+  * [Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does noth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
   * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [$ npm install axios](https://github.com/microsoft/vscode-edge-devtools/issues/1672)
+  * [let ](https://github.com/microsoft/vscode-edge-devtools/issues/1670)
+  * [vs studio](https://github.com/microsoft/vscode-edge-devtools/issues/1669)
   * [application de calcule de chaque consommation](https://github.com/microsoft/vscode-edge-devtools/issues/1668)
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
-* **MicrosoftDocs/edge-developer** - _89.58%_
+* **MicrosoftDocs/edge-developer** - _85.11%_
+  * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2769)
+  * [please unlock the page](https://github.com/MicrosoftDocs/edge-developer/issues/2766)
   * [Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation p...](https://github.com/MicrosoftDocs/edge-developer/issues/2762)
   * [test](https://github.com/MicrosoftDocs/edge-developer/issues/2759)
   * [journey begin](https://github.com/MicrosoftDocs/edge-developer/issues/2757)

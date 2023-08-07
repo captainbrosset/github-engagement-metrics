@@ -2058,6 +2058,10 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4146,6 +4150,10 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6214,6 +6222,10 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8277,6 +8289,10 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -8295,6 +8311,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
         },
         {
+          "title": "EdgeDriver throw exception when it's under SYSTEM account",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100"
+        },
+        {
           "title": "\"No node with given id found\" issue",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96"
         },
@@ -8307,7 +8327,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10369,7 +10389,15 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
+        {
+          "title": "the biggest security hole and crap ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3690"
+        },
         {
           "title": "BinSkim warns that Microsoft.Web.WebView2.Core.dll does not enable Control-flow Enforcement Technology (CET) Shadow Stack mitigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689"
@@ -10411,6 +10439,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685"
         },
         {
+          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
+        },
+        {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
         },
@@ -10423,7 +10455,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12485,7 +12517,23 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
+        {
+          "title": "$ npm install axios",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1672"
+        },
+        {
+          "title": "let ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1670"
+        },
+        {
+          "title": "vs studio",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1669"
+        },
         {
           "title": "application de calcule de chaque consommation",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1668"
@@ -12499,7 +12547,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1666"
         }
       ],
-      "rate": "94.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14561,7 +14609,19 @@
     },
     {
       "date": "2023-08-06",
+      "rate": "89.58"
+    },
+    {
+      "date": "2023-08-07",
       "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2769"
+        },
+        {
+          "title": "please unlock the page",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2766"
+        },
         {
           "title": "Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation problem",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2762"
@@ -14583,7 +14643,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2763"
         }
       ],
-      "rate": "89.58"
+      "rate": "85.11"
     }
   ]
 }
