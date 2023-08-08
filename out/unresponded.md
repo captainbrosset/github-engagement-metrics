@@ -1,4 +1,4 @@
-Response rate: 87.19%
+Response rate: 87.79%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
@@ -19,30 +19,28 @@ Response rate: 87.19%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [the biggest security hole and crap ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3690)
-  * [BinSkim warns that Microsoft.Web.WebView2.Core.dll does not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689)
-  * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
-  * [EmbeddedBrowserWebView.dll crash on Callback to add_NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3686)
+* **MicrosoftEdge/WebView2Feedback** - _82.00%_
+  * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
+  * [WebView2 PDF printing should default to Actual Size, not Fit...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3691)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
-  * [Add to dictionary option is missing from the context menu](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632)
   * [Touchscreen not working after rapidly clicking while app sta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685)
-  * [Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does noth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681)
-  * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-  * [sharing a CoreWebView2Environment across a CoreWebView2Contr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _82.00%_
+  * [https://github.com/Zws-China/WSLoginView.git](https://github.com/microsoft/vscode-edge-devtools/issues/1675)
+  * [backspace not wor](https://github.com/microsoft/vscode-edge-devtools/issues/1674)
+  * [I use nvm.fish install node ,but plugin don't identify them。...](https://github.com/microsoft/vscode-edge-devtools/issues/1673)
   * [$ npm install axios](https://github.com/microsoft/vscode-edge-devtools/issues/1672)
   * [let ](https://github.com/microsoft/vscode-edge-devtools/issues/1670)
   * [vs studio](https://github.com/microsoft/vscode-edge-devtools/issues/1669)
   * [application de calcule de chaque consommation](https://github.com/microsoft/vscode-edge-devtools/issues/1668)
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
-* **MicrosoftDocs/edge-developer** - _85.11%_
+* **MicrosoftDocs/edge-developer** - _83.33%_
+  * [Typo in script](https://github.com/MicrosoftDocs/edge-developer/issues/2770)
   * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2769)
   * [please unlock the page](https://github.com/MicrosoftDocs/edge-developer/issues/2766)
   * [Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation p...](https://github.com/MicrosoftDocs/edge-developer/issues/2762)

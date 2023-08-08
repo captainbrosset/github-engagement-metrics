@@ -2062,6 +2062,10 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4154,6 +4158,10 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6226,6 +6234,10 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8293,6 +8305,10 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10393,22 +10409,18 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
         {
-          "title": "the biggest security hole and crap ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3690"
+          "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
         },
         {
-          "title": "BinSkim warns that Microsoft.Web.WebView2.Core.dll does not enable Control-flow Enforcement Technology (CET) Shadow Stack mitigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3689"
-        },
-        {
-          "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
-        },
-        {
-          "title": "EmbeddedBrowserWebView.dll crash on Callback to add_NewWindowRequested only when add_ServerCertificateErrorDetected is added",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3686"
+          "title": "WebView2 PDF printing should default to Actual Size, not Fit To Page",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3691"
         },
         {
           "title": "FIPS Compliance",
@@ -10431,31 +10443,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
         },
         {
-          "title": "Add to dictionary option is missing from the context menu",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3632"
-        },
-        {
           "title": "Touchscreen not working after rapidly clicking while app startup",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685"
         },
         {
-          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
-        },
-        {
-          "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
-        },
-        {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
-        },
-        {
-          "title": "sharing a CoreWebView2Environment across a CoreWebView2Controller and a WPF WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3634"
         }
       ],
-      "rate": "70.00"
+      "rate": "82.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12521,7 +12517,23 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
+        {
+          "title": "https://github.com/Zws-China/WSLoginView.git",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1675"
+        },
+        {
+          "title": "backspace not wor",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1674"
+        },
+        {
+          "title": "I use nvm.fish install node ,but plugin don't identify them。",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1673"
+        },
         {
           "title": "$ npm install axios",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1672"
@@ -12547,7 +12559,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1666"
         }
       ],
-      "rate": "88.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14613,7 +14625,15 @@
     },
     {
       "date": "2023-08-07",
+      "rate": "85.11"
+    },
+    {
+      "date": "2023-08-08",
       "unRespondedItems": [
+        {
+          "title": "Typo in script",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2770"
+        },
         {
           "title": "[Edge WebDriver Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2769"
@@ -14643,7 +14663,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2763"
         }
       ],
-      "rate": "85.11"
+      "rate": "83.33"
     }
   ]
 }
