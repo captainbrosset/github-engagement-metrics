@@ -1,4 +1,4 @@
-Response rate: 86.38%
+Response rate: 86.40%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
@@ -19,21 +19,22 @@ Response rate: 86.38%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
-  * [WebView2 isn't respecting the Profile.PreferredColorScheme f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3696)
-  * [How to enable the browser extensions in WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694)
-  * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
-  * [WebView2 PDF printing should default to Actual Size, not Fit...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3691)
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+  * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
+  * [webview is not comprised when apps use webview there is a ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
-  * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
+  * [How to enable the browser extensions in WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
-  * [Touchscreen not working after rapidly clicking while app sta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
+  * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-* **microsoft/vscode-edge-devtools** - _78.00%_
+* **microsoft/vscode-edge-devtools** - _70.00%_
+  * [not working properly](https://github.com/microsoft/vscode-edge-devtools/issues/1680)
+  * [index.html](https://github.com/microsoft/vscode-edge-devtools/issues/1679)
+  * [sup](https://github.com/microsoft/vscode-edge-devtools/issues/1678)
   * [my javascript code is not running on my vs code ](https://github.com/microsoft/vscode-edge-devtools/issues/1677)
   * [rumah kopetensi](https://github.com/microsoft/vscode-edge-devtools/issues/1676)
   * [https://github.com/Zws-China/WSLoginView.git](https://github.com/microsoft/vscode-edge-devtools/issues/1675)
@@ -45,11 +46,10 @@ Response rate: 86.38%
   * [application de calcule de chaque consommation](https://github.com/microsoft/vscode-edge-devtools/issues/1668)
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
-* **MicrosoftDocs/edge-developer** - _85.42%_
+  * [EmoZen](https://github.com/microsoft/vscode-edge-devtools/issues/1681)
+* **MicrosoftDocs/edge-developer** - _89.58%_
   * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2769)
   * [please unlock the page](https://github.com/MicrosoftDocs/edge-developer/issues/2766)
-  * [Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation p...](https://github.com/MicrosoftDocs/edge-developer/issues/2762)
   * [test](https://github.com/MicrosoftDocs/edge-developer/issues/2759)
   * [journey begin](https://github.com/MicrosoftDocs/edge-developer/issues/2757)
-  * [Missing docs about the Easing editor feature](https://github.com/MicrosoftDocs/edge-developer/issues/2755)
   * [PWA widgets isn't working](https://github.com/MicrosoftDocs/edge-developer/issues/2763)

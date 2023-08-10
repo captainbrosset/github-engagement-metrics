@@ -2070,6 +2070,10 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4170,6 +4174,10 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6250,6 +6258,10 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8325,6 +8337,10 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10433,22 +10449,18 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
         {
-          "title": "WebView2 isn't respecting the Profile.PreferredColorScheme for the scrollbars",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3696"
+          "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
         },
         {
-          "title": "How to enable the browser extensions in WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694"
-        },
-        {
-          "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
-        },
-        {
-          "title": "WebView2 PDF printing should default to Actual Size, not Fit To Page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3691"
+          "title": "webview is not comprised when apps use webview there is a challenge when this is used.  ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697"
         },
         {
           "title": "FIPS Compliance",
@@ -10463,31 +10475,31 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
         },
         {
-          "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
-        },
-        {
           "title": "How to debug when the Webview2 UI go into hang?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
+        },
+        {
+          "title": "How to enable the browser extensions in WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694"
         },
         {
           "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         },
         {
-          "title": "Touchscreen not working after rapidly clicking while app startup",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3685"
-        },
-        {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
+        },
+        {
+          "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
         },
         {
           "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "74.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12561,7 +12573,23 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
+        {
+          "title": "not working properly",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1680"
+        },
+        {
+          "title": "index.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1679"
+        },
+        {
+          "title": "sup",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1678"
+        },
         {
           "title": "my javascript code is not running on my vs code ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1677"
@@ -12605,9 +12633,13 @@
         {
           "title": "preview",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1666"
+        },
+        {
+          "title": "EmoZen",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1681"
         }
       ],
-      "rate": "78.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14681,6 +14713,10 @@
     },
     {
       "date": "2023-08-09",
+      "rate": "85.42"
+    },
+    {
+      "date": "2023-08-10",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback]",
@@ -14691,10 +14727,6 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2766"
         },
         {
-          "title": "Unity 2020.3.40 - Webview preview 0.17.1-pre.5 compilation problem",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2762"
-        },
-        {
           "title": "test",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2759"
         },
@@ -14703,15 +14735,11 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2757"
         },
         {
-          "title": "Missing docs about the Easing editor feature",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2755"
-        },
-        {
           "title": "PWA widgets isn't working",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2763"
         }
       ],
-      "rate": "85.42"
+      "rate": "89.58"
     }
   ]
 }
