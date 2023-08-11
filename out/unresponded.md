@@ -1,6 +1,9 @@
-Response rate: 86.40%
+Response rate: 84.73%
 
-* **webhintio/hint** - _87.76%_
+* **webhintio/hint** - _81.63%_
+  * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
+  * [Docs: Update links to OpenJS Foundation CoC](https://github.com/webhintio/hint/pull/5692)
+  * [Docs: Update CLA link and add it to PR template](https://github.com/webhintio/hint/pull/5691)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5688)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
@@ -9,29 +12,37 @@ Response rate: 86.40%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _95.45%_
   * [detached-elements demo shows [object Promise] in Detached El...](https://github.com/MicrosoftEdge/Demos/issues/24)
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [The text overlaps together](https://github.com/MicrosoftEdge/DevTools/issues/171)
+* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
   * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
+  * [WebDriverException: disconnected: unable to send message to ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/104)
+  * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
-  * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
-  * [webview is not comprised when apps use webview there is a ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697)
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Process crash after using OpenDefaultDownloadDialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701)
+  * [Browser processes killed on WM_QUERYENDSESSION](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
+  * [webview is not comprised when apps use webview there is a ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697)
   * [How to enable the browser extensions in WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694)
+  * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
+  * [reentrance error in debug mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3677)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-* **microsoft/vscode-edge-devtools** - _70.00%_
+* **microsoft/vscode-edge-devtools** - _66.00%_
+  * [Trying to install firebase](https://github.com/microsoft/vscode-edge-devtools/issues/1683)
+  * [hello](https://github.com/microsoft/vscode-edge-devtools/issues/1682)
   * [not working properly](https://github.com/microsoft/vscode-edge-devtools/issues/1680)
   * [index.html](https://github.com/microsoft/vscode-edge-devtools/issues/1679)
   * [sup](https://github.com/microsoft/vscode-edge-devtools/issues/1678)
@@ -47,9 +58,4 @@ Response rate: 86.40%
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
   * [EmoZen](https://github.com/microsoft/vscode-edge-devtools/issues/1681)
-* **MicrosoftDocs/edge-developer** - _89.58%_
-  * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2769)
-  * [please unlock the page](https://github.com/MicrosoftDocs/edge-developer/issues/2766)
-  * [test](https://github.com/MicrosoftDocs/edge-developer/issues/2759)
-  * [journey begin](https://github.com/MicrosoftDocs/edge-developer/issues/2757)
-  * [PWA widgets isn't working](https://github.com/MicrosoftDocs/edge-developer/issues/2763)
+* **MicrosoftDocs/edge-developer** - _100.00%_

@@ -2074,7 +2074,23 @@
     },
     {
       "date": "2023-08-10",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-11",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Describe your bug here",
+          "url": "https://github.com/webhintio/hint/issues/5693"
+        },
+        {
+          "title": "Docs: Update links to OpenJS Foundation CoC",
+          "url": "https://github.com/webhintio/hint/pull/5692"
+        },
+        {
+          "title": "Docs: Update CLA link and add it to PR template",
+          "url": "https://github.com/webhintio/hint/pull/5691"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5688"
@@ -2100,7 +2116,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "87.76"
+      "rate": "81.63"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4178,6 +4194,10 @@
     },
     {
       "date": "2023-08-10",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-11",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6262,8 +6282,17 @@
     },
     {
       "date": "2023-08-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-11",
+      "unRespondedItems": [
+        {
+          "title": "The text overlaps together",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/171"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8341,6 +8370,10 @@
     },
     {
       "date": "2023-08-10",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-08-11",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -8359,6 +8392,14 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
         },
         {
+          "title": "WebDriverException: disconnected: unable to send message to renderer",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/104"
+        },
+        {
+          "title": "When we set the capability \"webSocketUrl\" to true for chromium browsers, the new tab or window opened with anchor tag click, hangs up.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
+        },
+        {
           "title": "EdgeDriver throw exception when it's under SYSTEM account",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100"
         },
@@ -8375,7 +8416,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "84.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10453,14 +10494,18 @@
     },
     {
       "date": "2023-08-10",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-11",
       "unRespondedItems": [
         {
-          "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
+          "title": "Process crash after using OpenDefaultDownloadDialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701"
         },
         {
-          "title": "webview is not comprised when apps use webview there is a challenge when this is used.  ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697"
+          "title": "Browser processes killed on WM_QUERYENDSESSION",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700"
         },
         {
           "title": "FIPS Compliance",
@@ -10479,12 +10524,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
         },
         {
+          "title": "webview is not comprised when apps use webview there is a challenge when this is used.  ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697"
+        },
+        {
           "title": "How to enable the browser extensions in WebView2?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694"
         },
         {
+          "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
+        },
+        {
           "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
+        },
+        {
+          "title": "reentrance error in debug mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3677"
         },
         {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
@@ -10499,7 +10556,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "78.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12577,7 +12634,19 @@
     },
     {
       "date": "2023-08-10",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-08-11",
       "unRespondedItems": [
+        {
+          "title": "Trying to install firebase",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1683"
+        },
+        {
+          "title": "hello",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1682"
+        },
         {
           "title": "not working properly",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1680"
@@ -12639,7 +12708,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1681"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14717,29 +14786,12 @@
     },
     {
       "date": "2023-08-10",
-      "unRespondedItems": [
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2769"
-        },
-        {
-          "title": "please unlock the page",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2766"
-        },
-        {
-          "title": "test",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2759"
-        },
-        {
-          "title": "journey begin",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2757"
-        },
-        {
-          "title": "PWA widgets isn't working",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2763"
-        }
-      ],
       "rate": "89.58"
+    },
+    {
+      "date": "2023-08-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
