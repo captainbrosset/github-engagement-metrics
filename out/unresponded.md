@@ -1,4 +1,4 @@
-Response rate: 84.73%
+Response rate: 82.71%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -25,22 +25,28 @@ Response rate: 84.73%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [Process crash after using OpenDefaultDownloadDialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701)
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [The application is not working while using Webview2 in "Any ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703)
   * [Browser processes killed on WM_QUERYENDSESSION](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
   * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
+  * [Process crash after using OpenDefaultDownloadDialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701)
+  * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [webview is not comprised when apps use webview there is a ch...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697)
   * [How to enable the browser extensions in WebView2?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
+  * [Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does noth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681)
   * [reentrance error in debug mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3677)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-* **microsoft/vscode-edge-devtools** - _66.00%_
+* **microsoft/vscode-edge-devtools** - _60.00%_
+  * [ok](https://github.com/microsoft/vscode-edge-devtools/issues/1687)
+  * [run](https://github.com/microsoft/vscode-edge-devtools/issues/1686)
+  * [I think there's something wrong with the extension live serv...](https://github.com/microsoft/vscode-edge-devtools/issues/1685)
   * [Trying to install firebase](https://github.com/microsoft/vscode-edge-devtools/issues/1683)
   * [hello](https://github.com/microsoft/vscode-edge-devtools/issues/1682)
   * [not working properly](https://github.com/microsoft/vscode-edge-devtools/issues/1680)
@@ -58,4 +64,5 @@ Response rate: 84.73%
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
   * [EmoZen](https://github.com/microsoft/vscode-edge-devtools/issues/1681)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [canva](https://github.com/MicrosoftDocs/edge-developer/issues/2779)

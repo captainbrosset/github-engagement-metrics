@@ -2078,6 +2078,10 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4198,6 +4202,10 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6286,6 +6294,10 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8374,6 +8386,10 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10498,10 +10514,14 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
         {
-          "title": "Process crash after using OpenDefaultDownloadDialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701"
+          "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
         },
         {
           "title": "Browser processes killed on WM_QUERYENDSESSION",
@@ -10524,6 +10544,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
         },
         {
+          "title": "Process crash after using OpenDefaultDownloadDialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701"
+        },
+        {
+          "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
+        },
+        {
           "title": "webview is not comprised when apps use webview there is a challenge when this is used.  ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697"
         },
@@ -10538,6 +10566,10 @@
         {
           "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
+        },
+        {
+          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
         },
         {
           "title": "reentrance error in debug mode",
@@ -10556,7 +10588,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "72.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12638,7 +12670,23 @@
     },
     {
       "date": "2023-08-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-08-12",
       "unRespondedItems": [
+        {
+          "title": "ok",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1687"
+        },
+        {
+          "title": "run",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1686"
+        },
+        {
+          "title": "I think there's something wrong with the extension live server  ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1685"
+        },
         {
           "title": "Trying to install firebase",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1683"
@@ -12708,7 +12756,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1681"
         }
       ],
-      "rate": "66.00"
+      "rate": "60.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14790,8 +14838,17 @@
     },
     {
       "date": "2023-08-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-12",
+      "unRespondedItems": [
+        {
+          "title": "canva",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2779"
+        }
+      ],
+      "rate": "97.87"
     }
   ]
 }
