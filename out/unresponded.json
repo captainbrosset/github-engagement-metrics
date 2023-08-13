@@ -2082,6 +2082,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4206,6 +4210,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6298,6 +6306,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8390,6 +8402,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10518,6 +10534,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
@@ -12674,6 +12694,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "ok",
@@ -14842,6 +14866,10 @@
     },
     {
       "date": "2023-08-12",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-08-13",
       "unRespondedItems": [
         {
           "title": "canva",
