@@ -1,4 +1,4 @@
-Response rate: 82.71%
+Response rate: 81.81%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -25,7 +25,8 @@ Response rate: 82.71%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [WebView not displaying when applying AdditionalBrowserArgume...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704)
   * [The application is not working while using Webview2 in "Any ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703)
   * [Browser processes killed on WM_QUERYENDSESSION](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
@@ -64,5 +65,7 @@ Response rate: 82.71%
   * [web guyane](https://github.com/microsoft/vscode-edge-devtools/issues/1667)
   * [preview](https://github.com/microsoft/vscode-edge-devtools/issues/1666)
   * [EmoZen](https://github.com/microsoft/vscode-edge-devtools/issues/1681)
-* **MicrosoftDocs/edge-developer** - _97.87%_
+* **MicrosoftDocs/edge-developer** - _93.62%_
+  * [Where can I find an example of WORKING TTS example of Edge E...](https://github.com/MicrosoftDocs/edge-developer/issues/2782)
+  * [Error after Click the "Display" Button](https://github.com/MicrosoftDocs/edge-developer/issues/2781)
   * [canva](https://github.com/MicrosoftDocs/edge-developer/issues/2779)

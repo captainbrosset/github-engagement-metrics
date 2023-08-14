@@ -2086,6 +2086,10 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4214,6 +4218,10 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6310,6 +6318,10 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8406,6 +8418,10 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10538,7 +10554,15 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
+        {
+          "title": "WebView not displaying when applying AdditionalBrowserArguments",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704"
+        },
         {
           "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
@@ -10608,7 +10632,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12698,6 +12722,10 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
         {
           "title": "ok",
@@ -14870,13 +14898,25 @@
     },
     {
       "date": "2023-08-13",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-08-14",
       "unRespondedItems": [
+        {
+          "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2782"
+        },
+        {
+          "title": "Error after Click the \"Display\" Button",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2781"
+        },
         {
           "title": "canva",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2779"
         }
       ],
-      "rate": "97.87"
+      "rate": "93.62"
     }
   ]
 }
