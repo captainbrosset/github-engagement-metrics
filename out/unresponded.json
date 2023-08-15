@@ -2090,6 +2090,10 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4222,6 +4226,10 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6322,6 +6330,10 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8422,6 +8434,10 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10558,14 +10574,26 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
-          "title": "WebView not displaying when applying AdditionalBrowserArguments",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704"
+          "title": "PagesPerSide is not respected when calling CoreWebView2.PrintAsync with virtual PDF printer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3710"
         },
         {
-          "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
+          "title": "WebView2 PrintAsync prints the lowest DPI for virtual PDF printer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3709"
+        },
+        {
+          "title": "How does CoreWebView2.ExecuteScriptAsync work with respect to navigation events?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708"
+        },
+        {
+          "title": "Sending File System Access API handles from WebView2 code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706"
         },
         {
           "title": "Browser processes killed on WM_QUERYENDSESSION",
@@ -10588,20 +10616,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
         },
         {
-          "title": "Process crash after using OpenDefaultDownloadDialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3701"
+          "title": "Very slow first navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3707"
+        },
+        {
+          "title": "WebView not displaying when applying AdditionalBrowserArguments",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704"
         },
         {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
-        },
-        {
-          "title": "webview is not comprised when apps use webview there is a challenge when this is used.  ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3697"
-        },
-        {
-          "title": "How to enable the browser extensions in WebView2?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3694"
         },
         {
           "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
@@ -10610,14 +10634,6 @@
         {
           "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
-        },
-        {
-          "title": "Unity | HoloLens 2 - MouseEventsWebView.MouseEvent does nothing?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3681"
-        },
-        {
-          "title": "reentrance error in debug mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3677"
         },
         {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
@@ -10632,7 +10648,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12726,89 +12742,25 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
-          "title": "ok",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1687"
-        },
-        {
-          "title": "run",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1686"
+          "title": "dock001",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1691"
         },
         {
           "title": "I think there's something wrong with the extension live server  ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1685"
         },
         {
-          "title": "Trying to install firebase",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1683"
-        },
-        {
-          "title": "hello",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1682"
-        },
-        {
-          "title": "not working properly",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1680"
-        },
-        {
-          "title": "index.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1679"
-        },
-        {
-          "title": "sup",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1678"
-        },
-        {
-          "title": "my javascript code is not running on my vs code ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1677"
-        },
-        {
-          "title": "rumah kopetensi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1676"
-        },
-        {
-          "title": "https://github.com/Zws-China/WSLoginView.git",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1675"
-        },
-        {
-          "title": "backspace not wor",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1674"
-        },
-        {
           "title": "I use nvm.fish install node ,but plugin don't identify them。",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1673"
-        },
-        {
-          "title": "$ npm install axios",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1672"
-        },
-        {
-          "title": "let ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1670"
-        },
-        {
-          "title": "vs studio",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1669"
-        },
-        {
-          "title": "application de calcule de chaque consommation",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1668"
-        },
-        {
-          "title": "web guyane",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1667"
-        },
-        {
-          "title": "preview",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1666"
-        },
-        {
-          "title": "EmoZen",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1681"
         }
       ],
-      "rate": "60.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14902,6 +14854,10 @@
     },
     {
       "date": "2023-08-14",
+      "rate": "93.62"
+    },
+    {
+      "date": "2023-08-15",
       "unRespondedItems": [
         {
           "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
