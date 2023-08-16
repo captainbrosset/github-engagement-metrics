@@ -2094,6 +2094,10 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4230,6 +4234,10 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6334,6 +6342,10 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8438,6 +8450,10 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10578,14 +10594,18 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
+        {
+          "title": "Is the buffer address of a ICoreWebView2SharedBuffer constant?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3712"
+        },
         {
           "title": "PagesPerSide is not respected when calling CoreWebView2.PrintAsync with virtual PDF printer",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3710"
-        },
-        {
-          "title": "WebView2 PrintAsync prints the lowest DPI for virtual PDF printer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3709"
         },
         {
           "title": "How does CoreWebView2.ExecuteScriptAsync work with respect to navigation events?",
@@ -10612,18 +10632,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
         },
         {
-          "title": "How to debug when the Webview2 UI go into hang?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657"
-        },
-        {
-          "title": "Very slow first navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3707"
-        },
-        {
-          "title": "WebView not displaying when applying AdditionalBrowserArguments",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704"
-        },
-        {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
         },
@@ -10648,7 +10656,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
-      "rate": "66.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12746,11 +12754,11 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
-        {
-          "title": "dock001",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1691"
-        },
         {
           "title": "I think there's something wrong with the extension live server  ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1685"
@@ -12760,7 +12768,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1673"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14858,6 +14866,10 @@
     },
     {
       "date": "2023-08-15",
+      "rate": "93.62"
+    },
+    {
+      "date": "2023-08-16",
       "unRespondedItems": [
         {
           "title": "Where can I find an example of WORKING TTS example of Edge Extention?",

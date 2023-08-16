@@ -1,4 +1,4 @@
-Response rate: 86.96%
+Response rate: 88.10%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -25,26 +25,22 @@ Response rate: 86.96%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Is the buffer address of a ICoreWebView2SharedBuffer constan...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3712)
   * [PagesPerSide is not respected when calling CoreWebView2.Prin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3710)
-  * [WebView2 PrintAsync prints the lowest DPI for virtual PDF pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3709)
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
   * [Sending File System Access API handles from WebView2 code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706)
   * [Browser processes killed on WM_QUERYENDSESSION](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
-  * [How to debug when the Webview2 UI go into hang?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3657)
-  * [Very slow first navigation](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3707)
-  * [WebView not displaying when applying AdditionalBrowserArgume...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3704)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
   * [How to use CustomizationSchemeRegistration on WinRT/C#](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [dock001](https://github.com/microsoft/vscode-edge-devtools/issues/1691)
+* **microsoft/vscode-edge-devtools** - _96.00%_
   * [I think there's something wrong with the extension live serv...](https://github.com/microsoft/vscode-edge-devtools/issues/1685)
   * [I use nvm.fish install node ,but plugin don't identify them。...](https://github.com/microsoft/vscode-edge-devtools/issues/1673)
 * **MicrosoftDocs/edge-developer** - _93.62%_
