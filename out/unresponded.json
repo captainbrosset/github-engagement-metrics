@@ -2098,6 +2098,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4238,6 +4242,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6346,6 +6354,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8454,6 +8466,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10598,14 +10614,22 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
+        {
+          "title": "Why is page-break-before:always not working in Edge / Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3715"
+        },
+        {
+          "title": "ICoreWebView2CompositionController#SendMouseInput does not work when point is not (0, 0)?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713"
+        },
         {
           "title": "Is the buffer address of a ICoreWebView2SharedBuffer constant?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3712"
-        },
-        {
-          "title": "PagesPerSide is not respected when calling CoreWebView2.PrintAsync with virtual PDF printer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3710"
         },
         {
           "title": "How does CoreWebView2.ExecuteScriptAsync work with respect to navigation events?",
@@ -10650,10 +10674,6 @@
         {
           "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
-        },
-        {
-          "title": "How to use CustomizationSchemeRegistration on WinRT/C#",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3658"
         }
       ],
       "rate": "72.00"
@@ -12758,6 +12778,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "I think there's something wrong with the extension live server  ",
@@ -14870,6 +14894,10 @@
     },
     {
       "date": "2023-08-16",
+      "rate": "93.62"
+    },
+    {
+      "date": "2023-08-17",
       "unRespondedItems": [
         {
           "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
