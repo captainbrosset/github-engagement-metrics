@@ -2102,6 +2102,10 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4246,6 +4250,10 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6358,6 +6366,10 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8470,6 +8482,10 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10618,11 +10634,11 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
-        {
-          "title": "Why is page-break-before:always not working in Edge / Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3715"
-        },
         {
           "title": "ICoreWebView2CompositionController#SendMouseInput does not work when point is not (0, 0)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713"
@@ -10654,6 +10670,10 @@
         {
           "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
+        },
+        {
+          "title": "An iframe loaded with custome scheme cannot invoke host methods",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         },
         {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
@@ -12782,7 +12802,23 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
+        {
+          "title": "que tengo que hacer para que se vea la imagen",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1698"
+        },
+        {
+          "title": "password  coding tags",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1696"
+        },
+        {
+          "title": "<DIV>USE",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1695"
+        },
         {
           "title": "I think there's something wrong with the extension live server  ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1685"
@@ -12790,9 +12826,13 @@
         {
           "title": "I use nvm.fish install node ,but plugin don't identify them。",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1673"
+        },
+        {
+          "title": "#hero{         display: flex;         align-items: center;         justify-content: center;         text-align: center;         flex-direction: column;         height: 90vh;         color: white;         background-image:linear-gradient(          0deg,          rgba(0,0,0,0.5)          rgba(0,0,0,.5)            )          ,url(\"media/porro.jpg\");",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1697"
         }
       ],
-      "rate": "96.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14898,7 +14938,19 @@
     },
     {
       "date": "2023-08-17",
+      "rate": "93.62"
+    },
+    {
+      "date": "2023-08-18",
       "unRespondedItems": [
+        {
+          "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2785"
+        },
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2784"
+        },
         {
           "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2782"
@@ -14912,7 +14964,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2779"
         }
       ],
-      "rate": "93.62"
+      "rate": "89.13"
     }
   ]
 }

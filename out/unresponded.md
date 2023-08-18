@@ -1,4 +1,4 @@
-Response rate: 88.10%
+Response rate: 86.32%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -26,7 +26,6 @@ Response rate: 88.10%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [Why is page-break-before:always not working in Edge / Webvie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3715)
   * [ICoreWebView2CompositionController#SendMouseInput does not w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713)
   * [Is the buffer address of a ICoreWebView2SharedBuffer constan...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3712)
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
@@ -35,15 +34,22 @@ Response rate: 88.10%
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [Authentication in WebVeiw2 using `--proxy-server` argument](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667)
+  * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
   * [WebView2 Runtime hang when window.open mulit-level new windo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [que tengo que hacer para que se vea la imagen](https://github.com/microsoft/vscode-edge-devtools/issues/1698)
+  * [password  coding tags](https://github.com/microsoft/vscode-edge-devtools/issues/1696)
+  * [<DIV>USE](https://github.com/microsoft/vscode-edge-devtools/issues/1695)
   * [I think there's something wrong with the extension live serv...](https://github.com/microsoft/vscode-edge-devtools/issues/1685)
   * [I use nvm.fish install node ,but plugin don't identify them。...](https://github.com/microsoft/vscode-edge-devtools/issues/1673)
-* **MicrosoftDocs/edge-developer** - _93.62%_
+  * [#hero{         display: flex;         align-items: center;  ...](https://github.com/microsoft/vscode-edge-devtools/issues/1697)
+* **MicrosoftDocs/edge-developer** - _89.13%_
+  * [F12 C:\Windows\SysWOW64\F12\IEChooser.exe not work - black s...](https://github.com/MicrosoftDocs/edge-developer/issues/2785)
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2784)
   * [Where can I find an example of WORKING TTS example of Edge E...](https://github.com/MicrosoftDocs/edge-developer/issues/2782)
   * [Error after Click the "Display" Button](https://github.com/MicrosoftDocs/edge-developer/issues/2781)
   * [canva](https://github.com/MicrosoftDocs/edge-developer/issues/2779)
