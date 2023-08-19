@@ -2106,6 +2106,10 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4254,6 +4258,10 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6370,6 +6378,10 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8486,7 +8498,15 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
+        {
+          "title": "Provide a way to access the full list of available Edgedriver versions",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/105"
+        },
         {
           "title": "DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
@@ -8528,7 +8548,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10638,7 +10658,23 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
+        {
+          "title": "Open a local PDF in an UWP application (HoloLens)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724"
+        },
+        {
+          "title": "How do I specify the open type of a new window in CoreWebVIew2's NewWindowRequested event?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3723"
+        },
+        {
+          "title": "notification when dynamic content loaded?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720"
+        },
         {
           "title": "ICoreWebView2CompositionController#SendMouseInput does not work when point is not (0, 0)?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713"
@@ -10656,10 +10692,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706"
         },
         {
-          "title": "Browser processes killed on WM_QUERYENDSESSION",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3700"
-        },
-        {
           "title": "FIPS Compliance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
         },
@@ -10668,12 +10700,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680"
         },
         {
-          "title": "Authentication in WebVeiw2 using `--proxy-server` argument",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3667"
+          "title": "When destroyed, the error \"source property cannot be set to null\" is thrown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3725"
         },
         {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
+        },
+        {
+          "title": "How do I implement scroll pages in HoloLens 2 Unity apps?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3705"
         },
         {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
@@ -10690,13 +10726,9 @@
         {
           "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
-        },
-        {
-          "title": "WebView2 Runtime hang when window.open mulit-level new window in the same target.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3664"
         }
       ],
-      "rate": "72.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12806,7 +12838,15 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
+        {
+          "title": "cours slotify",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1699"
+        },
         {
           "title": "que tengo que hacer para que se vea la imagen",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1698"
@@ -12832,7 +12872,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1697"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14942,7 +14982,15 @@
     },
     {
       "date": "2023-08-18",
+      "rate": "89.13"
+    },
+    {
+      "date": "2023-08-19",
       "unRespondedItems": [
+        {
+          "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2788"
+        },
         {
           "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2785"
@@ -14964,7 +15012,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2779"
         }
       ],
-      "rate": "89.13"
+      "rate": "86.96"
     }
   ]
 }
