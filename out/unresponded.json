@@ -2110,6 +2110,10 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4262,6 +4266,10 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6382,6 +6390,10 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8502,11 +8514,11 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
-        {
-          "title": "Provide a way to access the full list of available Edgedriver versions",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/105"
-        },
         {
           "title": "DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
@@ -8548,7 +8560,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "78.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10662,6 +10674,10 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
         {
           "title": "Open a local PDF in an UWP application (HoloLens)",
@@ -10708,10 +10724,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         },
         {
-          "title": "How do I implement scroll pages in HoloLens 2 Unity apps?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3705"
-        },
-        {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
         },
@@ -10728,7 +10740,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12842,7 +12854,15 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
+        {
+          "title": "menu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1700"
+        },
         {
           "title": "cours slotify",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1699"
@@ -12872,7 +12892,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1697"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -14986,6 +15006,10 @@
     },
     {
       "date": "2023-08-19",
+      "rate": "86.96"
+    },
+    {
+      "date": "2023-08-20",
       "unRespondedItems": [
         {
           "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",

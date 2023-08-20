@@ -1,4 +1,4 @@
-Response rate: 84.86%
+Response rate: 85.15%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -14,8 +14,7 @@ Response rate: 84.86%
   * [detached-elements demo shows [object Promise] in Detached El...](https://github.com/MicrosoftEdge/Demos/issues/24)
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [The text overlaps together](https://github.com/MicrosoftEdge/DevTools/issues/171)
-* **MicrosoftEdge/EdgeWebDriver** - _78.00%_
-  * [Provide a way to access the full list of available Edgedrive...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/105)
+* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
@@ -26,7 +25,7 @@ Response rate: 84.86%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
   * [Open a local PDF in an UWP application (HoloLens)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724)
   * [How do I specify the open type of a new window in CoreWebVIe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3723)
   * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
@@ -38,12 +37,12 @@ Response rate: 84.86%
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [When destroyed, the error "source property cannot be set to ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3725)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
-  * [How do I implement scroll pages in HoloLens 2 Unity apps?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3705)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [menu](https://github.com/microsoft/vscode-edge-devtools/issues/1700)
   * [cours slotify](https://github.com/microsoft/vscode-edge-devtools/issues/1699)
   * [que tengo que hacer para que se vea la imagen](https://github.com/microsoft/vscode-edge-devtools/issues/1698)
   * [password  coding tags](https://github.com/microsoft/vscode-edge-devtools/issues/1696)
