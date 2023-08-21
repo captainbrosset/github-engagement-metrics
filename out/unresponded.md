@@ -1,4 +1,4 @@
-Response rate: 85.15%
+Response rate: 84.86%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -41,7 +41,8 @@ Response rate: 85.15%
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
   * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
-* **microsoft/vscode-edge-devtools** - _84.00%_
+* **microsoft/vscode-edge-devtools** - _82.00%_
+  * [javascript](https://github.com/microsoft/vscode-edge-devtools/issues/1702)
   * [menu](https://github.com/microsoft/vscode-edge-devtools/issues/1700)
   * [cours slotify](https://github.com/microsoft/vscode-edge-devtools/issues/1699)
   * [que tengo que hacer para que se vea la imagen](https://github.com/microsoft/vscode-edge-devtools/issues/1698)

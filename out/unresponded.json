@@ -2114,6 +2114,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4270,6 +4274,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
@@ -6394,6 +6402,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "The text overlaps together",
@@ -8518,6 +8530,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10678,6 +10694,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "Open a local PDF in an UWP application (HoloLens)",
@@ -12858,7 +12878,15 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
+        {
+          "title": "javascript",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1702"
+        },
         {
           "title": "menu",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1700"
@@ -12892,7 +12920,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1697"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15010,6 +15038,10 @@
     },
     {
       "date": "2023-08-20",
+      "rate": "86.96"
+    },
+    {
+      "date": "2023-08-21",
       "unRespondedItems": [
         {
           "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
