@@ -2118,6 +2118,10 @@
     },
     {
       "date": "2023-08-21",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4278,13 +4282,12 @@
     },
     {
       "date": "2023-08-21",
-      "unRespondedItems": [
-        {
-          "title": "detached-elements demo shows [object Promise] in Detached Elements panel",
-          "url": "https://github.com/MicrosoftEdge/Demos/issues/24"
-        }
-      ],
       "rate": "95.45"
+    },
+    {
+      "date": "2023-08-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -6406,10 +6409,14 @@
     },
     {
       "date": "2023-08-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-22",
       "unRespondedItems": [
         {
-          "title": "The text overlaps together",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/171"
+          "title": "F12 IEChooser - C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/173"
         }
       ],
       "rate": "98.00"
@@ -8534,6 +8541,10 @@
     },
     {
       "date": "2023-08-21",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-22",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10698,7 +10709,23 @@
     },
     {
       "date": "2023-08-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-08-22",
       "unRespondedItems": [
+        {
+          "title": "Opening devtool crash in UWP when not attached to visual studio",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3730"
+        },
+        {
+          "title": "Please document how to clear the cache when using WebView2 within Unity",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
+        },
+        {
+          "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
+        },
         {
           "title": "Open a local PDF in an UWP application (HoloLens)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724"
@@ -10740,6 +10767,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3725"
         },
         {
+          "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
+        },
+        {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         },
@@ -10754,13 +10785,9 @@
         {
           "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
-        },
-        {
-          "title": "How To Store Pages As Trusted From Content Dialog C# uwp webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672"
         }
       ],
-      "rate": "70.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12882,45 +12909,12 @@
     },
     {
       "date": "2023-08-21",
-      "unRespondedItems": [
-        {
-          "title": "javascript",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1702"
-        },
-        {
-          "title": "menu",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1700"
-        },
-        {
-          "title": "cours slotify",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1699"
-        },
-        {
-          "title": "que tengo que hacer para que se vea la imagen",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1698"
-        },
-        {
-          "title": "password  coding tags",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1696"
-        },
-        {
-          "title": "<DIV>USE",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1695"
-        },
-        {
-          "title": "I think there's something wrong with the extension live server  ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1685"
-        },
-        {
-          "title": "I use nvm.fish install node ,but plugin don't identify them。",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1673"
-        },
-        {
-          "title": "#hero{         display: flex;         align-items: center;         justify-content: center;         text-align: center;         flex-direction: column;         height: 90vh;         color: white;         background-image:linear-gradient(          0deg,          rgba(0,0,0,0.5)          rgba(0,0,0,.5)            )          ,url(\"media/porro.jpg\");",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1697"
-        }
-      ],
       "rate": "82.00"
+    },
+    {
+      "date": "2023-08-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15042,33 +15036,17 @@
     },
     {
       "date": "2023-08-21",
+      "rate": "86.96"
+    },
+    {
+      "date": "2023-08-22",
       "unRespondedItems": [
-        {
-          "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2788"
-        },
-        {
-          "title": "F12 C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2785"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2784"
-        },
         {
           "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2782"
-        },
-        {
-          "title": "Error after Click the \"Display\" Button",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2781"
-        },
-        {
-          "title": "canva",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2779"
         }
       ],
-      "rate": "86.96"
+      "rate": "97.73"
     }
   ]
 }

@@ -1,4 +1,4 @@
-Response rate: 84.86%
+Response rate: 88.77%
 
 * **webhintio/hint** - _81.63%_
   * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5693)
@@ -10,10 +10,9 @@ Response rate: 84.86%
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
-* **MicrosoftEdge/demos** - _95.45%_
-  * [detached-elements demo shows [object Promise] in Detached El...](https://github.com/MicrosoftEdge/Demos/issues/24)
+* **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
-  * [The text overlaps together](https://github.com/MicrosoftEdge/DevTools/issues/171)
+  * [F12 IEChooser - C:\Windows\SysWOW64\F12\IEChooser.exe not wo...](https://github.com/MicrosoftEdge/DevTools/issues/173)
 * **MicrosoftEdge/EdgeWebDriver** - _80.00%_
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
@@ -25,7 +24,10 @@ Response rate: 84.86%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [Opening devtool crash in UWP when not attached to visual stu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3730)
+  * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
+  * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
   * [Open a local PDF in an UWP application (HoloLens)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724)
   * [How do I specify the open type of a new window in CoreWebVIe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3723)
   * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
@@ -36,25 +38,11 @@ Response rate: 84.86%
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
   * [AddHostObjectToScript() results in exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680)
   * [When destroyed, the error "source property cannot be set to ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3725)
+  * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
-  * [How To Store Pages As Trusted From Content Dialog C# uwp web...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3672)
-* **microsoft/vscode-edge-devtools** - _82.00%_
-  * [javascript](https://github.com/microsoft/vscode-edge-devtools/issues/1702)
-  * [menu](https://github.com/microsoft/vscode-edge-devtools/issues/1700)
-  * [cours slotify](https://github.com/microsoft/vscode-edge-devtools/issues/1699)
-  * [que tengo que hacer para que se vea la imagen](https://github.com/microsoft/vscode-edge-devtools/issues/1698)
-  * [password  coding tags](https://github.com/microsoft/vscode-edge-devtools/issues/1696)
-  * [<DIV>USE](https://github.com/microsoft/vscode-edge-devtools/issues/1695)
-  * [I think there's something wrong with the extension live serv...](https://github.com/microsoft/vscode-edge-devtools/issues/1685)
-  * [I use nvm.fish install node ,but plugin don't identify them。...](https://github.com/microsoft/vscode-edge-devtools/issues/1673)
-  * [#hero{         display: flex;         align-items: center;  ...](https://github.com/microsoft/vscode-edge-devtools/issues/1697)
-* **MicrosoftDocs/edge-developer** - _86.96%_
-  * [F12 C:\Windows\SysWOW64\F12\IEChooser.exe not work - black s...](https://github.com/MicrosoftDocs/edge-developer/issues/2788)
-  * [F12 C:\Windows\SysWOW64\F12\IEChooser.exe not work - black s...](https://github.com/MicrosoftDocs/edge-developer/issues/2785)
-  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2784)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.73%_
   * [Where can I find an example of WORKING TTS example of Edge E...](https://github.com/MicrosoftDocs/edge-developer/issues/2782)
-  * [Error after Click the "Display" Button](https://github.com/MicrosoftDocs/edge-developer/issues/2781)
-  * [canva](https://github.com/MicrosoftDocs/edge-developer/issues/2779)
