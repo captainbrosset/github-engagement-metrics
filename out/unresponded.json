@@ -2122,6 +2122,10 @@
     },
     {
       "date": "2023-08-22",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Describe your bug here",
@@ -4286,6 +4290,10 @@
     },
     {
       "date": "2023-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6413,13 +6421,12 @@
     },
     {
       "date": "2023-08-22",
-      "unRespondedItems": [
-        {
-          "title": "F12 IEChooser - C:\\Windows\\SysWOW64\\F12\\IEChooser.exe not work - black screen",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/173"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-08-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8545,6 +8552,10 @@
     },
     {
       "date": "2023-08-22",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-23",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -10713,26 +10724,22 @@
     },
     {
       "date": "2023-08-22",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-08-23",
       "unRespondedItems": [
         {
-          "title": "Opening devtool crash in UWP when not attached to visual studio",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3730"
+          "title": "the js object dispose problem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733"
         },
         {
           "title": "Please document how to clear the cache when using WebView2 within Unity",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
         },
         {
-          "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
-        },
-        {
           "title": "Open a local PDF in an UWP application (HoloLens)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724"
-        },
-        {
-          "title": "How do I specify the open type of a new window in CoreWebVIew2's NewWindowRequested event?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3723"
         },
         {
           "title": "notification when dynamic content loaded?",
@@ -10763,8 +10770,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680"
         },
         {
-          "title": "When destroyed, the error \"source property cannot be set to null\" is thrown",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3725"
+          "title": "document.documentElement.innerText returns additional characters",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3731"
         },
         {
           "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
@@ -10787,7 +10794,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12913,8 +12920,25 @@
     },
     {
       "date": "2023-08-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-23",
+      "unRespondedItems": [
+        {
+          "title": "Make Taxi, Grocery, Food, Pharmacy & Service Provider App || Make Multivendor Cab, Grocery, Food App",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1706"
+        },
+        {
+          "title": "waleed",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1705"
+        },
+        {
+          "title": "waleed",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1704"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15040,13 +15064,17 @@
     },
     {
       "date": "2023-08-22",
+      "rate": "97.73"
+    },
+    {
+      "date": "2023-08-23",
       "unRespondedItems": [
         {
-          "title": "Where can I find an example of WORKING TTS example of Edge Extention?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2782"
+          "title": "Really dreadful",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2795"
         }
       ],
-      "rate": "97.73"
+      "rate": "97.78"
     }
   ]
 }
