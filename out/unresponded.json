@@ -2126,11 +2126,11 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "81.63"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5693"
-        },
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
           "url": "https://github.com/webhintio/hint/pull/5692"
@@ -2138,10 +2138,6 @@
         {
           "title": "Docs: Update CLA link and add it to PR template",
           "url": "https://github.com/webhintio/hint/pull/5691"
-        },
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5688"
         },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -2164,7 +2160,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "81.63"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4294,6 +4290,10 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6425,6 +6425,10 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8556,7 +8560,15 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [
+        {
+          "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106"
+        },
         {
           "title": "DevToolsActivePort file doesn't exist",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
@@ -8598,7 +8610,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10728,7 +10740,19 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [
+        {
+          "title": "XPathAsync hangs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3736"
+        },
+        {
+          "title": "New API for CoreWebView2 to \"IgnoreCacheReload\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
+        },
         {
           "title": "the js object dispose problem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733"
@@ -10766,12 +10790,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
         },
         {
-          "title": "AddHostObjectToScript() results in exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3680"
-        },
-        {
-          "title": "document.documentElement.innerText returns additional characters",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3731"
+          "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         },
         {
           "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
@@ -10780,6 +10800,10 @@
         {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
+        },
+        {
+          "title": "How do I implement scroll pages in HoloLens 2 Unity apps?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3705"
         },
         {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
@@ -10794,7 +10818,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12924,21 +12948,21 @@
     },
     {
       "date": "2023-08-23",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-24",
       "unRespondedItems": [
         {
-          "title": "Make Taxi, Grocery, Food, Pharmacy & Service Provider App || Make Multivendor Cab, Grocery, Food App",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1706"
+          "title": "ttt",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1709"
         },
         {
-          "title": "waleed",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1705"
-        },
-        {
-          "title": "waleed",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1704"
+          "title": "Extention Closes the Browser tab/window when disconnecting from debug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1708"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15068,13 +15092,12 @@
     },
     {
       "date": "2023-08-23",
-      "unRespondedItems": [
-        {
-          "title": "Really dreadful",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2795"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2023-08-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
