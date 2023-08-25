@@ -2130,6 +2130,10 @@
     },
     {
       "date": "2023-08-24",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-08-25",
       "unRespondedItems": [
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
@@ -4294,6 +4298,10 @@
     },
     {
       "date": "2023-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6429,6 +6437,10 @@
     },
     {
       "date": "2023-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8564,6 +8576,10 @@
     },
     {
       "date": "2023-08-24",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-25",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -10744,14 +10760,14 @@
     },
     {
       "date": "2023-08-24",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-08-25",
       "unRespondedItems": [
         {
-          "title": "XPathAsync hangs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3736"
-        },
-        {
-          "title": "New API for CoreWebView2 to \"IgnoreCacheReload\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
+          "title": "WebView2 controller is not created when launch application as different Admin user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738"
         },
         {
           "title": "the js object dispose problem",
@@ -10788,6 +10804,10 @@
         {
           "title": "FIPS Compliance",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
+        },
+        {
+          "title": "Custom display ContextMenuItem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
         {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
@@ -12952,17 +12972,12 @@
     },
     {
       "date": "2023-08-24",
-      "unRespondedItems": [
-        {
-          "title": "ttt",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1709"
-        },
-        {
-          "title": "Extention Closes the Browser tab/window when disconnecting from debug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1708"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-08-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15096,8 +15111,17 @@
     },
     {
       "date": "2023-08-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-25",
+      "unRespondedItems": [
+        {
+          "title": "Guidance on how to write the chrome_native_messaging_host.exe would be very helpful.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2802"
+        }
+      ],
+      "rate": "97.67"
     }
   ]
 }

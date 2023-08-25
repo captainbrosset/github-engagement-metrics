@@ -1,4 +1,4 @@
-Response rate: 89.10%
+Response rate: 89.34%
 
 * **webhintio/hint** - _85.71%_
   * [Docs: Update links to OpenJS Foundation CoC](https://github.com/webhintio/hint/pull/5692)
@@ -23,8 +23,7 @@ Response rate: 89.10%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _64.00%_
-  * [XPathAsync hangs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3736)
-  * [New API for CoreWebView2 to "IgnoreCacheReload"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734)
+  * [WebView2 controller is not created when launch application a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738)
   * [the js object dispose problem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
   * [Open a local PDF in an UWP application (HoloLens)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724)
@@ -34,6 +33,7 @@ Response rate: 89.10%
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
   * [Sending File System Access API handles from WebView2 code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706)
   * [FIPS Compliance](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684)
+  * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
   * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
@@ -41,7 +41,6 @@ Response rate: 89.10%
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
   * [trace_logging_minimal_win.cc(23) Provider resistration failu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [ttt](https://github.com/microsoft/vscode-edge-devtools/issues/1709)
-  * [Extention Closes the Browser tab/window when disconnecting f...](https://github.com/microsoft/vscode-edge-devtools/issues/1708)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.67%_
+  * [Guidance on how to write the chrome_native_messaging_host.ex...](https://github.com/MicrosoftDocs/edge-developer/issues/2802)
