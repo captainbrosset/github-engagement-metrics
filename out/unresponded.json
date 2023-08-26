@@ -2134,6 +2134,10 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
@@ -4302,6 +4306,10 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6441,6 +6449,10 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8580,6 +8592,10 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -8600,6 +8616,10 @@
         {
           "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
+        },
+        {
+          "title": "Window.FullScreen()  should behave the same way as F11",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
         {
           "title": "WebDriverException: disconnected: unable to send message to renderer",
@@ -8626,7 +8646,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10764,18 +10784,18 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [
         {
-          "title": "WebView2 controller is not created when launch application as different Admin user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738"
+          "title": "Provide a NavigationRequested EventHandler with .Cancel and .NewWindow",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741"
         },
         {
-          "title": "the js object dispose problem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733"
-        },
-        {
-          "title": "Please document how to clear the cache when using WebView2 within Unity",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
+          "title": "webView2 does not fire the Form mouse event properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
         },
         {
           "title": "Open a local PDF in an UWP application (HoloLens)",
@@ -10790,10 +10810,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713"
         },
         {
-          "title": "Is the buffer address of a ICoreWebView2SharedBuffer constant?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3712"
-        },
-        {
           "title": "How does CoreWebView2.ExecuteScriptAsync work with respect to navigation events?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708"
         },
@@ -10802,8 +10818,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706"
         },
         {
-          "title": "FIPS Compliance",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3684"
+          "title": "WebView2 controller is not created when launch application as different Admin user",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738"
         },
         {
           "title": "Custom display ContextMenuItem",
@@ -10822,10 +10838,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         },
         {
-          "title": "How do I implement scroll pages in HoloLens 2 Unity apps?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3705"
-        },
-        {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
         },
@@ -10838,7 +10850,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         }
       ],
-      "rate": "64.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12976,6 +12988,10 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15115,13 +15131,17 @@
     },
     {
       "date": "2023-08-25",
+      "rate": "97.67"
+    },
+    {
+      "date": "2023-08-26",
       "unRespondedItems": [
         {
-          "title": "Guidance on how to write the chrome_native_messaging_host.exe would be very helpful.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2802"
+          "title": "Edge Console Refused to connect because it violates the Document Security Policy",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2804"
         }
       ],
-      "rate": "97.67"
+      "rate": "97.78"
     }
   ]
 }
