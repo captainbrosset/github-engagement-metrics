@@ -2138,6 +2138,10 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
@@ -4310,6 +4314,10 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6453,6 +6461,10 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8596,6 +8608,10 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -10788,6 +10804,10 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [
         {
           "title": "Provide a NavigationRequested EventHandler with .Cancel and .NewWindow",
@@ -10826,6 +10846,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
         {
+          "title": "Please document how to clear the cache when using WebView2 within Unity",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
+        },
+        {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         },
@@ -10850,7 +10874,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -12992,8 +13016,17 @@
     },
     {
       "date": "2023-08-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-27",
+      "unRespondedItems": [
+        {
+          "title": "how use to docker",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1711"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15135,13 +15168,21 @@
     },
     {
       "date": "2023-08-26",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-08-27",
       "unRespondedItems": [
+        {
+          "title": "This topic was very helpful.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2805"
+        },
         {
           "title": "Edge Console Refused to connect because it violates the Document Security Policy",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2804"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ]
 }
