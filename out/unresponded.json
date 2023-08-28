@@ -2142,6 +2142,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
@@ -4318,6 +4322,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6465,6 +6473,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8612,6 +8624,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -10808,7 +10824,19 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [
+        {
+          "title": "Application showing audio as playing from \"Microsoft Edge WebView2\" and not respective app name.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3743"
+        },
+        {
+          "title": "Want a simple HTML viewer as WebView successor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742"
+        },
         {
           "title": "Provide a NavigationRequested EventHandler with .Cancel and .NewWindow",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741"
@@ -10846,6 +10874,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
         {
+          "title": "the js object dispose problem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733"
+        },
+        {
           "title": "Please document how to clear the cache when using WebView2 within Unity",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
         },
@@ -10868,13 +10900,9 @@
         {
           "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
-        },
-        {
-          "title": "trace_logging_minimal_win.cc(23) Provider resistration failure",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3687"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13020,6 +13048,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [
         {
           "title": "how use to docker",
@@ -15172,6 +15204,10 @@
     },
     {
       "date": "2023-08-27",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-08-28",
       "unRespondedItems": [
         {
           "title": "This topic was very helpful.",
