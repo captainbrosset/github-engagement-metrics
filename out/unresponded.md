@@ -1,6 +1,7 @@
-Response rate: 88.47%
+Response rate: 88.24%
 
-* **webhintio/hint** - _85.71%_
+* **webhintio/hint** - _83.67%_
+  * [Analysis: 36% of dependency updates in this repository can b...](https://github.com/webhintio/hint/issues/5695)
   * [Docs: Update links to OpenJS Foundation CoC](https://github.com/webhintio/hint/pull/5692)
   * [Docs: Update CLA link and add it to PR template](https://github.com/webhintio/hint/pull/5691)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -9,8 +10,10 @@ Response rate: 88.47%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _76.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Automatic switch between vertical and horizontal tabs on spe...](https://github.com/MicrosoftEdge/DevTools/issues/175)
+* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+  * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
   * [EdgeDriver Version 116.0.1938.54 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
@@ -23,8 +26,9 @@ Response rate: 88.47%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
-  * [Application showing audio as playing from "Microsoft Edge We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3743)
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
+  * [Problems using browser to evoke webwiew2 app](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3744)
   * [Want a simple HTML viewer as WebView successor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
@@ -33,17 +37,14 @@ Response rate: 88.47%
   * [ICoreWebView2CompositionController#SendMouseInput does not w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713)
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
   * [Sending File System Access API handles from WebView2 code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706)
-  * [WebView2 controller is not created when launch application a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
-  * [the js object dispose problem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
-  * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
   * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [how use to docker](https://github.com/microsoft/vscode-edge-devtools/issues/1711)
-* **MicrosoftDocs/edge-developer** - _95.56%_
-  * [This topic was very helpful.](https://github.com/MicrosoftDocs/edge-developer/issues/2805)
-  * [Edge Console Refused to connect because it violates the Docu...](https://github.com/MicrosoftDocs/edge-developer/issues/2804)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [unable to run code](https://github.com/microsoft/vscode-edge-devtools/issues/1714)
+  * [>><<](https://github.com/microsoft/vscode-edge-devtools/issues/1713)
+  * [a function was defined in my code ,still throwing error wher...](https://github.com/microsoft/vscode-edge-devtools/issues/1712)
+* **MicrosoftDocs/edge-developer** - _100.00%_

@@ -2146,7 +2146,15 @@
     },
     {
       "date": "2023-08-28",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-08-29",
       "unRespondedItems": [
+        {
+          "title": "Analysis: 36% of dependency updates in this repository can be merged.",
+          "url": "https://github.com/webhintio/hint/issues/5695"
+        },
         {
           "title": "Docs: Update links to OpenJS Foundation CoC",
           "url": "https://github.com/webhintio/hint/pull/5692"
@@ -2176,7 +2184,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "85.71"
+      "rate": "83.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4326,6 +4334,10 @@
     },
     {
       "date": "2023-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6477,8 +6489,17 @@
     },
     {
       "date": "2023-08-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-29",
+      "unRespondedItems": [
+        {
+          "title": "Automatic switch between vertical and horizontal tabs on specific width",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/175"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8628,7 +8649,15 @@
     },
     {
       "date": "2023-08-28",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-08-29",
       "unRespondedItems": [
+        {
+          "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
+        },
         {
           "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106"
@@ -8678,7 +8707,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10828,10 +10857,18 @@
     },
     {
       "date": "2023-08-28",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-08-29",
       "unRespondedItems": [
         {
-          "title": "Application showing audio as playing from \"Microsoft Edge WebView2\" and not respective app name.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3743"
+          "title": "Intermittent issue - new WebView2 control instance inherits session cookies",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745"
+        },
+        {
+          "title": "Problems using browser to evoke webwiew2 app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3744"
         },
         {
           "title": "Want a simple HTML viewer as WebView successor",
@@ -10866,16 +10903,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706"
         },
         {
-          "title": "WebView2 controller is not created when launch application as different Admin user",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3738"
-        },
-        {
           "title": "Custom display ContextMenuItem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
-        },
-        {
-          "title": "the js object dispose problem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3733"
         },
         {
           "title": "Please document how to clear the cache when using WebView2 within Unity",
@@ -10884,10 +10913,6 @@
         {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
-        },
-        {
-          "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
         },
         {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
@@ -10902,7 +10927,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13052,13 +13077,25 @@
     },
     {
       "date": "2023-08-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-08-29",
       "unRespondedItems": [
         {
-          "title": "how use to docker",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1711"
+          "title": "unable to run code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1714"
+        },
+        {
+          "title": ">><<",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1713"
+        },
+        {
+          "title": "a function was defined in my code ,still throwing error where as chrome is not",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1712"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15208,17 +15245,12 @@
     },
     {
       "date": "2023-08-28",
-      "unRespondedItems": [
-        {
-          "title": "This topic was very helpful.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2805"
-        },
-        {
-          "title": "Edge Console Refused to connect because it violates the Document Security Policy",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2804"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2023-08-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
