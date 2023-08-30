@@ -2150,18 +2150,14 @@
     },
     {
       "date": "2023-08-29",
+      "rate": "83.67"
+    },
+    {
+      "date": "2023-08-30",
       "unRespondedItems": [
         {
           "title": "Analysis: 36% of dependency updates in this repository can be merged.",
           "url": "https://github.com/webhintio/hint/issues/5695"
-        },
-        {
-          "title": "Docs: Update links to OpenJS Foundation CoC",
-          "url": "https://github.com/webhintio/hint/pull/5692"
-        },
-        {
-          "title": "Docs: Update CLA link and add it to PR template",
-          "url": "https://github.com/webhintio/hint/pull/5691"
         },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -2184,7 +2180,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "83.67"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4338,6 +4334,10 @@
     },
     {
       "date": "2023-08-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6493,13 +6493,12 @@
     },
     {
       "date": "2023-08-29",
-      "unRespondedItems": [
-        {
-          "title": "Automatic switch between vertical and horizontal tabs on specific width",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/175"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-08-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8653,6 +8652,10 @@
     },
     {
       "date": "2023-08-29",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-08-30",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
@@ -10861,18 +10864,18 @@
     },
     {
       "date": "2023-08-29",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-08-30",
       "unRespondedItems": [
+        {
+          "title": "Unity API: Throw exceptions when IWebView is called while not ready (causes crash!)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746"
+        },
         {
           "title": "Intermittent issue - new WebView2 control instance inherits session cookies",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745"
-        },
-        {
-          "title": "Problems using browser to evoke webwiew2 app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3744"
-        },
-        {
-          "title": "Want a simple HTML viewer as WebView successor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742"
         },
         {
           "title": "Provide a NavigationRequested EventHandler with .Cancel and .NewWindow",
@@ -10915,6 +10918,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         },
         {
+          "title": "Unity Plugin: Make CreateAndConfigureWebView public and add parameters",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722"
+        },
+        {
+          "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
+        },
+        {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         },
@@ -10927,7 +10938,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13081,21 +13092,17 @@
     },
     {
       "date": "2023-08-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-08-30",
       "unRespondedItems": [
-        {
-          "title": "unable to run code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1714"
-        },
-        {
-          "title": ">><<",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1713"
-        },
         {
           "title": "a function was defined in my code ,still throwing error where as chrome is not",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1712"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15249,8 +15256,17 @@
     },
     {
       "date": "2023-08-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-08-30",
+      "unRespondedItems": [
+        {
+          "title": "System.MissingMethodException: 'Method not found:",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2809"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
