@@ -1,7 +1,6 @@
-Response rate: 89.08%
+Response rate: 89.69%
 
-* **webhintio/hint** - _87.76%_
-  * [Analysis: 36% of dependency updates in this repository can b...](https://github.com/webhintio/hint/issues/5695)
+* **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
@@ -9,7 +8,8 @@ Response rate: 89.08%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+  * ["DevToolsActivePort file doesn't exist" 116.0.1938.62](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109)
   * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
   * [EdgeDriver Version 116.0.1938.54 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
@@ -24,6 +24,7 @@ Response rate: 89.08%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [Profile.AddBrowserExtensionAsync  COMException: 不支持该请求。 (0x8...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3748)
   * [Unity API: Throw exceptions when IWebView is called while no...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746)
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
@@ -40,8 +41,5 @@ Response rate: 89.08%
   * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
   * [Creation of WebView2 hangs with 100% CPU msedgewebview2.exe ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698)
-  * [Webview2 VSTO Office Plugin: Meeting / Email window gets int...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [a function was defined in my code ,still throwing error wher...](https://github.com/microsoft/vscode-edge-devtools/issues/1712)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [System.MissingMethodException: 'Method not found:](https://github.com/MicrosoftDocs/edge-developer/issues/2809)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_

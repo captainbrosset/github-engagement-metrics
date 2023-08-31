@@ -2154,11 +2154,11 @@
     },
     {
       "date": "2023-08-30",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-08-31",
       "unRespondedItems": [
-        {
-          "title": "Analysis: 36% of dependency updates in this repository can be merged.",
-          "url": "https://github.com/webhintio/hint/issues/5695"
-        },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
           "url": "https://github.com/webhintio/hint/issues/5563"
@@ -2180,7 +2180,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "87.76"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4338,6 +4338,10 @@
     },
     {
       "date": "2023-08-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6497,6 +6501,10 @@
     },
     {
       "date": "2023-08-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-08-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8656,7 +8664,15 @@
     },
     {
       "date": "2023-08-30",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-08-31",
       "unRespondedItems": [
+        {
+          "title": "\"DevToolsActivePort file doesn't exist\" 116.0.1938.62",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109"
+        },
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
@@ -8710,7 +8726,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10868,7 +10884,15 @@
     },
     {
       "date": "2023-08-30",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-08-31",
       "unRespondedItems": [
+        {
+          "title": "Profile.AddBrowserExtensionAsync  COMException: 不支持该请求。 (0x80070032)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3748"
+        },
         {
           "title": "Unity API: Throw exceptions when IWebView is called while not ready (causes crash!)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746"
@@ -10932,10 +10956,6 @@
         {
           "title": "Creation of WebView2 hangs with 100% CPU msedgewebview2.exe process (probably renderer process)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3698"
-        },
-        {
-          "title": "Webview2 VSTO Office Plugin: Meeting / Email window gets into freezing state while opening form (custom task pane)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3692"
         }
       ],
       "rate": "66.00"
@@ -13096,13 +13116,12 @@
     },
     {
       "date": "2023-08-30",
-      "unRespondedItems": [
-        {
-          "title": "a function was defined in my code ,still throwing error where as chrome is not",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1712"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-08-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15260,13 +15279,12 @@
     },
     {
       "date": "2023-08-30",
-      "unRespondedItems": [
-        {
-          "title": "System.MissingMethodException: 'Method not found:",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2809"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-08-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
