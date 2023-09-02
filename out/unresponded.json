@@ -2162,6 +2162,10 @@
     },
     {
       "date": "2023-09-01",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4350,6 +4354,10 @@
     },
     {
       "date": "2023-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6517,6 +6525,10 @@
     },
     {
       "date": "2023-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8684,6 +8696,10 @@
     },
     {
       "date": "2023-09-01",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-02",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
@@ -8710,7 +8726,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
         },
         {
-          "title": "\"DevToolsActivePort file doesn't exist\" 116.0.1938.62",
+          "title": "\"DevToolsActivePort file doesn't exist\" 116.0.1938.69",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109"
         },
         {
@@ -10908,7 +10924,23 @@
     },
     {
       "date": "2023-09-01",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-02",
       "unRespondedItems": [
+        {
+          "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
+        },
+        {
+          "title": "How to close webView2 after using Navigate()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754"
+        },
+        {
+          "title": "Win32 app using WebView2 will hang at the 6 minute mark.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753"
+        },
         {
           "title": "CoreWebView2 members cannot be accessed after removing DownloadStarting event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3750"
@@ -10928,10 +10960,6 @@
         {
           "title": "webView2 does not fire the Form mouse event properly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
-        },
-        {
-          "title": "Open a local PDF in an UWP application (HoloLens)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3724"
         },
         {
           "title": "notification when dynamic content loaded?",
@@ -10958,6 +10986,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
         {
+          "title": "Please document how to clear the cache when using WebView2 within Unity",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
+        },
+        {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         },
@@ -10972,9 +11004,13 @@
         {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
+        },
+        {
+          "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
         }
       ],
-      "rate": "68.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13140,8 +13176,21 @@
     },
     {
       "date": "2023-09-01",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-02",
+      "unRespondedItems": [
+        {
+          "title": "Have a Problem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1718"
+        },
+        {
+          "title": "fingerprint",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1719"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15307,8 +15356,17 @@
     },
     {
       "date": "2023-09-01",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-02",
+      "unRespondedItems": [
+        {
+          "title": "Outdated Edge version references found",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2816"
+        }
+      ],
+      "rate": "97.78"
     }
   ]
 }
