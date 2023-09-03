@@ -1,4 +1,4 @@
-Response rate: 87.94%
+Response rate: 87.65%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -23,7 +23,7 @@ Response rate: 87.94%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [How to close webView2 after using Navigate()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754)
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
@@ -37,6 +37,7 @@ Response rate: 87.94%
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
   * [Sending File System Access API handles from WebView2 code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706)
   * [PrintToPdfAsync() when printing PowerBi report produces empt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749)
+  * [Want a simple HTML viewer as WebView successor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)

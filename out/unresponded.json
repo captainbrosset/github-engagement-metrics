@@ -2166,6 +2166,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4358,6 +4362,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6529,6 +6537,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8700,6 +8712,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
@@ -10928,6 +10944,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [
         {
           "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
@@ -10982,6 +11002,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749"
         },
         {
+          "title": "Want a simple HTML viewer as WebView successor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742"
+        },
+        {
           "title": "Custom display ContextMenuItem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
@@ -11010,7 +11034,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13180,6 +13204,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [
         {
           "title": "Have a Problem",
@@ -15360,6 +15388,10 @@
     },
     {
       "date": "2023-09-02",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-09-03",
       "unRespondedItems": [
         {
           "title": "Outdated Edge version references found",
