@@ -2170,6 +2170,10 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4366,6 +4370,10 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6541,8 +6549,17 @@
     },
     {
       "date": "2023-09-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-04",
+      "unRespondedItems": [
+        {
+          "title": "Microsoft Edge keep crashing on Fedora 38",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/176"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8716,6 +8733,10 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
@@ -10948,7 +10969,15 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [
+        {
+          "title": "WebView 2 init race condition",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3757"
+        },
         {
           "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
@@ -11002,10 +11031,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749"
         },
         {
-          "title": "Want a simple HTML viewer as WebView successor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3742"
-        },
-        {
           "title": "Custom display ContextMenuItem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
@@ -11028,13 +11053,9 @@
         {
           "title": "An iframe loaded with custome scheme cannot invoke host methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
-        },
-        {
-          "title": "The application is not working while using Webview2 in \"Any CPU\" UWP platform",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3703"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13208,7 +13229,15 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [
+        {
+          "title": "localhost",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1720"
+        },
         {
           "title": "Have a Problem",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1718"
@@ -13218,7 +13247,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1719"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15392,13 +15421,21 @@
     },
     {
       "date": "2023-09-03",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-09-04",
       "unRespondedItems": [
+        {
+          "title": "document details",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2819"
+        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2816"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ]
 }
