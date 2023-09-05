@@ -2174,6 +2174,10 @@
     },
     {
       "date": "2023-09-04",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4374,6 +4378,10 @@
     },
     {
       "date": "2023-09-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6553,13 +6561,12 @@
     },
     {
       "date": "2023-09-04",
-      "unRespondedItems": [
-        {
-          "title": "Microsoft Edge keep crashing on Fedora 38",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/176"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8737,13 +8744,17 @@
     },
     {
       "date": "2023-09-04",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-05",
       "unRespondedItems": [
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
         },
         {
-          "title": "EdgeDriver Version 116.0.1938.54 - Changed behaviour for WindowHandles Count with Open PrintDialog",
+          "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106"
         },
         {
@@ -8793,9 +8804,13 @@
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
+        },
+        {
+          "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10973,10 +10988,22 @@
     },
     {
       "date": "2023-09-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-09-05",
       "unRespondedItems": [
         {
-          "title": "WebView 2 init race condition",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3757"
+          "title": "How to Practice Accessing Cameras for HTTP Domain Names in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3760"
+        },
+        {
+          "title": "< a > link to open the web page won't execute AddScriptToExecuteOnDocumentCreatedAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759"
+        },
+        {
+          "title": "API for Spell Checker",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758"
         },
         {
           "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
@@ -11023,10 +11050,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708"
         },
         {
-          "title": "Sending File System Access API handles from WebView2 code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706"
-        },
-        {
           "title": "PrintToPdfAsync() when printing PowerBi report produces empty pdf",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749"
         },
@@ -11055,7 +11078,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13233,21 +13256,12 @@
     },
     {
       "date": "2023-09-04",
-      "unRespondedItems": [
-        {
-          "title": "localhost",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1720"
-        },
-        {
-          "title": "Have a Problem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1718"
-        },
-        {
-          "title": "fingerprint",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1719"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-09-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15425,17 +15439,17 @@
     },
     {
       "date": "2023-09-04",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-09-05",
       "unRespondedItems": [
-        {
-          "title": "document details",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2819"
-        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2816"
         }
       ],
-      "rate": "95.56"
+      "rate": "97.78"
     }
   ]
 }

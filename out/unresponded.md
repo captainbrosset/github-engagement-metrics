@@ -1,4 +1,4 @@
-Response rate: 87.05%
+Response rate: 87.94%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -7,11 +7,10 @@ Response rate: 87.05%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Microsoft Edge keep crashing on Fedora 38](https://github.com/MicrosoftEdge/DevTools/issues/176)
-* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
-  * [EdgeDriver Version 116.0.1938.54 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
+  * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
@@ -24,8 +23,11 @@ Response rate: 87.05%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [WebView 2 init race condition](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3757)
+  * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [How to Practice Accessing Cameras for HTTP Domain Names in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3760)
+  * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
+  * [API for Spell Checker](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758)
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [How to close webView2 after using Navigate()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754)
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
@@ -37,7 +39,6 @@ Response rate: 87.05%
   * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
   * [ICoreWebView2CompositionController#SendMouseInput does not w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713)
   * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
-  * [Sending File System Access API handles from WebView2 code](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3706)
   * [PrintToPdfAsync() when printing PowerBi report produces empt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
@@ -45,10 +46,6 @@ Response rate: 87.05%
   * [Unity Plugin: Make CreateAndConfigureWebView public and add ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722)
   * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [localhost](https://github.com/microsoft/vscode-edge-devtools/issues/1720)
-  * [Have a Problem](https://github.com/microsoft/vscode-edge-devtools/issues/1718)
-  * [fingerprint](https://github.com/microsoft/vscode-edge-devtools/issues/1719)
-* **MicrosoftDocs/edge-developer** - _95.56%_
-  * [document details](https://github.com/MicrosoftDocs/edge-developer/issues/2819)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/2816)
