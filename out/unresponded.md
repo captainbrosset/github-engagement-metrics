@@ -1,4 +1,4 @@
-Response rate: 87.94%
+Response rate: 87.08%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,7 +8,9 @@ Response rate: 87.94%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+  * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
+  * [Unable to launch URL with Edge (Edge117.0.2045.12) with sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111)
   * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
@@ -23,9 +25,10 @@ Response rate: 87.94%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-  * [EdgeOptions or Capabilities are not avaliable to disable Edg...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
-  * [How to Practice Accessing Cameras for HTTP Domain Names in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3760)
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [webview2 crashes solution in visual studio](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764)
+  * [JS dialogs position broken in Webview2 Runtime 118.0.2081.0 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3763)
+  * [WebView2 Print button does not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3762)
   * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
   * [API for Spell Checker](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758)
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
@@ -38,7 +41,7 @@ Response rate: 87.94%
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
   * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
   * [ICoreWebView2CompositionController#SendMouseInput does not w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713)
-  * [How does CoreWebView2.ExecuteScriptAsync work with respect t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708)
+  * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
   * [PrintToPdfAsync() when printing PowerBi report produces empt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)

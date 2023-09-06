@@ -2178,6 +2178,10 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4382,6 +4386,10 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6565,6 +6573,10 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8748,7 +8760,19 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [
+        {
+          "title": "Selenium Webview2 writing to inaccessible directory",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112"
+        },
+        {
+          "title": "Unable to launch URL with Edge (Edge117.0.2045.12) with selenium 4.10",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111"
+        },
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
@@ -8804,13 +8828,9 @@
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
-        },
-        {
-          "title": "EdgeOptions or Capabilities are not avaliable to disable Edge Sidebar",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/61"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -10992,10 +11012,22 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [
         {
-          "title": "How to Practice Accessing Cameras for HTTP Domain Names in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3760"
+          "title": "webview2 crashes solution in visual studio",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764"
+        },
+        {
+          "title": "JS dialogs position broken in Webview2 Runtime 118.0.2081.0 canary",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3763"
+        },
+        {
+          "title": "WebView2 Print button does not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3762"
         },
         {
           "title": "< a > link to open the web page won't execute AddScriptToExecuteOnDocumentCreatedAsync",
@@ -11046,8 +11078,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713"
         },
         {
-          "title": "How does CoreWebView2.ExecuteScriptAsync work with respect to navigation events?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3708"
+          "title": "D3D11VideoDecoder performs better that VDAVideoDecoder",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         },
         {
           "title": "PrintToPdfAsync() when printing PowerBi report produces empty pdf",
@@ -11078,7 +11110,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13260,6 +13292,10 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15443,6 +15479,10 @@
     },
     {
       "date": "2023-09-05",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-09-06",
       "unRespondedItems": [
         {
           "title": "Outdated Edge version references found",
