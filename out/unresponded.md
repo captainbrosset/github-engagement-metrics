@@ -1,6 +1,8 @@
-Response rate: 87.08%
+Response rate: 86.24%
 
-* **webhintio/hint** - _89.80%_
+* **webhintio/hint** - _85.71%_
+  * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5699)
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5698)
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
@@ -9,6 +11,7 @@ Response rate: 87.08%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+  * [WebDriver+UseWebView not able to navigate](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/113)
   * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
   * [Unable to launch URL with Edge (Edge117.0.2045.12) with sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111)
   * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
@@ -17,7 +20,6 @@ Response rate: 87.08%
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
   * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
-  * ["DevToolsActivePort file doesn't exist" 116.0.1938.69](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109)
   * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [WebDriverException: disconnected: unable to send message to ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/104)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
@@ -25,9 +27,8 @@ Response rate: 87.08%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
   * [webview2 crashes solution in visual studio](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764)
-  * [JS dialogs position broken in Webview2 Runtime 118.0.2081.0 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3763)
   * [WebView2 Print button does not working](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3762)
   * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
   * [API for Spell Checker](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758)
@@ -40,15 +41,17 @@ Response rate: 87.08%
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
   * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
-  * [ICoreWebView2CompositionController#SendMouseInput does not w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3713)
+  * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
+  * [JS dialogs position broken in Webview2 Runtime 118.0.2081.0 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3763)
+  * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
   * [PrintToPdfAsync() when printing PowerBi report produces empt...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
+  * [New API for CoreWebView2 to "IgnoreCacheReload"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734)
   * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
   * [Unity Plugin: Make CreateAndConfigureWebView public and add ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722)
   * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
   * [An iframe loaded with custome scheme cannot invoke host meth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/2816)
+* **MicrosoftDocs/edge-developer** - _100.00%_
