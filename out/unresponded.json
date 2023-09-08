@@ -2186,15 +2186,11 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "85.71"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5699"
-        },
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5698"
-        },
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
           "url": "https://github.com/webhintio/hint/issues/5563"
@@ -2216,7 +2212,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "85.71"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4406,6 +4402,10 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6597,6 +6597,10 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8788,7 +8792,15 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [
+        {
+          "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114"
+        },
         {
           "title": "WebDriver+UseWebView not able to navigate",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/113"
@@ -8826,6 +8838,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
         },
         {
+          "title": "\"DevToolsActivePort file doesn't exist\" 116.0.1938.69",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109"
+        },
+        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -8854,7 +8870,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11044,14 +11060,14 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "50.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [
         {
-          "title": "webview2 crashes solution in visual studio",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764"
-        },
-        {
-          "title": "WebView2 Print button does not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3762"
+          "title": "WebView2 swallows mouse wheel events",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769"
         },
         {
           "title": "< a > link to open the web page won't execute AddScriptToExecuteOnDocumentCreatedAsync",
@@ -11102,8 +11118,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766"
         },
         {
-          "title": "JS dialogs position broken in Webview2 Runtime 118.0.2081.0 canary",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3763"
+          "title": "webview2 crashes solution in visual studio",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764"
         },
         {
           "title": "Provides the close () method for webView2",
@@ -11114,20 +11130,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         },
         {
-          "title": "PrintToPdfAsync() when printing PowerBi report produces empty pdf",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3749"
-        },
-        {
           "title": "Custom display ContextMenuItem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
         },
         {
           "title": "New API for CoreWebView2 to \"IgnoreCacheReload\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
-        },
-        {
-          "title": "Please document how to clear the cache when using WebView2 within Unity",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
         },
         {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
@@ -11140,13 +11148,9 @@
         {
           "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
-        },
-        {
-          "title": "An iframe loaded with custome scheme cannot invoke host methods",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3716"
         }
       ],
-      "rate": "50.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13336,6 +13340,10 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15527,6 +15535,10 @@
     },
     {
       "date": "2023-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
