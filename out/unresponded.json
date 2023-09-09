@@ -2190,6 +2190,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4406,6 +4410,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6601,6 +6609,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8796,6 +8808,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -8838,10 +8854,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
         },
         {
-          "title": "\"DevToolsActivePort file doesn't exist\" 116.0.1938.69",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/109"
-        },
-        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -8870,7 +8882,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11064,6 +11076,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [
         {
           "title": "WebView2 swallows mouse wheel events",
@@ -11078,20 +11094,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758"
         },
         {
-          "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
-        },
-        {
           "title": "How to close webView2 after using Navigate()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754"
         },
         {
           "title": "Win32 app using WebView2 will hang at the 6 minute mark.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753"
-        },
-        {
-          "title": "CoreWebView2 members cannot be accessed after removing DownloadStarting event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3750"
         },
         {
           "title": "Unity API: Throw exceptions when IWebView is called while not ready (causes crash!)",
@@ -11116,10 +11124,6 @@
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766"
-        },
-        {
-          "title": "webview2 crashes solution in visual studio",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3764"
         },
         {
           "title": "Provides the close () method for webView2",
@@ -11150,7 +11154,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
         }
       ],
-      "rate": "58.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13344,8 +13348,17 @@
     },
     {
       "date": "2023-09-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-09",
+      "unRespondedItems": [
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1724"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15539,6 +15552,10 @@
     },
     {
       "date": "2023-09-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
