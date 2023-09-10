@@ -1,4 +1,4 @@
-Response rate: 88.26%
+Response rate: 86.21%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -7,7 +7,8 @@ Response rate: 88.26%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Switching between collections shortcuts](https://github.com/MicrosoftEdge/DevTools/issues/178)
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
   * [WebDriver+UseWebView not able to navigate](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/113)
@@ -26,7 +27,9 @@ Response rate: 88.26%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
+  * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
   * [WebView2 swallows mouse wheel events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769)
   * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
   * [API for Spell Checker](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758)
@@ -36,15 +39,19 @@ Response rate: 88.26%
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
-  * [notification when dynamic content loaded?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720)
+  * [Edge and Firefox parse CRL and AIA information in digital ce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
+  * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [New API for CoreWebView2 to "IgnoreCacheReload"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
   * [Unity Plugin: Make CreateAndConfigureWebView public and add ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722)
-  * [UWP/Unity: Unity crash when trying to instantiate the WebVie...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [Watch this Out](https://github.com/microsoft/vscode-edge-devtools/issues/1726)
+  * [Cannot deal with Angular labels](https://github.com/microsoft/vscode-edge-devtools/issues/1725)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1724)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [dokumentasi](https://github.com/MicrosoftDocs/edge-developer/issues/2832)
+  * [tautan](https://github.com/MicrosoftDocs/edge-developer/issues/2831)

@@ -2194,6 +2194,10 @@
     },
     {
       "date": "2023-09-09",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4414,6 +4418,10 @@
     },
     {
       "date": "2023-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6613,8 +6621,17 @@
     },
     {
       "date": "2023-09-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-10",
+      "unRespondedItems": [
+        {
+          "title": "Switching between collections shortcuts",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/178"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8812,6 +8829,10 @@
     },
     {
       "date": "2023-09-09",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-09-10",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -11080,7 +11101,19 @@
     },
     {
       "date": "2023-09-09",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-09-10",
       "unRespondedItems": [
+        {
+          "title": "WebView2 not using SmartScreen even with IsReputationCheckingRequired = true in C#.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774"
+        },
+        {
+          "title": "Any possibility of increasing the size of Local Storage for web applications?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
+        },
         {
           "title": "WebView2 swallows mouse wheel events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769"
@@ -11118,8 +11151,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
         },
         {
-          "title": "notification when dynamic content loaded?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3720"
+          "title": "Edge and Firefox parse CRL and AIA information in digital certificates differently",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771"
         },
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
@@ -11128,6 +11161,10 @@
         {
           "title": "Provides the close () method for webView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761"
+        },
+        {
+          "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
         },
         {
           "title": "D3D11VideoDecoder performs better that VDAVideoDecoder",
@@ -11148,13 +11185,9 @@
         {
           "title": "Unity Plugin: Make CreateAndConfigureWebView public and add parameters",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722"
-        },
-        {
-          "title": "UWP/Unity: Unity crash when trying to instantiate the WebView as child or with scale zero",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3721"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13352,13 +13385,25 @@
     },
     {
       "date": "2023-09-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-10",
       "unRespondedItems": [
+        {
+          "title": "Watch this Out",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1726"
+        },
+        {
+          "title": "Cannot deal with Angular labels",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1725"
+        },
         {
           "title": "css",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1724"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15556,8 +15601,21 @@
     },
     {
       "date": "2023-09-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-10",
+      "unRespondedItems": [
+        {
+          "title": "dokumentasi",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2832"
+        },
+        {
+          "title": "tautan",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2831"
+        }
+      ],
+      "rate": "95.65"
     }
   ]
 }
