@@ -1,4 +1,4 @@
-Response rate: 86.21%
+Response rate: 85.64%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -27,7 +27,7 @@ Response rate: 86.21%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
   * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
   * [WebView2 swallows mouse wheel events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769)
@@ -46,9 +46,11 @@ Response rate: 86.21%
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [New API for CoreWebView2 to "IgnoreCacheReload"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734)
+  * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
   * [0.17.1pre5 does not compile on Unity 2020.3.48f1](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726)
   * [Unity Plugin: Make CreateAndConfigureWebView public and add ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [HA](https://github.com/microsoft/vscode-edge-devtools/pull/1728)
   * [Watch this Out](https://github.com/microsoft/vscode-edge-devtools/issues/1726)
   * [Cannot deal with Angular labels](https://github.com/microsoft/vscode-edge-devtools/issues/1725)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1724)

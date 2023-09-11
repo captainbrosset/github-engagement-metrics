@@ -2198,6 +2198,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4422,6 +4426,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6625,6 +6633,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
         {
           "title": "Switching between collections shortcuts",
@@ -8833,6 +8845,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -11105,6 +11121,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
         {
           "title": "WebView2 not using SmartScreen even with IsReputationCheckingRequired = true in C#.",
@@ -11179,6 +11199,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
         },
         {
+          "title": "Please document how to clear the cache when using WebView2 within Unity",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
+        },
+        {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         },
@@ -11187,7 +11211,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13389,7 +13413,15 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
+        {
+          "title": "HA",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1728"
+        },
         {
           "title": "Watch this Out",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1726"
@@ -13403,7 +13435,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1724"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15605,6 +15637,10 @@
     },
     {
       "date": "2023-09-10",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-09-11",
       "unRespondedItems": [
         {
           "title": "dokumentasi",
