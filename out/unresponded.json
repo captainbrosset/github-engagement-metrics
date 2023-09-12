@@ -2202,6 +2202,10 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4430,6 +4434,10 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6637,10 +6645,14 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [
         {
-          "title": "Switching between collections shortcuts",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/178"
+          "title": "Network throttling defaults to offline",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/179"
         }
       ],
       "rate": "98.00"
@@ -8849,6 +8861,10 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -11125,7 +11141,19 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [
+        {
+          "title": "Sporadic blank window with no signs of error/exception message",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776"
+        },
+        {
+          "title": "Copy + Paste does not work properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3775"
+        },
         {
           "title": "WebView2 not using SmartScreen even with IsReputationCheckingRequired = true in C#.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774"
@@ -11143,16 +11171,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759"
         },
         {
-          "title": "API for Spell Checker",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3758"
-        },
-        {
           "title": "How to close webView2 after using Navigate()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754"
-        },
-        {
-          "title": "Win32 app using WebView2 will hang at the 6 minute mark.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753"
         },
         {
           "title": "Unity API: Throw exceptions when IWebView is called while not ready (causes crash!)",
@@ -11187,6 +11207,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
         },
         {
+          "title": "Win32 app using WebView2 will hang at the 6 minute mark.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753"
+        },
+        {
           "title": "D3D11VideoDecoder performs better that VDAVideoDecoder",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         },
@@ -11205,10 +11229,6 @@
         {
           "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
-        },
-        {
-          "title": "Unity Plugin: Make CreateAndConfigureWebView public and add parameters",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3722"
         }
       ],
       "rate": "58.00"
@@ -13417,25 +13437,17 @@
     },
     {
       "date": "2023-09-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-09-12",
       "unRespondedItems": [
         {
-          "title": "HA",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/1728"
-        },
-        {
-          "title": "Watch this Out",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1726"
-        },
-        {
-          "title": "Cannot deal with Angular labels",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1725"
-        },
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1724"
+          "title": "not showing result",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1731"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15641,17 +15653,12 @@
     },
     {
       "date": "2023-09-11",
-      "unRespondedItems": [
-        {
-          "title": "dokumentasi",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2832"
-        },
-        {
-          "title": "tautan",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2831"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2023-09-12",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
