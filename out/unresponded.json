@@ -2206,6 +2206,10 @@
     },
     {
       "date": "2023-09-12",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4438,6 +4442,10 @@
     },
     {
       "date": "2023-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6649,13 +6657,12 @@
     },
     {
       "date": "2023-09-12",
-      "unRespondedItems": [
-        {
-          "title": "Network throttling defaults to offline",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/179"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8865,14 +8872,14 @@
     },
     {
       "date": "2023-09-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-09-13",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114"
-        },
-        {
-          "title": "WebDriver+UseWebView not able to navigate",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/113"
         },
         {
           "title": "Selenium Webview2 writing to inaccessible directory",
@@ -8911,10 +8918,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
         {
-          "title": "WebDriverException: disconnected: unable to send message to renderer",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/104"
-        },
-        {
           "title": "When we set the capability \"webSocketUrl\" to true for chromium browsers, the new tab or window opened with anchor tag click, hangs up.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         },
@@ -8935,7 +8938,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "66.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11145,7 +11148,23 @@
     },
     {
       "date": "2023-09-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-09-13",
       "unRespondedItems": [
+        {
+          "title": "No longer able to uninstall WebView Runtime - expected?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
+        },
+        {
+          "title": "PrintAsync for pdf files prints blank pages",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779"
+        },
+        {
+          "title": "missing console extension WebView2 - config manager",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778"
+        },
         {
           "title": "Sporadic blank window with no signs of error/exception message",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776"
@@ -11161,10 +11180,6 @@
         {
           "title": "Any possibility of increasing the size of Local Storage for web applications?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
-        },
-        {
-          "title": "WebView2 swallows mouse wheel events",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769"
         },
         {
           "title": "< a > link to open the web page won't execute AddScriptToExecuteOnDocumentCreatedAsync",
@@ -11225,13 +11240,9 @@
         {
           "title": "Please document how to clear the cache when using WebView2 within Unity",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
-        },
-        {
-          "title": "0.17.1pre5 does not compile on Unity 2020.3.48f1",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3726"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13441,13 +13452,12 @@
     },
     {
       "date": "2023-09-12",
-      "unRespondedItems": [
-        {
-          "title": "not showing result",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1731"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15657,6 +15667,10 @@
     },
     {
       "date": "2023-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
