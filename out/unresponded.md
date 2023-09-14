@@ -1,4 +1,4 @@
-Response rate: 87.97%
+Response rate: 87.69%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -24,8 +24,7 @@ Response rate: 87.97%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [No longer able to uninstall WebView Runtime - expected?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780)
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [PrintAsync for pdf files prints blank pages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779)
   * [missing console extension WebView2 - config manager](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778)
   * [Sporadic blank window with no signs of error/exception messa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776)
@@ -38,7 +37,9 @@ Response rate: 87.97%
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
+  * [No longer able to uninstall WebView Runtime - expected?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780)
   * [Edge and Firefox parse CRL and AIA information in digital ce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771)
+  * [WebView2 swallows mouse wheel events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)

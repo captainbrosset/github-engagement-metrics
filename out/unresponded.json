@@ -2210,6 +2210,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4446,6 +4450,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6661,6 +6669,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8876,6 +8888,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -11152,11 +11168,11 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [
-        {
-          "title": "No longer able to uninstall WebView Runtime - expected?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
-        },
         {
           "title": "PrintAsync for pdf files prints blank pages",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779"
@@ -11206,8 +11222,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
         },
         {
+          "title": "No longer able to uninstall WebView Runtime - expected?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
+        },
+        {
           "title": "Edge and Firefox parse CRL and AIA information in digital certificates differently",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771"
+        },
+        {
+          "title": "WebView2 swallows mouse wheel events",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769"
         },
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
@@ -11242,7 +11266,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13456,6 +13480,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15671,6 +15699,10 @@
     },
     {
       "date": "2023-09-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
