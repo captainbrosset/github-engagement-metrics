@@ -2214,6 +2214,10 @@
     },
     {
       "date": "2023-09-14",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4454,6 +4458,10 @@
     },
     {
       "date": "2023-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6673,6 +6681,10 @@
     },
     {
       "date": "2023-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8892,7 +8904,15 @@
     },
     {
       "date": "2023-09-14",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-15",
       "unRespondedItems": [
+        {
+          "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115"
+        },
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114"
@@ -8908,10 +8928,6 @@
         {
           "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
-        },
-        {
-          "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106"
         },
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -11172,7 +11188,23 @@
     },
     {
       "date": "2023-09-14",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-15",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0x237",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783"
+        },
+        {
+          "title": "Singleton instance of WebView2 control used across multiple WinForm instances. Is it supported? ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782"
+        },
+        {
+          "title": "The SetProcessDpiAwareness function causes WebView2 to run with errors",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3781"
+        },
         {
           "title": "PrintAsync for pdf files prints blank pages",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779"
@@ -11222,12 +11254,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
         },
         {
-          "title": "No longer able to uninstall WebView Runtime - expected?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
+          "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
         {
-          "title": "Edge and Firefox parse CRL and AIA information in digital certificates differently",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771"
+          "title": "No longer able to uninstall WebView Runtime - expected?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
         },
         {
           "title": "WebView2 swallows mouse wheel events",
@@ -11260,13 +11292,9 @@
         {
           "title": "New API for CoreWebView2 to \"IgnoreCacheReload\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
-        },
-        {
-          "title": "Please document how to clear the cache when using WebView2 within Unity",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727"
         }
       ],
-      "rate": "54.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13484,8 +13512,25 @@
     },
     {
       "date": "2023-09-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-15",
+      "unRespondedItems": [
+        {
+          "title": "ModuleNotFoundError: No module named 'mypackage'",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1735"
+        },
+        {
+          "title": "X",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1734"
+        },
+        {
+          "title": "is beter themes",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1733"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15703,8 +15748,21 @@
     },
     {
       "date": "2023-09-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-15",
+      "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback] Incorrect documentation of `CoreWebView2.AddHostObjectToScript` for WinRT",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2837"
+        },
+        {
+          "title": "2023",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2836"
+        }
+      ],
+      "rate": "95.45"
     }
   ]
 }

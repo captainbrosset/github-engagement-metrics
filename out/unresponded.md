@@ -1,4 +1,4 @@
-Response rate: 87.69%
+Response rate: 85.61%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -9,11 +9,11 @@ Response rate: 87.69%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+  * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
   * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
   * [Unable to launch URL with Edge (Edge117.0.2045.12) with sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111)
   * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
-  * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/106)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
@@ -24,7 +24,10 @@ Response rate: 87.69%
   * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
+  * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
+  * [The SetProcessDpiAwareness function causes WebView2 to run w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3781)
   * [PrintAsync for pdf files prints blank pages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779)
   * [missing console extension WebView2 - config manager](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778)
   * [Sporadic blank window with no signs of error/exception messa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776)
@@ -37,8 +40,8 @@ Response rate: 87.69%
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
+  * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [No longer able to uninstall WebView Runtime - expected?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780)
-  * [Edge and Firefox parse CRL and AIA information in digital ce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771)
   * [WebView2 swallows mouse wheel events](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
@@ -47,6 +50,10 @@ Response rate: 87.69%
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
   * [Custom display ContextMenuItem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735)
   * [New API for CoreWebView2 to "IgnoreCacheReload"](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734)
-  * [Please document how to clear the cache when using WebView2 w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3727)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [ModuleNotFoundError: No module named 'mypackage'](https://github.com/microsoft/vscode-edge-devtools/issues/1735)
+  * [X](https://github.com/microsoft/vscode-edge-devtools/issues/1734)
+  * [is beter themes](https://github.com/microsoft/vscode-edge-devtools/issues/1733)
+* **MicrosoftDocs/edge-developer** - _95.45%_
+  * [[DevTools Docs Feedback] Incorrect documentation of `CoreWeb...](https://github.com/MicrosoftDocs/edge-developer/issues/2837)
+  * [2023](https://github.com/MicrosoftDocs/edge-developer/issues/2836)
