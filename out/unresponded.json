@@ -2218,6 +2218,10 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4462,6 +4466,10 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6685,6 +6693,10 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8908,6 +8920,10 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -8968,9 +8984,13 @@
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
+        },
+        {
+          "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11192,7 +11212,15 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "50.00"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [
+        {
+          "title": "Create WV2 in a Windows Service",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786"
+        },
         {
           "title": "WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0x237",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783"
@@ -11200,10 +11228,6 @@
         {
           "title": "Singleton instance of WebView2 control used across multiple WinForm instances. Is it supported? ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782"
-        },
-        {
-          "title": "The SetProcessDpiAwareness function causes WebView2 to run with errors",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3781"
         },
         {
           "title": "PrintAsync for pdf files prints blank pages",
@@ -11254,16 +11278,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
         },
         {
+          "title": "Personalize address bar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3787"
+        },
+        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
         {
           "title": "No longer able to uninstall WebView Runtime - expected?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
-        },
-        {
-          "title": "WebView2 swallows mouse wheel events",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3769"
         },
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
@@ -11284,17 +11308,9 @@
         {
           "title": "D3D11VideoDecoder performs better that VDAVideoDecoder",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
-        },
-        {
-          "title": "Custom display ContextMenuItem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3735"
-        },
-        {
-          "title": "New API for CoreWebView2 to \"IgnoreCacheReload\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3734"
         }
       ],
-      "rate": "50.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13516,7 +13532,23 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [
+        {
+          "title": "why vs debugger not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1739"
+        },
+        {
+          "title": "chrome Browser not working,so I need Microsoft Edge to run Web Development codes",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1737"
+        },
+        {
+          "title": "web me",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1736"
+        },
         {
           "title": "ModuleNotFoundError: No module named 'mypackage'",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1735"
@@ -13528,9 +13560,13 @@
         {
           "title": "is beter themes",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1733"
+        },
+        {
+          "title": "mr.ljord",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1738"
         }
       ],
-      "rate": "94.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15752,17 +15788,21 @@
     },
     {
       "date": "2023-09-15",
+      "rate": "95.45"
+    },
+    {
+      "date": "2023-09-16",
       "unRespondedItems": [
-        {
-          "title": "[DevTools Docs Feedback] Incorrect documentation of `CoreWebView2.AddHostObjectToScript` for WinRT",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2837"
-        },
         {
           "title": "2023",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2836"
+        },
+        {
+          "title": "[DevTools Docs Feedback] Incorrect documentation of `CoreWebView2.AddHostObjectToScript` for WinRT",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2837"
         }
       ],
-      "rate": "95.45"
+      "rate": "95.56"
     }
   ]
 }
