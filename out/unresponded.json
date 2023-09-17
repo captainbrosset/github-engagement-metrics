@@ -2222,6 +2222,10 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4470,6 +4474,10 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6697,6 +6705,10 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8924,6 +8936,10 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11216,7 +11232,19 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [
+        {
+          "title": "Create a search bar in vertical tabs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3790"
+        },
+        {
+          "title": "How will Webview2 handle Chrome's change from MV2 to MV3 for extensions.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3789"
+        },
         {
           "title": "Create WV2 in a Windows Service",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786"
@@ -11290,6 +11318,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
         },
         {
+          "title": "Edge and Firefox parse CRL and AIA information in digital certificates differently",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771"
+        },
+        {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766"
         },
@@ -11310,7 +11342,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         }
       ],
-      "rate": "54.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13536,7 +13568,23 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [
+        {
+          "title": "Vscode set up",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1742"
+        },
+        {
+          "title": "Owner",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1741"
+        },
+        {
+          "title": "Owner",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1740"
+        },
         {
           "title": "why vs debugger not working",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1739"
@@ -13566,7 +13614,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1738"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15792,6 +15840,10 @@
     },
     {
       "date": "2023-09-16",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-09-17",
       "unRespondedItems": [
         {
           "title": "2023",

@@ -1,4 +1,4 @@
-Response rate: 84.77%
+Response rate: 83.05%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -25,7 +25,9 @@ Response rate: 84.77%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [Create a search bar in vertical tabs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3790)
+  * [How will Webview2 handle Chrome's change from MV2 to MV3 for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3789)
   * [Create WV2 in a Windows Service](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
@@ -44,12 +46,16 @@ Response rate: 84.77%
   * [Personalize address bar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3787)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [No longer able to uninstall WebView Runtime - expected?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780)
+  * [Edge and Firefox parse CRL and AIA information in digital ce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [Vscode set up](https://github.com/microsoft/vscode-edge-devtools/issues/1742)
+  * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1741)
+  * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1740)
   * [why vs debugger not working](https://github.com/microsoft/vscode-edge-devtools/issues/1739)
   * [chrome Browser not working,so I need Microsoft Edge to run W...](https://github.com/microsoft/vscode-edge-devtools/issues/1737)
   * [web me](https://github.com/microsoft/vscode-edge-devtools/issues/1736)
