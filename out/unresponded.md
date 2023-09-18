@@ -1,4 +1,4 @@
-Response rate: 83.05%
+Response rate: 82.48%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -52,7 +52,9 @@ Response rate: 83.05%
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _76.00%_
+  * [file:///C:/Users/user/OneDrive%20-%20Balqa%20Applied%20Unive...](https://github.com/microsoft/vscode-edge-devtools/issues/1744)
+  * [windows 11](https://github.com/microsoft/vscode-edge-devtools/issues/1743)
   * [Vscode set up](https://github.com/microsoft/vscode-edge-devtools/issues/1742)
   * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1741)
   * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1740)

@@ -2226,6 +2226,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4478,6 +4482,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6709,6 +6717,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8940,6 +8952,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11236,6 +11252,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "48.00"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [
         {
           "title": "Create a search bar in vertical tabs",
@@ -13572,7 +13592,19 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [
+        {
+          "title": "file:///C:/Users/user/OneDrive%20-%20Balqa%20Applied%20University/Desktop/HTML/index.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1744"
+        },
+        {
+          "title": "windows 11",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1743"
+        },
         {
           "title": "Vscode set up",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1742"
@@ -13614,7 +13646,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1738"
         }
       ],
-      "rate": "80.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15844,6 +15876,10 @@
     },
     {
       "date": "2023-09-17",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-09-18",
       "unRespondedItems": [
         {
           "title": "2023",
