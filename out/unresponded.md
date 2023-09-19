@@ -1,4 +1,4 @@
-Response rate: 82.48%
+Response rate: 87.11%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -7,7 +7,8 @@ Response rate: 82.48%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Dark Mode Language Selection Dropdown UI Bug](https://github.com/MicrosoftEdge/DevTools/issues/180)
 * **MicrosoftEdge/EdgeWebDriver** - _68.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -25,9 +26,9 @@ Response rate: 82.48%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
-  * [Create a search bar in vertical tabs](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3790)
-  * [How will Webview2 handle Chrome's change from MV2 to MV3 for...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3789)
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [Client crashes coinciding with Edge 117 Rollout](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3793)
+  * [WPF application crashes when disposing WebView2 from within ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792)
   * [Create WV2 in a Windows Service](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
@@ -42,29 +43,12 @@ Response rate: 82.48%
   * [Unity API: Throw exceptions when IWebView is called while no...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746)
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
   * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
-  * [webView2 does not fire the Form mouse event properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740)
-  * [Personalize address bar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3787)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
-  * [No longer able to uninstall WebView Runtime - expected?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780)
-  * [Edge and Firefox parse CRL and AIA information in digital ce...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
   * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
-* **microsoft/vscode-edge-devtools** - _76.00%_
-  * [file:///C:/Users/user/OneDrive%20-%20Balqa%20Applied%20Unive...](https://github.com/microsoft/vscode-edge-devtools/issues/1744)
-  * [windows 11](https://github.com/microsoft/vscode-edge-devtools/issues/1743)
-  * [Vscode set up](https://github.com/microsoft/vscode-edge-devtools/issues/1742)
-  * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1741)
-  * [Owner](https://github.com/microsoft/vscode-edge-devtools/issues/1740)
-  * [why vs debugger not working](https://github.com/microsoft/vscode-edge-devtools/issues/1739)
-  * [chrome Browser not working,so I need Microsoft Edge to run W...](https://github.com/microsoft/vscode-edge-devtools/issues/1737)
-  * [web me](https://github.com/microsoft/vscode-edge-devtools/issues/1736)
-  * [ModuleNotFoundError: No module named 'mypackage'](https://github.com/microsoft/vscode-edge-devtools/issues/1735)
-  * [X](https://github.com/microsoft/vscode-edge-devtools/issues/1734)
-  * [is beter themes](https://github.com/microsoft/vscode-edge-devtools/issues/1733)
-  * [mr.ljord](https://github.com/microsoft/vscode-edge-devtools/issues/1738)
-* **MicrosoftDocs/edge-developer** - _95.56%_
-  * [2023](https://github.com/MicrosoftDocs/edge-developer/issues/2836)
-  * [[DevTools Docs Feedback] Incorrect documentation of `CoreWeb...](https://github.com/MicrosoftDocs/edge-developer/issues/2837)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [microsoft debugger for multiple languages](https://github.com/microsoft/vscode-edge-devtools/issues/1748)
+* **MicrosoftDocs/edge-developer** - _100.00%_

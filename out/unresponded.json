@@ -2230,6 +2230,10 @@
     },
     {
       "date": "2023-09-18",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4486,6 +4490,10 @@
     },
     {
       "date": "2023-09-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6721,8 +6729,17 @@
     },
     {
       "date": "2023-09-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-19",
+      "unRespondedItems": [
+        {
+          "title": "Dark Mode Language Selection Dropdown UI Bug",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/180"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8956,6 +8973,10 @@
     },
     {
       "date": "2023-09-18",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-19",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11256,14 +11277,18 @@
     },
     {
       "date": "2023-09-18",
+      "rate": "48.00"
+    },
+    {
+      "date": "2023-09-19",
       "unRespondedItems": [
         {
-          "title": "Create a search bar in vertical tabs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3790"
+          "title": "Client crashes coinciding with Edge 117 Rollout",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3793"
         },
         {
-          "title": "How will Webview2 handle Chrome's change from MV2 to MV3 for extensions.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3789"
+          "title": "WPF application crashes when disposing WebView2 from within window's closing handler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792"
         },
         {
           "title": "Create WV2 in a Windows Service",
@@ -11322,24 +11347,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741"
         },
         {
-          "title": "webView2 does not fire the Form mouse event properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3740"
-        },
-        {
-          "title": "Personalize address bar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3787"
-        },
-        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
-        },
-        {
-          "title": "No longer able to uninstall WebView Runtime - expected?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780"
-        },
-        {
-          "title": "Edge and Firefox parse CRL and AIA information in digital certificates differently",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3771"
         },
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
@@ -11362,7 +11371,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         }
       ],
-      "rate": "48.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13596,57 +13605,17 @@
     },
     {
       "date": "2023-09-18",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-09-19",
       "unRespondedItems": [
         {
-          "title": "file:///C:/Users/user/OneDrive%20-%20Balqa%20Applied%20University/Desktop/HTML/index.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1744"
-        },
-        {
-          "title": "windows 11",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1743"
-        },
-        {
-          "title": "Vscode set up",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1742"
-        },
-        {
-          "title": "Owner",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1741"
-        },
-        {
-          "title": "Owner",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1740"
-        },
-        {
-          "title": "why vs debugger not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1739"
-        },
-        {
-          "title": "chrome Browser not working,so I need Microsoft Edge to run Web Development codes",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1737"
-        },
-        {
-          "title": "web me",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1736"
-        },
-        {
-          "title": "ModuleNotFoundError: No module named 'mypackage'",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1735"
-        },
-        {
-          "title": "X",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1734"
-        },
-        {
-          "title": "is beter themes",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1733"
-        },
-        {
-          "title": "mr.ljord",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1738"
+          "title": "microsoft debugger for multiple languages",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1748"
         }
       ],
-      "rate": "76.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15880,17 +15849,12 @@
     },
     {
       "date": "2023-09-18",
-      "unRespondedItems": [
-        {
-          "title": "2023",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2836"
-        },
-        {
-          "title": "[DevTools Docs Feedback] Incorrect documentation of `CoreWebView2.AddHostObjectToScript` for WinRT",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2837"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2023-09-19",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
