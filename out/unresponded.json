@@ -2234,6 +2234,10 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -2242,6 +2246,10 @@
         {
           "title": "[Bug] Browserslist configuration not being followed",
           "url": "https://github.com/webhintio/hint/issues/5556"
+        },
+        {
+          "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
+          "url": "https://github.com/webhintio/hint/issues/5702"
         },
         {
           "title": "[Bug] `yarn build` fails on a fresh clone of this repository",
@@ -2256,7 +2264,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "89.80"
+      "rate": "87.76"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4494,6 +4502,10 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6733,13 +6745,12 @@
     },
     {
       "date": "2023-09-19",
-      "unRespondedItems": [
-        {
-          "title": "Dark Mode Language Selection Dropdown UI Bug",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/180"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8977,6 +8988,10 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -8993,10 +9008,6 @@
         {
           "title": "Unable to launch URL with Edge (Edge117.0.2045.12) with selenium 4.10",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111"
-        },
-        {
-          "title": "DevToolsActivePort file doesn't exist --While deploying application using tomcat In Chrome browser is working fine but In Edge browser I'm Getting this Issue ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108"
         },
         {
           "title": "DevToolsActivePort file doesn't exist",
@@ -9043,7 +9054,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11281,18 +11292,26 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [
         {
-          "title": "Client crashes coinciding with Edge 117 Rollout",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3793"
+          "title": "ActiveX com control needed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796"
+        },
+        {
+          "title": "Edge 117.0.2045.31 extension printerProvider crashes when printing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795"
+        },
+        {
+          "title": "Memory leak when data isn't read in WebMessageReceived",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3794"
         },
         {
           "title": "WPF application crashes when disposing WebView2 from within window's closing handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792"
-        },
-        {
-          "title": "Create WV2 in a Windows Service",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786"
         },
         {
           "title": "WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0x237",
@@ -11341,10 +11360,6 @@
         {
           "title": "Intermittent issue - new WebView2 control instance inherits session cookies",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745"
-        },
-        {
-          "title": "Provide a NavigationRequested EventHandler with .Cancel and .NewWindow",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741"
         },
         {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
@@ -13609,10 +13624,14 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [
         {
-          "title": "microsoft debugger for multiple languages",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1748"
+          "title": "Dev Tools do not show up after port forwarding",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1749"
         }
       ],
       "rate": "98.00"
@@ -15853,6 +15872,10 @@
     },
     {
       "date": "2023-09-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }

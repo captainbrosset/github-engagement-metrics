@@ -1,20 +1,19 @@
-Response rate: 87.11%
+Response rate: 87.39%
 
-* **webhintio/hint** - _89.80%_
+* **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
+  * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Dark Mode Language Selection Dropdown UI Bug](https://github.com/MicrosoftEdge/DevTools/issues/180)
-* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
   * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
   * [Unable to launch URL with Edge (Edge117.0.2045.12) with sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111)
-  * [DevToolsActivePort file doesn't exist --While deploying appl...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/108)
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
@@ -27,9 +26,10 @@ Response rate: 87.11%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [Client crashes coinciding with Edge 117 Rollout](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3793)
+  * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
+  * [Edge 117.0.2045.31 extension printerProvider crashes when pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795)
+  * [Memory leak when data isn't read in WebMessageReceived](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3794)
   * [WPF application crashes when disposing WebView2 from within ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792)
-  * [Create WV2 in a Windows Service](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3786)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
   * [PrintAsync for pdf files prints blank pages](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779)
@@ -42,7 +42,6 @@ Response rate: 87.11%
   * [How to close webView2 after using Navigate()](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754)
   * [Unity API: Throw exceptions when IWebView is called while no...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746)
   * [Intermittent issue - new WebView2 control instance inherits ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745)
-  * [Provide a NavigationRequested EventHandler with .Cancel and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3741)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
@@ -50,5 +49,5 @@ Response rate: 87.11%
   * [Win32 app using WebView2 will hang at the 6 minute mark.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753)
   * [D3D11VideoDecoder performs better that VDAVideoDecoder](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [microsoft debugger for multiple languages](https://github.com/microsoft/vscode-edge-devtools/issues/1748)
+  * [Dev Tools do not show up after port forwarding](https://github.com/microsoft/vscode-edge-devtools/issues/1749)
 * **MicrosoftDocs/edge-developer** - _100.00%_
