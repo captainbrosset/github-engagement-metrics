@@ -2238,6 +2238,10 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4506,6 +4510,10 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6749,8 +6757,17 @@
     },
     {
       "date": "2023-09-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-21",
+      "unRespondedItems": [
+        {
+          "title": "Send Feedback is not working",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/181"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -8992,6 +9009,10 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11296,7 +11317,27 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [
+        {
+          "title": "NavigationCompleted regression for certain websites",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3801"
+        },
+        {
+          "title": "Migrating CEF3 application- message loop call?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
+        },
+        {
+          "title": "Printing window cannot see all",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798"
+        },
+        {
+          "title": "Does update policy for webview support devices that are not managed by the domain?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
+        },
         {
           "title": "ActiveX com control needed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796"
@@ -11354,14 +11395,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754"
         },
         {
-          "title": "Unity API: Throw exceptions when IWebView is called while not ready (causes crash!)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3746"
-        },
-        {
-          "title": "Intermittent issue - new WebView2 control instance inherits session cookies",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3745"
-        },
-        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
@@ -11386,7 +11419,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         }
       ],
-      "rate": "56.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13628,13 +13661,21 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [
         {
-          "title": "Dev Tools do not show up after port forwarding",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1749"
+          "title": "code table for html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1751"
+        },
+        {
+          "title": "location",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1750"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15876,6 +15917,10 @@
     },
     {
       "date": "2023-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
