@@ -2242,6 +2242,10 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4514,6 +4518,10 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6761,10 +6769,14 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [
         {
-          "title": "Send Feedback is not working",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/181"
+          "title": "Open new tabs on top (vertical tabs)",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/182"
         }
       ],
       "rate": "98.00"
@@ -9013,6 +9025,10 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11321,7 +11337,19 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [
+        {
+          "title": "Webview locks after changing scale on a VSTO addin.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3804"
+        },
+        {
+          "title": "WebView2 (version 117) crashes on Windows 11 Store version with Desktop Bridge technology",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803"
+        },
         {
           "title": "NavigationCompleted regression for certain websites",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3801"
@@ -11391,10 +11419,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759"
         },
         {
-          "title": "How to close webView2 after using Navigate()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3754"
-        },
-        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
@@ -11409,17 +11433,9 @@
         {
           "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
-        },
-        {
-          "title": "Win32 app using WebView2 will hang at the 6 minute mark.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3753"
-        },
-        {
-          "title": "D3D11VideoDecoder performs better that VDAVideoDecoder",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3751"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13665,17 +13681,17 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [
         {
-          "title": "code table for html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1751"
-        },
-        {
-          "title": "location",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1750"
+          "title": "web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1753"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15921,6 +15937,10 @@
     },
     {
       "date": "2023-09-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
