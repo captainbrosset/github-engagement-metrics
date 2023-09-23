@@ -2246,6 +2246,10 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4522,6 +4526,10 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6773,13 +6781,12 @@
     },
     {
       "date": "2023-09-22",
-      "unRespondedItems": [
-        {
-          "title": "Open new tabs on top (vertical tabs)",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/182"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9029,6 +9036,10 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11341,22 +11352,14 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [
         {
-          "title": "Webview locks after changing scale on a VSTO addin.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3804"
-        },
-        {
-          "title": "WebView2 (version 117) crashes on Windows 11 Store version with Desktop Bridge technology",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803"
-        },
-        {
-          "title": "NavigationCompleted regression for certain websites",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3801"
-        },
-        {
-          "title": "Migrating CEF3 application- message loop call?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
+          "title": "CefCallback.Continue equivalent in WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809"
         },
         {
           "title": "Printing window cannot see all",
@@ -11373,10 +11376,6 @@
         {
           "title": "Edge 117.0.2045.31 extension printerProvider crashes when printing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795"
-        },
-        {
-          "title": "Memory leak when data isn't read in WebMessageReceived",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3794"
         },
         {
           "title": "WPF application crashes when disposing WebView2 from within window's closing handler",
@@ -11419,6 +11418,18 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759"
         },
         {
+          "title": "WebView2 (version 117) crashes on Windows 11 Store version with Desktop Bridge technology",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803"
+        },
+        {
+          "title": "Windows 11 update - KB5030219 - Unable to enter issue on the WebView2 browser text box keyboard.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3802"
+        },
+        {
+          "title": "Migrating CEF3 application- message loop call?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
+        },
+        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
@@ -11429,13 +11440,9 @@
         {
           "title": "Provides the close () method for webView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761"
-        },
-        {
-          "title": "Folder Redirection Breaks WebView2 when File Server shares are not accessible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756"
         }
       ],
-      "rate": "54.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13685,10 +13692,14 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [
         {
-          "title": "web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1753"
+          "title": "myw",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1755"
         }
       ],
       "rate": "98.00"
@@ -15941,6 +15952,10 @@
     },
     {
       "date": "2023-09-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }

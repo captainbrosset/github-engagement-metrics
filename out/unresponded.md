@@ -1,4 +1,4 @@
-Response rate: 86.82%
+Response rate: 87.68%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,8 +8,7 @@ Response rate: 86.82%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Open new tabs on top (vertical tabs)](https://github.com/MicrosoftEdge/DevTools/issues/182)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -26,16 +25,12 @@ Response rate: 86.82%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [Webview locks after changing scale on a VSTO addin.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3804)
-  * [WebView2 (version 117) crashes on Windows 11 Store version w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803)
-  * [NavigationCompleted regression for certain websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3801)
-  * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [Printing window cannot see all](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [Edge 117.0.2045.31 extension printerProvider crashes when pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795)
-  * [Memory leak when data isn't read in WebMessageReceived](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3794)
   * [WPF application crashes when disposing WebView2 from within ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
@@ -46,10 +41,12 @@ Response rate: 86.82%
   * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
   * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
   * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
+  * [WebView2 (version 117) crashes on Windows 11 Store version w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803)
+  * [Windows 11 update - KB5030219 - Unable to enter issue on the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3802)
+  * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
-  * [Folder Redirection Breaks WebView2 when File Server shares a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3756)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [web](https://github.com/microsoft/vscode-edge-devtools/issues/1753)
+  * [myw](https://github.com/microsoft/vscode-edge-devtools/issues/1755)
 * **MicrosoftDocs/edge-developer** - _100.00%_
