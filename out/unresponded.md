@@ -1,4 +1,4 @@
-Response rate: 87.68%
+Response rate: 86.51%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,7 +8,8 @@ Response rate: 87.68%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Automatic update causes out of mac version support](https://github.com/MicrosoftEdge/DevTools/issues/184)
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -25,7 +26,8 @@ Response rate: 87.68%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [Tip:  To reuse a Webview2 Control from a previously closed w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810)
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [Printing window cannot see all](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
@@ -47,6 +49,8 @@ Response rate: 87.68%
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [problem with files ](https://github.com/microsoft/vscode-edge-devtools/issues/1757)
   * [myw](https://github.com/microsoft/vscode-edge-devtools/issues/1755)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [https://master333-ui-web//www.w3c.github.com/etcorps](https://github.com/MicrosoftDocs/edge-developer/issues/2843)
