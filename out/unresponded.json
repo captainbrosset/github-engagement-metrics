@@ -2254,6 +2254,10 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4538,6 +4542,10 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6797,6 +6805,10 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
         {
           "title": "Automatic update causes out of mac version support",
@@ -9061,6 +9073,10 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11381,7 +11397,15 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
+        {
+          "title": "can not install webview2 109 offline",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
+        },
         {
           "title": "Tip:  To reuse a Webview2 Control from a previously closed window in VB.Net",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810"
@@ -11471,7 +11495,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13729,7 +13753,23 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
+        {
+          "title": "Consider not jumping to a file when clicking on a style property",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1760"
+        },
+        {
+          "title": "add the live workspace feature for this type of language",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1759"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1758"
+        },
         {
           "title": "problem with files ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1757"
@@ -13737,9 +13777,17 @@
         {
           "title": "myw",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1755"
+        },
+        {
+          "title": "web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1762"
+        },
+        {
+          "title": "BlobNotFoundThe specified blob does not exist. RequestId:180d63b9-501e-0038-44ba-ee5969000000 Time:2023-09-24T07:43:35.2696360Z",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1761"
         }
       ],
-      "rate": "96.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -15997,6 +16045,10 @@
     },
     {
       "date": "2023-09-24",
+      "rate": "97.78"
+    },
+    {
+      "date": "2023-09-25",
       "unRespondedItems": [
         {
           "title": "https://master333-ui-web//www.w3c.github.com/etcorps",

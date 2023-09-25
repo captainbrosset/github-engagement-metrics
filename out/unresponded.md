@@ -1,4 +1,4 @@
-Response rate: 86.51%
+Response rate: 84.79%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -26,7 +26,8 @@ Response rate: 86.51%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
   * [Tip:  To reuse a Webview2 Control from a previously closed w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810)
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [Printing window cannot see all](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798)
@@ -49,8 +50,13 @@ Response rate: 86.51%
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
   * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [Consider not jumping to a file when clicking on a style prop...](https://github.com/microsoft/vscode-edge-devtools/issues/1760)
+  * [add the live workspace feature for this type of language](https://github.com/microsoft/vscode-edge-devtools/issues/1759)
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/1758)
   * [problem with files ](https://github.com/microsoft/vscode-edge-devtools/issues/1757)
   * [myw](https://github.com/microsoft/vscode-edge-devtools/issues/1755)
+  * [web](https://github.com/microsoft/vscode-edge-devtools/issues/1762)
+  * [BlobNotFoundThe specified blob does not exist. RequestId:180...](https://github.com/microsoft/vscode-edge-devtools/issues/1761)
 * **MicrosoftDocs/edge-developer** - _97.78%_
   * [https://master333-ui-web//www.w3c.github.com/etcorps](https://github.com/MicrosoftDocs/edge-developer/issues/2843)
