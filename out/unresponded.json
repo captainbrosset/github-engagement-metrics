@@ -2258,6 +2258,10 @@
     },
     {
       "date": "2023-09-25",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4546,6 +4550,10 @@
     },
     {
       "date": "2023-09-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6809,13 +6817,12 @@
     },
     {
       "date": "2023-09-25",
-      "unRespondedItems": [
-        {
-          "title": "Automatic update causes out of mac version support",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/184"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-09-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9077,6 +9084,10 @@
     },
     {
       "date": "2023-09-25",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-09-26",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -9107,10 +9118,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
         },
         {
-          "title": "webdriverio + edgedriver: The uploadFile command is not available in msedge",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97"
-        },
-        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -9139,7 +9146,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "70.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11401,7 +11408,19 @@
     },
     {
       "date": "2023-09-25",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-26",
       "unRespondedItems": [
+        {
+          "title": "How can i set custome header",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814"
+        },
+        {
+          "title": "Setting Printer from Selenium UI-Test",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812"
+        },
         {
           "title": "can not install webview2 109 offline",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
@@ -11417,10 +11436,6 @@
         {
           "title": "Printing window cannot see all",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798"
-        },
-        {
-          "title": "Does update policy for webview support devices that are not managed by the domain?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         },
         {
           "title": "ActiveX com control needed",
@@ -11467,10 +11482,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
         },
         {
-          "title": "< a > link to open the web page won't execute AddScriptToExecuteOnDocumentCreatedAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759"
-        },
-        {
           "title": "WebView2 (version 117) crashes on Windows 11 Store version with Desktop Bridge technology",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803"
         },
@@ -11483,16 +11494,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
         },
         {
+          "title": "Does update policy for webview support devices that are not managed by the domain?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
+        },
+        {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         },
         {
           "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766"
-        },
-        {
-          "title": "Provides the close () method for webView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761"
         }
       ],
       "rate": "54.00"
@@ -13757,37 +13768,12 @@
     },
     {
       "date": "2023-09-25",
-      "unRespondedItems": [
-        {
-          "title": "Consider not jumping to a file when clicking on a style property",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1760"
-        },
-        {
-          "title": "add the live workspace feature for this type of language",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1759"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1758"
-        },
-        {
-          "title": "problem with files ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1757"
-        },
-        {
-          "title": "myw",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1755"
-        },
-        {
-          "title": "web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1762"
-        },
-        {
-          "title": "BlobNotFoundThe specified blob does not exist. RequestId:180d63b9-501e-0038-44ba-ee5969000000 Time:2023-09-24T07:43:35.2696360Z",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1761"
-        }
-      ],
       "rate": "86.00"
+    },
+    {
+      "date": "2023-09-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16049,13 +16035,12 @@
     },
     {
       "date": "2023-09-25",
-      "unRespondedItems": [
-        {
-          "title": "https://master333-ui-web//www.w3c.github.com/etcorps",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2843"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2023-09-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

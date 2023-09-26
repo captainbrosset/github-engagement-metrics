@@ -1,4 +1,4 @@
-Response rate: 84.79%
+Response rate: 87.68%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,9 +8,8 @@ Response rate: 84.79%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Automatic update causes out of mac version support](https://github.com/MicrosoftEdge/DevTools/issues/184)
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
   * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
@@ -18,7 +17,6 @@ Response rate: 84.79%
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
-  * [webdriverio + edgedriver: The uploadFile command is not avai...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/97)
   * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
@@ -27,11 +25,12 @@ Response rate: 84.79%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [How can i set custome header](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814)
+  * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
   * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
   * [Tip:  To reuse a Webview2 Control from a previously closed w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810)
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [Printing window cannot see all](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798)
-  * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [Edge 117.0.2045.31 extension printerProvider crashes when pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795)
   * [WPF application crashes when disposing WebView2 from within ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792)
@@ -43,20 +42,11 @@ Response rate: 84.79%
   * [Copy + Paste does not work properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3775)
   * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
   * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
-  * [< a > link to open the web page won't execute AddScriptToExe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3759)
   * [WebView2 (version 117) crashes on Windows 11 Store version w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803)
   * [Windows 11 update - KB5030219 - Unable to enter issue on the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3802)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
+  * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
   * [How to install extensions in WebView2 prerelease v1.0.2065?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766)
-  * [Provides the close () method for webView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3761)
-* **microsoft/vscode-edge-devtools** - _86.00%_
-  * [Consider not jumping to a file when clicking on a style prop...](https://github.com/microsoft/vscode-edge-devtools/issues/1760)
-  * [add the live workspace feature for this type of language](https://github.com/microsoft/vscode-edge-devtools/issues/1759)
-  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/1758)
-  * [problem with files ](https://github.com/microsoft/vscode-edge-devtools/issues/1757)
-  * [myw](https://github.com/microsoft/vscode-edge-devtools/issues/1755)
-  * [web](https://github.com/microsoft/vscode-edge-devtools/issues/1762)
-  * [BlobNotFoundThe specified blob does not exist. RequestId:180...](https://github.com/microsoft/vscode-edge-devtools/issues/1761)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [https://master333-ui-web//www.w3c.github.com/etcorps](https://github.com/MicrosoftDocs/edge-developer/issues/2843)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_
