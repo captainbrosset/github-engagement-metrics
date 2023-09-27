@@ -2262,6 +2262,10 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4554,6 +4558,10 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6821,6 +6829,10 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9088,6 +9100,10 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11412,7 +11428,27 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [
+        {
+          "title": " webView.CoreWebView2 throws an exception on look up",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3821"
+        },
+        {
+          "title": "WinUI3 with WebView2 on a secondary window crash in remote desktop session",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3820"
+        },
+        {
+          "title": "Mutiple webview in wpf TabControl, only first (visible) will load",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818"
+        },
+        {
+          "title": "Webview2 Crashed, But cannot find symbol file in Microsoft Symbol Server",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3816"
+        },
         {
           "title": "How can i set custome header",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814"
@@ -11442,24 +11478,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796"
         },
         {
-          "title": "Edge 117.0.2045.31 extension printerProvider crashes when printing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3795"
-        },
-        {
-          "title": "WPF application crashes when disposing WebView2 from within window's closing handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3792"
-        },
-        {
           "title": "WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0x237",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783"
         },
         {
           "title": "Singleton instance of WebView2 control used across multiple WinForm instances. Is it supported? ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782"
-        },
-        {
-          "title": "PrintAsync for pdf files prints blank pages",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3779"
         },
         {
           "title": "missing console extension WebView2 - config manager",
@@ -11482,8 +11506,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
         },
         {
-          "title": "WebView2 (version 117) crashes on Windows 11 Store version with Desktop Bridge technology",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3803"
+          "title": "WebView2 Registry keys",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819"
         },
         {
           "title": "Windows 11 update - KB5030219 - Unable to enter issue on the WebView2 browser text box keyboard.",
@@ -11500,10 +11524,6 @@
         {
           "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
-        },
-        {
-          "title": "How to install extensions in WebView2 prerelease v1.0.2065?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3766"
         }
       ],
       "rate": "54.00"
@@ -13772,8 +13792,17 @@
     },
     {
       "date": "2023-09-26",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-27",
+      "unRespondedItems": [
+        {
+          "title": "live reloading",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1765"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16039,6 +16068,10 @@
     },
     {
       "date": "2023-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
