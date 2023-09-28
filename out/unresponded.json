@@ -2266,6 +2266,10 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4562,6 +4566,10 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6833,6 +6841,10 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9104,6 +9116,10 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11432,14 +11448,14 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [
         {
-          "title": " webView.CoreWebView2 throws an exception on look up",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3821"
-        },
-        {
-          "title": "WinUI3 with WebView2 on a secondary window crash in remote desktop session",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3820"
+          "title": "Provide AddWebAllowedObject which works like in Windows.UI.Xaml.Controls.WebView",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823"
         },
         {
           "title": "Mutiple webview in wpf TabControl, only first (visible) will load",
@@ -11468,10 +11484,6 @@
         {
           "title": "CefCallback.Continue equivalent in WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809"
-        },
-        {
-          "title": "Printing window cannot see all",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798"
         },
         {
           "title": "ActiveX com control needed",
@@ -11506,16 +11518,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
         },
         {
+          "title": "open extension default_poppup ui",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3822"
+        },
+        {
           "title": "WebView2 Registry keys",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819"
         },
         {
-          "title": "Windows 11 update - KB5030219 - Unable to enter issue on the WebView2 browser text box keyboard.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3802"
+          "title": "WebView2 shows blank window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         },
         {
           "title": "Migrating CEF3 application- message loop call?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
+        },
+        {
+          "title": "Printing window cannot see all",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798"
         },
         {
           "title": "Does update policy for webview support devices that are not managed by the domain?",
@@ -13796,13 +13816,21 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [
+        {
+          "title": "re",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1766"
+        },
         {
           "title": "live reloading",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1765"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16072,6 +16100,10 @@
     },
     {
       "date": "2023-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
