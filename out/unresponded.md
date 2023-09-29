@@ -1,4 +1,4 @@
-Response rate: 87.11%
+Response rate: 86.77%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -24,14 +24,13 @@ Response rate: 87.11%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
   * [Webview2 Crashed, But cannot find symbol file in Microsoft S...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3816)
   * [How can i set custome header](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814)
-  * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
   * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
-  * [Tip:  To reuse a Webview2 Control from a previously closed w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810)
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
@@ -41,14 +40,16 @@ Response rate: 87.11%
   * [Copy + Paste does not work properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3775)
   * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
   * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
-  * [open extension default_poppup ui](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3822)
+  * [Webview2 affected by WebP 0day?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3825)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
+  * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
-  * [Printing window cannot see all](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [re](https://github.com/microsoft/vscode-edge-devtools/issues/1766)
-  * [live reloading](https://github.com/microsoft/vscode-edge-devtools/issues/1765)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+  * [bag](https://github.com/microsoft/vscode-edge-devtools/issues/1769)
+  * [I would like to be able to provide a command for other exten...](https://github.com/microsoft/vscode-edge-devtools/issues/1768)
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [https://techcommunity.microsoft.com/t5/microsoft-edge-inside...](https://github.com/MicrosoftDocs/edge-developer/issues/2850)
+  * [Opening Network tab blocks internet connection](https://github.com/MicrosoftDocs/edge-developer/issues/2849)

@@ -2270,6 +2270,10 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4570,6 +4574,10 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6845,6 +6853,10 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9120,6 +9132,10 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11452,7 +11468,15 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Tooltips",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826"
+        },
         {
           "title": "Provide AddWebAllowedObject which works like in Windows.UI.Xaml.Controls.WebView",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823"
@@ -11470,16 +11494,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814"
         },
         {
-          "title": "Setting Printer from Selenium UI-Test",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812"
-        },
-        {
           "title": "can not install webview2 109 offline",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
-        },
-        {
-          "title": "Tip:  To reuse a Webview2 Control from a previously closed window in VB.Net",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3810"
         },
         {
           "title": "CefCallback.Continue equivalent in WebView2",
@@ -11518,8 +11534,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
         },
         {
-          "title": "open extension default_poppup ui",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3822"
+          "title": "Webview2 affected by WebP 0day?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3825"
         },
         {
           "title": "WebView2 Registry keys",
@@ -11530,12 +11546,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         },
         {
-          "title": "Migrating CEF3 application- message loop call?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
+          "title": "Setting Printer from Selenium UI-Test",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812"
         },
         {
-          "title": "Printing window cannot see all",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3798"
+          "title": "Migrating CEF3 application- message loop call?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
         },
         {
           "title": "Does update policy for webview support devices that are not managed by the domain?",
@@ -11546,7 +11562,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13820,14 +13836,18 @@
     },
     {
       "date": "2023-09-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-09-29",
       "unRespondedItems": [
         {
-          "title": "re",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1766"
+          "title": "bag",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1769"
         },
         {
-          "title": "live reloading",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1765"
+          "title": "I would like to be able to provide a command for other extensions to be able to call and then open a url",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1768"
         }
       ],
       "rate": "96.00"
@@ -16104,8 +16124,21 @@
     },
     {
       "date": "2023-09-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-29",
+      "unRespondedItems": [
+        {
+          "title": "https://techcommunity.microsoft.com/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2850"
+        },
+        {
+          "title": "Opening Network tab blocks internet connection",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2849"
+        }
+      ],
+      "rate": "95.65"
     }
   ]
 }
