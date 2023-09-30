@@ -2274,6 +2274,10 @@
     },
     {
       "date": "2023-09-29",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-09-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension reports \"bundler\" as invalid \"moduleResolution\" in `tsconfig.json`",
@@ -4578,6 +4582,10 @@
     },
     {
       "date": "2023-09-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-09-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6857,8 +6865,17 @@
     },
     {
       "date": "2023-09-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-09-30",
+      "unRespondedItems": [
+        {
+          "title": "please delete",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/185"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9136,6 +9153,10 @@
     },
     {
       "date": "2023-09-29",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-09-30",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11472,7 +11493,19 @@
     },
     {
       "date": "2023-09-29",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-09-30",
       "unRespondedItems": [
+        {
+          "title": "WebView2 crash in combination with the print preview of PDF.js",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832"
+        },
+        {
+          "title": "Initialization Exception when switching user context",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3831"
+        },
         {
           "title": "WebView2 Tooltips",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826"
@@ -11522,22 +11555,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776"
         },
         {
-          "title": "Copy + Paste does not work properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3775"
-        },
-        {
-          "title": "WebView2 not using SmartScreen even with IsReputationCheckingRequired = true in C#.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774"
-        },
-        {
-          "title": "Any possibility of increasing the size of Local Storage for web applications?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773"
-        },
-        {
-          "title": "Webview2 affected by WebP 0day?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3825"
-        },
-        {
           "title": "WebView2 Registry keys",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819"
         },
@@ -11562,7 +11579,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         }
       ],
-      "rate": "56.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13840,17 +13857,12 @@
     },
     {
       "date": "2023-09-29",
-      "unRespondedItems": [
-        {
-          "title": "bag",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1769"
-        },
-        {
-          "title": "I would like to be able to provide a command for other extensions to be able to call and then open a url",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1768"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-09-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16128,17 +16140,12 @@
     },
     {
       "date": "2023-09-29",
-      "unRespondedItems": [
-        {
-          "title": "https://techcommunity.microsoft.com/t5/microsoft-edge-insider/ct-p/MicrosoftEdgeInsider",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2850"
-        },
-        {
-          "title": "Opening Network tab blocks internet connection",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2849"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2023-09-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }

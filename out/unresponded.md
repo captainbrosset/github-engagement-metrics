@@ -1,4 +1,4 @@
-Response rate: 86.77%
+Response rate: 88.25%
 
 * **webhintio/hint** - _87.76%_
   * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
@@ -8,7 +8,8 @@ Response rate: 86.77%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [please delete](https://github.com/MicrosoftEdge/DevTools/issues/185)
 * **MicrosoftEdge/EdgeWebDriver** - _72.00%_
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -24,7 +25,9 @@ Response rate: 86.77%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [WebView2 crash in combination with the print preview of PDF....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832)
+  * [Initialization Exception when switching user context](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3831)
   * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
@@ -37,19 +40,11 @@ Response rate: 86.77%
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
   * [missing console extension WebView2 - config manager](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778)
   * [Sporadic blank window with no signs of error/exception messa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776)
-  * [Copy + Paste does not work properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3775)
-  * [WebView2 not using SmartScreen even with IsReputationCheckin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3774)
-  * [Any possibility of increasing the size of Local Storage for ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3773)
-  * [Webview2 affected by WebP 0day?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3825)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [bag](https://github.com/microsoft/vscode-edge-devtools/issues/1769)
-  * [I would like to be able to provide a command for other exten...](https://github.com/microsoft/vscode-edge-devtools/issues/1768)
-* **MicrosoftDocs/edge-developer** - _95.65%_
-  * [https://techcommunity.microsoft.com/t5/microsoft-edge-inside...](https://github.com/MicrosoftDocs/edge-developer/issues/2850)
-  * [Opening Network tab blocks internet connection](https://github.com/MicrosoftDocs/edge-developer/issues/2849)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_
