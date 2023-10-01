@@ -1,7 +1,6 @@
-Response rate: 88.25%
+Response rate: 88.26%
 
-* **webhintio/hint** - _87.76%_
-  * [[Bug] Webhint VSCode extension reports "bundler" as invalid ...](https://github.com/webhintio/hint/issues/5563)
+* **webhintio/hint** - _89.80%_
   * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
@@ -46,5 +45,6 @@ Response rate: 88.25%
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [screen capture](https://github.com/microsoft/vscode-edge-devtools/issues/1770)
 * **MicrosoftDocs/edge-developer** - _100.00%_
