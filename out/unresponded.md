@@ -1,7 +1,6 @@
-Response rate: 88.26%
+Response rate: 88.55%
 
-* **webhintio/hint** - _89.80%_
-  * [[Bug] Browserslist configuration not being followed](https://github.com/webhintio/hint/issues/5556)
+* **webhintio/hint** - _91.84%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
@@ -25,6 +24,7 @@ Response rate: 88.26%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
   * [WebView2 crash in combination with the print preview of PDF....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832)
   * [Initialization Exception when switching user context](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3831)
   * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
@@ -38,7 +38,6 @@ Response rate: 88.26%
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
   * [missing console extension WebView2 - config manager](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778)
-  * [Sporadic blank window with no signs of error/exception messa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)

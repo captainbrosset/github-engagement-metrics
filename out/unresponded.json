@@ -2282,11 +2282,11 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Browserslist configuration not being followed",
-          "url": "https://github.com/webhintio/hint/issues/5556"
-        },
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
@@ -2304,7 +2304,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "89.80"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4590,6 +4590,10 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6877,6 +6881,10 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [
         {
           "title": "please delete",
@@ -9169,6 +9177,10 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
@@ -11513,7 +11525,15 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [
+        {
+          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
+        },
         {
           "title": "WebView2 crash in combination with the print preview of PDF.js",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832"
@@ -11565,10 +11585,6 @@
         {
           "title": "missing console extension WebView2 - config manager",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778"
-        },
-        {
-          "title": "Sporadic blank window with no signs of error/exception message",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3776"
         },
         {
           "title": "WebView2 Registry keys",
@@ -13881,6 +13897,10 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [
         {
           "title": "screen capture",
@@ -16173,6 +16193,10 @@
     },
     {
       "date": "2023-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
