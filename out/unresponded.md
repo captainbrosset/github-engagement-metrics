@@ -1,4 +1,4 @@
-Response rate: 88.55%
+Response rate: 88.26%
 
 * **webhintio/hint** - _91.84%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -7,8 +7,9 @@ Response rate: 88.55%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
-  * [please delete](https://github.com/MicrosoftEdge/DevTools/issues/185)
-* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+  * [Unable to access 3D view on a Mac](https://github.com/MicrosoftEdge/DevTools/issues/186)
+* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+  * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
   * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
@@ -37,7 +38,7 @@ Response rate: 88.55%
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
   * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
-  * [missing console extension WebView2 - config manager](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778)
+  * [Webview2 117.0.2045 Regression - RetryCreateWebView during W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
@@ -45,5 +46,5 @@ Response rate: 88.55%
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
   * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [screen capture](https://github.com/microsoft/vscode-edge-devtools/issues/1770)
+  * [list.html](https://github.com/microsoft/vscode-edge-devtools/issues/1772)
 * **MicrosoftDocs/edge-developer** - _100.00%_

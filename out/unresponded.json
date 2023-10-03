@@ -2286,6 +2286,10 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4594,6 +4598,10 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6885,10 +6893,14 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [
         {
-          "title": "please delete",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/185"
+          "title": "Unable to access 3D view on a Mac",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/186"
         }
       ],
       "rate": "98.00"
@@ -9181,7 +9193,15 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [
+        {
+          "title": "The cure is add Log by using Set Property",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117"
+        },
         {
           "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115"
@@ -9239,7 +9259,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11529,6 +11549,10 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [
         {
           "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
@@ -11583,8 +11607,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782"
         },
         {
-          "title": "missing console extension WebView2 - config manager",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3778"
+          "title": "Webview2 117.0.2045 Regression - RetryCreateWebView during WM_CLOSE, leads to App Crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837"
         },
         {
           "title": "WebView2 Registry keys",
@@ -13901,10 +13925,14 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [
         {
-          "title": "screen capture",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1770"
+          "title": "list.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1772"
         }
       ],
       "rate": "98.00"
@@ -16197,6 +16225,10 @@
     },
     {
       "date": "2023-10-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
