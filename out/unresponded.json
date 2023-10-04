@@ -2290,6 +2290,10 @@
     },
     {
       "date": "2023-10-03",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-04",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4602,6 +4606,10 @@
     },
     {
       "date": "2023-10-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6897,13 +6905,12 @@
     },
     {
       "date": "2023-10-03",
-      "unRespondedItems": [
-        {
-          "title": "Unable to access 3D view on a Mac",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/186"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9197,6 +9204,10 @@
     },
     {
       "date": "2023-10-03",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-10-04",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -11553,7 +11564,19 @@
     },
     {
       "date": "2023-10-03",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-10-04",
       "unRespondedItems": [
+        {
+          "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
+        },
+        {
+          "title": "Extra uncontrollable zoom factor applied to WebView2 content on about 1% of systems.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
+        },
         {
           "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
@@ -11635,7 +11658,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13929,13 +13952,12 @@
     },
     {
       "date": "2023-10-03",
-      "unRespondedItems": [
-        {
-          "title": "list.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1772"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16229,6 +16251,10 @@
     },
     {
       "date": "2023-10-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
