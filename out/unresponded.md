@@ -1,8 +1,7 @@
-Response rate: 88.26%
+Response rate: 89.39%
 
-* **webhintio/hint** - _91.84%_
+* **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
-  * [[Bug] `yarn build` fails on a fresh clone of this repository...](https://github.com/webhintio/hint/issues/5657)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
@@ -23,9 +22,8 @@ Response rate: 88.26%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [System menu doesn't open when "Alt + Space" is pressed while...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840)
-  * [Extra uncontrollable zoom factor applied to WebView2 content...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839)
   * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
   * [WebView2 crash in combination with the print preview of PDF....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832)
   * [Initialization Exception when switching user context](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3831)
@@ -33,18 +31,16 @@ Response rate: 88.26%
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
   * [Webview2 Crashed, But cannot find symbol file in Microsoft S...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3816)
-  * [How can i set custome header](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814)
   * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
-  * [WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783)
-  * [Singleton instance of WebView2 control used across multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782)
+  * [WebView2 application is rendered poorly on secondary monitor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844)
   * [Webview2 117.0.2045 Regression - RetryCreateWebView during W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Setting Printer from Selenium UI-Test](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
-  * [Runtime_ConsoleAPICalled not triggered when console message ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784)
 * **microsoft/vscode-edge-devtools** - _100.00%_
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [Improve memory leak examples for modern V8](https://github.com/MicrosoftDocs/edge-developer/issues/2851)

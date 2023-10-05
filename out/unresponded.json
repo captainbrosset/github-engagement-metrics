@@ -2294,14 +2294,14 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
-        },
-        {
-          "title": "[Bug] `yarn build` fails on a fresh clone of this repository",
-          "url": "https://github.com/webhintio/hint/issues/5657"
         },
         {
           "title": "Fix: utils-dom dependency",
@@ -2312,7 +2312,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "91.84"
+      "rate": "93.88"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4610,6 +4610,10 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6909,6 +6913,10 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9208,6 +9216,10 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -11568,14 +11580,14 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [
         {
           "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
-        },
-        {
-          "title": "Extra uncontrollable zoom factor applied to WebView2 content on about 1% of systems.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
         },
         {
           "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
@@ -11606,10 +11618,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3816"
         },
         {
-          "title": "How can i set custome header",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3814"
-        },
-        {
           "title": "can not install webview2 109 offline",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
         },
@@ -11622,12 +11630,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796"
         },
         {
-          "title": "WebView2 Crash: msedge!blink::FontCache::CrashWithFontInfo+0x237",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3783"
-        },
-        {
-          "title": "Singleton instance of WebView2 control used across multiple WinForm instances. Is it supported? ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3782"
+          "title": "WebView2 application is rendered poorly on secondary monitor with higher resolution ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844"
         },
         {
           "title": "Webview2 117.0.2045 Regression - RetryCreateWebView during WM_CLOSE, leads to App Crash",
@@ -11652,13 +11656,9 @@
         {
           "title": "Does update policy for webview support devices that are not managed by the domain?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
-        },
-        {
-          "title": "Runtime_ConsoleAPICalled not triggered when console message passed through javascript proxy class",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3784"
         }
       ],
-      "rate": "56.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13956,6 +13956,10 @@
     },
     {
       "date": "2023-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16255,8 +16259,17 @@
     },
     {
       "date": "2023-10-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-05",
+      "unRespondedItems": [
+        {
+          "title": "Improve memory leak examples for modern V8",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2851"
+        }
+      ],
+      "rate": "97.83"
     }
   ]
 }
