@@ -2298,6 +2298,10 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4614,6 +4618,10 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6917,6 +6925,10 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9220,6 +9232,10 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -11584,6 +11600,10 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [
         {
           "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
@@ -11646,10 +11666,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         },
         {
-          "title": "Setting Printer from Selenium UI-Test",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3812"
-        },
-        {
           "title": "Migrating CEF3 application- message loop call?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
         },
@@ -11658,7 +11674,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13960,8 +13976,21 @@
     },
     {
       "date": "2023-10-05",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-06",
+      "unRespondedItems": [
+        {
+          "title": "no",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1778"
+        },
+        {
+          "title": "ability to move the edge devtools tab to the 'terminal' panel",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1777"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16263,13 +16292,17 @@
     },
     {
       "date": "2023-10-05",
+      "rate": "97.83"
+    },
+    {
+      "date": "2023-10-06",
       "unRespondedItems": [
         {
-          "title": "Improve memory leak examples for modern V8",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2851"
+          "title": "Missing What's New in Devtools pages for Edge 116 & 117",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2853"
         }
       ],
-      "rate": "97.83"
+      "rate": "97.87"
     }
   ]
 }
