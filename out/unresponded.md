@@ -1,4 +1,4 @@
-Response rate: 89.11%
+Response rate: 87.70%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -6,7 +6,7 @@ Response rate: 89.11%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -15,6 +15,7 @@ Response rate: 89.11%
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
+  * [Edge has very slow(odd) loading speed compare to chrome](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/118)
   * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
@@ -22,7 +23,13 @@ Response rate: 89.11%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
+  * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
+  * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
+  * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
+  * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
+  * [[Feature] [Extensions]: Native/Extension communication](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3851)
   * [System menu doesn't open when "Alt + Space" is pressed while...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840)
   * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
   * [WebView2 crash in combination with the print preview of PDF....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832)
@@ -35,13 +42,11 @@ Response rate: 89.11%
   * [CefCallback.Continue equivalent in WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809)
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [WebView2 application is rendered poorly on secondary monitor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844)
+  * [Extra uncontrollable zoom factor applied to WebView2 content...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839)
   * [Webview2 117.0.2045 Regression - RetryCreateWebView during W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [no](https://github.com/microsoft/vscode-edge-devtools/issues/1778)
-  * [ability to move the edge devtools tab to the 'terminal' pane...](https://github.com/microsoft/vscode-edge-devtools/issues/1777)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Missing What's New in Devtools pages for Edge 116 & 117](https://github.com/MicrosoftDocs/edge-developer/issues/2853)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _100.00%_

@@ -2302,6 +2302,10 @@
     },
     {
       "date": "2023-10-06",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-07",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4622,6 +4626,10 @@
     },
     {
       "date": "2023-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6929,6 +6937,10 @@
     },
     {
       "date": "2023-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9236,6 +9248,10 @@
     },
     {
       "date": "2023-10-06",
+      "rate": "70.00"
+    },
+    {
+      "date": "2023-10-07",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -9270,6 +9286,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
         },
         {
+          "title": "Edge has very slow(odd) loading speed compare to chrome",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/118"
+        },
+        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -9298,7 +9318,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11604,7 +11624,35 @@
     },
     {
       "date": "2023-10-06",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-07",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: [Extensions] Additional Extension Metadata properties/events",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856"
+        },
+        {
+          "title": "[Feature]: [Extensions] Excluding Certain WebView2 instances From access by extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855"
+        },
+        {
+          "title": "[Feature]: [Extensions] Tab ID Mapping",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854"
+        },
+        {
+          "title": "[Feature]: [Extensions] Chrome extension API shim implementation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853"
+        },
+        {
+          "title": "[Feature]: [Extensions] Code injection before any Extension code runs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
+        },
+        {
+          "title": "[Feature] [Extensions]: Native/Extension communication",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3851"
+        },
         {
           "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
@@ -11654,6 +11702,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844"
         },
         {
+          "title": "Extra uncontrollable zoom factor applied to WebView2 content on about 1% of systems.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
+        },
+        {
           "title": "Webview2 117.0.2045 Regression - RetryCreateWebView during WM_CLOSE, leads to App Crash",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837"
         },
@@ -11674,7 +11726,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         }
       ],
-      "rate": "66.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -13980,17 +14032,12 @@
     },
     {
       "date": "2023-10-06",
-      "unRespondedItems": [
-        {
-          "title": "no",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1778"
-        },
-        {
-          "title": "ability to move the edge devtools tab to the 'terminal' panel",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1777"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2023-10-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16296,13 +16343,12 @@
     },
     {
       "date": "2023-10-06",
-      "unRespondedItems": [
-        {
-          "title": "Missing What's New in Devtools pages for Edge 116 & 117",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2853"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-10-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ]
 }
