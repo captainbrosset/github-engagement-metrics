@@ -2306,6 +2306,10 @@
     },
     {
       "date": "2023-10-07",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-08",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4630,6 +4634,10 @@
     },
     {
       "date": "2023-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6941,8 +6949,17 @@
     },
     {
       "date": "2023-10-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-08",
+      "unRespondedItems": [
+        {
+          "title": "Connection Type of \"Chrome devtools protocol websocket (no authentication)\" lost in Attach to process Dialog",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/188"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9252,6 +9269,10 @@
     },
     {
       "date": "2023-10-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-08",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -11628,7 +11649,15 @@
     },
     {
       "date": "2023-10-07",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-10-08",
       "unRespondedItems": [
+        {
+          "title": "Use of webview in winform c++ /clr the WRL problem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3858"
+        },
         {
           "title": "[Feature]: [Extensions] Additional Extension Metadata properties/events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856"
@@ -11650,10 +11679,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "[Feature] [Extensions]: Native/Extension communication",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3851"
-        },
-        {
           "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
         },
@@ -11664,10 +11689,6 @@
         {
           "title": "WebView2 crash in combination with the print preview of PDF.js",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832"
-        },
-        {
-          "title": "Initialization Exception when switching user context",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3831"
         },
         {
           "title": "WebView2 Tooltips",
@@ -11726,7 +11747,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14036,8 +14057,17 @@
     },
     {
       "date": "2023-10-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-08",
+      "unRespondedItems": [
+        {
+          "title": "code not working ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1779"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16347,6 +16377,10 @@
     },
     {
       "date": "2023-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
