@@ -52,6 +52,14 @@
     ]
   },
   {
+    "name": "Network Console panel",
+    "org": "microsoft",
+    "repo": "edge-devtools-network-console",
+    "prs": true,
+    "issues": true,
+    "trackedIssuesLabel": "tracked"
+  },
+  {
     "name": "Edge developer docs",
     "org": "MicrosoftDocs",
     "repo": "edge-developer",
