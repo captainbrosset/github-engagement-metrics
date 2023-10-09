@@ -2310,6 +2310,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4638,6 +4642,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6953,6 +6961,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [
         {
           "title": "Connection Type of \"Chrome devtools protocol websocket (no authentication)\" lost in Attach to process Dialog",
@@ -9273,6 +9285,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [
         {
           "title": "The cure is add Log by using Set Property",
@@ -11653,6 +11669,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [
         {
           "title": "Use of webview in winform c++ /clr the WRL problem",
@@ -14061,13 +14081,25 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [
+        {
+          "title": "<!DOCTYPE html> <html lang=\"en\"> <head>     <meta charset=\"UTF-8\">     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">     <title>Aram Dropship</title> </head> <body>     <header>         <h1>Welcome to Aram Dropship</h1>     </header>      <nav>         <ul>             <li><a href=\"#\">Home</a></li>             <li><a href=\"#\">Products</a></li>             <li><a href=\"#\">About Us</a></li>             <li><a href=\"#\">Contact Us</a></li>         </ul>     </nav>      <main>         <section>             <h2>About Aram Dropship</h2>             <p>Welcome to Aram Dropship! We offer a wide range of products for dropshipping.</p>         </section>          <section>             <h2>Our Products</h2>             <p>Explore our selection of high-quality products available for dropshipping.</p>         </section>     </main>      <footer>         <p>&copy; 2023 Aram Dropship. All rights reserved.</p>     </footer> </body> </html>",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1781"
+        },
+        {
+          "title": "Reset",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1780"
+        },
         {
           "title": "code not working ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1779"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16381,6 +16413,10 @@
     },
     {
       "date": "2023-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }

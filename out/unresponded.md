@@ -1,4 +1,4 @@
-Response rate: 87.41%
+Response rate: 86.84%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -48,6 +48,8 @@ Response rate: 87.41%
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [<!DOCTYPE html> <html lang="en"> <head>     <meta charset="U...](https://github.com/microsoft/vscode-edge-devtools/issues/1781)
+  * [Reset](https://github.com/microsoft/vscode-edge-devtools/issues/1780)
   * [code not working ](https://github.com/microsoft/vscode-edge-devtools/issues/1779)
 * **MicrosoftDocs/edge-developer** - _100.00%_
