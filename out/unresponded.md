@@ -1,13 +1,13 @@
-Response rate: 86.84%
+Response rate: 80.72%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Connection Type of "Chrome devtools protocol websocket (no a...](https://github.com/MicrosoftEdge/DevTools/issues/188)
-* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+  * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -24,8 +24,7 @@ Response rate: 86.84%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [Use of webview in winform c++ /clr the WRL problem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3858)
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
   * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
@@ -33,7 +32,6 @@ Response rate: 86.84%
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
   * [System menu doesn't open when "Alt + Space" is pressed while...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840)
   * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
-  * [WebView2 crash in combination with the print preview of PDF....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832)
   * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
@@ -43,13 +41,47 @@ Response rate: 86.84%
   * [ActiveX com control needed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796)
   * [WebView2 application is rendered poorly on secondary monitor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844)
   * [Extra uncontrollable zoom factor applied to WebView2 content...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839)
-  * [Webview2 117.0.2045 Regression - RetryCreateWebView during W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837)
   * [WebView2 Registry keys](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
   * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
   * [Does update policy for webview support devices that are not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797)
 * **microsoft/vscode-edge-devtools** - _94.00%_
-  * [<!DOCTYPE html> <html lang="en"> <head>     <meta charset="U...](https://github.com/microsoft/vscode-edge-devtools/issues/1781)
-  * [Reset](https://github.com/microsoft/vscode-edge-devtools/issues/1780)
-  * [code not working ](https://github.com/microsoft/vscode-edge-devtools/issues/1779)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+  * [Need mysql-php support by default we don't want to use any e...](https://github.com/microsoft/vscode-edge-devtools/issues/1784)
+  * [auto fill is not working](https://github.com/microsoft/vscode-edge-devtools/issues/1783)
+  * [does not localhost on server](https://github.com/microsoft/vscode-edge-devtools/issues/1782)
+* **microsoft/edge-devtools-network-console** - _34.00%_
+  * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
+  * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
+  * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
+  * [Bump semver from 5.7.1 to 5.7.2 in /packages/devtools-networ...](https://github.com/microsoft/edge-devtools-network-console/pull/120)
+  * [Bump tough-cookie and jsdom in /packages/devtools-network-co...](https://github.com/microsoft/edge-devtools-network-console/pull/119)
+  * [Bump semver and react-scripts in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/117)
+  * [Update webpack.config.js](https://github.com/microsoft/edge-devtools-network-console/pull/115)
+  * [Bump minimist from 1.2.5 to 1.2.8 in /packages/devtools-netw...](https://github.com/microsoft/edge-devtools-network-console/pull/112)
+  * [Bump minimist from 1.2.5 to 1.2.8](https://github.com/microsoft/edge-devtools-network-console/pull/111)
+  * [Bump simple-git from 2.5.0 to 3.16.0](https://github.com/microsoft/edge-devtools-network-console/pull/110)
+  * [Bump ua-parser-js from 0.7.21 to 0.7.33 in /packages/devtool...](https://github.com/microsoft/edge-devtools-network-console/pull/109)
+  * [Bump json5 from 1.0.1 to 1.0.2 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/108)
+  * [Bump json5 from 1.0.1 to 1.0.2 in /packages/devtools-network...](https://github.com/microsoft/edge-devtools-network-console/pull/107)
+  * [Bump json5, ts-loader, webpack and webpack-cli in /packages/...](https://github.com/microsoft/edge-devtools-network-console/pull/106)
+  * [Bump flat and mocha in /packages/network-console-shared](https://github.com/microsoft/edge-devtools-network-console/pull/105)
+  * [Bump express from 4.17.1 to 4.18.2 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/104)
+  * [Bump qs from 6.5.2 to 6.5.3 in /packages/devtools-network-co...](https://github.com/microsoft/edge-devtools-network-console/pull/103)
+  * [Bump decode-uri-component from 0.2.0 to 0.2.2 in /packages/d...](https://github.com/microsoft/edge-devtools-network-console/pull/101)
+  * [Bump decode-uri-component from 0.2.0 to 0.2.2 in /packages/n...](https://github.com/microsoft/edge-devtools-network-console/pull/100)
+  * [Executing requests in a page with overriden native functions...](https://github.com/microsoft/edge-devtools-network-console/issues/99)
+  * [Bump loader-utils and webpack-cli in /packages/network-conso...](https://github.com/microsoft/edge-devtools-network-console/pull/98)
+  * [Bump terser from 4.8.0 to 4.8.1 in /packages/devtools-networ...](https://github.com/microsoft/edge-devtools-network-console/pull/97)
+  * [Bump terser from 4.6.11 to 4.8.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/96)
+  * [Bump jsdom from 16.4.0 to 16.7.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/94)
+  * [Bump eventsource from 1.0.7 to 1.1.1 in /packages/devtools-n...](https://github.com/microsoft/edge-devtools-network-console/pull/93)
+  * [Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools...](https://github.com/microsoft/edge-devtools-network-console/pull/84)
+  * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
+  * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
+  * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
+  * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
+  * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
+  * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
+  * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
+* **MicrosoftDocs/edge-developer** - _97.87%_
+  * [Add widget screenshot requirements and update some out of da...](https://github.com/MicrosoftDocs/edge-developer/pull/2858)

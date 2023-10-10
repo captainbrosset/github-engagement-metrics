@@ -2314,6 +2314,10 @@
     },
     {
       "date": "2023-10-09",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-10",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4646,6 +4650,10 @@
     },
     {
       "date": "2023-10-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6965,13 +6973,12 @@
     },
     {
       "date": "2023-10-09",
-      "unRespondedItems": [
-        {
-          "title": "Connection Type of \"Chrome devtools protocol websocket (no authentication)\" lost in Attach to process Dialog",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/188"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9289,7 +9296,15 @@
     },
     {
       "date": "2023-10-09",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-10",
       "unRespondedItems": [
+        {
+          "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
+        },
         {
           "title": "The cure is add Log by using Set Property",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117"
@@ -9355,7 +9370,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11673,11 +11688,11 @@
     },
     {
       "date": "2023-10-09",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-10-10",
       "unRespondedItems": [
-        {
-          "title": "Use of webview in winform c++ /clr the WRL problem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3858"
-        },
         {
           "title": "[Feature]: [Extensions] Additional Extension Metadata properties/events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856"
@@ -11705,10 +11720,6 @@
         {
           "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
-        },
-        {
-          "title": "WebView2 crash in combination with the print preview of PDF.js",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3832"
         },
         {
           "title": "WebView2 Tooltips",
@@ -11747,10 +11758,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
         },
         {
-          "title": "Webview2 117.0.2045 Regression - RetryCreateWebView during WM_CLOSE, leads to App Crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3837"
-        },
-        {
           "title": "WebView2 Registry keys",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819"
         },
@@ -11767,7 +11774,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14085,18 +14092,22 @@
     },
     {
       "date": "2023-10-09",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-10-10",
       "unRespondedItems": [
         {
-          "title": "<!DOCTYPE html> <html lang=\"en\"> <head>     <meta charset=\"UTF-8\">     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">     <title>Aram Dropship</title> </head> <body>     <header>         <h1>Welcome to Aram Dropship</h1>     </header>      <nav>         <ul>             <li><a href=\"#\">Home</a></li>             <li><a href=\"#\">Products</a></li>             <li><a href=\"#\">About Us</a></li>             <li><a href=\"#\">Contact Us</a></li>         </ul>     </nav>      <main>         <section>             <h2>About Aram Dropship</h2>             <p>Welcome to Aram Dropship! We offer a wide range of products for dropshipping.</p>         </section>          <section>             <h2>Our Products</h2>             <p>Explore our selection of high-quality products available for dropshipping.</p>         </section>     </main>      <footer>         <p>&copy; 2023 Aram Dropship. All rights reserved.</p>     </footer> </body> </html>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1781"
+          "title": "Need mysql-php support by default we don't want to use any extension",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1784"
         },
         {
-          "title": "Reset",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1780"
+          "title": "auto fill is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1783"
         },
         {
-          "title": "code not working ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1779"
+          "title": "does not localhost on server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1782"
         }
       ],
       "rate": "94.00"
@@ -16417,8 +16428,157 @@
     },
     {
       "date": "2023-10-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-10",
+      "unRespondedItems": [
+        {
+          "title": "Add widget screenshot requirements and update some out of date fields",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2858"
+        }
+      ],
+      "rate": "97.87"
+    }
+  ],
+  "microsoft/edge-devtools-network-console": [
+    {
+      "date": "2023-10-10",
+      "unRespondedItems": [
+        {
+          "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/123"
+        },
+        {
+          "title": "Bump validator and z-schema in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/122"
+        },
+        {
+          "title": "Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/121"
+        },
+        {
+          "title": "Bump semver from 5.7.1 to 5.7.2 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/120"
+        },
+        {
+          "title": "Bump tough-cookie and jsdom in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/119"
+        },
+        {
+          "title": "Bump semver and react-scripts in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/117"
+        },
+        {
+          "title": "Update webpack.config.js",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/115"
+        },
+        {
+          "title": "Bump minimist from 1.2.5 to 1.2.8 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/112"
+        },
+        {
+          "title": "Bump minimist from 1.2.5 to 1.2.8",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/111"
+        },
+        {
+          "title": "Bump simple-git from 2.5.0 to 3.16.0",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/110"
+        },
+        {
+          "title": "Bump ua-parser-js from 0.7.21 to 0.7.33 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/109"
+        },
+        {
+          "title": "Bump json5 from 1.0.1 to 1.0.2 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/108"
+        },
+        {
+          "title": "Bump json5 from 1.0.1 to 1.0.2 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/107"
+        },
+        {
+          "title": "Bump json5, ts-loader, webpack and webpack-cli in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/106"
+        },
+        {
+          "title": "Bump flat and mocha in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/105"
+        },
+        {
+          "title": "Bump express from 4.17.1 to 4.18.2 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/104"
+        },
+        {
+          "title": "Bump qs from 6.5.2 to 6.5.3 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/103"
+        },
+        {
+          "title": "Bump decode-uri-component from 0.2.0 to 0.2.2 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/101"
+        },
+        {
+          "title": "Bump decode-uri-component from 0.2.0 to 0.2.2 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/100"
+        },
+        {
+          "title": "Executing requests in a page with overriden native functions",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/issues/99"
+        },
+        {
+          "title": "Bump loader-utils and webpack-cli in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/98"
+        },
+        {
+          "title": "Bump terser from 4.8.0 to 4.8.1 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/97"
+        },
+        {
+          "title": "Bump terser from 4.6.11 to 4.8.1 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/96"
+        },
+        {
+          "title": "Bump jsdom from 16.4.0 to 16.7.0 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/94"
+        },
+        {
+          "title": "Bump eventsource from 1.0.7 to 1.1.1 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/93"
+        },
+        {
+          "title": "Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/84"
+        },
+        {
+          "title": "Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/83"
+        },
+        {
+          "title": "Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/81"
+        },
+        {
+          "title": "Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/80"
+        },
+        {
+          "title": "Bump pathval from 1.1.0 to 1.1.1 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/79"
+        },
+        {
+          "title": "Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/78"
+        },
+        {
+          "title": "Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/75"
+        },
+        {
+          "title": "Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/73"
+        }
+      ],
+      "rate": "34.00"
     }
   ]
 }
