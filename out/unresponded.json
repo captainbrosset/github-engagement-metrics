@@ -2318,7 +2318,15 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [
+        {
+          "title": "[Docs Bug] Add docs improvement idea here",
+          "url": "https://github.com/webhintio/hint/issues/5705"
+        },
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
@@ -2332,7 +2340,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "93.88"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4654,6 +4662,10 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6977,6 +6989,10 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9300,6 +9316,10 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -11692,7 +11712,15 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862"
+        },
         {
           "title": "[Feature]: [Extensions] Additional Extension Metadata properties/events",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856"
@@ -11734,20 +11762,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818"
         },
         {
-          "title": "Webview2 Crashed, But cannot find symbol file in Microsoft Symbol Server",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3816"
-        },
-        {
           "title": "can not install webview2 109 offline",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
-        },
-        {
-          "title": "CefCallback.Continue equivalent in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3809"
-        },
-        {
-          "title": "ActiveX com control needed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3796"
         },
         {
           "title": "WebView2 application is rendered poorly on secondary monitor with higher resolution ",
@@ -11758,23 +11774,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
         },
         {
-          "title": "WebView2 Registry keys",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3819"
-        },
-        {
           "title": "WebView2 shows blank window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         },
         {
           "title": "Migrating CEF3 application- message loop call?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
-        },
-        {
-          "title": "Does update policy for webview support devices that are not managed by the domain?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3797"
         }
       ],
-      "rate": "60.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14096,21 +14104,12 @@
     },
     {
       "date": "2023-10-10",
-      "unRespondedItems": [
-        {
-          "title": "Need mysql-php support by default we don't want to use any extension",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1784"
-        },
-        {
-          "title": "auto fill is not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1783"
-        },
-        {
-          "title": "does not localhost on server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1782"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2023-10-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16432,18 +16431,30 @@
     },
     {
       "date": "2023-10-10",
+      "rate": "97.87"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [
         {
-          "title": "Add widget screenshot requirements and update some out of date fields",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2858"
+          "title": "Setting DefaultBackgroundColor method for WinUI2&WebView2 seems like needs to be updated",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2862"
+        },
+        {
+          "title": "Update winui2.md to use `SetEnvironmentVariable` from Environment class for setting default background colour",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2863"
         }
       ],
-      "rate": "97.87"
+      "rate": "95.74"
     }
   ],
   "microsoft/edge-devtools-network-console": [
     {
       "date": "2023-10-10",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
