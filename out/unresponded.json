@@ -2322,11 +2322,11 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [
-        {
-          "title": "[Docs Bug] Add docs improvement idea here",
-          "url": "https://github.com/webhintio/hint/issues/5705"
-        },
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
@@ -2340,7 +2340,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "91.84"
+      "rate": "93.88"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4666,6 +4666,10 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -6993,6 +6997,10 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9320,6 +9328,10 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -11716,7 +11728,23 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
+        },
+        {
+          "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
+        },
+        {
+          "title": "[Problem/Bug]: Hololens Unity EventType.MouseMove not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4070"
+        },
         {
           "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862"
@@ -11744,10 +11772,6 @@
         {
           "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
-        },
-        {
-          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
         },
         {
           "title": "WebView2 Tooltips",
@@ -11782,7 +11806,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14108,6 +14132,10 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16435,17 +16463,12 @@
     },
     {
       "date": "2023-10-11",
-      "unRespondedItems": [
-        {
-          "title": "Setting DefaultBackgroundColor method for WinUI2&WebView2 seems like needs to be updated",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2862"
-        },
-        {
-          "title": "Update winui2.md to use `SetEnvironmentVariable` from Environment class for setting default background colour",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/2863"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2023-10-12",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -16455,6 +16478,10 @@
     },
     {
       "date": "2023-10-11",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

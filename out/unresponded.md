@@ -1,7 +1,6 @@
-Response rate: 81.95%
+Response rate: 82.23%
 
-* **webhintio/hint** - _91.84%_
-  * [[Docs Bug] Add docs improvement idea here](https://github.com/webhintio/hint/issues/5705)
+* **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
@@ -25,7 +24,10 @@ Response rate: 81.95%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
+  * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
+  * [[Problem/Bug]: Hololens Unity EventType.MouseMove not workin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4070)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
   * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
@@ -33,7 +35,6 @@ Response rate: 81.95%
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
   * [System menu doesn't open when "Alt + Space" is pressed while...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840)
-  * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
   * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
@@ -77,6 +78,4 @@ Response rate: 81.95%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.74%_
-  * [Setting DefaultBackgroundColor method for WinUI2&WebView2 se...](https://github.com/MicrosoftDocs/edge-developer/issues/2862)
-  * [Update winui2.md to use `SetEnvironmentVariable` from Enviro...](https://github.com/MicrosoftDocs/edge-developer/pull/2863)
+* **MicrosoftDocs/edge-developer** - _100.00%_
