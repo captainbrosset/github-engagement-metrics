@@ -2326,6 +2326,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4670,6 +4674,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7001,6 +7009,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9332,6 +9344,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -11732,6 +11748,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
@@ -11774,10 +11794,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
         },
         {
-          "title": "WebView2 Tooltips",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826"
-        },
-        {
           "title": "Provide AddWebAllowedObject which works like in Windows.UI.Xaml.Controls.WebView",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823"
         },
@@ -11800,13 +11816,9 @@
         {
           "title": "WebView2 shows blank window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
-        },
-        {
-          "title": "Migrating CEF3 application- message loop call?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14136,6 +14148,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16467,6 +16483,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16482,6 +16502,10 @@
     },
     {
       "date": "2023-10-12",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

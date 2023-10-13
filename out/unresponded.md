@@ -1,4 +1,4 @@
-Response rate: 82.23%
+Response rate: 82.73%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -24,7 +24,7 @@ Response rate: 82.23%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
   * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Problem/Bug]: Hololens Unity EventType.MouseMove not workin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4070)
@@ -35,14 +35,12 @@ Response rate: 82.23%
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
   * [System menu doesn't open when "Alt + Space" is pressed while...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840)
-  * [WebView2 Tooltips](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3826)
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
   * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
   * [WebView2 application is rendered poorly on secondary monitor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844)
   * [Extra uncontrollable zoom factor applied to WebView2 content...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
-  * [Migrating CEF3 application- message loop call?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3800)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
