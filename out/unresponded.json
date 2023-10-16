@@ -2338,6 +2338,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4694,6 +4698,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7037,6 +7045,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [
         {
           "title": "\"Detached Elements\" does not show nodes that were never attached",
@@ -9385,6 +9397,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -11797,6 +11813,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
@@ -14197,6 +14217,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16540,8 +16564,17 @@
     },
     {
       "date": "2023-10-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-16",
+      "unRespondedItems": [
+        {
+          "title": "Edge and Chrome Integration",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2871"
+        }
+      ],
+      "rate": "97.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -16567,6 +16600,10 @@
     },
     {
       "date": "2023-10-15",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

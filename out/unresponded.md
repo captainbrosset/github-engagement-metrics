@@ -1,4 +1,4 @@
-Response rate: 82.98%
+Response rate: 82.71%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -75,4 +75,5 @@ Response rate: 82.98%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [Edge and Chrome Integration](https://github.com/MicrosoftDocs/edge-developer/issues/2871)
