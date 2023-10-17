@@ -1,4 +1,4 @@
-Response rate: 82.71%
+Response rate: 82.48%
 
 * **webhintio/hint** - _93.88%_
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -6,8 +6,9 @@ Response rate: 82.71%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
-  * ["Detached Elements" does not show nodes that were never atta...](https://github.com/MicrosoftEdge/DevTools/issues/190)
-* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+  * [Symbol Server sourcemaps not showing due to CORS issue?](https://github.com/MicrosoftEdge/DevTools/issues/191)
+* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
+  * [In Microsoft Edge Print Screen is not recognized as Separate...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/120)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [EdgeDriver Version 116.0.1938.69 - Changed behaviour for Win...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115)
@@ -26,7 +27,6 @@ Response rate: 82.71%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
   * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
@@ -37,10 +37,12 @@ Response rate: 82.71%
   * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [Mutiple webview in wpf TabControl, only first (visible) will...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818)
   * [can not install webview2 109 offline](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811)
+  * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
   * [WebView2 application is rendered poorly on secondary monitor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844)
   * [Extra uncontrollable zoom factor applied to WebView2 content...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [bug report](https://github.com/microsoft/vscode-edge-devtools/issues/1790)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -75,5 +77,4 @@ Response rate: 82.71%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [Edge and Chrome Integration](https://github.com/MicrosoftDocs/edge-developer/issues/2871)
+* **MicrosoftDocs/edge-developer** - _100.00%_

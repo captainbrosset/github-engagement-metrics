@@ -2342,6 +2342,10 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4702,6 +4706,10 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7049,10 +7057,14 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [
         {
-          "title": "\"Detached Elements\" does not show nodes that were never attached",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/190"
+          "title": "Symbol Server sourcemaps not showing due to CORS issue?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/191"
         }
       ],
       "rate": "98.00"
@@ -9401,7 +9413,15 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [
+        {
+          "title": "In Microsoft Edge Print Screen is not recognized as Separate Window Handle.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/120"
+        },
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
@@ -9471,7 +9491,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11817,11 +11837,11 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
-        },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
@@ -11861,6 +11881,10 @@
         {
           "title": "can not install webview2 109 offline",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
+        },
+        {
+          "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
         },
         {
           "title": "WebView2 application is rendered poorly on secondary monitor with higher resolution ",
@@ -14221,8 +14245,17 @@
     },
     {
       "date": "2023-10-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-17",
+      "unRespondedItems": [
+        {
+          "title": "bug report",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1790"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16568,13 +16601,12 @@
     },
     {
       "date": "2023-10-16",
-      "unRespondedItems": [
-        {
-          "title": "Edge and Chrome Integration",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2871"
-        }
-      ],
       "rate": "97.83"
+    },
+    {
+      "date": "2023-10-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -16604,6 +16636,10 @@
     },
     {
       "date": "2023-10-16",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
