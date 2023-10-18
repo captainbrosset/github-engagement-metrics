@@ -2346,6 +2346,10 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
@@ -4710,6 +4714,10 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7061,13 +7069,12 @@
     },
     {
       "date": "2023-10-17",
-      "unRespondedItems": [
-        {
-          "title": "Symbol Server sourcemaps not showing due to CORS issue?",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/191"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9417,11 +9424,11 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [
-        {
-          "title": "In Microsoft Edge Print Screen is not recognized as Separate Window Handle.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/120"
-        },
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
@@ -9429,10 +9436,6 @@
         {
           "title": "The cure is add Log by using Set Property",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117"
-        },
-        {
-          "title": "EdgeDriver Version 116.0.1938.69 - Changed behaviour for WindowHandles Count with Open PrintDialog",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/115"
         },
         {
           "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
@@ -9491,7 +9494,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11841,6 +11844,10 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
@@ -11887,10 +11894,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
         },
         {
-          "title": "WebView2 application is rendered poorly on secondary monitor with higher resolution ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3844"
-        },
-        {
           "title": "Extra uncontrollable zoom factor applied to WebView2 content on about 1% of systems.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
         },
@@ -11899,7 +11902,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14249,13 +14252,12 @@
     },
     {
       "date": "2023-10-17",
-      "unRespondedItems": [
-        {
-          "title": "bug report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1790"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16605,6 +16607,10 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16640,6 +16646,10 @@
     },
     {
       "date": "2023-10-17",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
