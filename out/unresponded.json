@@ -2350,7 +2350,15 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [
+        {
+          "title": "[Bug] http-cache fails for object URLs",
+          "url": "https://github.com/webhintio/hint/issues/5706"
+        },
         {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
@@ -2364,7 +2372,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "93.88"
+      "rate": "91.84"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4718,6 +4726,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7073,6 +7085,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9428,6 +9444,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -11848,7 +11868,15 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Still Error loading Webview2Loader from UNC path",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4081"
+        },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
@@ -11902,7 +11930,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14256,6 +14284,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16611,6 +16643,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16650,6 +16686,10 @@
     },
     {
       "date": "2023-10-18",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,6 +1,7 @@
-Response rate: 83.73%
+Response rate: 83.23%
 
-* **webhintio/hint** - _93.88%_
+* **webhintio/hint** - _91.84%_
+  * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
@@ -23,7 +24,8 @@ Response rate: 83.73%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [[Problem/Bug]: Still Error loading Webview2Loader from UNC p...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4081)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
   * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
