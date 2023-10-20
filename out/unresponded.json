@@ -2354,6 +2354,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache fails for object URLs",
@@ -4730,6 +4734,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7089,6 +7097,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9448,7 +9460,19 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [
+        {
+          "title": "EdgeDriver with Selenium Testing WebView 2 - Only ASCIIZ protocol mode is supported ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/122"
+        },
+        {
+          "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121"
+        },
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
@@ -9482,10 +9506,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
         },
         {
-          "title": "Edge has very slow(odd) loading speed compare to chrome",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/118"
-        },
-        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -9514,7 +9534,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11872,10 +11892,14 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Still Error loading Webview2Loader from UNC path",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4081"
+          "title": "[Problem/Bug]: CoreWebView2PrintSettings.ScaleFactor is not working",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4082"
         },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
@@ -14288,6 +14312,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16647,6 +16675,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16690,6 +16722,10 @@
     },
     {
       "date": "2023-10-19",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

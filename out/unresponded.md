@@ -1,4 +1,4 @@
-Response rate: 83.23%
+Response rate: 82.98%
 
 * **webhintio/hint** - _91.84%_
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
@@ -7,7 +7,9 @@ Response rate: 83.23%
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+  * [EdgeDriver with Selenium Testing WebView 2 - Only ASCIIZ pro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/122)
+  * [Edge beta 119.0.2151.12 crashing after 2 mins of Selenium ru...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -16,7 +18,6 @@ Response rate: 83.23%
   * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
   * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
   * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
-  * [Edge has very slow(odd) loading speed compare to chrome](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/118)
   * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
@@ -25,7 +26,7 @@ Response rate: 83.23%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _72.00%_
-  * [[Problem/Bug]: Still Error loading Webview2Loader from UNC p...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4081)
+  * [[Problem/Bug]: CoreWebView2PrintSettings.ScaleFactor is not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4082)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
   * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
