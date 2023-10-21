@@ -2358,6 +2358,10 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache fails for object URLs",
@@ -4738,6 +4742,10 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7101,6 +7109,10 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9464,11 +9476,11 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [
-        {
-          "title": "EdgeDriver with Selenium Testing WebView 2 - Only ASCIIZ protocol mode is supported ",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/122"
-        },
         {
           "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121"
@@ -9504,6 +9516,10 @@
         {
           "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
+        },
+        {
+          "title": "[🐛 Bug]: Something wrong when i switch browser tabs with Edge in IE-mode on windows 10.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         },
         {
           "title": "Window.FullScreen()  should behave the same way as F11",
@@ -11896,10 +11912,14 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: CoreWebView2PrintSettings.ScaleFactor is not working",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4082"
+          "title": "[Problem/Bug]: When using a custom scheme, opening a secondary window fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085"
         },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
@@ -14316,8 +14336,17 @@
     },
     {
       "date": "2023-10-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-21",
+      "unRespondedItems": [
+        {
+          "title": "jj",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1793"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16679,6 +16708,10 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16726,6 +16759,10 @@
     },
     {
       "date": "2023-10-20",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
