@@ -2362,7 +2362,15 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5707"
+        },
         {
           "title": "[Bug] http-cache fails for object URLs",
           "url": "https://github.com/webhintio/hint/issues/5706"
@@ -2380,7 +2388,7 @@
           "url": "https://github.com/webhintio/hint/pull/5471"
         }
       ],
-      "rate": "91.84"
+      "rate": "89.80"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4746,6 +4754,10 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7113,6 +7125,10 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9480,6 +9496,10 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [
         {
           "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
@@ -11916,7 +11936,15 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WPF window with TopMost and Elevated with uiAccess=true not show context menu",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4087"
+        },
         {
           "title": "[Problem/Bug]: When using a custom scheme, opening a secondary window fails",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085"
@@ -11962,19 +11990,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
         },
         {
-          "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
+          "title": "[Bug]: Method not found: Microsoft.Web.WebView2.Core.CoreWebView2Profile.remove_Deleted",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4086"
         },
         {
-          "title": "Extra uncontrollable zoom factor applied to WebView2 content on about 1% of systems.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3839"
+          "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
         },
         {
           "title": "WebView2 shows blank window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14340,13 +14368,21 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [
+        {
+          "title": "3",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1794"
+        },
         {
           "title": "jj",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1793"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16712,8 +16748,17 @@
     },
     {
       "date": "2023-10-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-10-22",
+      "unRespondedItems": [
+        {
+          "title": "Missing docs for \"Add device pixel ratio\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2887"
+        }
+      ],
+      "rate": "97.78"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -16763,6 +16808,10 @@
     },
     {
       "date": "2023-10-21",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
