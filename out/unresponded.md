@@ -1,4 +1,4 @@
-Response rate: 81.70%
+Response rate: 80.17%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5707)
@@ -7,7 +7,8 @@ Response rate: 81.70%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [In DevTools,the reading of the splice attribute can be detec...](https://github.com/MicrosoftEdge/DevTools/issues/193)
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edge beta 119.0.2151.12 crashing after 2 mins of Selenium ru...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
@@ -26,7 +27,9 @@ Response rate: 81.70%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [[Problem/Bug]: System.IO.FileNotFoundException: Could not lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4090)
+  * [[Feature]: Adding a parameter to customize the DNS server or...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4089)
   * [[Problem/Bug]: WPF window with TopMost and Elevated with uiA...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4087)
   * [[Problem/Bug]: When using a custom scheme, opening a seconda...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
@@ -42,7 +45,9 @@ Response rate: 81.70%
   * [[Bug]: Method not found: Microsoft.Web.WebView2.Core.CoreWeb...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4086)
   * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
   * [WebView2 shows blank window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [i need build website fitness ](https://github.com/microsoft/vscode-edge-devtools/issues/1798)
+  * [confrigaution probelen in c++ program but in c program run w...](https://github.com/microsoft/vscode-edge-devtools/issues/1795)
   * [3](https://github.com/microsoft/vscode-edge-devtools/issues/1794)
   * [jj](https://github.com/microsoft/vscode-edge-devtools/issues/1793)
 * **microsoft/edge-devtools-network-console** - _34.00%_
@@ -79,5 +84,6 @@ Response rate: 81.70%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.78%_
+* **MicrosoftDocs/edge-developer** - _95.56%_
+  * [Local content discussion is missing a custom scheme section](https://github.com/MicrosoftDocs/edge-developer/issues/2888)
   * [Missing docs for "Add device pixel ratio"](https://github.com/MicrosoftDocs/edge-developer/issues/2887)
