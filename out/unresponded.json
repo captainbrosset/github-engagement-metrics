@@ -2370,6 +2370,10 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4766,6 +4770,10 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7141,13 +7149,12 @@
     },
     {
       "date": "2023-10-23",
-      "unRespondedItems": [
-        {
-          "title": "In DevTools,the reading of the splice attribute can be detected",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/193"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9521,6 +9528,10 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [
         {
           "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
@@ -11965,23 +11976,11 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Web.WebView2.WinForms",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4090"
-        },
-        {
-          "title": "[Feature]: Adding a parameter to customize the DNS server or pass in a custom DOH server address.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4089"
-        },
-        {
-          "title": "[Problem/Bug]: WPF window with TopMost and Elevated with uiAccess=true not show context menu",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4087"
-        },
-        {
-          "title": "[Problem/Bug]: When using a custom scheme, opening a secondary window fails",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085"
-        },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
@@ -12007,10 +12006,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "System menu doesn't open when \"Alt + Space\" is pressed while after focusing on WebVew2 control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3840"
-        },
-        {
           "title": "Provide AddWebAllowedObject which works like in Windows.UI.Xaml.Controls.WebView",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823"
         },
@@ -12019,23 +12014,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818"
         },
         {
-          "title": "can not install webview2 109 offline",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3811"
-        },
-        {
-          "title": "[Bug]: Method not found: Microsoft.Web.WebView2.Core.CoreWebView2Profile.remove_Deleted",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4086"
-        },
-        {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
+        },
+        {
+          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
         },
         {
           "title": "WebView2 shows blank window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         }
       ],
-      "rate": "66.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14409,25 +14400,17 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [
         {
-          "title": "i need build website fitness ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1798"
-        },
-        {
-          "title": "confrigaution probelen in c++ program but in c program run with out error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1795"
-        },
-        {
-          "title": "3",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1794"
-        },
-        {
-          "title": "jj",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1793"
+          "title": "inspect window in script",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1801"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16801,17 +16784,12 @@
     },
     {
       "date": "2023-10-23",
-      "unRespondedItems": [
-        {
-          "title": "Local content discussion is missing a custom scheme section",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2888"
-        },
-        {
-          "title": "Missing docs for \"Add device pixel ratio\"",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2887"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2023-10-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -16869,6 +16847,10 @@
     },
     {
       "date": "2023-10-23",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
