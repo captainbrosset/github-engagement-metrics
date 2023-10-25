@@ -2374,6 +2374,10 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4774,6 +4778,10 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7153,6 +7161,10 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9532,11 +9544,11 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [
-        {
-          "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121"
-        },
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
@@ -9602,7 +9614,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11980,7 +11992,15 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: When accessing a client authentication site with a C++ app using WebView2, the client certificate selection UI is not displayed and a 403 error is returned.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093"
+        },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
@@ -12014,16 +12034,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818"
         },
         {
+          "title": "[Problem/Bug]: When using a custom scheme, opening a secondary window fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085"
+        },
+        {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
-        },
-        {
-          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
-        },
-        {
-          "title": "WebView2 shows blank window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3817"
         }
       ],
       "rate": "78.00"
@@ -14404,13 +14420,12 @@
     },
     {
       "date": "2023-10-24",
-      "unRespondedItems": [
-        {
-          "title": "inspect window in script",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1801"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16788,6 +16803,10 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16851,6 +16870,10 @@
     },
     {
       "date": "2023-10-24",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
