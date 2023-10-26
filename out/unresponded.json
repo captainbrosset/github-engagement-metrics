@@ -2378,6 +2378,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4782,6 +4786,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7165,6 +7173,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9548,6 +9560,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -9586,6 +9602,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         },
         {
+          "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121"
+        },
+        {
           "title": "Window.FullScreen()  should behave the same way as F11",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
         },
@@ -9614,7 +9634,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -11996,7 +12016,19 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Crash calling native code when IDispatch argument is in wrong parameter slot",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102"
+        },
+        {
+          "title": "Infrequent and unpredictable system crashes in EmbeddedBrowserWebView.dll !mojo::core::ipcz_driver::`anonymous namespace'::Close()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4101"
+        },
         {
           "title": "[Problem/Bug]: When accessing a client authentication site with a C++ app using WebView2, the client certificate selection UI is not displayed and a 403 error is returned.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093"
@@ -12030,8 +12062,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823"
         },
         {
-          "title": "Mutiple webview in wpf TabControl, only first (visible) will load",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3818"
+          "title": "[Problem/Bug]: Server connection issue with Sony websites",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097"
+        },
+        {
+          "title": "[Problem/Bug]: --disable features=RenderCodeIntegrity, starting from v118 version, no longer functional",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094"
         },
         {
           "title": "[Problem/Bug]: When using a custom scheme, opening a secondary window fails",
@@ -12042,7 +12078,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
         }
       ],
-      "rate": "78.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14424,6 +14460,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16807,6 +16847,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16874,6 +16918,10 @@
     },
     {
       "date": "2023-10-25",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
