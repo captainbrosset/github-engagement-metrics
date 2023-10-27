@@ -1,4 +1,4 @@
-Response rate: 82.72%
+Response rate: 81.43%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5707)
@@ -26,9 +26,11 @@ Response rate: 82.72%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [Unable to remove user data folder for security concerns](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4107)
+  * [[Problem/Bug]: Setting any policy in the registry will cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4106)
+  * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
-  * [Infrequent and unpredictable system crashes in EmbeddedBrows...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4101)
   * [[Problem/Bug]: When accessing a client authentication site w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
@@ -36,12 +38,14 @@ Response rate: 82.72%
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
-  * [Provide AddWebAllowedObject which works like in Windows.UI.X...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3823)
   * [[Problem/Bug]: Server connection issue with Sony websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097)
   * [[Problem/Bug]: --disable features=RenderCodeIntegrity, start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094)
   * [[Problem/Bug]: When using a custom scheme, opening a seconda...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085)
   * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _93.88%_
+  * [new](https://github.com/microsoft/vscode-edge-devtools/issues/1810)
+  * [i am finding it difficult to go live](https://github.com/microsoft/vscode-edge-devtools/issues/1809)
+  * [go l.ive](https://github.com/microsoft/vscode-edge-devtools/issues/1808)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -76,4 +80,5 @@ Response rate: 82.72%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [Open DevTools with a new Tab](https://github.com/MicrosoftDocs/edge-developer/issues/2895)
