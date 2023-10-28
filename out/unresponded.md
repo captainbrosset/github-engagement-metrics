@@ -1,4 +1,4 @@
-Response rate: 81.43%
+Response rate: 82.47%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5707)
@@ -7,7 +7,8 @@ Response rate: 81.43%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
   * [Fix: Update 'latest-version' from 5.1.0 to 7.0.0](https://github.com/webhintio/hint/pull/5471)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Could I get Edge's rendering results？](https://github.com/MicrosoftEdge/DevTools/issues/195)
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
@@ -26,9 +27,7 @@ Response rate: 81.43%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
-  * [Unable to remove user data folder for security concerns](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4107)
-  * [[Problem/Bug]: Setting any policy in the registry will cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4106)
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
   * [[Problem/Bug]: When accessing a client authentication site w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093)
@@ -39,13 +38,11 @@ Response rate: 81.43%
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
   * [[Problem/Bug]: Server connection issue with Sony websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097)
-  * [[Problem/Bug]: --disable features=RenderCodeIntegrity, start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094)
-  * [[Problem/Bug]: When using a custom scheme, opening a seconda...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4085)
+  * [[Problem/Bug]: The WebView display area is smaller than the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095)
   * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
-* **microsoft/vscode-edge-devtools** - _93.88%_
-  * [new](https://github.com/microsoft/vscode-edge-devtools/issues/1810)
-  * [i am finding it difficult to go live](https://github.com/microsoft/vscode-edge-devtools/issues/1809)
-  * [go l.ive](https://github.com/microsoft/vscode-edge-devtools/issues/1808)
+  * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [a](https://github.com/microsoft/vscode-edge-devtools/issues/1811)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -80,5 +77,4 @@ Response rate: 81.43%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [Open DevTools with a new Tab](https://github.com/MicrosoftDocs/edge-developer/issues/2895)
+* **MicrosoftDocs/edge-developer** - _100.00%_
