@@ -1,4 +1,4 @@
-Response rate: 82.47%
+Response rate: 81.97%
 
 * **webhintio/hint** - _89.80%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5707)
@@ -27,7 +27,8 @@ Response rate: 82.47%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [[Problem/Bug]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4109)
   * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
   * [[Problem/Bug]: When accessing a client authentication site w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093)
@@ -37,11 +38,12 @@ Response rate: 82.47%
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
-  * [[Problem/Bug]: Server connection issue with Sony websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097)
   * [[Problem/Bug]: The WebView display area is smaller than the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095)
+  * [[Problem/Bug]: --disable features=RenderCodeIntegrity, start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094)
   * [[Problem/Bug]: Banner appears when webview2 lose and gains f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074)
-  * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( Elements )](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836)
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1812)
   * [a](https://github.com/microsoft/vscode-edge-devtools/issues/1811)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

@@ -2390,6 +2390,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4806,6 +4810,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7201,6 +7209,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
         {
           "title": "Could I get Edge's rendering results？",
@@ -9601,6 +9613,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12065,7 +12081,15 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4109"
+        },
         {
           "title": "I need to be able to set \"AllowSingleSignOnUsingOSPrimaryAccount = true\" for single sign on in a UWP app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103"
@@ -12103,23 +12127,23 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "[Problem/Bug]: Server connection issue with Sony websites",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097"
-        },
-        {
           "title": "[Problem/Bug]: The WebView display area is smaller than the WebView window size",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095"
+        },
+        {
+          "title": "[Problem/Bug]: --disable features=RenderCodeIntegrity, starting from v118 version, no longer functional",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094"
         },
         {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4074"
         },
         {
-          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( FullScreen + Elements )",
+          "title": "Framing Issue WinUi3 WindowsAppSdk 1.4.2 ( Elements )",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14513,13 +14537,21 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1812"
+        },
         {
           "title": "a",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1811"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16913,6 +16945,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16992,6 +17028,10 @@
     },
     {
       "date": "2023-10-28",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
