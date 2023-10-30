@@ -2394,6 +2394,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4814,6 +4818,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7213,6 +7221,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "Could I get Edge's rendering results？",
@@ -9617,6 +9629,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12085,6 +12101,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: ",
@@ -14541,6 +14561,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "html",
@@ -16949,6 +16973,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17032,6 +17060,10 @@
     },
     {
       "date": "2023-10-29",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
