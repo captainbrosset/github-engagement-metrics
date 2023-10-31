@@ -2398,6 +2398,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4822,6 +4826,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7225,13 +7233,12 @@
     },
     {
       "date": "2023-10-30",
-      "unRespondedItems": [
-        {
-          "title": "Could I get Edge's rendering results？",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/195"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-10-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9633,6 +9640,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12105,6 +12116,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: ",
@@ -12117,10 +12132,6 @@
         {
           "title": "[Problem/Bug]: Crash calling native code when IDispatch argument is in wrong parameter slot",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102"
-        },
-        {
-          "title": "[Problem/Bug]: When accessing a client authentication site with a C++ app using WebView2, the client certificate selection UI is not displayed and a 403 error is returned.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4093"
         },
         {
           "title": "[Problem/Bug]: Print Setting: Print scale percentage dialog box has problems when typing 3 digits",
@@ -12147,12 +12158,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "[Problem/Bug]: The WebView display area is smaller than the WebView window size",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095"
+          "title": "[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - version 118.0.2088.46",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         },
         {
-          "title": "[Problem/Bug]: --disable features=RenderCodeIntegrity, starting from v118 version, no longer functional",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094"
+          "title": "[Problem/Bug]: The WebView display area is smaller than the WebView window size",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095"
         },
         {
           "title": "[Problem/Bug]: Banner appears when webview2 lose and gains focus",
@@ -12163,7 +12174,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3836"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14565,17 +14576,17 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [
         {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1812"
-        },
-        {
-          "title": "a",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1811"
+          "title": "ai for complete code generation",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1814"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -16977,6 +16988,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17064,6 +17079,10 @@
     },
     {
       "date": "2023-10-30",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-10-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
