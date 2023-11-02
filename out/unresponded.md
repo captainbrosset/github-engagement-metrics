@@ -1,4 +1,4 @@
-Response rate: 80.65%
+Response rate: 80.90%
 
 * **webhintio/hint** - _75.51%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -33,9 +33,8 @@ Response rate: 80.65%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
-  * [[Problem/Bug]: Calling devtools protocol method "Emulation.s...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4116)
-  * [[Problem/Bug]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4109)
+* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+  * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
@@ -44,8 +43,8 @@ Response rate: 80.65%
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
-  * [[Problem/Bug]: Delay in rendering frames using VideoDecoder ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4099)
-  * [[Problem/Bug]: The WebView display area is smaller than the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4095)
+  * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
+  * [[Problem/Bug]: --disable features=RenderCodeIntegrity, start...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
 * **microsoft/vscode-edge-devtools** - _97.96%_
   * [I dont have menu bar on the top .....](https://github.com/microsoft/vscode-edge-devtools/issues/1816)
