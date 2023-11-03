@@ -2410,6 +2410,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4874,6 +4878,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7289,6 +7297,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9704,6 +9716,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12188,6 +12204,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
         {
           "title": "[Bug] WPF null BoundingRectangle property",
@@ -12226,12 +12246,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "[Problem/Bug]: When open html file with embeb/object PDF in WebView2, Web capture function is not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112"
+          "title": "[Problem/Bug]: The newly added FailureSourceModulePath string in the SDK of 1.0.2164 prerelease will throw an exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4119"
         },
         {
-          "title": "[Problem/Bug]: --disable features=RenderCodeIntegrity, starting from v118 version, no longer functional",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4094"
+          "title": "[Problem/Bug]: When open html file with embeb/object PDF in WebView2, Web capture function is not work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112"
         },
         {
           "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
@@ -14652,13 +14672,21 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
+        {
+          "title": "PROBLEM",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1817"
+        },
         {
           "title": "I dont have menu bar on the top .....",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1816"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17072,13 +17100,21 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "97.73"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
+        {
+          "title": "learning to make tab extension.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2903"
+        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2901"
         }
       ],
-      "rate": "97.73"
+      "rate": "95.56"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17176,6 +17212,10 @@
     },
     {
       "date": "2023-11-02",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
