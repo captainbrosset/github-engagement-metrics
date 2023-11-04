@@ -2414,6 +2414,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4882,6 +4886,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7301,6 +7309,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9720,6 +9732,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12208,6 +12224,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
         {
           "title": "[Bug] WPF null BoundingRectangle property",
@@ -12246,6 +12266,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
+          "title": "WebView2 ExecuteScriptAsync fails when script is executed a second time",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124"
+        },
+        {
           "title": "[Problem/Bug]: The newly added FailureSourceModulePath string in the SDK of 1.0.2164 prerelease will throw an exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4119"
         },
@@ -12258,7 +12282,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14676,7 +14700,15 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
+        {
+          "title": "tbomb",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1818"
+        },
         {
           "title": "PROBLEM",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1817"
@@ -14686,7 +14718,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1816"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17104,6 +17136,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
         {
           "title": "learning to make tab extension.",
@@ -17216,6 +17252,10 @@
     },
     {
       "date": "2023-11-03",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

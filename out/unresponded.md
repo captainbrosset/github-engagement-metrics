@@ -1,4 +1,4 @@
-Response rate: 80.37%
+Response rate: 79.87%
 
 * **webhintio/hint** - _75.51%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -33,7 +33,7 @@ Response rate: 80.37%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
@@ -43,10 +43,12 @@ Response rate: 80.37%
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
+  * [WebView2 ExecuteScriptAsync fails when script is executed a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124)
   * [[Problem/Bug]: The newly added FailureSourceModulePath strin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4119)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
-* **microsoft/vscode-edge-devtools** - _95.92%_
+* **microsoft/vscode-edge-devtools** - _93.88%_
+  * [tbomb](https://github.com/microsoft/vscode-edge-devtools/issues/1818)
   * [PROBLEM](https://github.com/microsoft/vscode-edge-devtools/issues/1817)
   * [I dont have menu bar on the top .....](https://github.com/microsoft/vscode-edge-devtools/issues/1816)
 * **microsoft/edge-devtools-network-console** - _34.00%_
