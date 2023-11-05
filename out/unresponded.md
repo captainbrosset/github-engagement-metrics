@@ -1,4 +1,4 @@
-Response rate: 79.87%
+Response rate: 79.37%
 
 * **webhintio/hint** - _75.51%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -34,6 +34,7 @@ Response rate: 79.87%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
@@ -44,10 +45,11 @@ Response rate: 79.87%
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
   * [WebView2 ExecuteScriptAsync fails when script is executed a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124)
-  * [[Problem/Bug]: The newly added FailureSourceModulePath strin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4119)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
-* **microsoft/vscode-edge-devtools** - _93.88%_
+* **microsoft/vscode-edge-devtools** - _89.80%_
+  * [live server how work](https://github.com/microsoft/vscode-edge-devtools/issues/1821)
+  * [File not running](https://github.com/microsoft/vscode-edge-devtools/issues/1820)
   * [tbomb](https://github.com/microsoft/vscode-edge-devtools/issues/1818)
   * [PROBLEM](https://github.com/microsoft/vscode-edge-devtools/issues/1817)
   * [I dont have menu bar on the top .....](https://github.com/microsoft/vscode-edge-devtools/issues/1816)
@@ -85,6 +87,6 @@ Response rate: 79.87%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.56%_
+* **MicrosoftDocs/edge-developer** - _95.65%_
   * [learning to make tab extension.](https://github.com/MicrosoftDocs/edge-developer/issues/2903)
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/2901)

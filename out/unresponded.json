@@ -2418,6 +2418,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4890,6 +4894,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7313,6 +7321,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9736,6 +9748,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12228,7 +12244,15 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
+        },
         {
           "title": "[Bug] WPF null BoundingRectangle property",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
@@ -12268,10 +12292,6 @@
         {
           "title": "WebView2 ExecuteScriptAsync fails when script is executed a second time",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124"
-        },
-        {
-          "title": "[Problem/Bug]: The newly added FailureSourceModulePath string in the SDK of 1.0.2164 prerelease will throw an exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4119"
         },
         {
           "title": "[Problem/Bug]: When open html file with embeb/object PDF in WebView2, Web capture function is not work",
@@ -14704,7 +14724,19 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
+        {
+          "title": "live server how work",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1821"
+        },
+        {
+          "title": "File not running",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1820"
+        },
         {
           "title": "tbomb",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1818"
@@ -14718,7 +14750,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1816"
         }
       ],
-      "rate": "93.88"
+      "rate": "89.80"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17140,6 +17172,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "95.56"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
         {
           "title": "learning to make tab extension.",
@@ -17150,7 +17186,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2901"
         }
       ],
-      "rate": "95.56"
+      "rate": "95.65"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17256,6 +17292,10 @@
     },
     {
       "date": "2023-11-04",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
