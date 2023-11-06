@@ -1,4 +1,4 @@
-Response rate: 79.37%
+Response rate: 79.11%
 
 * **webhintio/hint** - _75.51%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -47,12 +47,13 @@ Response rate: 79.37%
   * [WebView2 ExecuteScriptAsync fails when script is executed a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
-* **microsoft/vscode-edge-devtools** - _89.80%_
+* **microsoft/vscode-edge-devtools** - _87.76%_
   * [live server how work](https://github.com/microsoft/vscode-edge-devtools/issues/1821)
   * [File not running](https://github.com/microsoft/vscode-edge-devtools/issues/1820)
   * [tbomb](https://github.com/microsoft/vscode-edge-devtools/issues/1818)
   * [PROBLEM](https://github.com/microsoft/vscode-edge-devtools/issues/1817)
   * [I dont have menu bar on the top .....](https://github.com/microsoft/vscode-edge-devtools/issues/1816)
+  * [#include <iostream> #include <cmath>  bool is_prime(int N) {...](https://github.com/microsoft/vscode-edge-devtools/issues/1822)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

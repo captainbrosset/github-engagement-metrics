@@ -2422,6 +2422,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4898,6 +4902,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7325,6 +7333,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9752,6 +9764,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
@@ -12248,6 +12264,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
@@ -14728,6 +14748,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "89.80"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "live server how work",
@@ -14748,9 +14772,13 @@
         {
           "title": "I dont have menu bar on the top .....",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1816"
+        },
+        {
+          "title": "#include <iostream> #include <cmath>  bool is_prime(int N) {     if (N <= 1) // If N is less than or equal to 1, it's not a prime number.        return false;      if (N <= 3) // If N is less than or equal to 3, it's a prime number.        return true;      if (N % 2 == 0 || N % 3 == 0) // If N is divisible by 2 or 3, it's not a prime number.        return false;      // Now, we can safely start from i = 5, incrementing by 6 every iteration, as we've already checked for divisibility by 2 and 3.     for (int i = 5; i * i <= N; i += 6)         if (N % i == 0 || N % (i + 2) == 0)             return false;      return true; }  int main() {     int N;     std::cout << \"Enter a number: \";     std::cin >> N;      if (is_prime(N))         std::cout << N << \" is a prime number.\" << std::endl;     else         std::cout << N << \" is not a prime number.\" << std::endl;      return 0; }",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1822"
         }
       ],
-      "rate": "89.80"
+      "rate": "87.76"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17176,6 +17204,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "learning to make tab extension.",
@@ -17296,6 +17328,10 @@
     },
     {
       "date": "2023-11-05",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
