@@ -1,4 +1,4 @@
-Response rate: 79.11%
+Response rate: 80.42%
 
 * **webhintio/hint** - _75.51%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -15,7 +15,8 @@ Response rate: 79.11%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
+  * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
   * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
   * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
@@ -36,7 +37,6 @@ Response rate: 79.11%
 * **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
-  * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
   * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
@@ -44,16 +44,12 @@ Response rate: 79.11%
   * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Feature]: [Extensions] Chrome extension API shim implementa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853)
   * [[Feature]: [Extensions] Code injection before any Extension ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852)
-  * [WebView2 ExecuteScriptAsync fails when script is executed a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124)
+  * [[Problem/Bug]: Render process crashes on startup on recent d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4132)
+  * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
-* **microsoft/vscode-edge-devtools** - _87.76%_
-  * [live server how work](https://github.com/microsoft/vscode-edge-devtools/issues/1821)
-  * [File not running](https://github.com/microsoft/vscode-edge-devtools/issues/1820)
-  * [tbomb](https://github.com/microsoft/vscode-edge-devtools/issues/1818)
-  * [PROBLEM](https://github.com/microsoft/vscode-edge-devtools/issues/1817)
-  * [I dont have menu bar on the top .....](https://github.com/microsoft/vscode-edge-devtools/issues/1816)
-  * [#include <iostream> #include <cmath>  bool is_prime(int N) {...](https://github.com/microsoft/vscode-edge-devtools/issues/1822)
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [hola](https://github.com/microsoft/vscode-edge-devtools/issues/1823)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -88,6 +84,5 @@ Response rate: 79.11%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.65%_
-  * [learning to make tab extension.](https://github.com/MicrosoftDocs/edge-developer/issues/2903)
+* **MicrosoftDocs/edge-developer** - _97.87%_
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/2901)

@@ -2426,6 +2426,10 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4906,6 +4910,10 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7337,6 +7345,10 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9768,7 +9780,15 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "66.00"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
+        {
+          "title": "Edge 119.0.2151.44 disable DevTools logging",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
+        },
         {
           "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
@@ -9838,7 +9858,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12268,6 +12288,10 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
@@ -12276,10 +12300,6 @@
         {
           "title": "[Bug] WPF null BoundingRectangle property",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
-        },
-        {
-          "title": "I need to be able to set \"AllowSingleSignOnUsingOSPrimaryAccount = true\" for single sign on in a UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103"
         },
         {
           "title": "[Problem/Bug]: Crash calling native code when IDispatch argument is in wrong parameter slot",
@@ -12310,8 +12330,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
         },
         {
-          "title": "WebView2 ExecuteScriptAsync fails when script is executed a second time",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4124"
+          "title": "[Problem/Bug]: Render process crashes on startup on recent dev builds",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4132"
+        },
+        {
+          "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         },
         {
           "title": "[Problem/Bug]: When open html file with embeb/object PDF in WebView2, Web capture function is not work",
@@ -14752,33 +14776,17 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "87.76"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
         {
-          "title": "live server how work",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1821"
-        },
-        {
-          "title": "File not running",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1820"
-        },
-        {
-          "title": "tbomb",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1818"
-        },
-        {
-          "title": "PROBLEM",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1817"
-        },
-        {
-          "title": "I dont have menu bar on the top .....",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1816"
-        },
-        {
-          "title": "#include <iostream> #include <cmath>  bool is_prime(int N) {     if (N <= 1) // If N is less than or equal to 1, it's not a prime number.        return false;      if (N <= 3) // If N is less than or equal to 3, it's a prime number.        return true;      if (N % 2 == 0 || N % 3 == 0) // If N is divisible by 2 or 3, it's not a prime number.        return false;      // Now, we can safely start from i = 5, incrementing by 6 every iteration, as we've already checked for divisibility by 2 and 3.     for (int i = 5; i * i <= N; i += 6)         if (N % i == 0 || N % (i + 2) == 0)             return false;      return true; }  int main() {     int N;     std::cout << \"Enter a number: \";     std::cin >> N;      if (is_prime(N))         std::cout << N << \" is a prime number.\" << std::endl;     else         std::cout << N << \" is not a prime number.\" << std::endl;      return 0; }",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1822"
+          "title": "hola",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1823"
         }
       ],
-      "rate": "87.76"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17208,17 +17216,17 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "95.65"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
-        {
-          "title": "learning to make tab extension.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2903"
-        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2901"
         }
       ],
-      "rate": "95.65"
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17332,6 +17340,10 @@
     },
     {
       "date": "2023-11-06",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
