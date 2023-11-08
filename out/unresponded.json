@@ -2430,6 +2430,10 @@
     },
     {
       "date": "2023-11-07",
+      "rate": "75.51"
+    },
+    {
+      "date": "2023-11-08",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -2442,10 +2446,6 @@
         {
           "title": "[Bug] Describe your bug here",
           "url": "https://github.com/webhintio/hint/issues/5715"
-        },
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5714"
         },
         {
           "title": "[Bug] Describe your bug here",
@@ -2480,7 +2480,7 @@
           "url": "https://github.com/webhintio/hint/pull/5564"
         }
       ],
-      "rate": "75.51"
+      "rate": "77.55"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4914,6 +4914,10 @@
     },
     {
       "date": "2023-11-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7349,8 +7353,17 @@
     },
     {
       "date": "2023-11-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-08",
+      "unRespondedItems": [
+        {
+          "title": "Flag --auto-open-devtools-for-tabs does not work",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/197"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9784,6 +9797,10 @@
     },
     {
       "date": "2023-11-07",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-08",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12292,7 +12309,15 @@
     },
     {
       "date": "2023-11-07",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-11-08",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Flyouts in Google products can't be used with a mouse",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140"
+        },
         {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
@@ -12322,18 +12347,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854"
         },
         {
-          "title": "[Feature]: [Extensions] Chrome extension API shim implementation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3853"
-        },
-        {
-          "title": "[Feature]: [Extensions] Code injection before any Extension code runs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3852"
-        },
-        {
-          "title": "[Problem/Bug]: Render process crashes on startup on recent dev builds",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4132"
-        },
-        {
           "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         },
@@ -12342,11 +12355,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112"
         },
         {
+          "title": "[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - version 118.0.2088.46",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862"
         }
       ],
-      "rate": "74.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14780,13 +14797,12 @@
     },
     {
       "date": "2023-11-07",
-      "unRespondedItems": [
-        {
-          "title": "hola",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1823"
-        }
-      ],
       "rate": "97.96"
+    },
+    {
+      "date": "2023-11-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17220,13 +17236,12 @@
     },
     {
       "date": "2023-11-07",
-      "unRespondedItems": [
-        {
-          "title": "Outdated Edge version references found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2901"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2023-11-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17344,6 +17359,10 @@
     },
     {
       "date": "2023-11-07",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
