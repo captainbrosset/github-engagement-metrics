@@ -1,4 +1,4 @@
-Response rate: 81.19%
+Response rate: 80.68%
 
 * **webhintio/hint** - _77.55%_
   * [[Feature] Add feature description here](https://github.com/webhintio/hint/issues/5717)
@@ -13,8 +13,7 @@ Response rate: 81.19%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Flag --auto-open-devtools-for-tabs does not work](https://github.com/MicrosoftEdge/DevTools/issues/197)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _64.00%_
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
@@ -34,20 +33,23 @@ Response rate: 81.19%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
+  * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
+  * [Browser process crash in idle mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4141)
   * [[Problem/Bug]: Flyouts in Google products can't be used with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
   * [[Problem/Bug]: Print Setting: Print scale percentage dialog ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071)
-  * [[Feature]: [Extensions] Additional Extension Metadata proper...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856)
-  * [[Feature]: [Extensions] Excluding Certain WebView2 instances...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855)
-  * [[Feature]: [Extensions] Tab ID Mapping](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854)
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
+  * [I need to be able to set "AllowSingleSignOnUsingOSPrimaryAcc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [Test10](https://github.com/microsoft/vscode-edge-devtools/issues/1826)
+  * [Adonisjs](https://github.com/microsoft/vscode-edge-devtools/issues/1825)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

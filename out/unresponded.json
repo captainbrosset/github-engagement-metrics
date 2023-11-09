@@ -2434,6 +2434,10 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "77.55"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [
         {
           "title": "[Feature] Add feature description here",
@@ -4918,6 +4922,10 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7357,13 +7365,12 @@
     },
     {
       "date": "2023-11-08",
-      "unRespondedItems": [
-        {
-          "title": "Flag --auto-open-devtools-for-tabs does not work",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/197"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-11-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -9801,6 +9808,10 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12313,7 +12324,23 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [
+        {
+          "title": "[Bug]: WebView2 fails to initialize Core after updating app language",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143"
+        },
+        {
+          "title": "[Feature]: I would like to show a caret programmatically.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142"
+        },
+        {
+          "title": "Browser process crash in idle mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4141"
+        },
         {
           "title": "[Problem/Bug]: Flyouts in Google products can't be used with a mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140"
@@ -12335,18 +12362,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4071"
         },
         {
-          "title": "[Feature]: [Extensions] Additional Extension Metadata properties/events",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3856"
-        },
-        {
-          "title": "[Feature]: [Extensions] Excluding Certain WebView2 instances From access by extensions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3855"
-        },
-        {
-          "title": "[Feature]: [Extensions] Tab ID Mapping",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3854"
-        },
-        {
           "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         },
@@ -12359,11 +12374,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         },
         {
+          "title": "I need to be able to set \"AllowSingleSignOnUsingOSPrimaryAccount = true\" for single sign on in a UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4103"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_KIND_RENDER_PROCESS_EXITED",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/3862"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14801,8 +14820,21 @@
     },
     {
       "date": "2023-11-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-09",
+      "unRespondedItems": [
+        {
+          "title": "Test10",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1826"
+        },
+        {
+          "title": "Adonisjs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1825"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17240,6 +17272,10 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17363,6 +17399,10 @@
     },
     {
       "date": "2023-11-08",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
