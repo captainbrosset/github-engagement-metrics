@@ -2442,6 +2442,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4906,6 +4910,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7353,6 +7361,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9800,6 +9812,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12320,6 +12336,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?",
@@ -14816,13 +14836,12 @@
     },
     {
       "date": "2023-11-10",
-      "unRespondedItems": [
-        {
-          "title": "44",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1827"
-        }
-      ],
       "rate": "97.96"
+    },
+    {
+      "date": "2023-11-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17268,6 +17287,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17399,6 +17422,10 @@
     },
     {
       "date": "2023-11-10",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
