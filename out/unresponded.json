@@ -2446,6 +2446,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4914,6 +4918,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7365,6 +7373,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9816,6 +9828,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12340,7 +12356,15 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: DevTools Always On Top",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4157"
+        },
         {
           "title": "[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151"
@@ -12390,7 +12414,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14840,8 +14864,21 @@
     },
     {
       "date": "2023-11-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-12",
+      "unRespondedItems": [
+        {
+          "title": "add extensions",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1830"
+        },
+        {
+          "title": "CSS",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1829"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17291,6 +17328,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17426,6 +17467,10 @@
     },
     {
       "date": "2023-11-11",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

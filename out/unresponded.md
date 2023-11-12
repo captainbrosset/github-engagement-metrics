@@ -1,4 +1,4 @@
-Response rate: 83.25%
+Response rate: 82.49%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
@@ -26,7 +26,8 @@ Response rate: 83.25%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+  * [[Feature]: DevTools Always On Top](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4157)
   * [[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
@@ -39,7 +40,9 @@ Response rate: 83.25%
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [add extensions](https://github.com/microsoft/vscode-edge-devtools/issues/1830)
+  * [CSS](https://github.com/microsoft/vscode-edge-devtools/issues/1829)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
