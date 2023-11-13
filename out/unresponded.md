@@ -1,4 +1,4 @@
-Response rate: 82.49%
+Response rate: 82.24%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
@@ -26,7 +26,8 @@ Response rate: 82.49%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [[Feature]: Experimental - Extensions - Source directory prop...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4158)
   * [[Feature]: DevTools Always On Top](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4157)
   * [[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)

@@ -2450,6 +2450,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4922,6 +4926,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7377,6 +7385,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9832,6 +9844,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12360,7 +12376,15 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "74.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Experimental - Extensions - Source directory property",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4158"
+        },
         {
           "title": "[Feature]: DevTools Always On Top",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4157"
@@ -12414,7 +12438,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14868,6 +14892,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [
         {
           "title": "add extensions",
@@ -17332,6 +17360,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17471,6 +17503,10 @@
     },
     {
       "date": "2023-11-12",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
