@@ -2454,6 +2454,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4930,6 +4934,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7389,6 +7397,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9848,6 +9860,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12380,14 +12396,38 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [
         {
-          "title": "[Feature]: Experimental - Extensions - Source directory property",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4158"
+          "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         },
         {
-          "title": "[Feature]: DevTools Always On Top",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4157"
+          "title": "[Problem/Bug]: View source popup window includes Bing results",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4164"
+        },
+        {
+          "title": "[Problem/Bug]: When msedgewebview2 is already running (in task manager) and I try to run my webview2 project, an exception is thrown",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4163"
+        },
+        {
+          "title": "[Problem/Bug]: Opening view source doesn't trigger `NewWindowRequested` event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162"
+        },
+        {
+          "title": "[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2.DevToolsProtocolExtension package",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161"
+        },
+        {
+          "title": "webview2 screen sharing window size and scroll bar",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4160"
+        },
+        {
+          "title": "Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
         },
         {
           "title": "[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?",
@@ -12414,6 +12454,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140"
         },
         {
+          "title": "[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 content",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133"
+        },
+        {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
         },
@@ -12426,6 +12470,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102"
         },
         {
+          "title": "[Problem/Bug]: Increase in process failed events in latest WebView2 versions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4165"
+        },
+        {
           "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         },
@@ -12436,9 +12484,13 @@
         {
           "title": "[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - version 118.0.2088.46",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
+        },
+        {
+          "title": "[Problem/Bug]: Server connection issue with Sony websites",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097"
         }
       ],
-      "rate": "72.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14896,17 +14948,12 @@
     },
     {
       "date": "2023-11-13",
-      "unRespondedItems": [
-        {
-          "title": "add extensions",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1830"
-        },
-        {
-          "title": "CSS",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1829"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-11-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17364,6 +17411,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17507,6 +17558,10 @@
     },
     {
       "date": "2023-11-13",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
