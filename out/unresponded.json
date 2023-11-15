@@ -2458,6 +2458,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4938,6 +4942,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7401,6 +7409,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9864,6 +9876,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12400,6 +12416,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [
         {
           "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
@@ -12446,10 +12466,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142"
         },
         {
-          "title": "Browser process crash in idle mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4141"
-        },
-        {
           "title": "[Problem/Bug]: Flyouts in Google products can't be used with a mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140"
         },
@@ -12490,7 +12506,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14952,8 +14968,17 @@
     },
     {
       "date": "2023-11-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-15",
+      "unRespondedItems": [
+        {
+          "title": "adem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1834"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17415,6 +17440,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17562,6 +17591,10 @@
     },
     {
       "date": "2023-11-14",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

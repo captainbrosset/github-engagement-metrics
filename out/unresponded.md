@@ -26,7 +26,7 @@ Response rate: 80.75%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
   * [[Problem/Bug]: View source popup window includes Bing result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4164)
   * [[Problem/Bug]: When msedgewebview2 is already running (in ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4163)
@@ -38,7 +38,6 @@ Response rate: 80.75%
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
   * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
-  * [Browser process crash in idle mode](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4141)
   * [[Problem/Bug]: Flyouts in Google products can't be used with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140)
   * [[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
@@ -49,7 +48,8 @@ Response rate: 80.75%
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
   * [[Problem/Bug]: Server connection issue with Sony websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _97.96%_
+  * [adem](https://github.com/microsoft/vscode-edge-devtools/issues/1834)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
