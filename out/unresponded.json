@@ -2462,6 +2462,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4946,6 +4950,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7413,6 +7421,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9880,6 +9892,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12420,7 +12436,15 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNotFoundException ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170"
+        },
         {
           "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
@@ -12440,10 +12464,6 @@
         {
           "title": "[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2.DevToolsProtocolExtension package",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161"
-        },
-        {
-          "title": "webview2 screen sharing window size and scroll bar",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4160"
         },
         {
           "title": "Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture ",
@@ -12466,10 +12486,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142"
         },
         {
-          "title": "[Problem/Bug]: Flyouts in Google products can't be used with a mouse",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140"
-        },
-        {
           "title": "[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 content",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133"
         },
@@ -12486,6 +12502,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102"
         },
         {
+          "title": "[Problem/Bug]: Running with UNC and file:// fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171"
+        },
+        {
           "title": "[Problem/Bug]: Increase in process failed events in latest WebView2 versions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4165"
         },
@@ -12500,13 +12520,9 @@
         {
           "title": "[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - version 118.0.2088.46",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
-        },
-        {
-          "title": "[Problem/Bug]: Server connection issue with Sony websites",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14972,10 +14988,14 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [
         {
-          "title": "adem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1834"
+          "title": "sky mobile",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1835"
         }
       ],
       "rate": "97.96"
@@ -17444,6 +17464,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17595,6 +17619,10 @@
     },
     {
       "date": "2023-11-15",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

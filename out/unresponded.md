@@ -1,4 +1,4 @@
-Response rate: 80.75%
+Response rate: 81.00%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
@@ -26,30 +26,29 @@ Response rate: 80.75%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
   * [[Problem/Bug]: View source popup window includes Bing result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4164)
   * [[Problem/Bug]: When msedgewebview2 is already running (in ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4163)
   * [[Problem/Bug]: Opening view source doesn't trigger `NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162)
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
-  * [webview2 screen sharing window size and scroll bar](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4160)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
   * [[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
   * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
-  * [[Problem/Bug]: Flyouts in Google products can't be used with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140)
   * [[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [[Problem/Bug]: Crash calling native code when IDispatch argu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102)
+  * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem/Bug]: Increase in process failed events in latest W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4165)
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
-  * [[Problem/Bug]: Server connection issue with Sony websites](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4097)
 * **microsoft/vscode-edge-devtools** - _97.96%_
-  * [adem](https://github.com/microsoft/vscode-edge-devtools/issues/1834)
+  * [sky mobile](https://github.com/microsoft/vscode-edge-devtools/issues/1835)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
