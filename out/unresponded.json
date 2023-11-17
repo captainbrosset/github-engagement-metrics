@@ -2466,6 +2466,10 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [
         {
           "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
@@ -4954,6 +4958,10 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7425,6 +7433,10 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9896,6 +9908,10 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12440,7 +12456,15 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [
+        {
+          "title": "Error: WebView2: Initialization failed due to incompatible environment configurations.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
+        },
         {
           "title": "[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNotFoundException ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170"
@@ -12474,10 +12498,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151"
         },
         {
-          "title": "[Feature]: Support for WebGPU on Xbox",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
-        },
-        {
           "title": "[Bug]: WebView2 fails to initialize Core after updating app language",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143"
         },
@@ -12498,16 +12518,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
         },
         {
-          "title": "[Problem/Bug]: Crash calling native code when IDispatch argument is in wrong parameter slot",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4102"
-        },
-        {
           "title": "[Problem/Bug]: Running with UNC and file:// fails",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171"
         },
         {
-          "title": "[Problem/Bug]: Increase in process failed events in latest WebView2 versions",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4165"
+          "title": "[Feature]: Support for WebGPU on Xbox",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
         },
         {
           "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
@@ -12522,7 +12538,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -14992,13 +15008,29 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [
         {
-          "title": "sky mobile",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1835"
+          "title": "DEEPAK AGGARWAL",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1839"
+        },
+        {
+          "title": "unable to load after setting up a text proxy sever",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1838"
+        },
+        {
+          "title": "hi",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1837"
+        },
+        {
+          "title": "what",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1836"
         }
       ],
-      "rate": "97.96"
+      "rate": "91.84"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17468,8 +17500,17 @@
     },
     {
       "date": "2023-11-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-17",
+      "unRespondedItems": [
+        {
+          "title": "hamo0od.ksh5a@gmail.com",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2923"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17623,6 +17664,10 @@
     },
     {
       "date": "2023-11-16",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
