@@ -1,6 +1,8 @@
-Response rate: 80.23%
+Response rate: 80.50%
 
-* **webhintio/hint** - _92.00%_
+* **webhintio/hint** - _88.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5724)
+  * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
@@ -26,7 +28,8 @@ Response rate: 80.23%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
@@ -35,22 +38,19 @@ Response rate: 80.23%
   * [[Problem/Bug]: Opening view source doesn't trigger `NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162)
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
-  * [[Problem/Bug]: 1.0.2151.40 .NET Performance Regression?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4151)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
   * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
   * [[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
+  * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
+  * [[Problem/Bug]: Flyouts in Google products can't be used with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4140)
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
-* **microsoft/vscode-edge-devtools** - _91.84%_
-  * [DEEPAK AGGARWAL](https://github.com/microsoft/vscode-edge-devtools/issues/1839)
-  * [unable to load after setting up a text proxy sever](https://github.com/microsoft/vscode-edge-devtools/issues/1838)
-  * [hi](https://github.com/microsoft/vscode-edge-devtools/issues/1837)
-  * [what](https://github.com/microsoft/vscode-edge-devtools/issues/1836)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -85,5 +85,4 @@ Response rate: 80.23%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.96%_
-  * [hamo0od.ksh5a@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/2923)
+* **MicrosoftDocs/edge-developer** - _100.00%_
