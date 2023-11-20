@@ -1,4 +1,4 @@
-Response rate: 80.24%
+Response rate: 79.47%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5724)
@@ -49,7 +49,8 @@ Response rate: 80.24%
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
   * [[Problem/Bug]: When open html file with embeb/object PDF in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112)
   * [[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110)
-* **microsoft/vscode-edge-devtools** - _95.92%_
+* **microsoft/vscode-edge-devtools** - _93.88%_
+  * [The run code is not working when i write it does not do anyt...](https://github.com/microsoft/vscode-edge-devtools/issues/1843)
   * [Cocos typescript support](https://github.com/microsoft/vscode-edge-devtools/issues/1842)
   * [crbug/1173575, non-JS module files deprecated.](https://github.com/microsoft/vscode-edge-devtools/issues/1841)
 * **microsoft/edge-devtools-network-console** - _34.00%_
@@ -86,4 +87,6 @@ Response rate: 80.24%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.92%_
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2927)
+  * [How to contact the tracking protection team](https://github.com/MicrosoftDocs/edge-developer/issues/2926)

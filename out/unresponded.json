@@ -2478,6 +2478,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4986,6 +4990,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7469,6 +7477,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9952,6 +9964,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -12508,6 +12524,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Screensharing a specific window will only stream at ~5 FPS",
@@ -15072,7 +15092,15 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [
+        {
+          "title": "The run code is not working when i write it does not do anything",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1843"
+        },
         {
           "title": "Cocos typescript support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1842"
@@ -15082,7 +15110,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1841"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17564,8 +17592,21 @@
     },
     {
       "date": "2023-11-19",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-20",
+      "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2927"
+        },
+        {
+          "title": "How to contact the tracking protection team",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2926"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17731,6 +17772,10 @@
     },
     {
       "date": "2023-11-19",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
