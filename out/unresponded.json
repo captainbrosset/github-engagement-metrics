@@ -2482,11 +2482,11 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5724"
-        },
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
           "url": "https://github.com/webhintio/hint/issues/5723"
@@ -2508,7 +2508,7 @@
           "url": "https://github.com/webhintio/hint/pull/5564"
         }
       ],
-      "rate": "88.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -4994,6 +4994,10 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7481,6 +7485,10 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9968,7 +9976,15 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
+        {
+          "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125"
+        },
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
@@ -10042,7 +10058,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12528,14 +12544,22 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Race condition registering for WebResourceRequested events when handling NewWindowRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181"
+        },
+        {
+          "title": "[Problem/Bug]: Canary WebView2 making unexpected network requests to edge-mobile-static.azureedge.net ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4180"
+        },
         {
           "title": "[Problem/Bug]: Screensharing a specific window will only stream at ~5 FPS",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176"
-        },
-        {
-          "title": "Error: WebView2: Initialization failed due to incompatible environment configurations.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
         },
         {
           "title": "[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNotFoundException ",
@@ -12574,10 +12598,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142"
         },
         {
-          "title": "[Problem/Bug]: UWP XBOX Pointer cannot reach whole WebView2 content",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4133"
-        },
-        {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
         },
@@ -12588,6 +12608,10 @@
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175"
+        },
+        {
+          "title": "Error: WebView2: Initialization failed due to incompatible environment configurations.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
         },
         {
           "title": "[Problem/Bug]: Running with UNC and file:// fails",
@@ -12610,7 +12634,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15096,21 +15120,17 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "93.88"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
         {
-          "title": "The run code is not working when i write it does not do anything",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1843"
-        },
-        {
-          "title": "Cocos typescript support",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1842"
-        },
-        {
-          "title": "crbug/1173575, non-JS module files deprecated.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1841"
+          "title": "jlkljl",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1844"
         }
       ],
-      "rate": "93.88"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17596,17 +17616,17 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
         {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2927"
-        },
-        {
-          "title": "How to contact the tracking protection team",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2926"
+          "title": "Network request blocking tool is a Tab/Panel (not a drawer)?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2932"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17776,6 +17796,10 @@
     },
     {
       "date": "2023-11-20",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
