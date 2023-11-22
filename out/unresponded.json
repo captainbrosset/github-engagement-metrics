@@ -2486,6 +2486,10 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -4998,6 +5002,10 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7489,6 +7497,10 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9980,6 +9992,10 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -12548,7 +12564,15 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Crash in embedded_browser_webview_current::internal::ClientWindowCoreInput::Close",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183"
+        },
         {
           "title": "[Problem/Bug]: Race condition registering for WebResourceRequested events when handling NewWindowRequested",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181"
@@ -12624,17 +12648,9 @@
         {
           "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
-        },
-        {
-          "title": "[Problem/Bug]: When open html file with embeb/object PDF in WebView2, Web capture function is not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4112"
-        },
-        {
-          "title": "[Problem/Bug]: Crash with Microsoft Edge WebView2 Runtime - version 118.0.2088.46",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4110"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15124,13 +15140,21 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
+        {
+          "title": "Add 'testing' to list of Microsoft Edge Tools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
+        },
         {
           "title": "jlkljl",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1844"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17620,13 +17644,21 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
+        {
+          "title": "Older Version of web driver",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2935"
+        },
         {
           "title": "Network request blocking tool is a Tab/Panel (not a drawer)?",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2932"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17800,6 +17832,10 @@
     },
     {
       "date": "2023-11-21",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
