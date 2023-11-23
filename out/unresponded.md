@@ -1,4 +1,4 @@
-Response rate: 79.73%
+Response rate: 80.00%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -28,7 +28,7 @@ Response rate: 79.73%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Problem/Bug]: Crash in embedded_browser_webview_current::in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Canary WebView2 making unexpected network req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4180)
@@ -44,14 +44,15 @@ Response rate: 79.73%
   * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
   * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
+  * [Adding NewWindowEvent handler to my Win32 class (not a bug)](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4187)
+  * [Handling WebView2 Downloads - Complete Never Completes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4185)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
-* **microsoft/vscode-edge-devtools** - _95.92%_
+* **microsoft/vscode-edge-devtools** - _97.96%_
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
-  * [jlkljl](https://github.com/microsoft/vscode-edge-devtools/issues/1844)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -86,6 +87,4 @@ Response rate: 79.73%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.92%_
-  * [Older Version of web driver](https://github.com/MicrosoftDocs/edge-developer/issues/2935)
-  * [Network request blocking tool is a Tab/Panel (not a drawer)?...](https://github.com/MicrosoftDocs/edge-developer/issues/2932)
+* **MicrosoftDocs/edge-developer** - _100.00%_

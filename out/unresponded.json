@@ -2490,6 +2490,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5006,6 +5010,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7501,6 +7509,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9996,6 +10008,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -12568,6 +12584,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Crash in embedded_browser_webview_current::internal::ClientWindowCoreInput::Close",
@@ -12630,6 +12650,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
         },
         {
+          "title": "Adding NewWindowEvent handler to my Win32 class (not a bug)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4187"
+        },
+        {
+          "title": "Handling WebView2 Downloads - Complete Never Completes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4185"
+        },
+        {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175"
         },
@@ -12650,7 +12678,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15144,17 +15172,17 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
-        },
-        {
-          "title": "jlkljl",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1844"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17648,17 +17676,12 @@
     },
     {
       "date": "2023-11-22",
-      "unRespondedItems": [
-        {
-          "title": "Older Version of web driver",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2935"
-        },
-        {
-          "title": "Network request blocking tool is a Tab/Panel (not a drawer)?",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2932"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-11-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17836,6 +17859,10 @@
     },
     {
       "date": "2023-11-22",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
