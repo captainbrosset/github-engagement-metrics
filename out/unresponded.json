@@ -2494,6 +2494,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5014,6 +5018,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7513,6 +7521,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10012,6 +10024,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -12588,7 +12604,15 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add an option to enable only text options in the default context menus",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4189"
+        },
         {
           "title": "[Problem/Bug]: Crash in embedded_browser_webview_current::internal::ClientWindowCoreInput::Close",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183"
@@ -12648,10 +12672,6 @@
         {
           "title": "[Bug] WPF null BoundingRectangle property",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
-        },
-        {
-          "title": "Adding NewWindowEvent handler to my Win32 class (not a bug)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4187"
         },
         {
           "title": "Handling WebView2 Downloads - Complete Never Completes",
@@ -15176,6 +15196,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
@@ -17680,8 +17704,21 @@
     },
     {
       "date": "2023-11-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-11-24",
+      "unRespondedItems": [
+        {
+          "title": "Disable\\Block progressive web apps from being installed for all users",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2944"
+        },
+        {
+          "title": "Rabbit007$",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2943"
+        }
+      ],
+      "rate": "95.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17863,6 +17900,10 @@
     },
     {
       "date": "2023-11-23",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
