@@ -2498,6 +2498,10 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5022,6 +5026,10 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7525,6 +7533,10 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10028,6 +10040,10 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -12608,7 +12624,15 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Semver support — increment major version of NuGet package when changing public method signatures",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4191"
+        },
         {
           "title": "[Feature]: Add an option to enable only text options in the default context menus",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4189"
@@ -12668,10 +12692,6 @@
         {
           "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
-        },
-        {
-          "title": "[Bug] WPF null BoundingRectangle property",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118"
         },
         {
           "title": "Handling WebView2 Downloads - Complete Never Completes",
@@ -15200,13 +15220,21 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [
+        {
+          "title": "moud",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1851"
+        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "97.96"
+      "rate": "95.92"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17708,17 +17736,12 @@
     },
     {
       "date": "2023-11-24",
-      "unRespondedItems": [
-        {
-          "title": "Disable\\Block progressive web apps from being installed for all users",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2944"
-        },
-        {
-          "title": "Rabbit007$",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2943"
-        }
-      ],
       "rate": "95.92"
+    },
+    {
+      "date": "2023-11-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -17904,6 +17927,10 @@
     },
     {
       "date": "2023-11-24",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

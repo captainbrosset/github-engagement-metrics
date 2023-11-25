@@ -1,4 +1,4 @@
-Response rate: 79.48%
+Response rate: 79.74%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -29,6 +29,7 @@ Response rate: 79.48%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Feature]: Semver support — increment major version of NuGet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4191)
   * [[Feature]: Add an option to enable only text options in the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4189)
   * [[Problem/Bug]: Crash in embedded_browser_webview_current::in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
@@ -44,14 +45,14 @@ Response rate: 79.48%
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
   * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
   * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
-  * [[Bug] WPF null BoundingRectangle property](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4118)
   * [Handling WebView2 Downloads - Complete Never Completes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4185)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
   * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+* **microsoft/vscode-edge-devtools** - _95.92%_
+  * [moud](https://github.com/microsoft/vscode-edge-devtools/issues/1851)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -87,6 +88,4 @@ Response rate: 79.48%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.92%_
-  * [Disable\Block progressive web apps from being installed for ...](https://github.com/MicrosoftDocs/edge-developer/issues/2944)
-  * [Rabbit007$](https://github.com/MicrosoftDocs/edge-developer/issues/2943)
+* **MicrosoftDocs/edge-developer** - _100.00%_
