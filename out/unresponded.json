@@ -2502,6 +2502,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5030,6 +5034,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7537,6 +7545,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10044,6 +10056,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -12628,6 +12644,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [
         {
           "title": "[Feature]: Semver support — increment major version of NuGet package when changing public method signatures",
@@ -15224,7 +15244,15 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [
+        {
+          "title": "Hello",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1852"
+        },
         {
           "title": "moud",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1851"
@@ -15234,7 +15262,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "95.92"
+      "rate": "93.88"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17740,6 +17768,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -17931,6 +17963,10 @@
     },
     {
       "date": "2023-11-25",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
