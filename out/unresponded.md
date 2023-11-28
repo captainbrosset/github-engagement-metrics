@@ -1,4 +1,4 @@
-Response rate: 79.23%
+Response rate: 80.75%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -8,7 +8,8 @@ Response rate: 79.23%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _62.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _60.00%_
+  * [disconnected: Unable to receive message from renderer (faile...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
@@ -28,33 +29,26 @@ Response rate: 79.23%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [[Feature]: Semver support — increment major version of NuGet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4191)
-  * [[Feature]: Add an option to enable only text options in the ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4189)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [@mohamadathaider what do you mean by 'drive by download'? Co...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4196)
+  * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
   * [[Problem/Bug]: Crash in embedded_browser_webview_current::in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Canary WebView2 making unexpected network req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4180)
   * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
   * [[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170)
-  * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
   * [[Problem/Bug]: View source popup window includes Bing result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4164)
   * [[Problem/Bug]: When msedgewebview2 is already running (in ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4163)
   * [[Problem/Bug]: Opening view source doesn't trigger `NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162)
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
-  * [[Feature]: I would like to show a caret programmatically.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142)
-  * [[Problem/Bug]: Xbox Alpha Skip Ahead Channel version control...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127)
-  * [Handling WebView2 Downloads - Complete Never Completes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4185)
+  * [[Feature]: Ability to print at the complete range of percent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4193)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
-  * [[Problem/Bug]: `native-scrollbar` ignoring CSS styling, caus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131)
-* **microsoft/vscode-edge-devtools** - _91.84%_
-  * [vubaongoc](https://github.com/microsoft/vscode-edge-devtools/issues/1853)
-  * [Hello](https://github.com/microsoft/vscode-edge-devtools/issues/1852)
-  * [moud](https://github.com/microsoft/vscode-edge-devtools/issues/1851)
+* **microsoft/vscode-edge-devtools** - _97.96%_
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

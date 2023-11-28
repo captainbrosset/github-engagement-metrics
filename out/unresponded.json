@@ -2510,6 +2510,10 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5046,6 +5050,10 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7561,6 +7569,10 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10076,7 +10088,15 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [
+        {
+          "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126"
+        },
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125"
@@ -10154,7 +10174,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12668,14 +12688,18 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [
         {
-          "title": "[Feature]: Semver support — increment major version of NuGet package when changing public method signatures",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4191"
+          "title": "@mohamadathaider what do you mean by 'drive by download'? Could you please be more specific about what you are seeing and your concern?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4196"
         },
         {
-          "title": "[Feature]: Add an option to enable only text options in the default context menus",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4189"
+          "title": "In the PDF Viewer unable to change Print Path using a mouse",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195"
         },
         {
           "title": "[Problem/Bug]: Crash in embedded_browser_webview_current::internal::ClientWindowCoreInput::Close",
@@ -12696,10 +12720,6 @@
         {
           "title": "[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNotFoundException ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170"
-        },
-        {
-          "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         },
         {
           "title": "[Problem/Bug]: View source popup window includes Bing results",
@@ -12726,16 +12746,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143"
         },
         {
-          "title": "[Feature]: I would like to show a caret programmatically.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4142"
-        },
-        {
-          "title": "[Problem/Bug]: Xbox Alpha Skip Ahead Channel version controller support for MakeCode Arcade Kiosk",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4127"
-        },
-        {
-          "title": "Handling WebView2 Downloads - Complete Never Completes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4185"
+          "title": "[Feature]: Ability to print at the complete range of percentage values",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4193"
         },
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
@@ -12752,13 +12764,9 @@
         {
           "title": "[Feature]: Support for WebGPU on Xbox",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
-        },
-        {
-          "title": "[Problem/Bug]: `native-scrollbar` ignoring CSS styling, causing improper appearance and app look.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4131"
         }
       ],
-      "rate": "56.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15272,25 +15280,17 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "91.84"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [
-        {
-          "title": "vubaongoc",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1853"
-        },
-        {
-          "title": "Hello",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1852"
-        },
-        {
-          "title": "moud",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1851"
-        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "91.84"
+      "rate": "97.96"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17804,6 +17804,10 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18003,6 +18007,10 @@
     },
     {
       "date": "2023-11-27",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
