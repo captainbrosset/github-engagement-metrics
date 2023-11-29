@@ -1,4 +1,4 @@
-Response rate: 80.75%
+Response rate: 79.75%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -29,10 +29,12 @@ Response rate: 80.75%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Problem/Bug]: WebView2 Browser Process Exited Unexpectedly....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4199)
+  * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
+  * [[Problem/Bug]: WebView2 Zoom dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197)
   * [@mohamadathaider what do you mean by 'drive by download'? Co...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4196)
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
-  * [[Problem/Bug]: Crash in embedded_browser_webview_current::in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Canary WebView2 making unexpected network req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4180)
   * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
@@ -43,12 +45,14 @@ Response rate: 80.75%
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
   * [[Bug]: WebView2 fails to initialize Core after updating app ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143)
-  * [[Feature]: Ability to print at the complete range of percent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4193)
+  * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
+  * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
-* **microsoft/vscode-edge-devtools** - _97.96%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [folders](https://github.com/microsoft/vscode-edge-devtools/issues/1856)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

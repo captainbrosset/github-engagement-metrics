@@ -2514,6 +2514,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5054,6 +5058,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7573,6 +7581,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10092,6 +10104,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
@@ -12692,7 +12708,23 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 Browser Process Exited Unexpectedly.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4199"
+        },
+        {
+          "title": "[Problem]: WebView2 won't work outside of a UI thread",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 Zoom dialog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197"
+        },
         {
           "title": "@mohamadathaider what do you mean by 'drive by download'? Could you please be more specific about what you are seeing and your concern?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4196"
@@ -12700,10 +12732,6 @@
         {
           "title": "In the PDF Viewer unable to change Print Path using a mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195"
-        },
-        {
-          "title": "[Problem/Bug]: Crash in embedded_browser_webview_current::internal::ClientWindowCoreInput::Close",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4183"
         },
         {
           "title": "[Problem/Bug]: Race condition registering for WebResourceRequested events when handling NewWindowRequested",
@@ -12746,8 +12774,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143"
         },
         {
-          "title": "[Feature]: Ability to print at the complete range of percentage values",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4193"
+          "title": "webview2 screen sharing window size[Feature]: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
         },
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
@@ -12762,11 +12790,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171"
         },
         {
+          "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
+        },
+        {
           "title": "[Feature]: Support for WebGPU on Xbox",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
         }
       ],
-      "rate": "64.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15284,13 +15316,21 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "97.96"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [
+        {
+          "title": "folders",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1856"
+        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "97.96"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17808,6 +17848,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18011,6 +18055,10 @@
     },
     {
       "date": "2023-11-28",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
