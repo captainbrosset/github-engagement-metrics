@@ -2518,6 +2518,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5062,6 +5066,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7585,6 +7593,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10108,6 +10120,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
@@ -12712,7 +12728,19 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Table right portion cuts within the page if table width larger than page width",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4202"
+        },
+        {
+          "title": "[Feature]: Support WebResourceRequested event on the same domain used as virtual hostname (SetVirtualHostNameToFolderMapping",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201"
+        },
         {
           "title": "[Problem/Bug]: WebView2 Browser Process Exited Unexpectedly.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4199"
@@ -12798,7 +12826,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15320,10 +15348,14 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [
         {
-          "title": "folders",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1856"
+          "title": "java",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1858"
         },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
@@ -17852,6 +17884,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18059,6 +18095,10 @@
     },
     {
       "date": "2023-11-29",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-11-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 79.75%
+Response rate: 79.25%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -29,7 +29,9 @@ Response rate: 79.75%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: Table right portion cuts within the page if t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4202)
+  * [[Feature]: Support WebResourceRequested event on the same do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201)
   * [[Problem/Bug]: WebView2 Browser Process Exited Unexpectedly....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4199)
   * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
   * [[Problem/Bug]: WebView2 Zoom dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197)
@@ -52,7 +54,7 @@ Response rate: 79.75%
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
   * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [folders](https://github.com/microsoft/vscode-edge-devtools/issues/1856)
+  * [java](https://github.com/microsoft/vscode-edge-devtools/issues/1858)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
