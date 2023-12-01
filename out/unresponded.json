@@ -2522,6 +2522,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5070,6 +5074,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7597,6 +7605,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10124,6 +10136,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
@@ -12732,18 +12748,18 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Table right portion cuts within the page if table width larger than page width",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4202"
+          "title": "[Problem/Bug]: Partially cannot set locale used for Javascript (eg Date) and HTML (eg Input) but can for CSS (eg :lang)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
         },
         {
           "title": "[Feature]: Support WebResourceRequested event on the same domain used as virtual hostname (SetVirtualHostNameToFolderMapping",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 Browser Process Exited Unexpectedly.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4199"
         },
         {
           "title": "[Problem]: WebView2 won't work outside of a UI thread",
@@ -12754,20 +12770,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197"
         },
         {
-          "title": "@mohamadathaider what do you mean by 'drive by download'? Could you please be more specific about what you are seeing and your concern?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4196"
-        },
-        {
           "title": "In the PDF Viewer unable to change Print Path using a mouse",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195"
         },
         {
           "title": "[Problem/Bug]: Race condition registering for WebResourceRequested events when handling NewWindowRequested",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181"
-        },
-        {
-          "title": "[Problem/Bug]: Canary WebView2 making unexpected network requests to edge-mobile-static.azureedge.net ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4180"
         },
         {
           "title": "[Problem/Bug]: Screensharing a specific window will only stream at ~5 FPS",
@@ -12798,12 +12806,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
         },
         {
-          "title": "[Bug]: WebView2 fails to initialize Core after updating app language",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4143"
-        },
-        {
           "title": "webview2 screen sharing window size[Feature]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
+        },
+        {
+          "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         },
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
@@ -12826,7 +12834,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15352,17 +15360,17 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [
-        {
-          "title": "java",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1858"
-        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -17888,6 +17896,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18099,6 +18111,10 @@
     },
     {
       "date": "2023-11-30",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
