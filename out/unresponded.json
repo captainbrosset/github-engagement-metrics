@@ -2526,6 +2526,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5078,6 +5082,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7609,6 +7617,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10140,6 +10152,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
@@ -12752,7 +12768,15 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Cursor does not update on mouse down when clicking near the left or top of the window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209"
+        },
         {
           "title": "[Problem/Bug]: Partially cannot set locale used for Javascript (eg Date) and HTML (eg Input) but can for CSS (eg :lang)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
@@ -12806,8 +12830,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
         },
         {
-          "title": "webview2 screen sharing window size[Feature]: ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
+          "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
         },
         {
           "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
@@ -12828,10 +12852,6 @@
         {
           "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
-        },
-        {
-          "title": "[Feature]: Support for WebGPU on Xbox",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150"
         }
       ],
       "rate": "60.00"
@@ -15364,6 +15384,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
@@ -17900,8 +17924,17 @@
     },
     {
       "date": "2023-12-01",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-02",
+      "unRespondedItems": [
+        {
+          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2955"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18115,6 +18148,10 @@
     },
     {
       "date": "2023-12-01",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

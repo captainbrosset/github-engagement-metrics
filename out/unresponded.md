@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 80.00%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -30,6 +30,7 @@ Response rate: 80.25%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
   * [[Feature]: Support WebResourceRequested event on the same do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201)
   * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
@@ -43,13 +44,12 @@ Response rate: 80.25%
   * [[Problem/Bug]: Opening view source doesn't trigger `NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162)
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
-  * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
+  * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-  * [[Feature]: Support for WebGPU on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4150)
 * **microsoft/vscode-edge-devtools** - _98.00%_
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
@@ -86,4 +86,5 @@ Response rate: 80.25%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.96%_
+  * [The HTTP request to the remote WebDriver server for URL http...](https://github.com/MicrosoftDocs/edge-developer/issues/2955)
