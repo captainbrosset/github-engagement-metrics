@@ -1,6 +1,7 @@
-Response rate: 79.25%
+Response rate: 78.49%
 
-* **webhintio/hint** - _90.00%_
+* **webhintio/hint** - _88.00%_
+  * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
@@ -52,7 +53,8 @@ Response rate: 79.25%
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [Teste 03122023](https://github.com/microsoft/vscode-edge-devtools/issues/1862)
   * [918Admin](https://github.com/microsoft/vscode-edge-devtools/issues/1861)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
@@ -89,5 +91,6 @@ Response rate: 79.25%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.96%_
+* **MicrosoftDocs/edge-developer** - _95.92%_
+  * [Extension problem](https://github.com/MicrosoftDocs/edge-developer/issues/2956)
   * [The HTTP request to the remote WebDriver server for URL http...](https://github.com/MicrosoftDocs/edge-developer/issues/2955)
