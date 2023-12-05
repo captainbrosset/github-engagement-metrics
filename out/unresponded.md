@@ -1,4 +1,4 @@
-Response rate: 78.49%
+Response rate: 78.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -8,9 +8,9 @@ Response rate: 78.49%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [128-Bit-AES-Verschlüsselung. Die Verbindung verwendet TLS v1...](https://github.com/MicrosoftEdge/DevTools/issues/202)
-* **MicrosoftEdge/EdgeWebDriver** - _60.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _58.00%_
+  * [The HTTP request to the remote WebDriver server for URL http...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127)
   * [disconnected: Unable to receive message from renderer (faile...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
@@ -31,7 +31,7 @@ Response rate: 78.49%
   * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [[Problem/Bug]:  Viewing popup windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
@@ -48,14 +48,15 @@ Response rate: 78.49%
   * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
+  * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
+  * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [Teste 03122023](https://github.com/microsoft/vscode-edge-devtools/issues/1862)
-  * [918Admin](https://github.com/microsoft/vscode-edge-devtools/issues/1861)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [licenes](https://github.com/microsoft/vscode-edge-devtools/issues/1864)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -91,6 +92,5 @@ Response rate: 78.49%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.92%_
-  * [Extension problem](https://github.com/MicrosoftDocs/edge-developer/issues/2956)
-  * [The HTTP request to the remote WebDriver server for URL http...](https://github.com/MicrosoftDocs/edge-developer/issues/2955)
+* **MicrosoftDocs/edge-developer** - _97.96%_
+  * [Extension manifest confusing on short description](https://github.com/MicrosoftDocs/edge-developer/issues/2958)

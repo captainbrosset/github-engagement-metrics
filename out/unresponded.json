@@ -2538,6 +2538,10 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5106,6 +5110,10 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7649,13 +7657,12 @@
     },
     {
       "date": "2023-12-04",
-      "unRespondedItems": [
-        {
-          "title": "128-Bit-AES-Verschlüsselung. Die Verbindung verwendet TLS v1.2. Es ist verschlüsselt und der Benutzer verwendet AES_128_GCM_SHA256 und ECDHE_RSA als",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/202"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-12-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -10197,7 +10204,15 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
+        {
+          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127"
+        },
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126"
@@ -10279,7 +10294,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12821,6 +12836,10 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]:  Viewing popup windows",
@@ -12887,6 +12906,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
         },
         {
+          "title": "[Problem/Bug]: failed to set WebView dpi awareness of 2: Access is denied",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
+        },
+        {
+          "title": "webview2 screen sharing window size[Feature]: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
+        },
+        {
           "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         },
@@ -12907,7 +12934,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15449,21 +15476,21 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
         {
-          "title": "Teste 03122023",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1862"
-        },
-        {
-          "title": "918Admin",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1861"
+          "title": "licenes",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1864"
         },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18005,17 +18032,17 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "95.92"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
         {
-          "title": "Extension problem",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2956"
-        },
-        {
-          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2955"
+          "title": "Extension manifest confusing on short description",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2958"
         }
       ],
-      "rate": "95.92"
+      "rate": "97.96"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18241,6 +18268,10 @@
     },
     {
       "date": "2023-12-04",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
