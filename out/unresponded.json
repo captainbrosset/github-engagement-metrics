@@ -2542,6 +2542,10 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5114,6 +5118,10 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7661,6 +7669,10 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10208,11 +10220,11 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [
-        {
-          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127"
-        },
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126"
@@ -10256,6 +10268,10 @@
         {
           "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
+        },
+        {
+          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127"
         },
         {
           "title": "[🐛 Bug]: Something wrong when i switch browser tabs with Edge in IE-mode on windows 10.",
@@ -12840,6 +12856,10 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]:  Viewing popup windows",
@@ -12902,10 +12922,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
         },
         {
-          "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
-        },
-        {
           "title": "[Problem/Bug]: failed to set WebView dpi awareness of 2: Access is denied",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         },
@@ -12934,7 +12950,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15480,17 +15496,17 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [
-        {
-          "title": "licenes",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1864"
-        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18036,13 +18052,12 @@
     },
     {
       "date": "2023-12-05",
-      "unRespondedItems": [
-        {
-          "title": "Extension manifest confusing on short description",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2958"
-        }
-      ],
       "rate": "97.96"
+    },
+    {
+      "date": "2023-12-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18272,6 +18287,10 @@
     },
     {
       "date": "2023-12-05",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
