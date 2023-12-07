@@ -1,4 +1,4 @@
-Response rate: 79.25%
+Response rate: 78.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -9,7 +9,8 @@ Response rate: 79.25%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _58.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _56.00%_
+  * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
   * [disconnected: Unable to receive message from renderer (faile...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
@@ -32,6 +33,7 @@ Response rate: 79.25%
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: Microsoft.Web.WebView2 throws an System.Runti...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4218)
   * [[Problem/Bug]:  Viewing popup windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
@@ -49,12 +51,13 @@ Response rate: 79.25%
   * [Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
-  * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [html linked with css](https://github.com/microsoft/vscode-edge-devtools/issues/1867)
+  * [menu](https://github.com/microsoft/vscode-edge-devtools/issues/1866)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

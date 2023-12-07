@@ -2546,6 +2546,10 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5122,6 +5126,10 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7673,6 +7681,10 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10224,7 +10236,15 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [
+        {
+          "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
+        },
         {
           "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126"
@@ -10310,7 +10330,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12860,7 +12880,15 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Microsoft.Web.WebView2 throws an System.Runtime.InteropServices.COMException (0x8007139F) randomly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4218"
+        },
         {
           "title": "[Problem/Bug]:  Viewing popup windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211"
@@ -12928,10 +12956,6 @@
         {
           "title": "webview2 screen sharing window size[Feature]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
-        },
-        {
-          "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         },
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
@@ -15500,13 +15524,25 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [
+        {
+          "title": "html linked with css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1867"
+        },
+        {
+          "title": "menu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1866"
+        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18056,6 +18092,10 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18291,6 +18331,10 @@
     },
     {
       "date": "2023-12-06",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
