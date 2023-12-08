@@ -2550,6 +2550,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5130,6 +5134,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7685,6 +7693,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10240,6 +10252,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
@@ -12884,11 +12900,11 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: Microsoft.Web.WebView2 throws an System.Runtime.InteropServices.COMException (0x8007139F) randomly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4218"
-        },
         {
           "title": "[Problem/Bug]:  Viewing popup windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211"
@@ -12948,6 +12964,10 @@
         {
           "title": "Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
+        },
+        {
+          "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
         },
         {
           "title": "[Problem/Bug]: failed to set WebView dpi awareness of 2: Access is denied",
@@ -15528,21 +15548,17 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [
-        {
-          "title": "html linked with css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1867"
-        },
-        {
-          "title": "menu",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1866"
-        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18096,6 +18112,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18335,6 +18355,10 @@
     },
     {
       "date": "2023-12-07",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
