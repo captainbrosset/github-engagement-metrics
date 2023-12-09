@@ -2554,6 +2554,10 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5138,6 +5142,10 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7697,6 +7705,10 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10256,7 +10268,15 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [
+        {
+          "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/129"
+        },
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
@@ -10330,14 +10350,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100"
         },
         {
-          "title": "\"No node with given id found\" issue",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96"
-        },
-        {
-          "title": "session not created from no such execution context: loader has changed while resolving nodes",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95"
-        },
-        {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         },
@@ -10346,7 +10358,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12904,7 +12916,15 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Multiple webview2 sharing the same web context never navigate in parallel, only one after the other.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220"
+        },
         {
           "title": "[Problem/Bug]:  Viewing popup windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211"
@@ -12994,7 +13014,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15552,13 +15572,33 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [
+        {
+          "title": "ola",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1874"
+        },
+        {
+          "title": "projecat source code will be help",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1872"
+        },
+        {
+          "title": "did not run",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
+        },
+        {
+          "title": "extension doesn't work",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1870"
+        },
         {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "98.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18116,8 +18156,17 @@
     },
     {
       "date": "2023-12-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-09",
+      "unRespondedItems": [
+        {
+          "title": "DFS DOCS.APP",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2967"
+        }
+      ],
+      "rate": "97.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18359,6 +18408,10 @@
     },
     {
       "date": "2023-12-08",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

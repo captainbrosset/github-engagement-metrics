@@ -1,4 +1,4 @@
-Response rate: 79.00%
+Response rate: 77.74%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -9,7 +9,8 @@ Response rate: 79.00%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _56.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _58.00%_
+  * [Capabilities are not respected: Target window could not be l...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/129)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
   * [disconnected: Unable to receive message from renderer (faile...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
@@ -28,11 +29,10 @@ Response rate: 79.00%
   * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
-  * ["No node with given id found" issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/96)
-  * [session not created from no such execution context: loader h...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/95)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
   * [[Problem/Bug]:  Viewing popup windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
@@ -55,7 +55,11 @@ Response rate: 79.00%
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [ola](https://github.com/microsoft/vscode-edge-devtools/issues/1874)
+  * [projecat source code will be help](https://github.com/microsoft/vscode-edge-devtools/issues/1872)
+  * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
+  * [extension doesn't work](https://github.com/microsoft/vscode-edge-devtools/issues/1870)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -91,4 +95,5 @@ Response rate: 79.00%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [DFS DOCS.APP](https://github.com/MicrosoftDocs/edge-developer/issues/2967)
