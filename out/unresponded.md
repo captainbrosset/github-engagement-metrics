@@ -1,4 +1,4 @@
-Response rate: 77.74%
+Response rate: 77.49%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -55,7 +55,8 @@ Response rate: 77.74%
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
   * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [Code language not supported or defined.](https://github.com/microsoft/vscode-edge-devtools/issues/1875)
   * [ola](https://github.com/microsoft/vscode-edge-devtools/issues/1874)
   * [projecat source code will be help](https://github.com/microsoft/vscode-edge-devtools/issues/1872)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)

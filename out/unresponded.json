@@ -2558,6 +2558,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5146,6 +5150,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7709,6 +7717,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10272,6 +10284,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
         {
           "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
@@ -12920,6 +12936,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Multiple webview2 sharing the same web context never navigate in parallel, only one after the other.",
@@ -15576,7 +15596,15 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
+        {
+          "title": "Code language not supported or defined.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1875"
+        },
         {
           "title": "ola",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1874"
@@ -15598,7 +15626,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18160,6 +18188,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
         {
           "title": "DFS DOCS.APP",
@@ -18412,6 +18444,10 @@
     },
     {
       "date": "2023-12-09",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
