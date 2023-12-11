@@ -2562,6 +2562,10 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5154,6 +5158,10 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7721,8 +7729,17 @@
     },
     {
       "date": "2023-12-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-11",
+      "unRespondedItems": [
+        {
+          "title": "Translate function",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/204"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -10288,6 +10305,10 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
         {
           "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
@@ -12940,7 +12961,15 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
+        {
+          "title": "wv2winrt_impl::GetDispId' removed during compile on latest Visual Studio release, causing unresponsive WinRT code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4223"
+        },
         {
           "title": "[Problem/Bug]: Multiple webview2 sharing the same web context never navigate in parallel, only one after the other.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220"
@@ -13002,10 +13031,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161"
         },
         {
-          "title": "Sharing a Winui3 WebView2 CapturePreviewAsync Bitmap Picture ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4159"
-        },
-        {
           "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
         },
@@ -13016,6 +13041,10 @@
         {
           "title": "webview2 screen sharing window size[Feature]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
+        },
+        {
+          "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         },
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
@@ -13034,7 +13063,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15600,7 +15629,23 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
+        {
+          "title": "the style in my htmp wont work",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1879"
+        },
+        {
+          "title": "i need to know something",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1878"
+        },
+        {
+          "title": "testwillis",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1876"
+        },
         {
           "title": "Code language not supported or defined.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1875"
@@ -15622,11 +15667,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1870"
         },
         {
+          "title": "adding new tab ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1877"
+        },
+        {
           "title": "Add 'testing' to list of Microsoft Edge Tools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "88.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18192,6 +18241,10 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "97.92"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
         {
           "title": "DFS DOCS.APP",
@@ -18448,6 +18501,10 @@
     },
     {
       "date": "2023-12-10",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
