@@ -1,4 +1,4 @@
-Response rate: 75.99%
+Response rate: 78.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -8,8 +8,7 @@ Response rate: 75.99%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Translate function](https://github.com/MicrosoftEdge/DevTools/issues/204)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _58.00%_
   * [Capabilities are not respected: Target window could not be l...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/129)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
@@ -32,10 +31,11 @@ Response rate: 75.99%
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
-  * [wv2winrt_impl::GetDispId' removed during compile on latest V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4223)
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: MSEdgeWebView2 crashes when trying to preview...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4228)
+  * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
+  * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
-  * [[Problem/Bug]:  Viewing popup windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
   * [[Feature]: Support WebResourceRequested event on the same do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201)
@@ -45,28 +45,18 @@ Response rate: 75.99%
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
   * [[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170)
-  * [[Problem/Bug]: View source popup window includes Bing result...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4164)
-  * [[Problem/Bug]: When msedgewebview2 is already running (in ta...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4163)
-  * [[Problem/Bug]: Opening view source doesn't trigger `NewWindo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4162)
-  * [[Problem/Bug]: Known vulnerability in Microsoft.Web.WebView2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4161)
+  * [EmbeddedBrowserWebView.dll calls CoReleaseServerProcess duri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4226)
+  * [[Problem/Bug]:  Viewing popup windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
-  * [[Problem/Bug]: Running with UNC and file:// fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4171)
   * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _80.00%_
-  * [the style in my htmp wont work](https://github.com/microsoft/vscode-edge-devtools/issues/1879)
-  * [i need to know something](https://github.com/microsoft/vscode-edge-devtools/issues/1878)
-  * [testwillis](https://github.com/microsoft/vscode-edge-devtools/issues/1876)
-  * [Code language not supported or defined.](https://github.com/microsoft/vscode-edge-devtools/issues/1875)
-  * [ola](https://github.com/microsoft/vscode-edge-devtools/issues/1874)
-  * [projecat source code will be help](https://github.com/microsoft/vscode-edge-devtools/issues/1872)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [javascrip](https://github.com/microsoft/vscode-edge-devtools/issues/1880)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
-  * [extension doesn't work](https://github.com/microsoft/vscode-edge-devtools/issues/1870)
-  * [adding new tab ](https://github.com/microsoft/vscode-edge-devtools/issues/1877)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -102,5 +92,4 @@ Response rate: 75.99%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.92%_
-  * [DFS DOCS.APP](https://github.com/MicrosoftDocs/edge-developer/issues/2967)
+* **MicrosoftDocs/edge-developer** - _100.00%_
