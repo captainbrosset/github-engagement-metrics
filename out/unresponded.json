@@ -2570,6 +2570,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5170,6 +5174,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7745,6 +7753,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10320,6 +10332,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [
         {
           "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
@@ -12980,18 +12996,14 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "56.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: MSEdgeWebView2 crashes when trying to preview a file through Monaco in file explorer using PowerToys",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4228"
-        },
         {
           "title": "[Problem/Bug]: conflict between existing script and webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227"
-        },
-        {
-          "title": "[Problem/Bug]: New windows open when it shouldn't",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224"
         },
         {
           "title": "[Problem/Bug]: Multiple webview2 sharing the same web context never navigate in parallel, only one after the other.",
@@ -13034,12 +13046,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170"
         },
         {
-          "title": "EmbeddedBrowserWebView.dll calls CoReleaseServerProcess during instance cleanup, resulting in corrupted COM initialization for EXE-server ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4226"
-        },
-        {
-          "title": "[Problem/Bug]:  Viewing popup windows",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4211"
+          "title": "[Problem/Bug]: New windows open when it shouldn't",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224"
         },
         {
           "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
@@ -13070,7 +13078,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "56.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15644,7 +15652,23 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [
+        {
+          "title": "Hello from the startpage!",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1884"
+        },
+        {
+          "title": "microsoft edge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1883"
+        },
+        {
+          "title": "Edge Tools , OOM error when ssh connects to a remote resource",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1882"
+        },
         {
           "title": "javascrip",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1880"
@@ -15658,7 +15682,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "94.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18232,6 +18256,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18491,6 +18519,10 @@
     },
     {
       "date": "2023-12-12",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
