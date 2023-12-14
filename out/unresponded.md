@@ -1,4 +1,4 @@
-Response rate: 78.75%
+Response rate: 80.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -31,7 +31,7 @@ Response rate: 78.75%
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
@@ -42,7 +42,7 @@ Response rate: 78.75%
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
-  * [[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170)
+  * [[Problem/Bug]: The new (12/07/2023) Webview2 update breaks A...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4229)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
@@ -50,12 +50,7 @@ Response rate: 78.75%
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
   * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
-  * [[Problem]: Unable to disable CORS and enable Mixed Content f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166)
-* **microsoft/vscode-edge-devtools** - _88.00%_
-  * [Hello from the startpage!](https://github.com/microsoft/vscode-edge-devtools/issues/1884)
-  * [microsoft edge](https://github.com/microsoft/vscode-edge-devtools/issues/1883)
-  * [Edge Tools , OOM error when ssh connects to a remote resourc...](https://github.com/microsoft/vscode-edge-devtools/issues/1882)
-  * [javascrip](https://github.com/microsoft/vscode-edge-devtools/issues/1880)
+* **microsoft/vscode-edge-devtools** - _96.00%_
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
   * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_

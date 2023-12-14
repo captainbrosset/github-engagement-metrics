@@ -2574,6 +2574,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5178,6 +5182,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7757,6 +7765,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10336,6 +10348,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [
         {
           "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
@@ -13000,6 +13016,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: conflict between existing script and webview",
@@ -13042,8 +13062,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176"
         },
         {
-          "title": "[Problem/Bug]: Microsoft.Web.WebView2.Core.WebView2RuntimeNotFoundException ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4170"
+          "title": "[Problem/Bug]: The new (12/07/2023) Webview2 update breaks ActiveX.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4229"
         },
         {
           "title": "[Problem/Bug]: New windows open when it shouldn't",
@@ -13072,13 +13092,9 @@
         {
           "title": "Error: WebView2: Initialization failed due to incompatible environment configurations.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
-        },
-        {
-          "title": "[Problem]: Unable to disable CORS and enable Mixed Content for Private Network Access",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4166"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15656,23 +15672,11 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [
-        {
-          "title": "Hello from the startpage!",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1884"
-        },
-        {
-          "title": "microsoft edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1883"
-        },
-        {
-          "title": "Edge Tools , OOM error when ssh connects to a remote resource",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1882"
-        },
-        {
-          "title": "javascrip",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1880"
-        },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
@@ -15682,7 +15686,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "88.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18260,6 +18264,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18523,6 +18531,10 @@
     },
     {
       "date": "2023-12-13",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
