@@ -1,4 +1,4 @@
-Response rate: 80.00%
+Response rate: 79.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -31,7 +31,8 @@ Response rate: 80.00%
   * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=fals...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241)
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
@@ -42,7 +43,7 @@ Response rate: 80.00%
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
-  * [[Problem/Bug]: The new (12/07/2023) Webview2 update breaks A...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4229)
+  * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)

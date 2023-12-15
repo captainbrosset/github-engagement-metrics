@@ -2578,6 +2578,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5186,6 +5190,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7769,6 +7777,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10352,6 +10364,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [
         {
           "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
@@ -13020,7 +13036,15 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=false` has no effect ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241"
+        },
         {
           "title": "[Problem/Bug]: conflict between existing script and webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227"
@@ -13062,8 +13086,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176"
         },
         {
-          "title": "[Problem/Bug]: The new (12/07/2023) Webview2 update breaks ActiveX.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4229"
+          "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         },
         {
           "title": "[Problem/Bug]: New windows open when it shouldn't",
@@ -13094,7 +13118,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15676,6 +15700,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [
         {
           "title": "did not run",
@@ -18268,6 +18296,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18535,6 +18567,10 @@
     },
     {
       "date": "2023-12-14",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
