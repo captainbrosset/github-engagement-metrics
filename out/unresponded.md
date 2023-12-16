@@ -1,4 +1,4 @@
-Response rate: 79.75%
+Response rate: 83.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -9,29 +9,13 @@ Response rate: 79.75%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _58.00%_
-  * [Capabilities are not respected: Target window could not be l...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/129)
-  * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
-  * [disconnected: Unable to receive message from renderer (faile...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126)
-  * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
-  * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
-  * [Edgedriver 117.0.2045.60 Linux/MacOS binaries are not publis...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119)
-  * [The cure is add Log by using Set Property](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117)
-  * [msedgedriver 116. Rejecting request with non-local host: 0.0...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114)
-  * [Selenium Webview2 writing to inaccessible directory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112)
-  * [Unable to launch URL with Edge (Edge117.0.2045.12) with sele...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111)
-  * [DevToolsActivePort file doesn't exist](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101)
-  * [[1690704215.872][SEVERE]: Error parsing certificate: ERROR: ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99)
-  * [How can I allow mic/camera and block notifications permissio...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98)
-  * [The HTTP request to the remote WebDriver server for URL http...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127)
+* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-  * [Edge beta 119.0.2151.12 crashing after 2 mins of Selenium ru...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121)
-  * [Window.FullScreen()  should behave the same way as F11](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-  * [EdgeDriver throw exception when it's under SYSTEM account](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
   * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Feature]: Get the microphone and camera status interface an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243)
   * [[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=fals...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241)
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
@@ -50,10 +34,10 @@ Response rate: 79.75%
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
-  * [Error: WebView2: Initialization failed due to incompatible e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [future request ](https://github.com/microsoft/vscode-edge-devtools/issues/1898)
+  * [Welcom to souiria](https://github.com/microsoft/vscode-edge-devtools/issues/1897)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
-  * [Add 'testing' to list of Microsoft Edge Tools](https://github.com/microsoft/vscode-edge-devtools/issues/1845)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -88,4 +72,5 @@ Response rate: 79.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _98.00%_
+  * [[Edge WebDriver Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/2977)

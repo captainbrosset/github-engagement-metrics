@@ -2582,6 +2582,10 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5194,6 +5198,10 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7781,6 +7789,10 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10368,82 +10380,18 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [
-        {
-          "title": "Capabilities are not respected: Target window could not be located with MicrosoftEdge Browser",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/129"
-        },
-        {
-          "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
-        },
-        {
-          "title": "disconnected: Unable to receive message from renderer (failed to check if window was closed: disconnected: not connected to DevTools) (Session info: headless MicrosoftEdge=119.0.2151.72)",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/126"
-        },
-        {
-          "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125"
-        },
-        {
-          "title": "Edge 119.0.2151.44 disable DevTools logging",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
-        },
-        {
-          "title": "Edgedriver 117.0.2045.60 Linux/MacOS binaries are not published",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/119"
-        },
-        {
-          "title": "The cure is add Log by using Set Property",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/117"
-        },
-        {
-          "title": "msedgedriver 116. Rejecting request with non-local host: 0.0.0.0:58982",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/114"
-        },
-        {
-          "title": "Selenium Webview2 writing to inaccessible directory",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/112"
-        },
-        {
-          "title": "Unable to launch URL with Edge (Edge117.0.2045.12) with selenium 4.10",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/111"
-        },
-        {
-          "title": "DevToolsActivePort file doesn't exist",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/101"
-        },
-        {
-          "title": "[1690704215.872][SEVERE]: Error parsing certificate: ERROR: Failed parsing extensions",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/99"
-        },
-        {
-          "title": "How can I allow mic/camera and block notifications permissions using EdgeOptions? Selenium 1.141",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/98"
-        },
-        {
-          "title": "The HTTP request to the remote WebDriver server for URL http://localhost:52526/session timed out after 10 seconds.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/127"
-        },
         {
           "title": "[🐛 Bug]: Something wrong when i switch browser tabs with Edge in IE-mode on windows 10.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         },
         {
-          "title": "Edge beta 119.0.2151.12 crashing after 2 mins of Selenium run",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/121"
-        },
-        {
-          "title": "Window.FullScreen()  should behave the same way as F11",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/107"
-        },
-        {
           "title": "When we set the capability \"webSocketUrl\" to true for chromium browsers, the new tab or window opened with anchor tag click, hangs up.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
-        },
-        {
-          "title": "EdgeDriver throw exception when it's under SYSTEM account",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/100"
         },
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
@@ -10454,7 +10402,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "58.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -13040,7 +12988,15 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243"
+        },
         {
           "title": "[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=false` has no effect ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241"
@@ -13112,10 +13068,6 @@
         {
           "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175"
-        },
-        {
-          "title": "Error: WebView2: Initialization failed due to incompatible environment configurations.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4174"
         }
       ],
       "rate": "62.00"
@@ -15704,17 +15656,25 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [
+        {
+          "title": "future request ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1898"
+        },
+        {
+          "title": "Welcom to souiria",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1897"
+        },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
-        },
-        {
-          "title": "Add 'testing' to list of Microsoft Edge Tools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1845"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18300,8 +18260,17 @@
     },
     {
       "date": "2023-12-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-16",
+      "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2977"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18571,6 +18540,10 @@
     },
     {
       "date": "2023-12-15",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
