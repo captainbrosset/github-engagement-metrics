@@ -2586,6 +2586,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5202,6 +5206,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7793,6 +7801,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10384,7 +10396,15 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
+        {
+          "title": "Edge 119.0.2151.44 disable DevTools logging",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
+        },
         {
           "title": "[🐛 Bug]: Something wrong when i switch browser tabs with Edge in IE-mode on windows 10.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
@@ -10402,7 +10422,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -12992,6 +13012,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
         {
           "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
@@ -15660,7 +15684,23 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
+        {
+          "title": "URL not refreshing in realtime",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1901"
+        },
+        {
+          "title": "game",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1900"
+        },
+        {
+          "title": "hosptial management system",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1899"
+        },
         {
           "title": "future request ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1898"
@@ -15674,7 +15714,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         }
       ],
-      "rate": "94.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18264,6 +18304,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback]",
@@ -18544,6 +18588,10 @@
     },
     {
       "date": "2023-12-16",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

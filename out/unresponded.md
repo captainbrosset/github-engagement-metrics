@@ -1,4 +1,4 @@
-Response rate: 83.50%
+Response rate: 82.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -9,7 +9,8 @@ Response rate: 83.50%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _92.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _90.00%_
+  * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
@@ -34,7 +35,10 @@ Response rate: 83.50%
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [URL not refreshing in realtime](https://github.com/microsoft/vscode-edge-devtools/issues/1901)
+  * [game](https://github.com/microsoft/vscode-edge-devtools/issues/1900)
+  * [hosptial management system](https://github.com/microsoft/vscode-edge-devtools/issues/1899)
   * [future request ](https://github.com/microsoft/vscode-edge-devtools/issues/1898)
   * [Welcom to souiria](https://github.com/microsoft/vscode-edge-devtools/issues/1897)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
