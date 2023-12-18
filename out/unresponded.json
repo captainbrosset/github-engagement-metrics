@@ -2590,6 +2590,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5210,6 +5214,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7805,6 +7813,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10400,6 +10412,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -13016,6 +13032,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
         {
           "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
@@ -15688,7 +15708,19 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
+        {
+          "title": "Debug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1906"
+        },
+        {
+          "title": "help",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1904"
+        },
         {
           "title": "URL not refreshing in realtime",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1901"
@@ -15714,7 +15746,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         }
       ],
-      "rate": "88.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18308,6 +18340,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback]",
@@ -18592,6 +18628,10 @@
     },
     {
       "date": "2023-12-17",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 82.50%
+Response rate: 82.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -35,7 +35,9 @@ Response rate: 82.50%
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
   * [[Problem]: UWP App Package for Desktop/Xbox fails Store Cert...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [Debug](https://github.com/microsoft/vscode-edge-devtools/issues/1906)
+  * [help](https://github.com/microsoft/vscode-edge-devtools/issues/1904)
   * [URL not refreshing in realtime](https://github.com/microsoft/vscode-edge-devtools/issues/1901)
   * [game](https://github.com/microsoft/vscode-edge-devtools/issues/1900)
   * [hosptial management system](https://github.com/microsoft/vscode-edge-devtools/issues/1899)
