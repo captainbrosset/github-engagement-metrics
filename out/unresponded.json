@@ -2594,6 +2594,10 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5218,6 +5222,10 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7817,6 +7825,10 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10416,7 +10428,15 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [
+        {
+          "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
+        },
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
@@ -10438,7 +10458,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -13036,6 +13056,10 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [
         {
           "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
@@ -13086,6 +13110,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176"
         },
         {
+          "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
+        },
+        {
           "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         },
@@ -13108,10 +13136,6 @@
         {
           "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
-        },
-        {
-          "title": "[Problem]: UWP App Package for Desktop/Xbox fails Store Certification with Fixed Runtime included",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4175"
         }
       ],
       "rate": "62.00"
@@ -15712,41 +15736,17 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "84.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [
-        {
-          "title": "Debug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1906"
-        },
-        {
-          "title": "help",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1904"
-        },
-        {
-          "title": "URL not refreshing in realtime",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1901"
-        },
-        {
-          "title": "game",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1900"
-        },
-        {
-          "title": "hosptial management system",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1899"
-        },
-        {
-          "title": "future request ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1898"
-        },
-        {
-          "title": "Welcom to souiria",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1897"
-        },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         }
       ],
-      "rate": "84.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18344,13 +18344,12 @@
     },
     {
       "date": "2023-12-18",
-      "unRespondedItems": [
-        {
-          "title": "[Edge WebDriver Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2977"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-12-19",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18632,6 +18631,10 @@
     },
     {
       "date": "2023-12-18",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
