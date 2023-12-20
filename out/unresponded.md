@@ -1,4 +1,4 @@
-Response rate: 83.75%
+Response rate: 83.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -36,8 +36,10 @@ Response rate: 83.75%
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [وم](https://github.com/microsoft/vscode-edge-devtools/issues/1913)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
+  * [Programming Languages](https://github.com/microsoft/vscode-edge-devtools/issues/1912)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -72,4 +74,5 @@ Response rate: 83.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _98.00%_
+  * [How to calculate Sec-CH-UA-Platform-Version like Edge](https://github.com/MicrosoftDocs/edge-developer/issues/2981)

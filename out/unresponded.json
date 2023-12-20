@@ -2598,6 +2598,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5226,6 +5230,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7829,6 +7837,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10432,6 +10444,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
@@ -13060,6 +13076,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [
         {
           "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
@@ -15740,13 +15760,25 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [
+        {
+          "title": "وم",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1913"
+        },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
+        },
+        {
+          "title": "Programming Languages",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1912"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18348,8 +18380,17 @@
     },
     {
       "date": "2023-12-19",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-20",
+      "unRespondedItems": [
+        {
+          "title": "How to calculate Sec-CH-UA-Platform-Version like Edge",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2981"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18635,6 +18676,10 @@
     },
     {
       "date": "2023-12-19",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
