@@ -2602,6 +2602,10 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5234,6 +5238,10 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7841,6 +7849,10 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10448,7 +10460,15 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [
+        {
+          "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/132"
+        },
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
@@ -10468,10 +10488,6 @@
         {
           "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
-        },
-        {
-          "title": "Suppress output: Microsoft Edge WebDriver was started successfully",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82"
         }
       ],
       "rate": "88.00"
@@ -13080,7 +13096,19 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "62.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]UWP WebView2 Change Source Issue: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 on UWP doesn't support multi-instance app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248"
+        },
         {
           "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243"
@@ -13126,8 +13154,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181"
         },
         {
-          "title": "[Problem/Bug]: Screensharing a specific window will only stream at ~5 FPS",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176"
+          "title": "[Problem/Bug]: NavigateToString() fails with large content page that has embedded image (data: src)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251"
         },
         {
           "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
@@ -13158,7 +13186,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15764,18 +15792,22 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [
         {
-          "title": "وم",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1913"
+          "title": "Live modification",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1917"
+        },
+        {
+          "title": "songsget",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1915"
         },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
-        },
-        {
-          "title": "Programming Languages",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1912"
         }
       ],
       "rate": "94.00"
@@ -18384,13 +18416,12 @@
     },
     {
       "date": "2023-12-20",
-      "unRespondedItems": [
-        {
-          "title": "How to calculate Sec-CH-UA-Platform-Version like Edge",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2981"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2023-12-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18680,6 +18711,10 @@
     },
     {
       "date": "2023-12-20",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

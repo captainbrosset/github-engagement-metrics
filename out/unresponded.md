@@ -1,4 +1,4 @@
-Response rate: 83.00%
+Response rate: 82.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -10,13 +10,15 @@ Response rate: 83.00%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _88.00%_
+  * [SessionNotCreatedException: Could not start a new session. R...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/132)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-  * [Suppress output: Microsoft Edge WebDriver was started succes...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/82)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
+  * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
   * [[Feature]: Get the microphone and camera status interface an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243)
   * [[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=fals...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241)
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
@@ -28,7 +30,7 @@ Response rate: 83.00%
   * [[Problem/Bug]: WebView2 Zoom dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197)
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
   * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
-  * [[Problem/Bug]: Screensharing a specific window will only str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4176)
+  * [[Problem/Bug]: NavigateToString() fails with large content p...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
@@ -37,9 +39,9 @@ Response rate: 83.00%
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
   * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
 * **microsoft/vscode-edge-devtools** - _94.00%_
-  * [وم](https://github.com/microsoft/vscode-edge-devtools/issues/1913)
+  * [Live modification](https://github.com/microsoft/vscode-edge-devtools/issues/1917)
+  * [songsget](https://github.com/microsoft/vscode-edge-devtools/issues/1915)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
-  * [Programming Languages](https://github.com/microsoft/vscode-edge-devtools/issues/1912)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -74,5 +76,4 @@ Response rate: 83.00%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _98.00%_
-  * [How to calculate Sec-CH-UA-Platform-Version like Edge](https://github.com/MicrosoftDocs/edge-developer/issues/2981)
+* **MicrosoftDocs/edge-developer** - _100.00%_
