@@ -1,4 +1,4 @@
-Response rate: 82.75%
+Response rate: 82.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,7 +16,11 @@ Response rate: 82.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: Web pages load very slowly with the latest ve...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4256)
+  * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
+  * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4253)
+  * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
   * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
   * [[Feature]: Get the microphone and camera status interface an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243)
@@ -29,7 +33,6 @@ Response rate: 82.75%
   * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
   * [[Problem/Bug]: WebView2 Zoom dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197)
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
-  * [[Problem/Bug]: Race condition registering for WebResourceReq...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181)
   * [[Problem/Bug]: NavigateToString() fails with large content p...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
@@ -37,10 +40,8 @@ Response rate: 82.75%
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
   * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
-  * [[Feature]: WebView2 JavaScript Debugging in Visual Studio wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [Live modification](https://github.com/microsoft/vscode-edge-devtools/issues/1917)
-  * [songsget](https://github.com/microsoft/vscode-edge-devtools/issues/1915)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [a](https://github.com/microsoft/vscode-edge-devtools/issues/1919)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

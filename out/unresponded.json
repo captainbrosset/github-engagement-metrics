@@ -2606,6 +2606,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5242,6 +5246,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7853,6 +7861,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10464,6 +10476,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13100,7 +13116,27 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "58.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Web pages load very slowly with the latest version of the webview2 runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4256"
+        },
+        {
+          "title": "Collecting ETW fails",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_REASON_CRASHED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4253"
+        },
+        {
+          "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
+        },
         {
           "title": "[Problem/Bug]UWP WebView2 Change Source Issue: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249"
@@ -13150,10 +13186,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195"
         },
         {
-          "title": "[Problem/Bug]: Race condition registering for WebResourceRequested events when handling NewWindowRequested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4181"
-        },
-        {
           "title": "[Problem/Bug]: NavigateToString() fails with large content page that has embedded image (data: src)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251"
         },
@@ -13180,13 +13212,9 @@
         {
           "title": "webview2 screen sharing window size[Feature]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192"
-        },
-        {
-          "title": "[Feature]: WebView2 JavaScript Debugging in Visual Studio with Hot Reload - Everywhere",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4182"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15796,21 +15824,21 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [
         {
-          "title": "Live modification",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1917"
-        },
-        {
-          "title": "songsget",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1915"
+          "title": "a",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1919"
         },
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18420,6 +18448,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18715,6 +18747,10 @@
     },
     {
       "date": "2023-12-21",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
