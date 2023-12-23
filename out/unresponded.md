@@ -1,4 +1,4 @@
-Response rate: 82.50%
+Response rate: 81.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,8 +16,9 @@ Response rate: 82.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [[Problem/Bug]: Web pages load very slowly with the latest ve...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4256)
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
+  * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4253)
   * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
@@ -33,15 +34,17 @@ Response rate: 82.50%
   * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
   * [[Problem/Bug]: WebView2 Zoom dialog](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197)
   * [In the PDF Viewer unable to change Print Path using a mouse](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195)
+  * [WebView2 The server returned successfully, but the page disp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4258)
   * [[Problem/Bug]: NavigateToString() fails with large content p...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-  * [webview2 screen sharing window size[Feature]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4192)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [a](https://github.com/microsoft/vscode-edge-devtools/issues/1919)
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [<ncurses.h>](https://github.com/microsoft/vscode-edge-devtools/issues/1923)
+  * [ncurses library](https://github.com/microsoft/vscode-edge-devtools/issues/1922)
+  * [Ataxanov Orifjon](https://github.com/microsoft/vscode-edge-devtools/issues/1921)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
