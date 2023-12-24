@@ -1,4 +1,4 @@
-Response rate: 81.75%
+Response rate: 81.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -80,4 +80,5 @@ Response rate: 81.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _98.00%_
+  * [bUG1](https://github.com/MicrosoftDocs/edge-developer/issues/2985)

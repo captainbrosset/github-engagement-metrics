@@ -2614,6 +2614,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5258,6 +5262,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7877,6 +7885,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10496,6 +10508,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13140,6 +13156,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
@@ -15856,6 +15876,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [
         {
           "title": "<ncurses.h>",
@@ -18492,8 +18516,17 @@
     },
     {
       "date": "2023-12-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2023-12-24",
+      "unRespondedItems": [
+        {
+          "title": "bUG1",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2985"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18795,6 +18828,10 @@
     },
     {
       "date": "2023-12-23",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
