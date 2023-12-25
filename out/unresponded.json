@@ -2618,6 +2618,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5266,6 +5270,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7889,6 +7897,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10512,6 +10524,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13160,6 +13176,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
@@ -15880,7 +15900,15 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "92.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
+        {
+          "title": "live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1924"
+        },
         {
           "title": "<ncurses.h>",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1923"
@@ -15898,7 +15926,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18520,6 +18548,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
         {
           "title": "bUG1",
@@ -18832,6 +18864,10 @@
     },
     {
       "date": "2023-12-24",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 81.50%
+Response rate: 81.25%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -41,7 +41,8 @@ Response rate: 81.50%
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1924)
   * [<ncurses.h>](https://github.com/microsoft/vscode-edge-devtools/issues/1923)
   * [ncurses library](https://github.com/microsoft/vscode-edge-devtools/issues/1922)
   * [Ataxanov Orifjon](https://github.com/microsoft/vscode-edge-devtools/issues/1921)
