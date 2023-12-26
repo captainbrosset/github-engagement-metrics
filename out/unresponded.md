@@ -1,4 +1,4 @@
-Response rate: 81.25%
+Response rate: 80.25%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,7 +16,8 @@ Response rate: 81.25%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [WebView2 instances crashes with windows blue screen and wind...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4261)
   * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
@@ -41,12 +42,15 @@ Response rate: 81.25%
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [request for miscrosoft edge to vscode](https://github.com/microsoft/vscode-edge-devtools/issues/1927)
+  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1925)
   * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1924)
   * [<ncurses.h>](https://github.com/microsoft/vscode-edge-devtools/issues/1923)
   * [ncurses library](https://github.com/microsoft/vscode-edge-devtools/issues/1922)
   * [Ataxanov Orifjon](https://github.com/microsoft/vscode-edge-devtools/issues/1921)
   * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
+  * [cannot modify files](https://github.com/microsoft/vscode-edge-devtools/issues/1926)
 * **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

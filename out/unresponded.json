@@ -2622,6 +2622,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5274,6 +5278,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7901,6 +7909,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10528,6 +10540,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13180,7 +13196,15 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
+        {
+          "title": "WebView2 instances crashes with windows blue screen and windows restart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4261"
+        },
         {
           "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260"
@@ -13278,7 +13302,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15904,7 +15928,19 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "90.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
+        {
+          "title": "request for miscrosoft edge to vscode",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1927"
+        },
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1925"
+        },
         {
           "title": "live server",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1924"
@@ -15924,9 +15960,13 @@
         {
           "title": "did not run",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
+        },
+        {
+          "title": "cannot modify files",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1926"
         }
       ],
-      "rate": "90.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18552,6 +18592,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
         {
           "title": "bUG1",
@@ -18868,6 +18912,10 @@
     },
     {
       "date": "2023-12-25",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
