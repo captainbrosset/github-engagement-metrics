@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 77.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,13 +16,12 @@ Response rate: 80.25%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [WebView2 instances crashes with windows blue screen and wind...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4261)
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Problem/Bug]: On NavigationStarting cancel the navigation d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4262)
   * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PRO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4253)
-  * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
   * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
   * [[Feature]: Get the microphone and camera status interface an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243)
@@ -42,7 +41,9 @@ Response rate: 80.25%
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-* **microsoft/vscode-edge-devtools** - _84.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [jason ](https://github.com/microsoft/vscode-edge-devtools/issues/1929)
+  * [Showing "cmd is not recognised as an internal or external co...](https://github.com/microsoft/vscode-edge-devtools/issues/1928)
   * [request for miscrosoft edge to vscode](https://github.com/microsoft/vscode-edge-devtools/issues/1927)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1925)
   * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1924)
@@ -85,5 +86,15 @@ Response rate: 80.25%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _98.00%_
+* **MicrosoftDocs/edge-developer** - _78.00%_
+  * [you](https://github.com/MicrosoftDocs/edge-developer/issues/2995)
+  * [there are more edwin mattews](https://github.com/MicrosoftDocs/edge-developer/issues/2994)
+  * [my power company for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2993)
+  * [td bank edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2992)
+  * [gov site i have saved for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2991)
+  * [edwin matthews on my computers](https://github.com/MicrosoftDocs/edge-developer/issues/2990)
+  * [hacked everything for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2989)
+  * [edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2988)
+  * [hacked edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2987)
+  * [sorry im the one they are doing this too, how can i stop thi...](https://github.com/MicrosoftDocs/edge-developer/issues/2986)
   * [bUG1](https://github.com/MicrosoftDocs/edge-developer/issues/2985)
