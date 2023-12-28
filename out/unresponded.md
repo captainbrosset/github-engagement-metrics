@@ -1,4 +1,4 @@
-Response rate: 77.50%
+Response rate: 77.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,8 +16,7 @@ Response rate: 77.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
-  * [[Problem/Bug]: On NavigationStarting cancel the navigation d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4262)
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
@@ -42,6 +41,7 @@ Response rate: 77.50%
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
 * **microsoft/vscode-edge-devtools** - _80.00%_
+  * [apex](https://github.com/microsoft/vscode-edge-devtools/issues/1930)
   * [jason ](https://github.com/microsoft/vscode-edge-devtools/issues/1929)
   * [Showing "cmd is not recognised as an internal or external co...](https://github.com/microsoft/vscode-edge-devtools/issues/1928)
   * [request for miscrosoft edge to vscode](https://github.com/microsoft/vscode-edge-devtools/issues/1927)
@@ -50,16 +50,14 @@ Response rate: 77.50%
   * [<ncurses.h>](https://github.com/microsoft/vscode-edge-devtools/issues/1923)
   * [ncurses library](https://github.com/microsoft/vscode-edge-devtools/issues/1922)
   * [Ataxanov Orifjon](https://github.com/microsoft/vscode-edge-devtools/issues/1921)
-  * [did not run](https://github.com/microsoft/vscode-edge-devtools/issues/1871)
   * [cannot modify files](https://github.com/microsoft/vscode-edge-devtools/issues/1926)
-* **microsoft/edge-devtools-network-console** - _34.00%_
+* **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
   * [Bump semver from 5.7.1 to 5.7.2 in /packages/devtools-networ...](https://github.com/microsoft/edge-devtools-network-console/pull/120)
   * [Bump tough-cookie and jsdom in /packages/devtools-network-co...](https://github.com/microsoft/edge-devtools-network-console/pull/119)
   * [Bump semver and react-scripts in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/117)
-  * [Update webpack.config.js](https://github.com/microsoft/edge-devtools-network-console/pull/115)
   * [Bump minimist from 1.2.5 to 1.2.8 in /packages/devtools-netw...](https://github.com/microsoft/edge-devtools-network-console/pull/112)
   * [Bump minimist from 1.2.5 to 1.2.8](https://github.com/microsoft/edge-devtools-network-console/pull/111)
   * [Bump simple-git from 2.5.0 to 3.16.0](https://github.com/microsoft/edge-devtools-network-console/pull/110)
@@ -86,7 +84,8 @@ Response rate: 77.50%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _78.00%_
+* **MicrosoftDocs/edge-developer** - _76.00%_
+  * [[Duplicate docs] Block request using Network request blockin...](https://github.com/MicrosoftDocs/edge-developer/issues/2997)
   * [you](https://github.com/MicrosoftDocs/edge-developer/issues/2995)
   * [there are more edwin mattews](https://github.com/MicrosoftDocs/edge-developer/issues/2994)
   * [my power company for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2993)

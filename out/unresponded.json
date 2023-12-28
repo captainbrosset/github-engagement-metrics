@@ -2630,6 +2630,10 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5290,6 +5294,10 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7925,6 +7933,10 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10560,6 +10572,10 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13220,11 +13236,11 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "52.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: On NavigationStarting cancel the navigation did not work ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4262"
-        },
         {
           "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260"
@@ -13318,7 +13334,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15952,7 +15968,15 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
+        {
+          "title": "apex",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1930"
+        },
         {
           "title": "jason ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1929"
@@ -15984,10 +16008,6 @@
         {
           "title": "Ataxanov Orifjon",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1921"
-        },
-        {
-          "title": "did not run",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1871"
         },
         {
           "title": "cannot modify files",
@@ -18628,7 +18648,15 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "78.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
+        {
+          "title": "[Duplicate docs] Block request using Network request blocking tool ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2997"
+        },
         {
           "title": "you",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2995"
@@ -18674,7 +18702,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2985"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -18992,6 +19020,10 @@
     },
     {
       "date": "2023-12-27",
+      "rate": "34.00"
+    },
+    {
+      "date": "2023-12-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -19016,10 +19048,6 @@
         {
           "title": "Bump semver and react-scripts in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/117"
-        },
-        {
-          "title": "Update webpack.config.js",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/115"
         },
         {
           "title": "Bump minimist from 1.2.5 to 1.2.8 in /packages/devtools-network-console",
@@ -19126,7 +19154,7 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/73"
         }
       ],
-      "rate": "34.00"
+      "rate": "36.00"
     }
   ]
 }
