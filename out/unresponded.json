@@ -2634,6 +2634,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5298,6 +5302,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7937,6 +7945,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10576,6 +10588,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -10584,6 +10600,10 @@
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
+        },
+        {
+          "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125"
         },
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
@@ -10602,7 +10622,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -13240,6 +13260,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "54.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
@@ -13252,10 +13276,6 @@
         {
           "title": "Collecting ETW fails",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 show blank , error: COREWEBVIEW2_PROCESS_FAILED_REASON_CRASHED",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4253"
         },
         {
           "title": "[Problem/Bug]UWP WebView2 Change Source Issue: ",
@@ -13298,24 +13318,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198"
         },
         {
-          "title": "[Problem/Bug]: WebView2 Zoom dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4197"
-        },
-        {
-          "title": "In the PDF Viewer unable to change Print Path using a mouse",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4195"
-        },
-        {
-          "title": "WebView2 The server returned successfully, but the page displayed a black screen",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4258"
-        },
-        {
-          "title": "[Problem/Bug]: NavigateToString() fails with large content page that has embedded image (data: src)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4251"
-        },
-        {
-          "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
+          "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
         {
           "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
@@ -13334,7 +13338,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "54.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -15972,7 +15976,27 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "80.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
+        {
+          "title": "$bddPDO = new PDO('mysql:host=localhost;dbname=webtoup','root',\"\"); $bddPDO->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION); if(isset($_POST['enregistrer']))",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1934"
+        },
+        {
+          "title": "please accept my request ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1933"
+        },
+        {
+          "title": "apex",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1932"
+        },
+        {
+          "title": "nokkaew01",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1931"
+        },
         {
           "title": "apex",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1930"
@@ -16014,7 +16038,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1926"
         }
       ],
-      "rate": "80.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18652,6 +18676,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
         {
           "title": "[Duplicate docs] Block request using Network request blocking tool ",
@@ -19024,6 +19052,10 @@
     },
     {
       "date": "2023-12-28",
+      "rate": "36.00"
+    },
+    {
+      "date": "2023-12-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
