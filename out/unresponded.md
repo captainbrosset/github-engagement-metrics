@@ -1,4 +1,4 @@
-Response rate: 77.75%
+Response rate: 76.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -18,7 +18,6 @@ Response rate: 77.75%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _64.00%_
-  * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
@@ -30,13 +29,16 @@ Response rate: 77.75%
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
   * [[Feature]: Support WebResourceRequested event on the same do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201)
-  * [[Problem]: WebView2 won't work outside of a UI thread](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198)
+  * [[Problem/Bug]: msedgewebview2 process causes bugcheck](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260)
   * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
+  * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-* **microsoft/vscode-edge-devtools** - _72.00%_
+* **microsoft/vscode-edge-devtools** - _68.00%_
+  * [proyecto](https://github.com/microsoft/vscode-edge-devtools/issues/1936)
+  * [<!DOCTYPE html> <html> <head> <title>Page Title</title> </he...](https://github.com/microsoft/vscode-edge-devtools/issues/1935)
   * [$bddPDO = new PDO('mysql:host=localhost;dbname=webtoup','roo...](https://github.com/microsoft/vscode-edge-devtools/issues/1934)
   * [please accept my request ](https://github.com/microsoft/vscode-edge-devtools/issues/1933)
   * [apex](https://github.com/microsoft/vscode-edge-devtools/issues/1932)
@@ -84,7 +86,9 @@ Response rate: 77.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _76.00%_
+* **MicrosoftDocs/edge-developer** - _72.00%_
+  * [Links to support request form are not working](https://github.com/MicrosoftDocs/edge-developer/issues/2999)
+  * [Not all tabs persisted in order between sessions](https://github.com/MicrosoftDocs/edge-developer/issues/2998)
   * [[Duplicate docs] Block request using Network request blockin...](https://github.com/MicrosoftDocs/edge-developer/issues/2997)
   * [you](https://github.com/MicrosoftDocs/edge-developer/issues/2995)
   * [there are more edwin mattews](https://github.com/MicrosoftDocs/edge-developer/issues/2994)

@@ -2638,6 +2638,10 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5306,6 +5310,10 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7949,6 +7957,10 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10592,6 +10604,10 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13264,11 +13280,11 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260"
-        },
         {
           "title": "WebView2 headless doesn't work in non-interactive login",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259"
@@ -13314,12 +13330,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201"
         },
         {
-          "title": "[Problem]: WebView2 won't work outside of a UI thread",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4198"
+          "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260"
         },
         {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
+        },
+        {
+          "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
         },
         {
           "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
@@ -15980,7 +16000,19 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
+        {
+          "title": "proyecto",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1936"
+        },
+        {
+          "title": "<!DOCTYPE html> <html> <head> <title>Page Title</title> </head> <body>  <h1>Box Animation</h1> <p>move the mouse each other boxto see  the change</p>  </body> </html>",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1935"
+        },
         {
           "title": "$bddPDO = new PDO('mysql:host=localhost;dbname=webtoup','root',\"\"); $bddPDO->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION); if(isset($_POST['enregistrer']))",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1934"
@@ -16038,7 +16070,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1926"
         }
       ],
-      "rate": "72.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18680,7 +18712,19 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "76.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
+        {
+          "title": "Links to support request form are not working",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2999"
+        },
+        {
+          "title": "Not all tabs persisted in order between sessions",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2998"
+        },
         {
           "title": "[Duplicate docs] Block request using Network request blocking tool ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2997"
@@ -18730,7 +18774,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2985"
         }
       ],
-      "rate": "76.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19056,6 +19100,10 @@
     },
     {
       "date": "2023-12-29",
+      "rate": "36.00"
+    },
+    {
+      "date": "2023-12-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
