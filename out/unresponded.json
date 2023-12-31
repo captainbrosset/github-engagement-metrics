@@ -2642,6 +2642,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "88.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5314,6 +5318,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7961,6 +7969,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10608,6 +10620,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "86.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13284,6 +13300,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "64.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "WebView2 headless doesn't work in non-interactive login",
@@ -16004,6 +16024,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "68.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "proyecto",
@@ -18716,6 +18740,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "72.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "Links to support request form are not working",
@@ -19104,6 +19132,10 @@
     },
     {
       "date": "2023-12-30",
+      "rate": "36.00"
+    },
+    {
+      "date": "2023-12-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
