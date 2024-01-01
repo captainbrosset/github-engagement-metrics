@@ -1,4 +1,4 @@
-Response rate: 76.75%
+Response rate: 76.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -86,7 +86,8 @@ Response rate: 76.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _72.00%_
+* **MicrosoftDocs/edge-developer** - _70.00%_
+  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3000)
   * [Links to support request form are not working](https://github.com/MicrosoftDocs/edge-developer/issues/2999)
   * [Not all tabs persisted in order between sessions](https://github.com/MicrosoftDocs/edge-developer/issues/2998)
   * [[Duplicate docs] Block request using Network request blockin...](https://github.com/MicrosoftDocs/edge-developer/issues/2997)
