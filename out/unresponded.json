@@ -2650,6 +2650,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5330,6 +5334,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7985,6 +7993,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10640,6 +10652,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
         {
           "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: exited normally.",
@@ -13324,7 +13340,15 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272"
+        },
         {
           "title": "WebView2 headless doesn't work in non-interactive login",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259"
@@ -13366,14 +13390,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
         },
         {
-          "title": "[Feature]: Support WebResourceRequested event on the same domain used as virtual hostname (SetVirtualHostNameToFolderMapping",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4201"
-        },
-        {
-          "title": "[Problem/Bug]: msedgewebview2 process causes bugcheck",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4260"
-        },
-        {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
@@ -13398,7 +13414,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16052,7 +16068,23 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
+        {
+          "title": "print",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1940"
+        },
+        {
+          "title": "内存泄漏导致OOM",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1939"
+        },
+        {
+          "title": "google.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1938"
+        },
         {
           "title": "proyecto",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1936"
@@ -16118,7 +16150,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1926"
         }
       ],
-      "rate": "68.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18772,6 +18804,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
         {
           "title": "Outdated Edge version references found",
@@ -19172,6 +19208,10 @@
     },
     {
       "date": "2024-01-01",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
