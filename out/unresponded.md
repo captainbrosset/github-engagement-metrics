@@ -1,4 +1,4 @@
-Response rate: 76.00%
+Response rate: 75.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -9,16 +9,15 @@ Response rate: 76.00%
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
-  * [SessionNotCreatedException: Could not start a new session. R...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/132)
+* **MicrosoftEdge/EdgeWebDriver** - _88.00%_
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
-  * [[Problem/Bug]: InvalidOperationException: CoreWebView2 membe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
@@ -29,6 +28,7 @@ Response rate: 76.00%
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
+  * [[Problem/Bug]: InvalidOperationException: CoreWebView2 membe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272)
   * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
@@ -88,7 +88,8 @@ Response rate: 76.00%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _70.00%_
+* **MicrosoftDocs/edge-developer** - _68.00%_
+  * [Start build](https://github.com/MicrosoftDocs/edge-developer/issues/3001)
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3000)
   * [Links to support request form are not working](https://github.com/MicrosoftDocs/edge-developer/issues/2999)
   * [Not all tabs persisted in order between sessions](https://github.com/MicrosoftDocs/edge-developer/issues/2998)
