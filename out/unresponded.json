@@ -2658,6 +2658,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5346,6 +5350,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8009,6 +8017,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10672,6 +10684,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
@@ -13360,6 +13376,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
@@ -13406,10 +13426,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
         },
         {
-          "title": "[Problem/Bug]: InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272"
-        },
-        {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
@@ -13434,7 +13450,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16096,6 +16112,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "print",
@@ -18836,6 +18856,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "Start build",
@@ -19248,6 +19272,10 @@
     },
     {
       "date": "2024-01-03",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
