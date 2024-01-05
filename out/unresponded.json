@@ -2662,6 +2662,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5354,6 +5358,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8021,6 +8029,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10688,6 +10700,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
@@ -13380,6 +13396,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
@@ -13426,6 +13446,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
         },
         {
+          "title": "[Problem/Bug]: InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272"
+        },
+        {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
@@ -13450,7 +13474,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16116,85 +16140,12 @@
     },
     {
       "date": "2024-01-04",
-      "unRespondedItems": [
-        {
-          "title": "print",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1940"
-        },
-        {
-          "title": "内存泄漏导致OOM",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1939"
-        },
-        {
-          "title": "google.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1938"
-        },
-        {
-          "title": "proyecto",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1936"
-        },
-        {
-          "title": "<!DOCTYPE html> <html> <head> <title>Page Title</title> </head> <body>  <h1>Box Animation</h1> <p>move the mouse each other boxto see  the change</p>  </body> </html>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1935"
-        },
-        {
-          "title": "$bddPDO = new PDO('mysql:host=localhost;dbname=webtoup','root',\"\"); $bddPDO->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION); if(isset($_POST['enregistrer']))",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1934"
-        },
-        {
-          "title": "please accept my request ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1933"
-        },
-        {
-          "title": "apex",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1932"
-        },
-        {
-          "title": "nokkaew01",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1931"
-        },
-        {
-          "title": "apex",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1930"
-        },
-        {
-          "title": "jason ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1929"
-        },
-        {
-          "title": "Showing \"cmd is not recognised as an internal or external command\" fix this error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1928"
-        },
-        {
-          "title": "request for miscrosoft edge to vscode",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1927"
-        },
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1925"
-        },
-        {
-          "title": "live server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1924"
-        },
-        {
-          "title": "<ncurses.h>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1923"
-        },
-        {
-          "title": "ncurses library",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1922"
-        },
-        {
-          "title": "Ataxanov Orifjon",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1921"
-        },
-        {
-          "title": "cannot modify files",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1926"
-        }
-      ],
       "rate": "62.00"
+    },
+    {
+      "date": "2024-01-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18860,73 +18811,17 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [
-        {
-          "title": "Start build",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3001"
-        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3000"
-        },
-        {
-          "title": "Links to support request form are not working",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2999"
-        },
-        {
-          "title": "Not all tabs persisted in order between sessions",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2998"
-        },
-        {
-          "title": "[Duplicate docs] Block request using Network request blocking tool ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2997"
-        },
-        {
-          "title": "you",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2995"
-        },
-        {
-          "title": "there are more edwin mattews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2994"
-        },
-        {
-          "title": "my power company for edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2993"
-        },
-        {
-          "title": "td bank edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2992"
-        },
-        {
-          "title": "gov site i have saved for edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2991"
-        },
-        {
-          "title": "edwin matthews on my computers",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2990"
-        },
-        {
-          "title": "hacked everything for edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2989"
-        },
-        {
-          "title": "edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2988"
-        },
-        {
-          "title": "hacked edwin matthews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2987"
-        },
-        {
-          "title": "sorry im the one they are doing this too, how can i stop this",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2986"
-        },
-        {
-          "title": "bUG1",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/2985"
         }
       ],
-      "rate": "68.00"
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19276,6 +19171,10 @@
     },
     {
       "date": "2024-01-04",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

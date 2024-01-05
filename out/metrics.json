@@ -9323,6 +9323,20 @@
       },
       "totalIssues": 4991,
       "dailyIssues": 0
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 3569,
+        "forks": 655,
+        "watchers": 74
+      },
+      "views": {
+        "viewCount": 113,
+        "uniqueViewCount": 26
+      },
+      "totalIssues": 4991,
+      "dailyIssues": 0
     }
   ],
   "MicrosoftEdge/demos": [
@@ -18645,6 +18659,20 @@
       },
       "views": {
         "viewCount": 465,
+        "uniqueViewCount": 49
+      },
+      "totalIssues": 28,
+      "dailyIssues": 0
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 144,
+        "forks": 90,
+        "watchers": 19
+      },
+      "views": {
+        "viewCount": 252,
         "uniqueViewCount": 49
       },
       "totalIssues": 28,
@@ -29272,6 +29300,22 @@
       "views": {
         "viewCount": 93,
         "uniqueViewCount": 66
+      },
+      "totalIssues": 183,
+      "dailyIssues": 0,
+      "trackedIssues": 77,
+      "closedTrackedIssues": 23
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 127,
+        "forks": 50,
+        "watchers": 31
+      },
+      "views": {
+        "viewCount": 92,
+        "uniqueViewCount": 55
       },
       "totalIssues": 183,
       "dailyIssues": 0,
@@ -39905,6 +39949,22 @@
       "dailyIssues": 0,
       "trackedIssues": 32,
       "closedTrackedIssues": 16
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 44,
+        "forks": 8,
+        "watchers": 28
+      },
+      "views": {
+        "viewCount": 118,
+        "uniqueViewCount": 66
+      },
+      "totalIssues": 131,
+      "dailyIssues": 0,
+      "trackedIssues": 32,
+      "closedTrackedIssues": 16
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -50520,6 +50580,22 @@
     },
     {
       "date": "2024-01-04",
+      "stats": {
+        "stars": 394,
+        "forks": 52,
+        "watchers": 76
+      },
+      "views": {
+        "viewCount": 0,
+        "uniqueViewCount": 0
+      },
+      "totalIssues": 3688,
+      "dailyIssues": 0,
+      "trackedIssues": 1186,
+      "closedTrackedIssues": 604
+    },
+    {
+      "date": "2024-01-05",
       "stats": {
         "stars": 394,
         "forks": 52,
@@ -61161,6 +61237,22 @@
       "dailyIssues": 1,
       "trackedIssues": 169,
       "closedTrackedIssues": 73
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 711,
+        "forks": 251,
+        "watchers": 38
+      },
+      "views": {
+        "viewCount": 169,
+        "uniqueViewCount": 97
+      },
+      "totalIssues": 1795,
+      "dailyIssues": 0,
+      "trackedIssues": 170,
+      "closedTrackedIssues": 73
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -71789,6 +71881,22 @@
       "dailyIssues": 0,
       "trackedIssues": 172,
       "closedTrackedIssues": 147
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 348,
+        "forks": 550,
+        "watchers": 106
+      },
+      "views": {
+        "viewCount": 771,
+        "uniqueViewCount": 194
+      },
+      "totalIssues": 2830,
+      "dailyIssues": 1,
+      "trackedIssues": 174,
+      "closedTrackedIssues": 147
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -73178,6 +73286,22 @@
       "views": {
         "viewCount": 69,
         "uniqueViewCount": 37
+      },
+      "totalIssues": 122,
+      "dailyIssues": 0,
+      "trackedIssues": 1,
+      "closedTrackedIssues": 0
+    },
+    {
+      "date": "2024-01-05",
+      "stats": {
+        "stars": 43,
+        "forks": 29,
+        "watchers": 13
+      },
+      "views": {
+        "viewCount": 112,
+        "uniqueViewCount": 52
       },
       "totalIssues": 122,
       "dailyIssues": 0,

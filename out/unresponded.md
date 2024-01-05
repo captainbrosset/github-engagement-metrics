@@ -1,4 +1,4 @@
-Response rate: 76.00%
+Response rate: 84.25%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -16,7 +16,7 @@ Response rate: 76.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
@@ -28,32 +28,14 @@ Response rate: 76.00%
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
   * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
   * [[Problem/Bug]: Partially cannot set locale used for Javascri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204)
+  * [[Problem/Bug]: InvalidOperationException: CoreWebView2 membe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272)
   * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
   * [[Problem/Bug]: New windows open when it shouldn't](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224)
   * [[Problem/Bug]: On some windows user accounts, setting parent...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206)
   * [[Problem/Bug]: failed to set WebView dpi awareness of 2: Acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203)
-* **microsoft/vscode-edge-devtools** - _62.00%_
-  * [print](https://github.com/microsoft/vscode-edge-devtools/issues/1940)
-  * [内存泄漏导致OOM](https://github.com/microsoft/vscode-edge-devtools/issues/1939)
-  * [google.com](https://github.com/microsoft/vscode-edge-devtools/issues/1938)
-  * [proyecto](https://github.com/microsoft/vscode-edge-devtools/issues/1936)
-  * [<!DOCTYPE html> <html> <head> <title>Page Title</title> </he...](https://github.com/microsoft/vscode-edge-devtools/issues/1935)
-  * [$bddPDO = new PDO('mysql:host=localhost;dbname=webtoup','roo...](https://github.com/microsoft/vscode-edge-devtools/issues/1934)
-  * [please accept my request ](https://github.com/microsoft/vscode-edge-devtools/issues/1933)
-  * [apex](https://github.com/microsoft/vscode-edge-devtools/issues/1932)
-  * [nokkaew01](https://github.com/microsoft/vscode-edge-devtools/issues/1931)
-  * [apex](https://github.com/microsoft/vscode-edge-devtools/issues/1930)
-  * [jason ](https://github.com/microsoft/vscode-edge-devtools/issues/1929)
-  * [Showing "cmd is not recognised as an internal or external co...](https://github.com/microsoft/vscode-edge-devtools/issues/1928)
-  * [request for miscrosoft edge to vscode](https://github.com/microsoft/vscode-edge-devtools/issues/1927)
-  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/1925)
-  * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/1924)
-  * [<ncurses.h>](https://github.com/microsoft/vscode-edge-devtools/issues/1923)
-  * [ncurses library](https://github.com/microsoft/vscode-edge-devtools/issues/1922)
-  * [Ataxanov Orifjon](https://github.com/microsoft/vscode-edge-devtools/issues/1921)
-  * [cannot modify files](https://github.com/microsoft/vscode-edge-devtools/issues/1926)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -87,20 +69,5 @@ Response rate: 76.00%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _68.00%_
-  * [Start build](https://github.com/MicrosoftDocs/edge-developer/issues/3001)
+* **MicrosoftDocs/edge-developer** - _98.00%_
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3000)
-  * [Links to support request form are not working](https://github.com/MicrosoftDocs/edge-developer/issues/2999)
-  * [Not all tabs persisted in order between sessions](https://github.com/MicrosoftDocs/edge-developer/issues/2998)
-  * [[Duplicate docs] Block request using Network request blockin...](https://github.com/MicrosoftDocs/edge-developer/issues/2997)
-  * [you](https://github.com/MicrosoftDocs/edge-developer/issues/2995)
-  * [there are more edwin mattews](https://github.com/MicrosoftDocs/edge-developer/issues/2994)
-  * [my power company for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2993)
-  * [td bank edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2992)
-  * [gov site i have saved for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2991)
-  * [edwin matthews on my computers](https://github.com/MicrosoftDocs/edge-developer/issues/2990)
-  * [hacked everything for edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2989)
-  * [edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2988)
-  * [hacked edwin matthews](https://github.com/MicrosoftDocs/edge-developer/issues/2987)
-  * [sorry im the one they are doing this too, how can i stop thi...](https://github.com/MicrosoftDocs/edge-developer/issues/2986)
-  * [bUG1](https://github.com/MicrosoftDocs/edge-developer/issues/2985)
