@@ -2666,6 +2666,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5362,6 +5366,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8033,6 +8041,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10704,7 +10716,15 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [
+        {
+          "title": "XML file downloads are blocked",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
+        },
         {
           "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
@@ -10730,7 +10750,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -13400,6 +13420,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
@@ -13446,10 +13470,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
         },
         {
-          "title": "[Problem/Bug]: InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4272"
-        },
-        {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
@@ -13462,19 +13482,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         },
         {
-          "title": "[Problem/Bug]: New windows open when it shouldn't",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4224"
-        },
-        {
           "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
-        },
-        {
-          "title": "[Problem/Bug]: failed to set WebView dpi awareness of 2: Access is denied",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4203"
         }
       ],
-      "rate": "64.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16144,6 +16156,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -18815,13 +18831,12 @@
     },
     {
       "date": "2024-01-05",
-      "unRespondedItems": [
-        {
-          "title": "Outdated Edge version references found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3000"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-01-06",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19175,6 +19190,10 @@
     },
     {
       "date": "2024-01-05",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
