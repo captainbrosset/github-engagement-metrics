@@ -2674,6 +2674,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5378,6 +5382,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8057,6 +8065,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10736,6 +10748,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13444,6 +13460,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
@@ -13486,8 +13506,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209"
         },
         {
-          "title": "[Problem/Bug]: Partially cannot set locale used for Javascript (eg Date) and HTML (eg Input) but can for CSS (eg :lang)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4204"
+          "title": "[Crash]: WebView2Loader.dll Ver[2.1.0.1823.32] in Win7",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4279"
         },
         {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
@@ -16184,8 +16204,17 @@
     },
     {
       "date": "2024-01-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-08",
+      "unRespondedItems": [
+        {
+          "title": "prrofile",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1944"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18863,7 +18892,15 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [
+        {
+          "title": "Missing semi colon in document ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3008"
+        },
         {
           "title": "msedgewebview2 crashes before even login.",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3007"
@@ -18873,7 +18910,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3006"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19235,6 +19272,10 @@
     },
     {
       "date": "2024-01-07",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
