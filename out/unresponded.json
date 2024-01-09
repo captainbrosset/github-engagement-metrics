@@ -2678,6 +2678,10 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5386,6 +5390,10 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8069,6 +8077,10 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10752,6 +10764,10 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13464,7 +13480,15 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: High resolution videos are not displayed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
+        },
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
@@ -13486,14 +13510,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248"
         },
         {
-          "title": "[Feature]: Get the microphone and camera status interface and the microphone and camera status change notification interface",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4243"
-        },
-        {
-          "title": "[Problem/Bug]: WinUI3 `AreBrowserAcceleratorKeysEnabled=false` has no effect ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4241"
-        },
-        {
           "title": "[Problem/Bug]: conflict between existing script and webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227"
         },
@@ -13506,10 +13522,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209"
         },
         {
-          "title": "[Crash]: WebView2Loader.dll Ver[2.1.0.1823.32] in Win7",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4279"
-        },
-        {
           "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
         },
@@ -13520,13 +13532,9 @@
         {
           "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
-        },
-        {
-          "title": "[Problem/Bug]: On some windows user accounts, setting parent of webview in some contexts results in - Exception: System.InvalidOperationException: CoreWebView2 members cannot be accessed after the WebView2 control is disposed. ---> System.Runtime.InteropServices.COMException: The group or resource is not in the correct state to perform the requested operation. (Exception from HRESULT: 0x8007139F)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4206"
         }
       ],
-      "rate": "70.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16208,13 +16216,12 @@
     },
     {
       "date": "2024-01-08",
-      "unRespondedItems": [
-        {
-          "title": "prrofile",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1944"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-01-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18896,21 +18903,17 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [
         {
           "title": "Missing semi colon in document ",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3008"
-        },
-        {
-          "title": "msedgewebview2 crashes before even login.",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3007"
-        },
-        {
-          "title": "ok",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3006"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19276,6 +19279,10 @@
     },
     {
       "date": "2024-01-08",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
