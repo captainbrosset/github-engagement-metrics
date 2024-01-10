@@ -1,4 +1,4 @@
-Response rate: 85.50%
+Response rate: 85.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -17,8 +17,9 @@ Response rate: 85.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _76.00%_
+* **MicrosoftEdge/WebView2Feedback** - _78.00%_
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
+  * [WebView2 focus trap on UWP XBOX when using XY directional na...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4284)
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
@@ -26,11 +27,10 @@ Response rate: 85.50%
   * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
   * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
-  * [[Problem/Bug]: Cursor does not update on mouse down when cli...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209)
-  * [[Problem/Bug]: WebView causing crash on Microsoft Office 201...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [..](https://github.com/microsoft/vscode-edge-devtools/issues/1946)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -64,5 +64,4 @@ Response rate: 85.50%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _98.00%_
-  * [Missing semi colon in document ](https://github.com/MicrosoftDocs/edge-developer/issues/3008)
+* **MicrosoftDocs/edge-developer** - _100.00%_

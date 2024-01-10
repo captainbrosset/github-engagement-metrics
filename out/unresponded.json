@@ -2682,6 +2682,10 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5394,6 +5398,10 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8081,6 +8089,10 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10768,6 +10780,10 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13484,10 +13500,18 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: High resolution videos are not displayed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
+        },
+        {
+          "title": "WebView2 focus trap on UWP XBOX when using XY directional navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4284"
         },
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
@@ -13518,14 +13542,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220"
         },
         {
-          "title": "[Problem/Bug]: Cursor does not update on mouse down when clicking near the left or top of the window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4209"
-        },
-        {
-          "title": "[Problem/Bug]: WebView causing crash on Microsoft Office 2016",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4252"
-        },
-        {
           "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
         },
@@ -13534,7 +13550,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         }
       ],
-      "rate": "76.00"
+      "rate": "78.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16220,8 +16236,17 @@
     },
     {
       "date": "2024-01-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-10",
+      "unRespondedItems": [
+        {
+          "title": "..",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1946"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -18907,13 +18932,12 @@
     },
     {
       "date": "2024-01-09",
-      "unRespondedItems": [
-        {
-          "title": "Missing semi colon in document ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3008"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-01-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19283,6 +19307,10 @@
     },
     {
       "date": "2024-01-09",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
