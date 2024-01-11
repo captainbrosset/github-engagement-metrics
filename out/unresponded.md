@@ -1,4 +1,4 @@
-Response rate: 85.75%
+Response rate: 85.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -17,20 +17,23 @@ Response rate: 85.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _78.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+  * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
+  * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
   * [WebView2 focus trap on UWP XBOX when using XY directional na...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4284)
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
-  * [WebView2 headless doesn't work in non-interactive login](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
   * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
   * [[Problem/Bug]: conflict between existing script and webview](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227)
-  * [[Problem/Bug]: Multiple webview2 sharing the same web contex...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220)
+  * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
+  * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
+  * [[Problem/Bug]: Memory leak? WebView2 and parent window not r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4286)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [..](https://github.com/microsoft/vscode-edge-devtools/issues/1946)
+  * [Big b](https://github.com/microsoft/vscode-edge-devtools/issues/1947)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

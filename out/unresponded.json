@@ -2686,6 +2686,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5402,6 +5406,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8093,6 +8101,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10784,6 +10796,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13504,7 +13520,19 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [
+        {
+          "title": "Inconsistent behaviour while using Keyboard wedge type Scanners with UWP+webview2 app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287"
+        },
+        {
+          "title": "WPF WebView2 HEVC Video  Blank Screen on Windows Professional and Workstation, but Normal on Home Edition (Runtime Version 120.0.2210.121)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285"
+        },
         {
           "title": "[Problem/Bug]: High resolution videos are not displayed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
@@ -13516,10 +13544,6 @@
         {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
-        },
-        {
-          "title": "WebView2 headless doesn't work in non-interactive login",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4259"
         },
         {
           "title": "Collecting ETW fails",
@@ -13538,8 +13562,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4227"
         },
         {
-          "title": "[Problem/Bug]: Multiple webview2 sharing the same web context never navigate in parallel, only one after the other.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4220"
+          "title": "[Problem/Bug]: multiwebview crash / unresponsive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 stops creating new browser windows",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
+        },
+        {
+          "title": "[Problem/Bug]: Memory leak? WebView2 and parent window not released after close",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4286"
         },
         {
           "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
@@ -13550,7 +13582,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         }
       ],
-      "rate": "78.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16240,10 +16272,14 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [
         {
-          "title": "..",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1946"
+          "title": "Big b",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1947"
         }
       ],
       "rate": "98.00"
@@ -18936,6 +18972,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -19311,6 +19351,10 @@
     },
     {
       "date": "2024-01-10",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
