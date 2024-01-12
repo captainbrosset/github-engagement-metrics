@@ -1,4 +1,4 @@
-Response rate: 85.00%
+Response rate: 84.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
@@ -17,7 +17,8 @@ Response rate: 85.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
   * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)

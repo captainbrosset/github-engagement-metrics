@@ -2690,6 +2690,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5410,6 +5414,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8105,6 +8113,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10800,6 +10812,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13524,7 +13540,15 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: OutOfMemory exception when writing response in WebResourceRequest (only x86)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294"
+        },
         {
           "title": "Inconsistent behaviour while using Keyboard wedge type Scanners with UWP+webview2 app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287"
@@ -13582,7 +13606,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16276,6 +16300,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [
         {
           "title": "Big b",
@@ -18976,6 +19004,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -19355,6 +19387,10 @@
     },
     {
       "date": "2024-01-11",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
