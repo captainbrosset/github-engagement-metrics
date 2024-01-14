@@ -2698,6 +2698,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [
         {
           "title": "[Bug] http-cache revving regex",
@@ -5426,6 +5430,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8129,6 +8137,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10832,6 +10844,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13564,7 +13580,15 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: HTML5 Content Issues on Xbox",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4301"
+        },
         {
           "title": "[Problem/Bug]: ComException for GetContentAsync() in WebResourceResponseReceived for longer POST data",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298"
@@ -13622,7 +13646,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16324,6 +16348,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [
         {
           "title": "plz",
@@ -19036,8 +19064,21 @@
     },
     {
       "date": "2024-01-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-14",
+      "unRespondedItems": [
+        {
+          "title": "philmil004",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3016"
+        },
+        {
+          "title": "Disgusting it is not working now I have install Chrome. Edge is stupid ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3015"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19423,6 +19464,10 @@
     },
     {
       "date": "2024-01-13",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
