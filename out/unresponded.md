@@ -1,7 +1,6 @@
-Response rate: 84.00%
+Response rate: 83.75%
 
-* **webhintio/hint** - _88.00%_
-  * [[Bug] http-cache revving regex](https://github.com/webhintio/hint/issues/5725)
+* **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
@@ -33,9 +32,11 @@ Response rate: 84.00%
   * [[Problem/Bug]: Memory leak? WebView2 and parent window not r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4286)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
   * [[Problem/Bug]: System.Runtime.InteropServices.COMException i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [my vs code not respond with f key press](https://github.com/microsoft/vscode-edge-devtools/issues/1952)
   * [plz](https://github.com/microsoft/vscode-edge-devtools/issues/1950)
   * [Big b](https://github.com/microsoft/vscode-edge-devtools/issues/1947)
+  * [      "type": "pwa-msedge",](https://github.com/microsoft/vscode-edge-devtools/issues/1951)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
