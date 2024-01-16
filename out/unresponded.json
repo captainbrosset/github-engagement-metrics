@@ -2706,6 +2706,10 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5438,6 +5442,10 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8149,6 +8157,10 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10860,6 +10872,10 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13600,7 +13616,19 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
+        {
+          "title": "[Bug]: WebView2 WebResourceRequested does not fired for WebSockets",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303"
+        },
+        {
+          "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302"
+        },
         {
           "title": "[Problem/Bug]: HTML5 Content Issues on Xbox",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4301"
@@ -13656,13 +13684,9 @@
         {
           "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
-        },
-        {
-          "title": "[Problem/Bug]: System.Runtime.InteropServices.COMException in WebResourceResponseReceived event with lastest version of Edge",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4232"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16372,25 +16396,17 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
         {
-          "title": "my vs code not respond with f key press",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1952"
-        },
-        {
-          "title": "plz",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1950"
-        },
-        {
-          "title": "Big b",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1947"
-        },
-        {
-          "title": "      \"type\": \"pwa-msedge\",",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1951"
+          "title": "YOUWATCHU",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1954"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19100,17 +19116,17 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
         {
-          "title": "philmil004",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3016"
-        },
-        {
-          "title": "Disgusting it is not working now I have install Chrome. Edge is stupid ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3015"
+          "title": "[PWA widgets] Add warning about the update time",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3018"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19504,6 +19520,10 @@
     },
     {
       "date": "2024-01-15",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
