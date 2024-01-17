@@ -1,4 +1,4 @@
-Response rate: 84.50%
+Response rate: 85.00%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -16,10 +16,8 @@ Response rate: 84.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _72.00%_
   * [[Bug]: WebView2 WebResourceRequested does not fired for WebS...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303)
-  * [[Problem/Bug]: Intermittently, WebView2 controls are not ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302)
-  * [[Problem/Bug]: HTML5 Content Issues on Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4301)
   * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
   * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
@@ -29,12 +27,12 @@ Response rate: 84.50%
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
   * [[Problem/Bug]: WebView2 on UWP doesn't support multi-instanc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248)
+  * [[Problem/Bug]: Intermittently, WebView2 controls are not ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
-  * [[Problem/Bug]: Memory leak? WebView2 and parent window not r...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4286)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [YOUWATCHU](https://github.com/microsoft/vscode-edge-devtools/issues/1954)
+  * [Template For Web Site Application](https://github.com/microsoft/vscode-edge-devtools/issues/1955)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -69,4 +67,4 @@ Response rate: 84.50%
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
 * **MicrosoftDocs/edge-developer** - _98.00%_
-  * [[PWA widgets] Add warning about the update time](https://github.com/MicrosoftDocs/edge-developer/issues/3018)
+  * [The Screenshot and text for Step 1 is now out of date](https://github.com/MicrosoftDocs/edge-developer/issues/3019)
