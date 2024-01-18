@@ -1,4 +1,4 @@
-Response rate: 85.00%
+Response rate: 85.25%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -31,8 +31,7 @@ Response rate: 85.00%
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Template For Web Site Application](https://github.com/microsoft/vscode-edge-devtools/issues/1955)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -67,4 +66,4 @@ Response rate: 85.00%
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
 * **MicrosoftDocs/edge-developer** - _98.00%_
-  * [The Screenshot and text for Step 1 is now out of date](https://github.com/MicrosoftDocs/edge-developer/issues/3019)
+  * [[PWA widgets] Add warning about the update time](https://github.com/MicrosoftDocs/edge-developer/issues/3018)
