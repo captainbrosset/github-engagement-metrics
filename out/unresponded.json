@@ -2718,6 +2718,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5462,6 +5466,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8185,6 +8193,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10908,6 +10920,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13660,6 +13676,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [
         {
           "title": "[Bug]: WebView2 WebResourceRequested does not fired for WebSockets",
@@ -13698,10 +13718,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249"
         },
         {
-          "title": "[Problem/Bug]: WebView2 on UWP doesn't support multi-instance app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4248"
-        },
-        {
           "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302"
         },
@@ -13718,7 +13734,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16440,8 +16456,17 @@
     },
     {
       "date": "2024-01-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-19",
+      "unRespondedItems": [
+        {
+          "title": "Bad Webgl Performance, error: Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1957"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19163,13 +19188,17 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [
         {
-          "title": "[PWA widgets] Add warning about the update time",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3018"
+          "title": "Edge third party cookie blocking",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3021"
         }
       ],
-      "rate": "98.00"
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19575,6 +19604,10 @@
     },
     {
       "date": "2024-01-18",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
