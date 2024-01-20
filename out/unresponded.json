@@ -2722,6 +2722,10 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5470,6 +5474,10 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8197,6 +8205,10 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10924,6 +10936,10 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13680,7 +13696,19 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310"
+        },
+        {
+          "title": "Navigating to a mht file when using virtual hostname mapping downloads the file instead of browsing to it",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309"
+        },
         {
           "title": "[Bug]: WebView2 WebResourceRequested does not fired for WebSockets",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303"
@@ -13734,7 +13762,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16460,13 +16488,21 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [
         {
-          "title": "Bad Webgl Performance, error: Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1957"
+          "title": "ziad",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1961"
+        },
+        {
+          "title": "issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1960"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19192,13 +19228,12 @@
     },
     {
       "date": "2024-01-19",
-      "unRespondedItems": [
-        {
-          "title": "Edge third party cookie blocking",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3021"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2024-01-20",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19608,6 +19643,10 @@
     },
     {
       "date": "2024-01-19",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
