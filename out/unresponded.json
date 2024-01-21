@@ -2726,6 +2726,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5478,6 +5482,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8209,6 +8217,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10940,6 +10952,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13700,6 +13716,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
@@ -13730,10 +13750,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285"
         },
         {
-          "title": "[Problem/Bug]: High resolution videos are not displayed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
-        },
-        {
           "title": "[Feature]: DevToolsProtocolExtension for WinUI 3 with built-in WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
         },
@@ -13756,6 +13772,10 @@
         {
           "title": "[Problem/Bug]: WebView2 stops creating new browser windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
+        },
+        {
+          "title": "[Problem/Bug]: High resolution videos are not displayed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
         },
         {
           "title": "[Problem/Bug]: The color and clarity (pixels) of image resources, videos, text and other content are seriously distorted. . . ",
@@ -16492,7 +16512,15 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [
+        {
+          "title": "Bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1962"
+        },
         {
           "title": "ziad",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1961"
@@ -16500,9 +16528,13 @@
         {
           "title": "issue",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1960"
+        },
+        {
+          "title": "code is not running",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1963"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19232,8 +19264,17 @@
     },
     {
       "date": "2024-01-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-21",
+      "unRespondedItems": [
+        {
+          "title": "Simulate mobile CPU",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3027"
+        }
+      ],
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19647,6 +19688,10 @@
     },
     {
       "date": "2024-01-20",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
