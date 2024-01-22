@@ -1,4 +1,4 @@
-Response rate: 83.98%
+Response rate: 83.48%
 
 * **webhintio/hint** - _90.00%_
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
@@ -7,7 +7,8 @@ Response rate: 83.98%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Edge randomly stops registering clicks after using dev tools...](https://github.com/MicrosoftEdge/DevTools/issues/211)
 * **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
@@ -32,10 +33,11 @@ Response rate: 83.98%
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
   * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/1962)
   * [ziad](https://github.com/microsoft/vscode-edge-devtools/issues/1961)
   * [issue](https://github.com/microsoft/vscode-edge-devtools/issues/1960)
+  * [Coloti nell'editor](https://github.com/microsoft/vscode-edge-devtools/issues/1964)
   * [code is not running](https://github.com/microsoft/vscode-edge-devtools/issues/1963)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

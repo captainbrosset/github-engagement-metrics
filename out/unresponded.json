@@ -2730,6 +2730,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
@@ -5486,6 +5490,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8221,8 +8229,17 @@
     },
     {
       "date": "2024-01-21",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-22",
+      "unRespondedItems": [
+        {
+          "title": "Edge randomly stops registering clicks after using dev tools",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/211"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -10956,6 +10973,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13720,6 +13741,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
@@ -16516,6 +16541,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "Bug",
@@ -16530,11 +16559,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1960"
         },
         {
+          "title": "Coloti nell'editor",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1964"
+        },
+        {
           "title": "code is not running",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1963"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19268,6 +19301,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "97.87"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "Simulate mobile CPU",
@@ -19692,6 +19729,10 @@
     },
     {
       "date": "2024-01-21",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
