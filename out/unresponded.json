@@ -2734,7 +2734,15 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
+        {
+          "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
+          "url": "https://github.com/webhintio/hint/issues/5730"
+        },
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
           "url": "https://github.com/webhintio/hint/issues/5723"
@@ -2756,7 +2764,7 @@
           "url": "https://github.com/webhintio/hint/pull/5564"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5494,6 +5502,10 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8233,6 +8245,10 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
         {
           "title": "Edge randomly stops registering clicks after using dev tools",
@@ -10977,6 +10993,10 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13745,6 +13765,10 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
@@ -13753,10 +13777,6 @@
         {
           "title": "Navigating to a mht file when using virtual hostname mapping downloads the file instead of browsing to it",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309"
-        },
-        {
-          "title": "[Bug]: WebView2 WebResourceRequested does not fired for WebSockets",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303"
         },
         {
           "title": "[Problem/Bug]: ComException for GetContentAsync() in WebResourceResponseReceived for longer POST data",
@@ -13785,6 +13805,10 @@
         {
           "title": "[Problem/Bug]UWP WebView2 Change Source Issue: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249"
+        },
+        {
+          "title": "[Bug]: WebView2 WebResourceRequested does not fired for WebSockets",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303"
         },
         {
           "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
@@ -16545,29 +16569,12 @@
     },
     {
       "date": "2024-01-22",
-      "unRespondedItems": [
-        {
-          "title": "Bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1962"
-        },
-        {
-          "title": "ziad",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1961"
-        },
-        {
-          "title": "issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1960"
-        },
-        {
-          "title": "Coloti nell'editor",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1964"
-        },
-        {
-          "title": "code is not running",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1963"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-01-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19305,13 +19312,17 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "97.87"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
         {
-          "title": "Simulate mobile CPU",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3027"
+          "title": "Update",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3029"
         }
       ],
-      "rate": "97.87"
+      "rate": "97.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19733,6 +19744,10 @@
     },
     {
       "date": "2024-01-22",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

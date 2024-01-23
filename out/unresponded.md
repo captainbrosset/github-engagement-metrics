@@ -1,6 +1,7 @@
-Response rate: 83.48%
+Response rate: 84.48%
 
-* **webhintio/hint** - _90.00%_
+* **webhintio/hint** - _88.00%_
+  * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
@@ -20,7 +21,6 @@ Response rate: 83.48%
 * **MicrosoftEdge/WebView2Feedback** - _70.00%_
   * [[Problem/Bug]: Problem with some unicode chars when runnin E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310)
   * [Navigating to a mht file when using virtual hostname mapping...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309)
-  * [[Bug]: WebView2 WebResourceRequested does not fired for WebS...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303)
   * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
   * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
@@ -28,17 +28,13 @@ Response rate: 83.48%
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
+  * [[Bug]: WebView2 WebResourceRequested does not fired for WebS...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303)
   * [[Problem/Bug]: Intermittently, WebView2 controls are not ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
   * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/1962)
-  * [ziad](https://github.com/microsoft/vscode-edge-devtools/issues/1961)
-  * [issue](https://github.com/microsoft/vscode-edge-devtools/issues/1960)
-  * [Coloti nell'editor](https://github.com/microsoft/vscode-edge-devtools/issues/1964)
-  * [code is not running](https://github.com/microsoft/vscode-edge-devtools/issues/1963)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -72,5 +68,5 @@ Response rate: 83.48%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Simulate mobile CPU](https://github.com/MicrosoftDocs/edge-developer/issues/3027)
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [Update](https://github.com/MicrosoftDocs/edge-developer/issues/3029)
