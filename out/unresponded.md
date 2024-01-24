@@ -1,4 +1,4 @@
-Response rate: 84.48%
+Response rate: 85.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
@@ -8,8 +8,7 @@ Response rate: 84.48%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
   * [Fix: utils-dom dependency](https://github.com/webhintio/hint/pull/5564)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Edge randomly stops registering clicks after using dev tools...](https://github.com/MicrosoftEdge/DevTools/issues/211)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
@@ -68,5 +67,4 @@ Response rate: 84.48%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [Update](https://github.com/MicrosoftDocs/edge-developer/issues/3029)
+* **MicrosoftDocs/edge-developer** - _100.00%_
