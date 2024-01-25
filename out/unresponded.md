@@ -1,4 +1,4 @@
-Response rate: 85.00%
+Response rate: 85.22%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
@@ -17,7 +17,7 @@ Response rate: 85.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _74.00%_
   * [[Problem/Bug]: Problem with some unicode chars when runnin E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310)
   * [Navigating to a mht file when using virtual hostname mapping...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309)
   * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
@@ -27,12 +27,10 @@ Response rate: 85.00%
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [Collecting ETW fails](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255)
   * [[Problem/Bug]UWP WebView2 Change Source Issue: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249)
-  * [[Bug]: WebView2 WebResourceRequested does not fired for WebS...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4303)
   * [[Problem/Bug]: Intermittently, WebView2 controls are not ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
-  * [[Problem/Bug]: The color and clarity (pixels) of image resou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4245)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -67,4 +65,5 @@ Response rate: 85.00%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [Redefinition Error in Sample Code](https://github.com/MicrosoftDocs/edge-developer/issues/3034)
