@@ -2746,6 +2746,10 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
@@ -5522,6 +5526,10 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8273,6 +8281,10 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11024,6 +11036,10 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13804,7 +13820,15 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
+        },
         {
           "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310"
@@ -13836,10 +13860,6 @@
         {
           "title": "Collecting ETW fails",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4255"
-        },
-        {
-          "title": "[Problem/Bug]UWP WebView2 Change Source Issue: ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4249"
         },
         {
           "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
@@ -16608,8 +16628,17 @@
     },
     {
       "date": "2024-01-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-01-26",
+      "unRespondedItems": [
+        {
+          "title": "nn",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1967"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19359,13 +19388,12 @@
     },
     {
       "date": "2024-01-25",
-      "unRespondedItems": [
-        {
-          "title": "Redefinition Error in Sample Code",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3034"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2024-01-26",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19799,6 +19827,10 @@
     },
     {
       "date": "2024-01-25",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
