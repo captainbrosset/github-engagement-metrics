@@ -1,4 +1,4 @@
-Response rate: 85.25%
+Response rate: 84.75%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
@@ -17,7 +17,9 @@ Response rate: 85.25%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _74.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
+  * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
   * [[Problem/Bug]: Problem with some unicode chars when runnin E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310)
   * [Navigating to a mht file when using virtual hostname mapping...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309)
@@ -32,7 +34,7 @@ Response rate: 85.25%
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
   * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [nn](https://github.com/microsoft/vscode-edge-devtools/issues/1967)
+  * [power function bug in vs code(c++)](https://github.com/microsoft/vscode-edge-devtools/issues/1969)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

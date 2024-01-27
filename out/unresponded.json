@@ -2750,6 +2750,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
@@ -5530,6 +5534,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8285,6 +8293,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11040,6 +11052,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13824,7 +13840,19 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
+        },
+        {
+          "title": "[Problem/Bug]: Position of select inputs not updating",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
+        },
         {
           "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
@@ -13878,7 +13906,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16632,10 +16660,14 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [
         {
-          "title": "nn",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1967"
+          "title": "power function bug in vs code(c++)",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1969"
         }
       ],
       "rate": "98.00"
@@ -19392,6 +19424,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -19831,6 +19867,10 @@
     },
     {
       "date": "2024-01-26",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
