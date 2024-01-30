@@ -2762,7 +2762,19 @@
     },
     {
       "date": "2024-01-29",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-01-30",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Describe your bug here",
+          "url": "https://github.com/webhintio/hint/issues/5732"
+        },
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5731"
+        },
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
           "url": "https://github.com/webhintio/hint/issues/5730"
@@ -2784,7 +2796,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5550,6 +5562,10 @@
     },
     {
       "date": "2024-01-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8317,25 +8333,12 @@
     },
     {
       "date": "2024-01-29",
-      "unRespondedItems": [
-        {
-          "title": "[BUG] Edge Edit image function bug report",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/216"
-        },
-        {
-          "title": "Unable to see the changing content in attributes of the element clearly",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/215"
-        },
-        {
-          "title": "After \"Select an element in the page to inspect it\", DevTools won't auto show in the front",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/214"
-        },
-        {
-          "title": "Quick View Panel with Console tab won't auto display unless toggle it twice",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/213"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2024-01-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11101,6 +11104,10 @@
     },
     {
       "date": "2024-01-29",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-30",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13897,22 +13904,18 @@
     },
     {
       "date": "2024-01-29",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-01-30",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Can't change Audio Volume in Xbox",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4330"
+        },
         {
           "title": "[Problem/Bug]: Custom schemes don't work with the js fetch() api",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4328"
-        },
-        {
-          "title": "[Feature]: Allow window-specific audio sharing in WebRTC streams",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327"
-        },
-        {
-          "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
-        },
-        {
-          "title": "[Problem/Bug]: Position of select inputs not updating",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         },
         {
           "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
@@ -13947,6 +13950,18 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
         },
         {
+          "title": "[Feature]:  Due to Licensing Issues related to several CODECS, I need to be able to choose which CODECS will be installed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329"
+        },
+        {
+          "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
+        },
+        {
+          "title": "[Problem/Bug]: Position of select inputs not updating",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
+        },
+        {
           "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302"
         },
@@ -13963,7 +13978,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16729,17 +16744,12 @@
     },
     {
       "date": "2024-01-29",
-      "unRespondedItems": [
-        {
-          "title": "HELLO",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1974"
-        },
-        {
-          "title": "RaiseFailFastException(void)",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1971"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-01-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19505,17 +19515,12 @@
     },
     {
       "date": "2024-01-29",
-      "unRespondedItems": [
-        {
-          "title": "feedback",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3039"
-        },
-        {
-          "title": "Slow",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3038"
-        }
-      ],
       "rate": "95.65"
+    },
+    {
+      "date": "2024-01-30",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -19965,6 +19970,10 @@
     },
     {
       "date": "2024-01-29",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
