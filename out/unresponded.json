@@ -2766,15 +2766,11 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [
-        {
-          "title": "[Bug] Describe your bug here",
-          "url": "https://github.com/webhintio/hint/issues/5732"
-        },
-        {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5731"
-        },
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
           "url": "https://github.com/webhintio/hint/issues/5730"
@@ -2796,7 +2792,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "86.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5566,6 +5562,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8337,6 +8337,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11108,6 +11112,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13908,14 +13916,22 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Can't change Audio Volume in Xbox",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4330"
+          "title": "CanGoBack/Forward return false until WebView is interacted with",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335"
         },
         {
-          "title": "[Problem/Bug]: Custom schemes don't work with the js fetch() api",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4328"
+          "title": "[Problem/Bug]: Shared worker is displayed under devices tab",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334"
+        },
+        {
+          "title": "[Problem/Bug]: problem with international keyboard layouts",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333"
         },
         {
           "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
@@ -13924,10 +13940,6 @@
         {
           "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310"
-        },
-        {
-          "title": "Navigating to a mht file when using virtual hostname mapping downloads the file instead of browsing to it",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309"
         },
         {
           "title": "[Problem/Bug]: ComException for GetContentAsync() in WebResourceResponseReceived for longer POST data",
@@ -13954,6 +13966,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329"
         },
         {
+          "title": "[Problem/Bug]: Custom schemes don't work with the js fetch() api",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4328"
+        },
+        {
+          "title": "[Feature]: Allow window-specific audio sharing in WebRTC streams",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327"
+        },
+        {
           "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
         },
@@ -13962,20 +13982,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         },
         {
-          "title": "[Problem/Bug]: Intermittently, WebView2 controls are not rendered, and the window behind the dialog with the control is visible through the window.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302"
-        },
-        {
           "title": "[Problem/Bug]: multiwebview crash / unresponsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290"
         },
         {
           "title": "[Problem/Bug]: WebView2 stops creating new browser windows",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
-        },
-        {
-          "title": "[Problem/Bug]: High resolution videos are not displayed",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280"
         }
       ],
       "rate": "66.00"
@@ -16748,6 +16760,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -19519,6 +19535,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -19974,6 +19994,10 @@
     },
     {
       "date": "2024-01-30",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-01-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

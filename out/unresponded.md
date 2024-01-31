@@ -1,8 +1,6 @@
-Response rate: 84.25%
+Response rate: 84.75%
 
-* **webhintio/hint** - _86.00%_
-  * [[Bug] Describe your bug here](https://github.com/webhintio/hint/issues/5732)
-  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5731)
+* **webhintio/hint** - _90.00%_
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
@@ -19,23 +17,23 @@ Response rate: 84.25%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
-  * [[Problem/Bug]: Can't change Audio Volume in Xbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4330)
-  * [[Problem/Bug]: Custom schemes don't work with the js fetch()...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4328)
+  * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
+  * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
+  * [[Problem/Bug]: problem with international keyboard layouts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
   * [[Problem/Bug]: Problem with some unicode chars when runnin E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310)
-  * [Navigating to a mht file when using virtual hostname mapping...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4309)
   * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
   * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
   * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
   * [[Feature]:  Due to Licensing Issues related to several CODEC...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329)
+  * [[Problem/Bug]: Custom schemes don't work with the js fetch()...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4328)
+  * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-  * [[Problem/Bug]: Intermittently, WebView2 controls are not ren...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4302)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
-  * [[Problem/Bug]: High resolution videos are not displayed](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4280)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
