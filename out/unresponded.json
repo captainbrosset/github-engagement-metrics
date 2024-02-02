@@ -2774,6 +2774,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
@@ -5574,6 +5578,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8353,6 +8361,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11132,6 +11144,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13940,7 +13956,15 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Support toggling and closing devtools",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341"
+        },
         {
           "title": "[Feature]: Input HTML elements such as date picker should be localizable rather than rely on OS region",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
@@ -13982,6 +14006,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
         },
         {
+          "title": "[Problem/Bug]: Can't use some keys with touch keyboard with french layout in UWP app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338"
+        },
+        {
+          "title": "[Problem/Bug]: problem with international keyboard layouts",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333"
+        },
+        {
           "title": "[Feature]:  Due to Licensing Issues related to several CODECS, I need to be able to choose which CODECS will be installed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329"
         },
@@ -14006,7 +14038,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
         }
       ],
-      "rate": "68.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16784,13 +16816,33 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [
+        {
+          "title": "latest version of hint package",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1987"
+        },
+        {
+          "title": "right mouse button event can't be used in \"Microsoft Edge Tools for VS Code  v2.1.4\"'s internal browser window",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1986"
+        },
+        {
+          "title": "error",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1985"
+        },
         {
           "title": "\"Microsoft Edge could not be found.\"",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1984"
+        },
+        {
+          "title": "hint package",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1988"
         }
       ],
-      "rate": "98.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19568,6 +19620,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20031,6 +20087,10 @@
     },
     {
       "date": "2024-02-01",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
