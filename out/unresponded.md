@@ -1,6 +1,7 @@
-Response rate: 83.00%
+Response rate: 83.25%
 
-* **webhintio/hint** - _90.00%_
+* **webhintio/hint** - _88.00%_
+  * [[Bug] Webhint VSCode extension does not seem to work when us...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] `Bundler` is not a valid `moduleResolution` option in ...](https://github.com/webhintio/hint/issues/5719)
@@ -16,19 +17,22 @@ Response rate: 83.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
-  * [[Problem/Bug]: Problem with some unicode chars when runnin E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310)
   * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
   * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
   * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
   * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
+  * [[Feature]: Add an IsDestroyed method on WebView2 that tells ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4342)
+  * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Problem/Bug]: Can't use some keys with touch keyboard with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338)
+  * [[Problem/Bug]: ProcessFailed event occurs on .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4337)
+  * [[Feature]: Disable third part cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336)
   * [[Problem/Bug]: problem with international keyboard layouts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333)
   * [[Feature]:  Due to Licensing Issues related to several CODEC...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329)
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
@@ -36,12 +40,7 @@ Response rate: 83.00%
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [latest version of hint package](https://github.com/microsoft/vscode-edge-devtools/issues/1987)
-  * [right mouse button event can't be used in "Microsoft Edge To...](https://github.com/microsoft/vscode-edge-devtools/issues/1986)
-  * [error](https://github.com/microsoft/vscode-edge-devtools/issues/1985)
-  * ["Microsoft Edge could not be found."](https://github.com/microsoft/vscode-edge-devtools/issues/1984)
-  * [hint package](https://github.com/microsoft/vscode-edge-devtools/issues/1988)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

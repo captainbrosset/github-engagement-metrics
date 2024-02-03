@@ -2778,7 +2778,15 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Webhint VSCode extension does not seem to work when using in a Nuxt project.",
+          "url": "https://github.com/webhintio/hint/issues/5735"
+        },
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
           "url": "https://github.com/webhintio/hint/issues/5730"
@@ -2800,7 +2808,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5582,6 +5590,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8365,6 +8377,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11148,6 +11164,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13960,6 +13980,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [
         {
           "title": "[Feature]: Support toggling and closing devtools",
@@ -13982,10 +14006,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
         },
         {
-          "title": "[Problem/Bug]: Problem with some unicode chars when runnin ExecuteJavaScript [Win32]",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4310"
-        },
-        {
           "title": "[Problem/Bug]: ComException for GetContentAsync() in WebResourceResponseReceived for longer POST data",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298"
         },
@@ -14006,8 +14026,24 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273"
         },
         {
+          "title": "[Feature]: Add an IsDestroyed method on WebView2 that tells us if the process behind the control is still around",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4342"
+        },
+        {
+          "title": "[Feature]: API to Disable Cookies in Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340"
+        },
+        {
           "title": "[Problem/Bug]: Can't use some keys with touch keyboard with french layout in UWP app",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338"
+        },
+        {
+          "title": "[Problem/Bug]: ProcessFailed event occurs on .NET Framework 4.8 Microsoft.WEb.WebVeiw2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4337"
+        },
+        {
+          "title": "[Feature]: Disable third part cookies in Webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
         },
         {
           "title": "[Problem/Bug]: problem with international keyboard layouts",
@@ -14038,7 +14074,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
         }
       ],
-      "rate": "62.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16820,29 +16856,12 @@
     },
     {
       "date": "2024-02-02",
-      "unRespondedItems": [
-        {
-          "title": "latest version of hint package",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1987"
-        },
-        {
-          "title": "right mouse button event can't be used in \"Microsoft Edge Tools for VS Code  v2.1.4\"'s internal browser window",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1986"
-        },
-        {
-          "title": "error",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1985"
-        },
-        {
-          "title": "\"Microsoft Edge could not be found.\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1984"
-        },
-        {
-          "title": "hint package",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1988"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-02-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19624,6 +19643,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20091,6 +20114,10 @@
     },
     {
       "date": "2024-02-02",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
