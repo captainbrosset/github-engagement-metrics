@@ -1,4 +1,4 @@
-Response rate: 83.25%
+Response rate: 82.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint VSCode extension does not seem to work when us...](https://github.com/webhintio/hint/issues/5735)
@@ -8,7 +8,8 @@ Response rate: 83.25%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Pinch to Zoom and Scrolling on Ubuntu](https://github.com/MicrosoftEdge/DevTools/issues/221)
 * **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
@@ -40,7 +41,9 @@ Response rate: 83.25%
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1995)
+  * [Need help trying to get z shell on window laptop](https://github.com/microsoft/vscode-edge-devtools/issues/1994)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

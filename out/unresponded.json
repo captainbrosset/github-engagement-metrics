@@ -2782,6 +2782,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension does not seem to work when using in a Nuxt project.",
@@ -5594,6 +5598,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8381,8 +8389,17 @@
     },
     {
       "date": "2024-02-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-04",
+      "unRespondedItems": [
+        {
+          "title": "Pinch to Zoom and Scrolling on Ubuntu",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/221"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11168,6 +11185,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [
         {
           "title": "XML file downloads are blocked",
@@ -13984,6 +14005,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [
         {
           "title": "[Feature]: Support toggling and closing devtools",
@@ -16860,8 +16885,21 @@
     },
     {
       "date": "2024-02-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-04",
+      "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1995"
+        },
+        {
+          "title": "Need help trying to get z shell on window laptop",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/1994"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19647,6 +19685,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20118,6 +20160,10 @@
     },
     {
       "date": "2024-02-03",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
