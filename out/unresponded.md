@@ -1,4 +1,4 @@
-Response rate: 81.75%
+Response rate: 83.50%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint VSCode extension does not seem to work when us...](https://github.com/webhintio/hint/issues/5735)
@@ -8,8 +8,7 @@ Response rate: 81.75%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Pinch to Zoom and Scrolling on Ubuntu](https://github.com/MicrosoftEdge/DevTools/issues/221)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
@@ -18,7 +17,7 @@ Response rate: 81.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
@@ -28,9 +27,6 @@ Response rate: 81.75%
   * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [Inconsistent behaviour while using Keyboard wedge type Scann...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287)
   * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
-  * [[Feature]: DevToolsProtocolExtension for WinUI 3 with built-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4273)
-  * [[Problem/Bug]: App crashes when you try to create WebView2 a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4343)
-  * [[Feature]: Add an IsDestroyed method on WebView2 that tells ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4342)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Problem/Bug]: Can't use some keys with touch keyboard with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338)
   * [[Problem/Bug]: ProcessFailed event occurs on .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4337)
@@ -42,11 +38,8 @@ Response rate: 81.75%
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [aga](https://github.com/microsoft/vscode-edge-devtools/issues/1997)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/1995)
-  * [Need help trying to get z shell on window laptop](https://github.com/microsoft/vscode-edge-devtools/issues/1994)
-  * [css cursor property is not being respected its always defaul...](https://github.com/microsoft/vscode-edge-devtools/issues/1996)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Zoom in Zoom out features are needed ](https://github.com/microsoft/vscode-edge-devtools/issues/1998)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
