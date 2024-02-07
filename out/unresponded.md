@@ -18,6 +18,7 @@ Response rate: 83.50%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
@@ -29,7 +30,6 @@ Response rate: 83.50%
   * [WPF WebView2 HEVC Video  Blank Screen on Windows Professiona...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Problem/Bug]: Can't use some keys with touch keyboard with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338)
-  * [[Problem/Bug]: ProcessFailed event occurs on .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4337)
   * [[Feature]: Disable third part cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336)
   * [[Problem/Bug]: problem with international keyboard layouts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333)
   * [[Feature]:  Due to Licensing Issues related to several CODEC...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329)
@@ -39,7 +39,7 @@ Response rate: 83.50%
   * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
   * [[Problem/Bug]: WebView2 stops creating new browser windows](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Zoom in Zoom out features are needed ](https://github.com/microsoft/vscode-edge-devtools/issues/1998)
+  * [food ](https://github.com/microsoft/vscode-edge-devtools/issues/2002)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
