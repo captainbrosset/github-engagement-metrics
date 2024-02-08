@@ -2798,6 +2798,10 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension does not seem to work when using in a Nuxt project.",
@@ -5626,6 +5630,10 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8429,6 +8437,10 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11232,7 +11244,15 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [
+        {
+          "title": "Edge browser getting closed since the driver update to 120 version",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135"
+        },
         {
           "title": "XML file downloads are blocked",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
@@ -11262,7 +11282,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14064,10 +14084,14 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [
         {
-          "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
+          "title": "[Problem/Bug]: Printing does not work under certain conditions.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4354"
         },
         {
           "title": "[Feature]: Support toggling and closing devtools",
@@ -14102,8 +14126,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287"
         },
         {
-          "title": "WPF WebView2 HEVC Video  Blank Screen on Windows Professional and Workstation, but Normal on Home Edition (Runtime Version 120.0.2210.121)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4285"
+          "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         },
         {
           "title": "[Feature]: API to Disable Cookies in Webview2",
@@ -16948,13 +16972,12 @@
     },
     {
       "date": "2024-02-07",
-      "unRespondedItems": [
-        {
-          "title": "food ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2002"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-02-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19756,8 +19779,17 @@
     },
     {
       "date": "2024-02-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-08",
+      "unRespondedItems": [
+        {
+          "title": "Microsoft DevTools",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3048"
+        }
+      ],
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20243,6 +20275,10 @@
     },
     {
       "date": "2024-02-07",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
