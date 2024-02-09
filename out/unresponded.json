@@ -2802,6 +2802,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension does not seem to work when using in a Nuxt project.",
@@ -5634,6 +5638,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8441,6 +8449,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11248,6 +11260,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14088,6 +14104,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Printing does not work under certain conditions.",
@@ -14120,10 +14140,6 @@
         {
           "title": "[Problem/Bug]: OutOfMemory exception when writing response in WebResourceRequest (only x86)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294"
-        },
-        {
-          "title": "Inconsistent behaviour while using Keyboard wedge type Scanners with UWP+webview2 app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4287"
         },
         {
           "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
@@ -14164,13 +14180,9 @@
         {
           "title": "[Problem/Bug]: multiwebview crash / unresponsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 stops creating new browser windows",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4288"
         }
       ],
-      "rate": "60.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -16976,8 +16988,17 @@
     },
     {
       "date": "2024-02-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-09",
+      "unRespondedItems": [
+        {
+          "title": "Analyse",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2005"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19783,13 +19804,12 @@
     },
     {
       "date": "2024-02-08",
-      "unRespondedItems": [
-        {
-          "title": "Microsoft DevTools",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3048"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2024-02-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20279,6 +20299,10 @@
     },
     {
       "date": "2024-02-08",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
