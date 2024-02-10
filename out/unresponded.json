@@ -2806,6 +2806,10 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint VSCode extension does not seem to work when using in a Nuxt project.",
@@ -5642,6 +5646,10 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8453,6 +8461,10 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11264,6 +11276,10 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14108,7 +14124,23 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4368"
+        },
+        {
+          "title": "[Problem/Bug]: ShowPrintUI(CoreWebView2PrintDialogKind.System) doesn't print header footer info",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4367"
+        },
+        {
+          "title": "[Problem/Bug]: WebResourceRequested not called from CSS with custom URI scheme",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4362"
+        },
         {
           "title": "[Problem/Bug]: Printing does not work under certain conditions.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4354"
@@ -14132,14 +14164,6 @@
         {
           "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
-        },
-        {
-          "title": "[Problem/Bug]: ComException for GetContentAsync() in WebResourceResponseReceived for longer POST data",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298"
-        },
-        {
-          "title": "[Problem/Bug]: OutOfMemory exception when writing response in WebResourceRequest (only x86)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294"
         },
         {
           "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
@@ -14176,10 +14200,6 @@
         {
           "title": "[Problem/Bug]: Position of select inputs not updating",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
-        },
-        {
-          "title": "[Problem/Bug]: multiwebview crash / unresponsive",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290"
         }
       ],
       "rate": "64.00"
@@ -16992,10 +17012,14 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [
         {
-          "title": "Analyse",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2005"
+          "title": "Can you give us the ability to open tabs on a separte monitor?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2007"
         }
       ],
       "rate": "98.00"
@@ -19808,8 +19832,21 @@
     },
     {
       "date": "2024-02-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-10",
+      "unRespondedItems": [
+        {
+          "title": "Page does work",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3054"
+        },
+        {
+          "title": "Search UX improvements",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
+        }
+      ],
+      "rate": "95.65"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20303,6 +20340,10 @@
     },
     {
       "date": "2024-02-09",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

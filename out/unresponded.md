@@ -1,4 +1,4 @@
-Response rate: 83.75%
+Response rate: 83.21%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint VSCode extension does not seem to work when us...](https://github.com/webhintio/hint/issues/5735)
@@ -19,14 +19,15 @@ Response rate: 83.75%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _64.00%_
+  * [[Feature]: Add printer tray support to CoreWebView2PrintSett...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4368)
+  * [[Problem/Bug]: ShowPrintUI(CoreWebView2PrintDialogKind.Syste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4367)
+  * [[Problem/Bug]: WebResourceRequested not called from CSS with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4362)
   * [[Problem/Bug]: Printing does not work under certain conditio...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4354)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
-  * [[Problem/Bug]: ComException for GetContentAsync() in WebReso...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4298)
-  * [[Problem/Bug]: OutOfMemory exception when writing response i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4294)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Problem/Bug]: Can't use some keys with touch keyboard with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338)
@@ -36,9 +37,8 @@ Response rate: 83.75%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-  * [[Problem/Bug]: multiwebview crash / unresponsive](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4290)
 * **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Analyse](https://github.com/microsoft/vscode-edge-devtools/issues/2005)
+  * [Can you give us the ability to open tabs on a separte monito...](https://github.com/microsoft/vscode-edge-devtools/issues/2007)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -72,4 +72,6 @@ Response rate: 83.75%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [Page does work](https://github.com/MicrosoftDocs/edge-developer/issues/3054)
+  * [Search UX improvements](https://github.com/MicrosoftDocs/edge-developer/issues/3051)
