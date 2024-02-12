@@ -2814,6 +2814,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5658,6 +5662,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8477,6 +8485,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11296,6 +11308,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14152,6 +14168,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
@@ -14190,6 +14210,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
         },
         {
+          "title": "[Problem/Bug]: WebView2 Runtime not updating",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4365"
+        },
+        {
           "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         },
@@ -14226,7 +14250,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17044,8 +17068,29 @@
     },
     {
       "date": "2024-02-11",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-12",
+      "unRespondedItems": [
+        {
+          "title": "Index",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2011"
+        },
+        {
+          "title": "CSS mirroring  support PostCSS, postcss-pxtorem, postcss-px-to-viewport",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2010"
+        },
+        {
+          "title": "html not suported",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2009"
+        },
+        {
+          "title": "love letter",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2008"
+        }
+      ],
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19863,6 +19908,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "93.48"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [
         {
           "title": "This isn't correct anymore",
@@ -20379,6 +20428,10 @@
     },
     {
       "date": "2024-02-11",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

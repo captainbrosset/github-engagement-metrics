@@ -1,4 +1,4 @@
-Response rate: 82.94%
+Response rate: 81.69%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -19,7 +19,7 @@ Response rate: 82.94%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [[Feature]: Add printer tray support to CoreWebView2PrintSett...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4368)
   * [[Problem/Bug]: ShowPrintUI(CoreWebView2PrintDialogKind.Syste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4367)
   * [[Problem/Bug]: WebResourceRequested not called from CSS with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4362)
@@ -29,6 +29,7 @@ Response rate: 82.94%
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
+  * [[Problem/Bug]: WebView2 Runtime not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4365)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Problem/Bug]: Can't use some keys with touch keyboard with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338)
@@ -38,7 +39,11 @@ Response rate: 82.94%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [Index](https://github.com/microsoft/vscode-edge-devtools/issues/2011)
+  * [CSS mirroring  support PostCSS, postcss-pxtorem, postcss-px-...](https://github.com/microsoft/vscode-edge-devtools/issues/2010)
+  * [html not suported](https://github.com/microsoft/vscode-edge-devtools/issues/2009)
+  * [love letter](https://github.com/microsoft/vscode-edge-devtools/issues/2008)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
