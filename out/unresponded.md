@@ -1,4 +1,4 @@
-Response rate: 81.69%
+Response rate: 82.98%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -9,11 +9,10 @@ Response rate: 81.69%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Edge Beta (Version 122) with Selenium sometimes hangs](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/136)
-  * [Not able to communicate with EdgeDriver on a protected serve...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
@@ -39,11 +38,9 @@ Response rate: 81.69%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [Index](https://github.com/microsoft/vscode-edge-devtools/issues/2011)
-  * [CSS mirroring  support PostCSS, postcss-pxtorem, postcss-px-...](https://github.com/microsoft/vscode-edge-devtools/issues/2010)
-  * [html not suported](https://github.com/microsoft/vscode-edge-devtools/issues/2009)
-  * [love letter](https://github.com/microsoft/vscode-edge-devtools/issues/2008)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [xdx](https://github.com/microsoft/vscode-edge-devtools/issues/2015)
+  * [CSS mirroring support PostCSS, postcss-pxtorem](https://github.com/microsoft/vscode-edge-devtools/pull/2016)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -77,7 +74,5 @@ Response rate: 81.69%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _93.48%_
-  * [This isn't correct anymore](https://github.com/MicrosoftDocs/edge-developer/issues/3055)
-  * [Page does work](https://github.com/MicrosoftDocs/edge-developer/issues/3054)
+* **MicrosoftDocs/edge-developer** - _97.87%_
   * [Search UX improvements](https://github.com/MicrosoftDocs/edge-developer/issues/3051)

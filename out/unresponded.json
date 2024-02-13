@@ -2818,6 +2818,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5666,6 +5670,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8489,6 +8497,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11312,6 +11324,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -11324,10 +11340,6 @@
         {
           "title": "Edge Beta (Version 122) with Selenium sometimes hangs",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/136"
-        },
-        {
-          "title": "Not able to communicate with EdgeDriver on a protected server, it starts, but tests say it did not start",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/128"
         },
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -11350,7 +11362,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "82.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14172,6 +14184,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
@@ -17072,25 +17088,21 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
         {
-          "title": "Index",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2011"
+          "title": "xdx",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2015"
         },
         {
-          "title": "CSS mirroring  support PostCSS, postcss-pxtorem, postcss-px-to-viewport",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2010"
-        },
-        {
-          "title": "html not suported",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2009"
-        },
-        {
-          "title": "love letter",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2008"
+          "title": "CSS mirroring support PostCSS, postcss-pxtorem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
-      "rate": "92.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19912,21 +19924,17 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "93.48"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
-        {
-          "title": "This isn't correct anymore",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3055"
-        },
-        {
-          "title": "Page does work",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3054"
-        },
         {
           "title": "Search UX improvements",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
         }
       ],
-      "rate": "93.48"
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20432,6 +20440,10 @@
     },
     {
       "date": "2024-02-12",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
