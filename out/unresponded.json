@@ -2822,6 +2822,10 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5674,6 +5678,10 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8501,6 +8509,10 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11328,6 +11340,10 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14188,22 +14204,14 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4368"
-        },
-        {
-          "title": "[Problem/Bug]: ShowPrintUI(CoreWebView2PrintDialogKind.System) doesn't print header footer info",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4367"
-        },
-        {
-          "title": "[Problem/Bug]: WebResourceRequested not called from CSS with custom URI scheme",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4362"
-        },
-        {
-          "title": "[Problem/Bug]: Printing does not work under certain conditions.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4354"
         },
         {
           "title": "[Feature]: Support toggling and closing devtools",
@@ -14226,8 +14234,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
         },
         {
-          "title": "[Problem/Bug]: WebView2 Runtime not updating",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4365"
+          "title": "[Problem/Bug] WebView2 causes Unity application to crash after updating HoloLens OS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4364"
+        },
+        {
+          "title": "[Problem/Bug]: Crash on hibernate",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
         },
         {
           "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
@@ -14266,7 +14278,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "62.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17092,17 +17104,12 @@
     },
     {
       "date": "2024-02-13",
-      "unRespondedItems": [
-        {
-          "title": "xdx",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2015"
-        },
-        {
-          "title": "CSS mirroring support PostCSS, postcss-pxtorem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-02-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19928,13 +19935,12 @@
     },
     {
       "date": "2024-02-13",
-      "unRespondedItems": [
-        {
-          "title": "Search UX improvements",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2024-02-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20444,6 +20450,10 @@
     },
     {
       "date": "2024-02-13",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
