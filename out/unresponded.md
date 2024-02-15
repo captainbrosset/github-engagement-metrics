@@ -1,4 +1,4 @@
-Response rate: 84.25%
+Response rate: 84.00%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -9,10 +9,9 @@ Response rate: 84.25%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
-  * [Edge Beta (Version 122) with Selenium sometimes hangs](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/136)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
@@ -25,7 +24,7 @@ Response rate: 84.25%
   * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
   * [[Feature]: Linking WebView2Loader.dll as embedded resource d...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321)
-  * [[Problem/Bug] WebView2 causes Unity application to crash aft...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4364)
+  * [[Problem/Bug]: My Construct 3 game does not work on Xbox.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
@@ -36,7 +35,9 @@ Response rate: 84.25%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [dayloc](https://github.com/microsoft/vscode-edge-devtools/issues/2019)
+  * [Import a Component in react Does not Works Properly Path Doe...](https://github.com/microsoft/vscode-edge-devtools/issues/2018)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

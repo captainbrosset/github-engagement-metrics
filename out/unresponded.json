@@ -2826,6 +2826,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5682,6 +5686,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8513,6 +8521,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11344,6 +11356,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -11352,10 +11368,6 @@
         {
           "title": "XML file downloads are blocked",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
-        },
-        {
-          "title": "Edge Beta (Version 122) with Selenium sometimes hangs",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/136"
         },
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -11378,7 +11390,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14208,6 +14220,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
@@ -14234,8 +14250,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
         },
         {
-          "title": "[Problem/Bug] WebView2 causes Unity application to crash after updating HoloLens OS",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4364"
+          "title": "[Problem/Bug]: My Construct 3 game does not work on Xbox.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370"
         },
         {
           "title": "[Problem/Bug]: Crash on hibernate",
@@ -17108,8 +17124,21 @@
     },
     {
       "date": "2024-02-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-15",
+      "unRespondedItems": [
+        {
+          "title": "dayloc",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2019"
+        },
+        {
+          "title": "Import a Component in react Does not Works Properly Path Does not Import ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2018"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -19939,6 +19968,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20454,6 +20487,10 @@
     },
     {
       "date": "2024-02-14",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
