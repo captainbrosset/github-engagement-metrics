@@ -2830,6 +2830,10 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5690,6 +5694,10 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8525,6 +8533,10 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11360,6 +11372,10 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14224,11 +14240,11 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [
-        {
-          "title": "[Feature]: Add printer tray support to CoreWebView2PrintSettings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4368"
-        },
         {
           "title": "[Feature]: Support toggling and closing devtools",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341"
@@ -14250,8 +14266,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
         },
         {
+          "title": "[Feature]: Control script injection for individual frames",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
+        },
+        {
+          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
+        },
+        {
           "title": "[Problem/Bug]: My Construct 3 game does not work on Xbox.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370"
+        },
+        {
+          "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
         },
         {
           "title": "[Problem/Bug]: Crash on hibernate",
@@ -14294,7 +14322,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17128,14 +17156,18 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [
         {
-          "title": "dayloc",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2019"
+          "title": "How to run php files on VS Code ?",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2023"
         },
         {
-          "title": "Import a Component in react Does not Works Properly Path Does not Import ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2018"
+          "title": "CSS mirroring support PostCSS, postcss-pxtorem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
       "rate": "96.00"
@@ -19972,8 +20004,21 @@
     },
     {
       "date": "2024-02-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-16",
+      "unRespondedItems": [
+        {
+          "title": "No Privacy or Developer contact info for Edge Addon?",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3061"
+        },
+        {
+          "title": "This isn't correct anymore",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3055"
+        }
+      ],
+      "rate": "95.65"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20491,6 +20536,10 @@
     },
     {
       "date": "2024-02-15",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
