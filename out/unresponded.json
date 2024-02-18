@@ -2838,6 +2838,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5706,6 +5710,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8549,6 +8557,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
         {
           "title": "Network Console - Post Body stuck on loading",
@@ -11397,6 +11409,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14269,7 +14285,15 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Ignore csp rules for specific domains",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
+        },
         {
           "title": "[Feature]: Support toggling and closing devtools",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341"
@@ -14343,7 +14367,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17185,13 +17209,37 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
+        {
+          "title": "A request has failed connection to server is erroring",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2028"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2027"
+        },
+        {
+          "title": "abu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2025"
+        },
+        {
+          "title": "Bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2024"
+        },
+        {
+          "title": "Remember Last Selected Device Emulator Across Sessions",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2026"
+        },
         {
           "title": "CSS mirroring support PostCSS, postcss-pxtorem",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
-      "rate": "98.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20033,6 +20081,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "97.83"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
         {
           "title": "This isn't correct anymore",
@@ -20565,6 +20617,10 @@
     },
     {
       "date": "2024-02-17",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
