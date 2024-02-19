@@ -1,4 +1,4 @@
-Response rate: 81.98%
+Response rate: 81.21%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -18,7 +18,7 @@ Response rate: 81.98%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
@@ -28,6 +28,7 @@ Response rate: 81.98%
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
   * [[Problem/Bug]: Spellchecker no longer functions after applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372)
   * [[Problem/Bug]: My Construct 3 game does not work on Xbox.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370)
+  * [Xbox Controller is not working in Webview2 in UWP [WinUI2]](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
@@ -38,7 +39,8 @@ Response rate: 81.98%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [v弄好给你几个](https://github.com/microsoft/vscode-edge-devtools/issues/2029)
   * [A request has failed connection to server is erroring](https://github.com/microsoft/vscode-edge-devtools/issues/2028)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2027)
   * [abu](https://github.com/microsoft/vscode-edge-devtools/issues/2025)
@@ -78,5 +80,6 @@ Response rate: 81.98%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.83%_
+* **MicrosoftDocs/edge-developer** - _95.65%_
+  * [The email address is not working and returning errors when y...](https://github.com/MicrosoftDocs/edge-developer/issues/3064)
   * [This isn't correct anymore](https://github.com/MicrosoftDocs/edge-developer/issues/3055)

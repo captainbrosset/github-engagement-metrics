@@ -2842,6 +2842,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5714,6 +5718,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8561,6 +8569,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
         {
           "title": "Network Console - Post Body stuck on loading",
@@ -11413,6 +11425,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
@@ -14289,6 +14305,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Ignore csp rules for specific domains",
@@ -14325,6 +14345,10 @@
         {
           "title": "[Problem/Bug]: My Construct 3 game does not work on Xbox.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370"
+        },
+        {
+          "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
         },
         {
           "title": "[Problem/Bug]: Crash on hibernate",
@@ -14367,7 +14391,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17213,7 +17237,15 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
+        {
+          "title": "v弄好给你几个",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2029"
+        },
         {
           "title": "A request has failed connection to server is erroring",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2028"
@@ -17239,7 +17271,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20085,13 +20117,21 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "97.83"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
+        {
+          "title": "The email address is not working and returning errors when you send an email ext_dev_support@microsoft.com",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3064"
+        },
         {
           "title": "This isn't correct anymore",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3055"
         }
       ],
-      "rate": "97.83"
+      "rate": "95.65"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20621,6 +20661,10 @@
     },
     {
       "date": "2024-02-18",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
