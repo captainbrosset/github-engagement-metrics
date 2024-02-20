@@ -1,4 +1,4 @@
-Response rate: 81.21%
+Response rate: 80.19%
 
 * **webhintio/hint** - _88.00%_
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -10,7 +10,8 @@ Response rate: 81.21%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Network Console - Post Body stuck on loading](https://github.com/MicrosoftEdge/DevTools/issues/228)
-* **MicrosoftEdge/EdgeWebDriver** - _86.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+  * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
@@ -39,7 +40,9 @@ Response rate: 81.21%
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
   * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _82.00%_
+  * [showing so much error ](https://github.com/microsoft/vscode-edge-devtools/issues/2031)
+  * [Drag & Drop visual feedback not visible](https://github.com/microsoft/vscode-edge-devtools/issues/2030)
   * [v弄好给你几个](https://github.com/microsoft/vscode-edge-devtools/issues/2029)
   * [A request has failed connection to server is erroring](https://github.com/microsoft/vscode-edge-devtools/issues/2028)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2027)
@@ -80,6 +83,7 @@ Response rate: 81.21%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _93.48%_
+  * [ASSSA](https://github.com/MicrosoftDocs/edge-developer/issues/3066)
   * [The email address is not working and returning errors when y...](https://github.com/MicrosoftDocs/edge-developer/issues/3064)
   * [This isn't correct anymore](https://github.com/MicrosoftDocs/edge-developer/issues/3055)

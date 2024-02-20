@@ -2846,6 +2846,10 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
@@ -5722,6 +5726,10 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8573,6 +8581,10 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
         {
           "title": "Network Console - Post Body stuck on loading",
@@ -11429,7 +11441,15 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
+        {
+          "title": "split screen control",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137"
+        },
         {
           "title": "Edge browser getting closed since the driver update to 120 version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135"
@@ -11459,7 +11479,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14309,6 +14329,10 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Ignore csp rules for specific domains",
@@ -17241,7 +17265,19 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
+        {
+          "title": "showing so much error ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2031"
+        },
+        {
+          "title": "Drag & Drop visual feedback not visible",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2030"
+        },
         {
           "title": "v弄好给你几个",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2029"
@@ -17271,7 +17307,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
-      "rate": "86.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20121,7 +20157,15 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "95.65"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
+        {
+          "title": "ASSSA",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3066"
+        },
         {
           "title": "The email address is not working and returning errors when you send an email ext_dev_support@microsoft.com",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3064"
@@ -20131,7 +20175,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3055"
         }
       ],
-      "rate": "95.65"
+      "rate": "93.48"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20665,6 +20709,10 @@
     },
     {
       "date": "2024-02-19",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
