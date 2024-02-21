@@ -2850,7 +2850,15 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Throws exception when used in development mode in a git worktree",
+          "url": "https://github.com/webhintio/hint/issues/5738"
+        },
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
           "url": "https://github.com/webhintio/hint/issues/5735"
@@ -2876,7 +2884,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5730,6 +5738,10 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8585,13 +8597,12 @@
     },
     {
       "date": "2024-02-20",
-      "unRespondedItems": [
-        {
-          "title": "Network Console - Post Body stuck on loading",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/228"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-02-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11445,6 +11456,10 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14333,7 +14348,19 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [
+        {
+          "title": "Crash occurs when viewing a PDF file",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381"
+        },
+        {
+          "title": "[Problem/Bug]: WebView causes HoloLens2 App to crash after updating Unity project to MRTK3 ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380"
+        },
         {
           "title": "[Problem/Bug]: Ignore csp rules for specific domains",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
@@ -14357,6 +14384,10 @@
         {
           "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
+        },
+        {
+          "title": "[Problem/Bug]: empty Crashpad reports directory when crashing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382"
         },
         {
           "title": "[Feature]: Control script injection for individual frames",
@@ -14387,10 +14418,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340"
         },
         {
-          "title": "[Problem/Bug]: Can't use some keys with touch keyboard with french layout in UWP app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4338"
-        },
-        {
           "title": "[Feature]: Disable third part cookies in Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
         },
@@ -14415,7 +14442,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17269,45 +17296,21 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [
         {
-          "title": "showing so much error ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2031"
-        },
-        {
-          "title": "Drag & Drop visual feedback not visible",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2030"
-        },
-        {
-          "title": "v弄好给你几个",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2029"
-        },
-        {
-          "title": "A request has failed connection to server is erroring",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2028"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2027"
-        },
-        {
-          "title": "abu",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2025"
-        },
-        {
-          "title": "Bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2024"
-        },
-        {
-          "title": "Remember Last Selected Device Emulator Across Sessions",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2026"
+          "title": "aefgadfgadfg",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2032"
         },
         {
           "title": "CSS mirroring support PostCSS, postcss-pxtorem",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
         }
       ],
-      "rate": "82.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20161,21 +20164,12 @@
     },
     {
       "date": "2024-02-20",
-      "unRespondedItems": [
-        {
-          "title": "ASSSA",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3066"
-        },
-        {
-          "title": "The email address is not working and returning errors when you send an email ext_dev_support@microsoft.com",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3064"
-        },
-        {
-          "title": "This isn't correct anymore",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3055"
-        }
-      ],
       "rate": "93.48"
+    },
+    {
+      "date": "2024-02-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20713,6 +20707,10 @@
     },
     {
       "date": "2024-02-20",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
