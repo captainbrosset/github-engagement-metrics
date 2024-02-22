@@ -2854,6 +2854,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5742,6 +5746,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8601,6 +8609,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11460,6 +11472,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14352,7 +14368,15 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384"
+        },
         {
           "title": "Crash occurs when viewing a PDF file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381"
@@ -14382,8 +14406,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334"
         },
         {
-          "title": "[Feature]: Linking WebView2Loader.dll as embedded resource during build",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4321"
+          "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383"
         },
         {
           "title": "[Problem/Bug]: empty Crashpad reports directory when crashing",
@@ -14392,14 +14416,6 @@
         {
           "title": "[Feature]: Control script injection for individual frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
-        },
-        {
-          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
-        },
-        {
-          "title": "[Problem/Bug]: My Construct 3 game does not work on Xbox.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4370"
         },
         {
           "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
@@ -14442,7 +14458,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17300,17 +17316,12 @@
     },
     {
       "date": "2024-02-21",
-      "unRespondedItems": [
-        {
-          "title": "aefgadfgadfg",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2032"
-        },
-        {
-          "title": "CSS mirroring support PostCSS, postcss-pxtorem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2016"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-02-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20168,6 +20179,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20711,6 +20726,10 @@
     },
     {
       "date": "2024-02-21",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
