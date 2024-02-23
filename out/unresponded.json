@@ -2858,6 +2858,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5750,6 +5754,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8613,6 +8621,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11476,6 +11488,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14372,6 +14388,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
@@ -14452,13 +14472,9 @@
         {
           "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
-        },
-        {
-          "title": "[Problem/Bug]: Position of select inputs not updating",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17320,8 +17336,17 @@
     },
     {
       "date": "2024-02-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-23",
+      "unRespondedItems": [
+        {
+          "title": "mysql",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2034"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20183,6 +20208,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20730,6 +20759,10 @@
     },
     {
       "date": "2024-02-22",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

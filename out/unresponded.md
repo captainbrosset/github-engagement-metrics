@@ -19,7 +19,7 @@ Response rate: 83.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
   * [Crash occurs when viewing a PDF file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
@@ -40,8 +40,8 @@ Response rate: 83.00%
   * [[Feature]:  Due to Licensing Issues related to several CODEC...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329)
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
   * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
-  * [[Problem/Bug]: Position of select inputs not updating](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4324)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [mysql](https://github.com/microsoft/vscode-edge-devtools/issues/2034)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
