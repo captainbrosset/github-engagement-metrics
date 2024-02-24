@@ -2862,6 +2862,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5758,6 +5762,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8625,6 +8633,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11492,6 +11504,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14392,7 +14408,15 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [
+        {
+          "title": "put_DefaultBackgroundColor not working when WebView2 is in DarkMode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389"
+        },
         {
           "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384"
@@ -14416,10 +14440,6 @@
         {
           "title": "[Feature]: Input HTML elements such as date picker should be localizable rather than rely on OS region",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
-        },
-        {
-          "title": "CanGoBack/Forward return false until WebView is interacted with",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335"
         },
         {
           "title": "[Problem/Bug]: Shared worker is displayed under devices tab",
@@ -14468,13 +14488,9 @@
         {
           "title": "[Feature]: Allow window-specific audio sharing in WebRTC streams",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327"
-        },
-        {
-          "title": "[Problem/Bug]:  Webview2 Print dialog is not in the OS language, but always stuck in English.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17340,13 +17356,12 @@
     },
     {
       "date": "2024-02-23",
-      "unRespondedItems": [
-        {
-          "title": "mysql",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2034"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-02-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20212,6 +20227,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20763,6 +20782,10 @@
     },
     {
       "date": "2024-02-23",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

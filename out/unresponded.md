@@ -1,4 +1,4 @@
-Response rate: 83.00%
+Response rate: 83.50%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
@@ -19,14 +19,14 @@ Response rate: 83.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
   * [Crash occurs when viewing a PDF file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
-  * [CanGoBack/Forward return false until WebView is interacted w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4335)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
@@ -39,9 +39,7 @@ Response rate: 83.00%
   * [[Problem/Bug]: problem with international keyboard layouts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333)
   * [[Feature]:  Due to Licensing Issues related to several CODEC...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329)
   * [[Feature]: Allow window-specific audio sharing in WebRTC str...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327)
-  * [[Problem/Bug]:  Webview2 Print dialog is not in the OS langu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4326)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [mysql](https://github.com/microsoft/vscode-edge-devtools/issues/2034)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
