@@ -2866,6 +2866,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5766,6 +5770,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8637,6 +8645,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11508,6 +11520,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14412,6 +14428,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [
         {
           "title": "put_DefaultBackgroundColor not working when WebView2 is in DarkMode",
@@ -17360,6 +17380,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20231,6 +20255,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20786,6 +20814,10 @@
     },
     {
       "date": "2024-02-24",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
