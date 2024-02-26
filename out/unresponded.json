@@ -2870,6 +2870,10 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5774,6 +5778,10 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8649,6 +8657,10 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11524,6 +11536,10 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14432,7 +14448,15 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Error When Initilize WebView2 (0x8007139F)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4391"
+        },
         {
           "title": "put_DefaultBackgroundColor not working when WebView2 is in DarkMode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389"
@@ -14478,6 +14502,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
         },
         {
+          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
+        },
+        {
           "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
         },
@@ -14504,13 +14532,9 @@
         {
           "title": "[Feature]:  Due to Licensing Issues related to several CODECS, I need to be able to choose which CODECS will be installed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4329"
-        },
-        {
-          "title": "[Feature]: Allow window-specific audio sharing in WebRTC streams",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4327"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17384,8 +17408,17 @@
     },
     {
       "date": "2024-02-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-26",
+      "unRespondedItems": [
+        {
+          "title": "await",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2035"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20259,8 +20292,17 @@
     },
     {
       "date": "2024-02-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-26",
+      "unRespondedItems": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3078"
+        }
+      ],
+      "rate": "97.62"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -20818,6 +20860,10 @@
     },
     {
       "date": "2024-02-25",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
