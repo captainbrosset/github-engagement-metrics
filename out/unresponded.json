@@ -2878,6 +2878,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5790,6 +5794,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8673,6 +8681,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11556,6 +11568,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14472,7 +14488,15 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [
+        {
+          "title": "[Bug] The applyHostFunction method is not working as the called method name always becomes an empty string ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397"
+        },
         {
           "title": "Navigation Events not fired when navigating by button click",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
@@ -14510,6 +14534,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334"
         },
         {
+          "title": "[Problem/Bug]: GetAvailableBrowserVersionString fails with EntryPointNotFoundException after upgrading to SDK 1.0.2365.46",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395"
+        },
+        {
+          "title": "Webview2 could not be applied high contrast mode after the application was started.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4392"
+        },
+        {
           "title": "[Feature]: Add the extension:// protocol",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4390"
         },
@@ -14524,10 +14556,6 @@
         {
           "title": "[Feature]: Control script injection for individual frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
-        },
-        {
-          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
         },
         {
           "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
@@ -14548,13 +14576,9 @@
         {
           "title": "[Feature]: Disable third part cookies in Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
-        },
-        {
-          "title": "[Problem/Bug]: problem with international keyboard layouts",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17436,13 +17460,21 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [
         {
-          "title": "Điện Lạnh",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2037"
+          "title": "php",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2038"
+        },
+        {
+          "title": "12345",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2039"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20324,6 +20356,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20891,6 +20927,10 @@
     },
     {
       "date": "2024-02-27",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 83.00%
+Response rate: 82.50%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
@@ -19,7 +19,8 @@ Response rate: 83.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Bug] The applyHostFunction method is not working as the cal...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397)
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
@@ -29,19 +30,20 @@ Response rate: 83.00%
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
   * [[Problem/Bug]: Shared worker is displayed under devices tab](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334)
+  * [[Problem/Bug]: GetAvailableBrowserVersionString fails with E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395)
+  * [Webview2 could not be applied high contrast mode after the a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4392)
   * [[Feature]: Add the extension:// protocol](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4390)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-  * [[Problem/Bug]: Spellchecker no longer functions after applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372)
   * [Xbox Controller is not working in Webview2 in UWP [WinUI2]](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Feature]: Disable third part cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336)
-  * [[Problem/Bug]: problem with international keyboard layouts](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4333)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Điện Lạnh](https://github.com/microsoft/vscode-edge-devtools/issues/2037)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2038)
+  * [12345](https://github.com/microsoft/vscode-edge-devtools/issues/2039)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
