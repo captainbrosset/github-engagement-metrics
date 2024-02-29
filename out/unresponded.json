@@ -2882,7 +2882,15 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [
+        {
+          "title": "Router",
+          "url": "https://github.com/webhintio/hint/issues/5740"
+        },
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
           "url": "https://github.com/webhintio/hint/issues/5738"
@@ -2912,7 +2920,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5798,6 +5806,10 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8685,8 +8697,17 @@
     },
     {
       "date": "2024-02-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-02-29",
+      "unRespondedItems": [
+        {
+          "title": "Selector Stats tab now appears in Edge 123, but is empty",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/229"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11572,6 +11593,10 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14492,11 +14517,11 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [
-        {
-          "title": "[Bug] The applyHostFunction method is not working as the called method name always becomes an empty string ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397"
-        },
         {
           "title": "Navigation Events not fired when navigating by button click",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
@@ -14530,20 +14555,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
         },
         {
-          "title": "[Problem/Bug]: Shared worker is displayed under devices tab",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4334"
-        },
-        {
           "title": "[Problem/Bug]: GetAvailableBrowserVersionString fails with EntryPointNotFoundException after upgrading to SDK 1.0.2365.46",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395"
-        },
-        {
-          "title": "Webview2 could not be applied high contrast mode after the application was started.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4392"
-        },
-        {
-          "title": "[Feature]: Add the extension:// protocol",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4390"
         },
         {
           "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
@@ -14578,7 +14591,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
         }
       ],
-      "rate": "58.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17464,17 +17477,29 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [
         {
-          "title": "php",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2038"
+          "title": "Edge DevTools in vscode isn't showing as it should",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2044"
         },
         {
-          "title": "12345",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2039"
+          "title": "Themes",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2043"
+        },
+        {
+          "title": "kill",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2041"
+        },
+        {
+          "title": "ewrew",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2042"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20360,6 +20385,10 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20931,6 +20960,10 @@
     },
     {
       "date": "2024-02-28",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-02-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
