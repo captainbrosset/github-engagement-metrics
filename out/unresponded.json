@@ -2886,11 +2886,11 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [
-        {
-          "title": "Router",
-          "url": "https://github.com/webhintio/hint/issues/5740"
-        },
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
           "url": "https://github.com/webhintio/hint/issues/5738"
@@ -2920,7 +2920,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5810,6 +5810,10 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8701,13 +8705,21 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [
+        {
+          "title": "Strange choice of icons",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/232"
+        },
         {
           "title": "Selector Stats tab now appears in Edge 123, but is empty",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/229"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11597,6 +11609,10 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [
         {
           "title": "split screen control",
@@ -14521,7 +14537,15 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]:  Edge webview doesn't fallback to default implementation of showing certificate dialog if clientcertificaterequested event is subscribed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4403"
+        },
         {
           "title": "Navigation Events not fired when navigating by button click",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
@@ -14553,6 +14577,10 @@
         {
           "title": "[Feature]: Input HTML elements such as date picker should be localizable rather than rely on OS region",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
+        },
+        {
+          "title": "[Bug] The applyHostFunction method is not working properly on a method named as \"send\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397"
         },
         {
           "title": "[Problem/Bug]: GetAvailableBrowserVersionString fails with EntryPointNotFoundException after upgrading to SDK 1.0.2365.46",
@@ -14591,7 +14619,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17481,25 +17509,12 @@
     },
     {
       "date": "2024-02-29",
-      "unRespondedItems": [
-        {
-          "title": "Edge DevTools in vscode isn't showing as it should",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2044"
-        },
-        {
-          "title": "Themes",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2043"
-        },
-        {
-          "title": "kill",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2041"
-        },
-        {
-          "title": "ewrew",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2042"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2024-03-01",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20389,6 +20404,10 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20964,6 +20983,10 @@
     },
     {
       "date": "2024-02-29",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

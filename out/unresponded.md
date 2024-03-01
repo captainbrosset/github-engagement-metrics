@@ -1,7 +1,6 @@
-Response rate: 82.50%
+Response rate: 83.00%
 
-* **webhintio/hint** - _84.00%_
-  * [Router](https://github.com/webhintio/hint/issues/5740)
+* **webhintio/hint** - _86.00%_
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
@@ -10,7 +9,8 @@ Response rate: 82.50%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [Strange choice of icons](https://github.com/MicrosoftEdge/DevTools/issues/232)
   * [Selector Stats tab now appears in Edge 123, but is empty](https://github.com/MicrosoftEdge/DevTools/issues/229)
 * **MicrosoftEdge/EdgeWebDriver** - _84.00%_
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
@@ -21,7 +21,8 @@ Response rate: 82.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]:  Edge webview doesn't fallback to default imp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4403)
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
@@ -30,6 +31,7 @@ Response rate: 82.50%
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
+  * [[Bug] The applyHostFunction method is not working properly o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397)
   * [[Problem/Bug]: GetAvailableBrowserVersionString fails with E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
@@ -39,11 +41,7 @@ Response rate: 82.50%
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
   * [[Feature]: Disable third part cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [Edge DevTools in vscode isn't showing as it should](https://github.com/microsoft/vscode-edge-devtools/issues/2044)
-  * [Themes](https://github.com/microsoft/vscode-edge-devtools/issues/2043)
-  * [kill](https://github.com/microsoft/vscode-edge-devtools/issues/2041)
-  * [ewrew](https://github.com/microsoft/vscode-edge-devtools/issues/2042)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
