@@ -2890,6 +2890,10 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5814,6 +5818,10 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8709,17 +8717,12 @@
     },
     {
       "date": "2024-03-01",
-      "unRespondedItems": [
-        {
-          "title": "Strange choice of icons",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/232"
-        },
-        {
-          "title": "Selector Stats tab now appears in Edge 123, but is empty",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/229"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-03-02",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11613,7 +11616,15 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [
+        {
+          "title": "Edge webdriver failed: KeyError: 'MicrosoftEdge'",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138"
+        },
         {
           "title": "split screen control",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137"
@@ -11647,7 +11658,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14541,7 +14552,19 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add PrintRasterizationMode for WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4407"
+        },
+        {
+          "title": "[Problem/Bug]: Exception in async call from js bridge crashes application",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
+        },
         {
           "title": "[Problem/Bug]:  Edge webview doesn't fallback to default implementation of showing certificate dialog if clientcertificaterequested event is subscribed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4403"
@@ -14579,8 +14602,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
         },
         {
-          "title": "[Bug] The applyHostFunction method is not working properly on a method named as \"send\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397"
+          "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         },
         {
           "title": "[Problem/Bug]: GetAvailableBrowserVersionString fails with EntryPointNotFoundException after upgrading to SDK 1.0.2365.46",
@@ -14613,13 +14636,9 @@
         {
           "title": "[Feature]: API to Disable Cookies in Webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340"
-        },
-        {
-          "title": "[Feature]: Disable third part cookies in Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17513,6 +17532,10 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20408,6 +20431,10 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20987,6 +21014,10 @@
     },
     {
       "date": "2024-03-01",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

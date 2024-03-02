@@ -9,10 +9,9 @@ Response rate: 83.00%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
-  * [Strange choice of icons](https://github.com/MicrosoftEdge/DevTools/issues/232)
-  * [Selector Stats tab now appears in Edge 123, but is empty](https://github.com/MicrosoftEdge/DevTools/issues/229)
-* **MicrosoftEdge/EdgeWebDriver** - _84.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
+  * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
@@ -21,7 +20,9 @@ Response rate: 83.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Feature]: Add PrintRasterizationMode for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4407)
+  * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
   * [[Problem/Bug]:  Edge webview doesn't fallback to default imp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4403)
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
@@ -31,7 +32,7 @@ Response rate: 83.00%
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Feature]: Input HTML elements such as date picker should be...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339)
-  * [[Bug] The applyHostFunction method is not working properly o...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4397)
+  * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
   * [[Problem/Bug]: GetAvailableBrowserVersionString fails with E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
@@ -40,7 +41,6 @@ Response rate: 83.00%
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
-  * [[Feature]: Disable third part cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4336)
 * **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
