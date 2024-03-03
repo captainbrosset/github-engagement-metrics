@@ -2894,6 +2894,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5822,6 +5826,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8721,6 +8729,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11620,6 +11632,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [
         {
           "title": "Edge webdriver failed: KeyError: 'MicrosoftEdge'",
@@ -14556,7 +14572,15 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Missing APIs documented on WebMessageObjects",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4408"
+        },
         {
           "title": "[Feature]: Add PrintRasterizationMode for WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4407"
@@ -14596,10 +14620,6 @@
         {
           "title": "[Feature]: Support toggling and closing devtools",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341"
-        },
-        {
-          "title": "[Feature]: Input HTML elements such as date picker should be localizable rather than rely on OS region",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4339"
         },
         {
           "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
@@ -17536,8 +17556,17 @@
     },
     {
       "date": "2024-03-02",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-03",
+      "unRespondedItems": [
+        {
+          "title": "Copy element as any selector is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2051"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20435,6 +20464,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21018,6 +21051,10 @@
     },
     {
       "date": "2024-03-02",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
