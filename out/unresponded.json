@@ -2898,6 +2898,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
@@ -5830,6 +5834,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8733,8 +8741,17 @@
     },
     {
       "date": "2024-03-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-04",
+      "unRespondedItems": [
+        {
+          "title": "No settings available when debugging service worker",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/234"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11636,6 +11653,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [
         {
           "title": "Edge webdriver failed: KeyError: 'MicrosoftEdge'",
@@ -14576,6 +14597,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Missing APIs documented on WebMessageObjects",
@@ -17560,6 +17585,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [
         {
           "title": "Copy element as any selector is not working",
@@ -20468,6 +20497,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21055,6 +21088,10 @@
     },
     {
       "date": "2024-03-03",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

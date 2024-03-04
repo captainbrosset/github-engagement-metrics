@@ -1,4 +1,4 @@
-Response rate: 82.75%
+Response rate: 82.50%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
@@ -9,7 +9,8 @@ Response rate: 82.75%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [No settings available when debugging service worker](https://github.com/MicrosoftEdge/DevTools/issues/234)
 * **MicrosoftEdge/EdgeWebDriver** - _82.00%_
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
