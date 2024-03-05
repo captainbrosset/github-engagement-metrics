@@ -1,6 +1,7 @@
-Response rate: 82.50%
+Response rate: 83.50%
 
-* **webhintio/hint** - _86.00%_
+* **webhintio/hint** - _84.00%_
+  * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
@@ -10,7 +11,7 @@ Response rate: 82.50%
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
-  * [No settings available when debugging service worker](https://github.com/MicrosoftEdge/DevTools/issues/234)
+  * [Strange choice of icons](https://github.com/MicrosoftEdge/DevTools/issues/232)
 * **MicrosoftEdge/EdgeWebDriver** - _82.00%_
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
@@ -21,11 +22,8 @@ Response rate: 82.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [[Problem/Bug]: Missing APIs documented on WebMessageObjects](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4408)
-  * [[Feature]: Add PrintRasterizationMode for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4407)
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
-  * [[Problem/Bug]:  Edge webview doesn't fallback to default imp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4403)
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
@@ -33,7 +31,6 @@ Response rate: 82.50%
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
-  * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
   * [[Problem/Bug]: GetAvailableBrowserVersionString fails with E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
@@ -42,8 +39,7 @@ Response rate: 82.50%
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
   * [[Feature]: API to Disable Cookies in Webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Copy element as any selector is not working](https://github.com/microsoft/vscode-edge-devtools/issues/2051)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
