@@ -10,9 +10,9 @@ Response rate: 83.50%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Strange choice of icons](https://github.com/MicrosoftEdge/DevTools/issues/232)
-* **MicrosoftEdge/EdgeWebDriver** - _82.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _80.00%_
+  * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
@@ -28,12 +28,12 @@ Response rate: 83.50%
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
   * [Crash occurs when viewing a PDF file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381)
-  * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [[Feature]: Support toggling and closing devtools](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341)
   * [[Problem/Bug]: GetAvailableBrowserVersionString fails with E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
+  * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
   * [Xbox Controller is not working in Webview2 in UWP [WinUI2]](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
