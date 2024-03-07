@@ -2910,6 +2910,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5858,6 +5862,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8773,6 +8781,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11688,6 +11700,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14644,6 +14660,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Exception in async call from js bridge crashes application",
@@ -14670,14 +14690,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
         },
         {
-          "title": "[Feature]: Support toggling and closing devtools",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4341"
-        },
-        {
-          "title": "[Problem/Bug]: GetAvailableBrowserVersionString fails with EntryPointNotFoundException after upgrading to SDK 1.0.2365.46",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4395"
-        },
-        {
           "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383"
         },
@@ -14694,23 +14706,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
         },
         {
-          "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
-        },
-        {
           "title": "[Problem/Bug]: Crash on hibernate",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
         },
         {
           "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
-        },
-        {
-          "title": "[Feature]: API to Disable Cookies in Webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4340"
         }
       ],
-      "rate": "68.00"
+      "rate": "76.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17624,8 +17628,17 @@
     },
     {
       "date": "2024-03-06",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-07",
+      "unRespondedItems": [
+        {
+          "title": "Request Feature : Open file for upload",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2056"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20539,6 +20552,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21138,6 +21155,10 @@
     },
     {
       "date": "2024-03-06",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
