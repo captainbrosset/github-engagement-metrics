@@ -2914,6 +2914,10 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5866,6 +5870,10 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8785,6 +8793,10 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11704,6 +11716,10 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14664,7 +14680,19 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Webview2 issue on Windows Server 2022",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414"
+        },
+        {
+          "title": "Can not release webview2,memory leak",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412"
+        },
         {
           "title": "[Problem/Bug]: Exception in async call from js bridge crashes application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
@@ -14678,16 +14706,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389"
         },
         {
-          "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384"
-        },
-        {
           "title": "Crash occurs when viewing a PDF file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381"
         },
         {
           "title": "[Problem/Bug]: Ignore csp rules for specific domains",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
+        },
+        {
+          "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384"
         },
         {
           "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
@@ -14706,6 +14734,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
         },
         {
+          "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
+        },
+        {
           "title": "[Problem/Bug]: Crash on hibernate",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
         },
@@ -14714,7 +14746,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         }
       ],
-      "rate": "76.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17632,13 +17664,21 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [
         {
-          "title": "Request Feature : Open file for upload",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2056"
+          "title": "update Microsoft dev tools browser",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2059"
+        },
+        {
+          "title": "live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2058"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20556,8 +20596,21 @@
     },
     {
       "date": "2024-03-07",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-08",
+      "unRespondedItems": [
+        {
+          "title": "Evergreen bootstrapper network/connectivity requirements should be documented",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3093"
+        },
+        {
+          "title": "Search UX improvements",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
+        }
+      ],
+      "rate": "95.56"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21159,6 +21212,10 @@
     },
     {
       "date": "2024-03-07",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
