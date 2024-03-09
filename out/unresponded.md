@@ -1,4 +1,4 @@
-Response rate: 82.69%
+Response rate: 83.21%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -38,9 +38,8 @@ Response rate: 82.69%
   * [Xbox Controller is not working in Webview2 in UWP [WinUI2]](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [update Microsoft dev tools browser](https://github.com/microsoft/vscode-edge-devtools/issues/2059)
-  * [live server](https://github.com/microsoft/vscode-edge-devtools/issues/2058)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Unable to print "F" keyword.](https://github.com/microsoft/vscode-edge-devtools/issues/2061)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -74,6 +73,5 @@ Response rate: 82.69%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _95.56%_
-  * [Evergreen bootstrapper network/connectivity requirements sho...](https://github.com/MicrosoftDocs/edge-developer/issues/3093)
+* **MicrosoftDocs/edge-developer** - _97.67%_
   * [Search UX improvements](https://github.com/MicrosoftDocs/edge-developer/issues/3051)

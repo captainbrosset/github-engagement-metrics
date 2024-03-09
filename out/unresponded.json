@@ -2918,6 +2918,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5874,6 +5878,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8797,6 +8805,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11720,6 +11732,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14684,6 +14700,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Webview2 issue on Windows Server 2022",
@@ -17668,17 +17688,17 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
         {
-          "title": "update Microsoft dev tools browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2059"
-        },
-        {
-          "title": "live server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2058"
+          "title": "Unable to print \"F\" keyword.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2061"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20600,17 +20620,17 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "95.56"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
-        {
-          "title": "Evergreen bootstrapper network/connectivity requirements should be documented",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3093"
-        },
         {
           "title": "Search UX improvements",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
         }
       ],
-      "rate": "95.56"
+      "rate": "97.67"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21216,6 +21236,10 @@
     },
     {
       "date": "2024-03-08",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
