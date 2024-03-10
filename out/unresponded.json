@@ -2922,6 +2922,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5882,6 +5886,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8809,6 +8817,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11736,6 +11748,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14704,6 +14720,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Webview2 issue on Windows Server 2022",
@@ -14754,10 +14774,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
         },
         {
-          "title": "Xbox Controller is not working in Webview2 in UWP [WinUI2]",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4366"
-        },
-        {
           "title": "[Problem/Bug]: Crash on hibernate",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
         },
@@ -14766,7 +14782,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         }
       ],
-      "rate": "70.00"
+      "rate": "72.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17692,13 +17708,21 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
+        {
+          "title": "cv",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2062"
+        },
         {
           "title": "Unable to print \"F\" keyword.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2061"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20624,6 +20648,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "97.67"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
         {
           "title": "Search UX improvements",
@@ -21240,6 +21268,10 @@
     },
     {
       "date": "2024-03-09",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
