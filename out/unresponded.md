@@ -1,4 +1,4 @@
-Response rate: 83.21%
+Response rate: 82.71%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -37,9 +37,11 @@ Response rate: 83.21%
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [Allaince High School Nansana](https://github.com/microsoft/vscode-edge-devtools/issues/2064)
   * [cv](https://github.com/microsoft/vscode-edge-devtools/issues/2062)
   * [Unable to print "F" keyword.](https://github.com/microsoft/vscode-edge-devtools/issues/2061)
+  * [new feature suggestion](https://github.com/microsoft/vscode-edge-devtools/issues/2063)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
