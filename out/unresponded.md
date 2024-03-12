@@ -1,4 +1,4 @@
-Response rate: 82.71%
+Response rate: 83.50%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -22,7 +22,8 @@ Response rate: 82.71%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _72.00%_
+* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+  * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
@@ -30,18 +31,15 @@ Response rate: 82.71%
   * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [Crash occurs when viewing a PDF file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381)
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
-  * [[Problem/Bug]: Process holding webview2 when deleting profil...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384)
+  * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [Allaince High School Nansana](https://github.com/microsoft/vscode-edge-devtools/issues/2064)
-  * [cv](https://github.com/microsoft/vscode-edge-devtools/issues/2062)
-  * [Unable to print "F" keyword.](https://github.com/microsoft/vscode-edge-devtools/issues/2061)
-  * [new feature suggestion](https://github.com/microsoft/vscode-edge-devtools/issues/2063)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [provide a gcc to my visual studio ](https://github.com/microsoft/vscode-edge-devtools/issues/2066)
 * **microsoft/edge-devtools-network-console** - _36.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -75,5 +73,4 @@ Response rate: 82.71%
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
   * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
-* **MicrosoftDocs/edge-developer** - _97.67%_
-  * [Search UX improvements](https://github.com/MicrosoftDocs/edge-developer/issues/3051)
+* **MicrosoftDocs/edge-developer** - _100.00%_

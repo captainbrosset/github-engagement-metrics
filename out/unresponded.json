@@ -2930,6 +2930,10 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5898,6 +5902,10 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8833,6 +8841,10 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11768,6 +11780,10 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14744,7 +14760,15 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: If the <TargetFramework> is a .NET Framework version (e.g. net481), the WebView2 control does not work correctly.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416"
+        },
         {
           "title": "[Problem/Bug]: Webview2 issue on Windows Server 2022",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414"
@@ -14774,8 +14798,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
         },
         {
-          "title": "[Problem/Bug]: Process holding webview2 when deleting profile",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4384"
+          "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         },
         {
           "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
@@ -14802,7 +14826,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17736,25 +17760,17 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [
         {
-          "title": "Allaince High School Nansana",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2064"
-        },
-        {
-          "title": "cv",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2062"
-        },
-        {
-          "title": "Unable to print \"F\" keyword.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2061"
-        },
-        {
-          "title": "new feature suggestion",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2063"
+          "title": "provide a gcc to my visual studio ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2066"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20688,13 +20704,12 @@
     },
     {
       "date": "2024-03-11",
-      "unRespondedItems": [
-        {
-          "title": "Search UX improvements",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3051"
-        }
-      ],
       "rate": "97.67"
+    },
+    {
+      "date": "2024-03-12",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21312,6 +21327,10 @@
     },
     {
       "date": "2024-03-11",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
