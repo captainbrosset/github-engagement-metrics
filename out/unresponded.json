@@ -2934,6 +2934,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5906,6 +5910,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8845,6 +8853,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11784,6 +11796,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14764,7 +14780,15 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Navigate to a normal web page but  trigger a file download callback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417"
+        },
         {
           "title": "[Problem/Bug]: If the <TargetFramework> is a .NET Framework version (e.g. net481), the WebView2 control does not work correctly.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416"
@@ -14826,7 +14850,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17764,13 +17788,21 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [
         {
-          "title": "provide a gcc to my visual studio ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2066"
+          "title": "Server is Started at port : 59155",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2068"
+        },
+        {
+          "title": "in website console give error message that show termination error in line two from jason",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2067"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20708,6 +20740,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21331,6 +21367,10 @@
     },
     {
       "date": "2024-03-12",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-03-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -21455,13 +21495,9 @@
         {
           "title": "Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/75"
-        },
-        {
-          "title": "Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-console",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/73"
         }
       ],
-      "rate": "36.00"
+      "rate": "38.00"
     }
   ]
 }

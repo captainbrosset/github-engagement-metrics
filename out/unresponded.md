@@ -1,4 +1,4 @@
-Response rate: 83.50%
+Response rate: 83.25%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -22,7 +22,8 @@ Response rate: 83.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _70.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+  * [[Problem/Bug]: Navigate to a normal web page but  trigger a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417)
   * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
@@ -38,9 +39,10 @@ Response rate: 83.50%
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
   * [[Problem/Bug]: Crash on hibernate](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359)
   * [[Feature]: WebResourceRequested, but just for the main frame...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [provide a gcc to my visual studio ](https://github.com/microsoft/vscode-edge-devtools/issues/2066)
-* **microsoft/edge-devtools-network-console** - _36.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Server is Started at port : 59155](https://github.com/microsoft/vscode-edge-devtools/issues/2068)
+  * [in website console give error message that show termination ...](https://github.com/microsoft/vscode-edge-devtools/issues/2067)
+* **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -72,5 +74,4 @@ Response rate: 83.50%
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
-  * [Bump tar from 6.0.5 to 6.1.11 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/73)
 * **MicrosoftDocs/edge-developer** - _100.00%_
