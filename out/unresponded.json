@@ -2942,6 +2942,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [
         {
           "title": "[Feature] Verify extension in Visual Studio Marketplace",
@@ -5926,6 +5930,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8873,6 +8881,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11820,6 +11832,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
@@ -14808,7 +14824,19 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Link opening in new window and triggering NewWindow event has no URI to handle in the NewWindow event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424"
+        },
+        {
+          "title": "[Problem/Bug]: Devtools can't dock to the form that opened it",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423"
+        },
         {
           "title": "focus event triggered twice after window activated",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4420"
@@ -14876,13 +14904,9 @@
         {
           "title": "[Problem/Bug]: Crash on hibernate",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
-        },
-        {
-          "title": "[Feature]: WebResourceRequested, but just for the main frame and only when we're waiting on the first response",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4353"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17828,6 +17852,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20775,13 +20803,12 @@
     },
     {
       "date": "2024-03-14",
-      "unRespondedItems": [
-        {
-          "title": "learn.microsoft.com ➟",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3103"
-        }
-      ],
       "rate": "97.73"
+    },
+    {
+      "date": "2024-03-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21411,6 +21438,10 @@
     },
     {
       "date": "2024-03-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
