@@ -2946,7 +2946,15 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [
+        {
+          "title": "Docs: Update CLA link and add it in PR template",
+          "url": "https://github.com/webhintio/hint/pull/5751"
+        },
         {
           "title": "[Feature] Verify extension in Visual Studio Marketplace",
           "url": "https://github.com/webhintio/hint/issues/5743"
@@ -2972,10 +2980,6 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         },
         {
-          "title": "[Bug] `Bundler` is not a valid `moduleResolution` option in tsconfig",
-          "url": "https://github.com/webhintio/hint/issues/5719"
-        },
-        {
           "title": "[Bug] http-cache fails for object URLs",
           "url": "https://github.com/webhintio/hint/issues/5706"
         },
@@ -2984,7 +2988,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "82.00"
+      "rate": "81.63"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5934,6 +5938,10 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8885,6 +8893,10 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11836,7 +11848,15 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [
+        {
+          "title": "Local edge driver session - session not created exception",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
+        },
         {
           "title": "WebElement.click() stopped working on some fields between Edge 118.0.2088.76 and 120.0.2210.144",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139"
@@ -11878,7 +11898,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -14828,7 +14848,15 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [
+        {
+          "title": "[Bug]: Dark color scheme does not take effect",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426"
+        },
         {
           "title": "[Problem/Bug]: Link opening in new window and triggering NewWindow event has no URI to handle in the NewWindow event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424"
@@ -14900,10 +14928,6 @@
         {
           "title": "[Feature]: Control script injection for individual frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
-        },
-        {
-          "title": "[Problem/Bug]: Crash on hibernate",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4359"
         }
       ],
       "rate": "62.00"
@@ -17856,8 +17880,17 @@
     },
     {
       "date": "2024-03-15",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-16",
+      "unRespondedItems": [
+        {
+          "title": "Edge Tools slowed down my save on typescript files, caused my editor to freeze/OOM",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2070"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20807,6 +20840,10 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21442,6 +21479,10 @@
     },
     {
       "date": "2024-03-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
