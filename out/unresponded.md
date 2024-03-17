@@ -1,4 +1,4 @@
-Response rate: 82.20%
+Response rate: 81.95%
 
 * **webhintio/hint** - _81.63%_
   * [Docs: Update CLA link and add it in PR template](https://github.com/webhintio/hint/pull/5751)
@@ -24,7 +24,8 @@ Response rate: 82.20%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Feature]: Update Proposal: Folder Icons in Microsoft Edge F...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4429)
   * [[Bug]: Dark color scheme does not take effect](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
