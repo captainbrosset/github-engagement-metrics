@@ -1,4 +1,4 @@
-Response rate: 81.95%
+Response rate: 81.70%
 
 * **webhintio/hint** - _81.63%_
   * [Docs: Update CLA link and add it in PR template](https://github.com/webhintio/hint/pull/5751)
@@ -45,7 +45,8 @@ Response rate: 81.95%
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [code running problem](https://github.com/microsoft/vscode-edge-devtools/issues/2071)
   * [Edge Tools slowed down my save on typescript files, caused m...](https://github.com/microsoft/vscode-edge-devtools/issues/2070)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

@@ -2954,6 +2954,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "81.63"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [
         {
           "title": "Docs: Update CLA link and add it in PR template",
@@ -5950,6 +5954,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8909,6 +8917,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11868,6 +11880,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -14872,6 +14888,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [
         {
           "title": "[Feature]: Update Proposal: Folder Icons in Microsoft Edge Favorites Bar",
@@ -17912,13 +17932,21 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [
+        {
+          "title": "code running problem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2071"
+        },
         {
           "title": "Edge Tools slowed down my save on typescript files, caused my editor to freeze/OOM",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2070"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -20876,6 +20904,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21519,6 +21551,10 @@
     },
     {
       "date": "2024-03-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
