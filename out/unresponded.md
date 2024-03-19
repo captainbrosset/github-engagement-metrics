@@ -1,4 +1,4 @@
-Response rate: 81.70%
+Response rate: 82.20%
 
 * **webhintio/hint** - _81.63%_
   * [Docs: Update CLA link and add it in PR template](https://github.com/webhintio/hint/pull/5751)
@@ -25,11 +25,10 @@ Response rate: 81.70%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [[Feature]: Update Proposal: Folder Icons in Microsoft Edge F...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4429)
+  * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Bug]: Dark color scheme does not take effect](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
-  * [focus event triggered twice after window activated](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4420)
   * [[Problem/Bug]: Navigate to a normal web page but  trigger a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417)
   * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
@@ -45,9 +44,8 @@ Response rate: 81.70%
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [code running problem](https://github.com/microsoft/vscode-edge-devtools/issues/2071)
-  * [Edge Tools slowed down my save on typescript files, caused m...](https://github.com/microsoft/vscode-edge-devtools/issues/2070)
+  * [[Problem/Bug]: Spellchecker no longer functions after applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
