@@ -2962,15 +2962,11 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "81.63"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [
-        {
-          "title": "Docs: Update CLA link and add it in PR template",
-          "url": "https://github.com/webhintio/hint/pull/5751"
-        },
-        {
-          "title": "[Feature] Verify extension in Visual Studio Marketplace",
-          "url": "https://github.com/webhintio/hint/issues/5743"
-        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3000,7 +2996,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "81.63"
+      "rate": "85.71"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5966,6 +5962,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8933,6 +8933,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11900,6 +11904,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -14912,7 +14920,19 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
+        },
+        {
+          "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
+        },
         {
           "title": "[Problem/Bug]: In IFrame, when WebResourceResponseReceived , var res = await e.Response.GetContentAsync() will make thread suspend",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433"
@@ -14994,7 +15014,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17960,6 +17980,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20927,6 +20951,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21578,6 +21606,10 @@
     },
     {
       "date": "2024-03-19",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

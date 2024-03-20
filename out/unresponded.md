@@ -1,8 +1,6 @@
-Response rate: 82.20%
+Response rate: 82.21%
 
-* **webhintio/hint** - _81.63%_
-  * [Docs: Update CLA link and add it in PR template](https://github.com/webhintio/hint/pull/5751)
-  * [[Feature] Verify extension in Visual Studio Marketplace](https://github.com/webhintio/hint/issues/5743)
+* **webhintio/hint** - _85.71%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -24,7 +22,9 @@ Response rate: 82.20%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
+  * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Bug]: Dark color scheme does not take effect](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
