@@ -2966,6 +2966,10 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "85.71"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -2992,11 +2996,15 @@
           "url": "https://github.com/webhintio/hint/issues/5706"
         },
         {
+          "title": "Docs: Update CLA link and add it in PR template",
+          "url": "https://github.com/webhintio/hint/pull/5751"
+        },
+        {
           "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "85.71"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -5966,6 +5974,10 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8937,8 +8949,17 @@
     },
     {
       "date": "2024-03-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-21",
+      "unRespondedItems": [
+        {
+          "title": "Transparent icon for some extensions that supply a DevTools Panel",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/237"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11908,6 +11929,10 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -14924,22 +14949,18 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         },
         {
-          "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
-        },
-        {
           "title": "[Problem/Bug]: In IFrame, when WebResourceResponseReceived , var res = await e.Response.GetContentAsync() will make thread suspend",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433"
-        },
-        {
-          "title": "[Bug]: Dark color scheme does not take effect",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426"
         },
         {
           "title": "[Problem/Bug]: Link opening in new window and triggering NewWindow event has no URI to handle in the NewWindow event",
@@ -14986,6 +15007,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
         },
         {
+          "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
+        },
+        {
+          "title": "[Problem/Bug]: Beta version does not work anymore on RDS servers",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4432"
+        },
+        {
           "title": "[Bug]: Crash when accessing new WebView2 types in WinAppSDK 1.5",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421"
         },
@@ -15008,13 +15037,9 @@
         {
           "title": "[Feature]: Control script injection for individual frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
-        },
-        {
-          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -17984,6 +18009,10 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -20955,8 +20984,17 @@
     },
     {
       "date": "2024-03-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-21",
+      "unRespondedItems": [
+        {
+          "title": "microsoft edge",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3109"
+        }
+      ],
+      "rate": "97.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21610,6 +21648,10 @@
     },
     {
       "date": "2024-03-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
