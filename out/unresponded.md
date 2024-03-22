@@ -1,17 +1,15 @@
-Response rate: 81.73%
+Response rate: 81.50%
 
-* **webhintio/hint** - _84.00%_
+* **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
-  * [Docs: Update CLA link and add it in PR template](https://github.com/webhintio/hint/pull/5751)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Transparent icon for some extensions that supply a DevTools ...](https://github.com/MicrosoftEdge/DevTools/issues/237)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _78.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -24,7 +22,8 @@ Response rate: 81.73%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [C# Webview2 WebMessageReceived event not firing anymore afte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4441)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
@@ -40,13 +39,16 @@ Response rate: 81.73%
   * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Problem/Bug]: Beta version does not work anymore on RDS ser...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4432)
+  * [[Bug]: Dark color scheme does not take effect](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+  * [[Problem/Bug]: Spellchecker no longer functions after applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Feature Request](https://github.com/microsoft/vscode-edge-devtools/issues/2081)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -79,5 +81,4 @@ Response rate: 81.73%
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [microsoft edge](https://github.com/MicrosoftDocs/edge-developer/issues/3109)
+* **MicrosoftDocs/edge-developer** - _100.00%_
