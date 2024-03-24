@@ -1,4 +1,4 @@
-Response rate: 81.25%
+Response rate: 81.00%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -23,6 +23,7 @@ Response rate: 81.25%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: Webview2 is now detectable by security firewa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4444)
   * [[Problem/Bug]: Offline installer hangs for about 66 minutes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443)
   * [[Problem/Bug]: Downloads Hub flyout escapes application boun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442)
   * [C# Webview2 WebMessageReceived event not firing anymore afte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4441)
@@ -48,8 +49,8 @@ Response rate: 81.25%
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
   * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-  * [[Problem/Bug]: Spellchecker no longer functions after applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Allow the html file running to be tabbed with other existing...](https://github.com/microsoft/vscode-edge-devtools/issues/2082)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

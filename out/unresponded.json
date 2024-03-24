@@ -2978,6 +2978,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -5990,6 +5994,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8973,6 +8981,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11956,6 +11968,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -14984,7 +15000,15 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Webview2 is now detectable by security firewalls when data scraping",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4444"
+        },
         {
           "title": "[Problem/Bug]: Offline installer hangs for about 66 minutes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443"
@@ -15084,10 +15108,6 @@
         {
           "title": "[Feature]: Control script injection for individual frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375"
-        },
-        {
-          "title": "[Problem/Bug]: Spellchecker no longer functions after application restart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4372"
         }
       ],
       "rate": "48.00"
@@ -18072,8 +18092,17 @@
     },
     {
       "date": "2024-03-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-24",
+      "unRespondedItems": [
+        {
+          "title": "Allow the html file running to be tabbed with other existing pages on Microsoft Edge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2082"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21055,6 +21084,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21722,6 +21755,10 @@
     },
     {
       "date": "2024-03-23",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
