@@ -1,4 +1,4 @@
-Response rate: 81.00%
+Response rate: 79.50%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -22,7 +22,9 @@ Response rate: 81.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [[Problem/Bug]: win32 AddOrUpdateCookie isnt visible in JS do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4446)
+  * [[Problem/Bug]: PDF Printing: ColorMode appears to be ignored...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445)
   * [[Problem/Bug]: Webview2 is now detectable by security firewa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4444)
   * [[Problem/Bug]: Offline installer hangs for about 66 minutes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443)
   * [[Problem/Bug]: Downloads Hub flyout escapes application boun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442)
@@ -48,9 +50,13 @@ Response rate: 81.00%
   * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
-  * [[Feature]: Control script injection for individual frames](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4375)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [ssdt](https://github.com/microsoft/vscode-edge-devtools/issues/2088)
+  * [management-de-qualite](https://github.com/microsoft/vscode-edge-devtools/issues/2086)
+  * [HTML drop down data list not displayed in vscode edge, but s...](https://github.com/microsoft/vscode-edge-devtools/issues/2085)
+  * [Puerto san jose](https://github.com/microsoft/vscode-edge-devtools/issues/2083)
   * [Allow the html file running to be tabbed with other existing...](https://github.com/microsoft/vscode-edge-devtools/issues/2082)
+  * [A missing CSS feature](https://github.com/microsoft/vscode-edge-devtools/issues/2084)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
