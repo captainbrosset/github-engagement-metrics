@@ -1,4 +1,4 @@
-Response rate: 79.50%
+Response rate: 82.50%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -9,7 +9,8 @@ Response rate: 79.50%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [how to disable the edge-json-viewer flag](https://github.com/MicrosoftEdge/DevTools/issues/238)
 * **MicrosoftEdge/EdgeWebDriver** - _78.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -22,13 +23,9 @@ Response rate: 79.50%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
-  * [[Problem/Bug]: win32 AddOrUpdateCookie isnt visible in JS do...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4446)
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [[Problem/Bug]: PDF Printing: ColorMode appears to be ignored...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445)
-  * [[Problem/Bug]: Webview2 is now detectable by security firewa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4444)
   * [[Problem/Bug]: Offline installer hangs for about 66 minutes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443)
-  * [[Problem/Bug]: Downloads Hub flyout escapes application boun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442)
-  * [C# Webview2 WebMessageReceived event not firing anymore afte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4441)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
@@ -39,24 +36,15 @@ Response rate: 79.50%
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
-  * [put_DefaultBackgroundColor not working when WebView2 is in D...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389)
   * [Crash occurs when viewing a PDF file](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381)
-  * [[Problem/Bug]: Ignore csp rules for specific domains](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Problem/Bug]: Beta version does not work anymore on RDS ser...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4432)
-  * [[Bug]: Dark color scheme does not take effect](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-  * [[Problem/Bug]: WebView2 page loaded for some but not for oth...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383)
   * [[Problem/Bug]: empty Crashpad reports directory when crashin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382)
   * [[Problem/Bug]: WebView causes HoloLens2 App to crash after u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380)
-* **microsoft/vscode-edge-devtools** - _88.00%_
-  * [ssdt](https://github.com/microsoft/vscode-edge-devtools/issues/2088)
-  * [management-de-qualite](https://github.com/microsoft/vscode-edge-devtools/issues/2086)
-  * [HTML drop down data list not displayed in vscode edge, but s...](https://github.com/microsoft/vscode-edge-devtools/issues/2085)
-  * [Puerto san jose](https://github.com/microsoft/vscode-edge-devtools/issues/2083)
-  * [Allow the html file running to be tabbed with other existing...](https://github.com/microsoft/vscode-edge-devtools/issues/2082)
-  * [A missing CSS feature](https://github.com/microsoft/vscode-edge-devtools/issues/2084)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [node.js](https://github.com/microsoft/vscode-edge-devtools/issues/2089)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

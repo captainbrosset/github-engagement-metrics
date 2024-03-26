@@ -2986,6 +2986,10 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -6006,6 +6010,10 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -8997,8 +9005,17 @@
     },
     {
       "date": "2024-03-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-26",
+      "unRespondedItems": [
+        {
+          "title": "how to disable the edge-json-viewer flag",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/238"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -11988,6 +12005,10 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15024,30 +15045,18 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: win32 AddOrUpdateCookie isnt visible in JS document.cookie",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4446"
-        },
         {
           "title": "[Problem/Bug]: PDF Printing: ColorMode appears to be ignored",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445"
         },
         {
-          "title": "[Problem/Bug]: Webview2 is now detectable by security firewalls when data scraping",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4444"
-        },
-        {
           "title": "[Problem/Bug]: Offline installer hangs for about 66 minutes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443"
-        },
-        {
-          "title": "[Problem/Bug]: Downloads Hub flyout escapes application boundary in multiple monitor setup",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442"
-        },
-        {
-          "title": "C# Webview2 WebMessageReceived event not firing anymore after update of MS Edge browser and Webview2 runtime[Problem/Bug]: ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4441"
         },
         {
           "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
@@ -15090,16 +15099,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
         },
         {
-          "title": "put_DefaultBackgroundColor not working when WebView2 is in DarkMode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4389"
-        },
-        {
           "title": "Crash occurs when viewing a PDF file",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381"
-        },
-        {
-          "title": "[Problem/Bug]: Ignore csp rules for specific domains",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4379"
         },
         {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
@@ -15110,20 +15111,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4432"
         },
         {
-          "title": "[Bug]: Dark color scheme does not take effect",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4426"
-        },
-        {
           "title": "[Bug]: Crash when accessing new WebView2 types in WinAppSDK 1.5",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421"
         },
         {
           "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 page loaded for some but not for others using MSIX package.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4383"
         },
         {
           "title": "[Problem/Bug]: empty Crashpad reports directory when crashing",
@@ -15134,7 +15127,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380"
         }
       ],
-      "rate": "46.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18124,33 +18117,17 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [
         {
-          "title": "ssdt",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2088"
-        },
-        {
-          "title": "management-de-qualite",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2086"
-        },
-        {
-          "title": "HTML drop down data list not displayed in vscode edge, but shows in real edge brwoser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2085"
-        },
-        {
-          "title": "Puerto san jose",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2083"
-        },
-        {
-          "title": "Allow the html file running to be tabbed with other existing pages on Microsoft Edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2082"
-        },
-        {
-          "title": "A missing CSS feature",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2084"
+          "title": "node.js",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2089"
         }
       ],
-      "rate": "88.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21140,6 +21117,10 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21815,6 +21796,10 @@
     },
     {
       "date": "2024-03-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
