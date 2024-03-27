@@ -2990,6 +2990,10 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -6014,6 +6018,10 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9009,13 +9017,21 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
+        {
+          "title": "Can't export PDF file in both Portrait and Landscape at the same time? ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/240"
+        },
         {
           "title": "how to disable the edge-json-viewer flag",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/238"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12009,6 +12025,10 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15049,7 +15069,23 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Prevent opening a window via CoreWebView2 NewWindowRequest doesn’t work ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 crashed unexpectedly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450"
+        },
+        {
+          "title": "[Bug]: [Accessibility] Narrator reads \"text\" after close button",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449"
+        },
         {
           "title": "[Problem/Bug]: PDF Printing: ColorMode appears to be ignored",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445"
@@ -15099,16 +15135,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
         },
         {
-          "title": "Crash occurs when viewing a PDF file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4381"
+          "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
+        },
+        {
+          "title": "[Problem/Bug]: How to get all links in an iframe?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
         {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
-        },
-        {
-          "title": "[Problem/Bug]: Beta version does not work anymore on RDS servers",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4432"
         },
         {
           "title": "[Bug]: Crash when accessing new WebView2 types in WinAppSDK 1.5",
@@ -15117,17 +15153,9 @@
         {
           "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
-        },
-        {
-          "title": "[Problem/Bug]: empty Crashpad reports directory when crashing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4382"
-        },
-        {
-          "title": "[Problem/Bug]: WebView causes HoloLens2 App to crash after updating Unity project to MRTK3 ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4380"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18121,10 +18149,14 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
         {
-          "title": "node.js",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2089"
+          "title": "how to make a dynamic app",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2091"
         }
       ],
       "rate": "98.00"
@@ -21121,6 +21153,10 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21800,6 +21836,10 @@
     },
     {
       "date": "2024-03-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
