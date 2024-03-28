@@ -1,4 +1,4 @@
-Response rate: 82.00%
+Response rate: 82.25%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -30,7 +30,6 @@ Response rate: 82.00%
   * [[Bug]: [Accessibility] Narrator reads "text" after close but...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449)
   * [[Problem/Bug]: PDF Printing: ColorMode appears to be ignored...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445)
   * [[Problem/Bug]: Offline installer hangs for about 66 minutes](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443)
-  * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
@@ -42,11 +41,11 @@ Response rate: 82.00%
   * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
+  * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [how to make a dynamic app](https://github.com/microsoft/vscode-edge-devtools/issues/2091)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
