@@ -2998,7 +2998,15 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [
+        {
+          "title": "Console",
+          "url": "https://github.com/webhintio/hint/issues/5758"
+        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3028,7 +3036,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6030,6 +6038,10 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9033,17 +9045,12 @@
     },
     {
       "date": "2024-03-28",
-      "unRespondedItems": [
-        {
-          "title": "Can't export PDF file in both Portrait and Landscape at the same time? ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/240"
-        },
-        {
-          "title": "how to disable the edge-json-viewer flag",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/238"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-03-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12045,6 +12052,10 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15093,7 +15104,15 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Webview2 Not position on High scaled monitor when gdiScaling is DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459"
+        },
         {
           "title": "[Problem/Bug]: Prevent opening a window via CoreWebView2 NewWindowRequest doesn’t work ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453"
@@ -15109,10 +15128,6 @@
         {
           "title": "[Problem/Bug]: PDF Printing: ColorMode appears to be ignored",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445"
-        },
-        {
-          "title": "[Problem/Bug]: Offline installer hangs for about 66 minutes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4443"
         },
         {
           "title": "[Problem/Bug]: In IFrame, when WebResourceResponseReceived , var res = await e.Response.GetContentAsync() will make thread suspend",
@@ -15159,10 +15174,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
         {
-          "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
-        },
-        {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
         },
@@ -15175,7 +15186,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18177,8 +18188,17 @@
     },
     {
       "date": "2024-03-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-29",
+      "unRespondedItems": [
+        {
+          "title": "uhpo\\",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2094"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21180,6 +21200,10 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21867,6 +21891,10 @@
     },
     {
       "date": "2024-03-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
