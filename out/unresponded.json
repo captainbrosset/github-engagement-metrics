@@ -3002,11 +3002,11 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [
-        {
-          "title": "Console",
-          "url": "https://github.com/webhintio/hint/issues/5758"
-        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3036,7 +3036,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "84.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6042,6 +6042,10 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9049,6 +9053,10 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12056,6 +12064,10 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15108,7 +15120,15 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Requesting the possibility to have better granular control on F12  (executing from Console) from WebView2 clients",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460"
+        },
         {
           "title": "[Problem/Bug]: Webview2 Not position on High scaled monitor when gdiScaling is DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459"
@@ -15174,6 +15194,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
         {
+          "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
+        },
+        {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
         },
@@ -15186,7 +15210,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18192,10 +18216,14 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [
         {
-          "title": "uhpo\\",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2094"
+          "title": "cant view the output and also a problem with launch",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2097"
         }
       ],
       "rate": "98.00"
@@ -21204,6 +21232,10 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21895,6 +21927,10 @@
     },
     {
       "date": "2024-03-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
