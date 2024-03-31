@@ -3006,6 +3006,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -6046,6 +6050,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9057,8 +9065,17 @@
     },
     {
       "date": "2024-03-30",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-03-31",
+      "unRespondedItems": [
+        {
+          "title": "Chromium bug",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/241"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12068,6 +12085,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15124,6 +15145,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [
         {
           "title": "[Feature] Requesting the possibility to have better granular control on F12  (executing from Console) from WebView2 clients",
@@ -18220,13 +18245,29 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [
+        {
+          "title": "tienda lux",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2100"
+        },
+        {
+          "title": "Vue.js not detected",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2099"
+        },
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2098"
+        },
         {
           "title": "cant view the output and also a problem with launch",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2097"
         }
       ],
-      "rate": "98.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21236,6 +21277,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21931,6 +21976,10 @@
     },
     {
       "date": "2024-03-30",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-03-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

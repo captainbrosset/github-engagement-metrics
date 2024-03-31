@@ -1,4 +1,4 @@
-Response rate: 82.25%
+Response rate: 81.25%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -9,7 +9,8 @@ Response rate: 82.25%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Chromium bug](https://github.com/MicrosoftEdge/DevTools/issues/241)
 * **MicrosoftEdge/EdgeWebDriver** - _78.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -44,7 +45,10 @@ Response rate: 82.25%
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [tienda lux](https://github.com/microsoft/vscode-edge-devtools/issues/2100)
+  * [Vue.js not detected](https://github.com/microsoft/vscode-edge-devtools/issues/2099)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2098)
   * [cant view the output and also a problem with launch](https://github.com/microsoft/vscode-edge-devtools/issues/2097)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
