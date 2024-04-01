@@ -3010,6 +3010,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -6054,6 +6058,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9069,6 +9077,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
         {
           "title": "Chromium bug",
@@ -12089,6 +12101,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15149,7 +15165,15 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Html page is not displayed in WebView2 edge 123.0.2420.65",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462"
+        },
         {
           "title": "[Feature] Requesting the possibility to have better granular control on F12  (executing from Console) from WebView2 clients",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460"
@@ -15235,7 +15259,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18249,6 +18273,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
         {
           "title": "tienda lux",
@@ -21281,8 +21309,17 @@
     },
     {
       "date": "2024-03-31",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-01",
+      "unRespondedItems": [
+        {
+          "title": "Outdated Edge version references found",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3118"
+        }
+      ],
+      "rate": "97.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -21980,6 +22017,10 @@
     },
     {
       "date": "2024-03-31",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

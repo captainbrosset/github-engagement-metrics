@@ -1,4 +1,4 @@
-Response rate: 81.25%
+Response rate: 80.74%
 
 * **webhintio/hint** - _86.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -23,7 +23,8 @@ Response rate: 81.25%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: Html page is not displayed in WebView2 edge 1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
@@ -82,4 +83,5 @@ Response rate: 81.25%
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
   * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3118)
