@@ -1,6 +1,7 @@
-Response rate: 80.74%
+Response rate: 79.98%
 
-* **webhintio/hint** - _86.00%_
+* **webhintio/hint** - _84.00%_
+  * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
@@ -24,7 +25,7 @@ Response rate: 80.74%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [[Problem/Bug]: Html page is not displayed in WebView2 edge 1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462)
+  * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
@@ -46,12 +47,14 @@ Response rate: 80.74%
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [javajx](https://github.com/microsoft/vscode-edge-devtools/issues/2101)
   * [tienda lux](https://github.com/microsoft/vscode-edge-devtools/issues/2100)
   * [Vue.js not detected](https://github.com/microsoft/vscode-edge-devtools/issues/2099)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2098)
   * [cant view the output and also a problem with launch](https://github.com/microsoft/vscode-edge-devtools/issues/2097)
 * **microsoft/edge-devtools-network-console** - _38.00%_
+  * [click on the edit and resender button but it doesn't work ](https://github.com/microsoft/edge-devtools-network-console/issues/125)
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -82,6 +85,6 @@ Response rate: 80.74%
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
-  * [Bump tmpl from 1.0.4 to 1.0.5 in /packages/devtools-network-...](https://github.com/microsoft/edge-devtools-network-console/pull/75)
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **MicrosoftDocs/edge-developer** - _95.83%_
+  * [HACKS FOR XBOX SERIES S](https://github.com/MicrosoftDocs/edge-developer/issues/3119)
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3118)
