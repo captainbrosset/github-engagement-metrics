@@ -3018,6 +3018,10 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [
         {
           "title": "cachae control missing Error",
@@ -6074,6 +6078,10 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9097,13 +9105,12 @@
     },
     {
       "date": "2024-04-02",
-      "unRespondedItems": [
-        {
-          "title": "Chromium bug",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/241"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-04-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12125,6 +12132,10 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15193,10 +15204,14 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Unable to View Page Source any more via SendInput",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463"
+          "title": "[Problem/Bug]: WinUi3 Webview2 Input box in a web page does not get focus and returning to Webview2 does not restaure focus on input box.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465"
         },
         {
           "title": "[Feature] Requesting the possibility to have better granular control on F12  (executing from Console) from WebView2 clients",
@@ -15255,8 +15270,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
         },
         {
-          "title": "Navigation Events not fired when navigating by button click",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393"
+          "title": "[Feature]: Add generatePdfDocumentOutline to print options",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
+        },
+        {
+          "title": "[Problem/Bug]: Unable to View Page Source any more via SendInput",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463"
         },
         {
           "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
@@ -15283,7 +15302,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18305,29 +18324,17 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [
         {
-          "title": "javajx",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2101"
-        },
-        {
-          "title": "tienda lux",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2100"
-        },
-        {
-          "title": "Vue.js not detected",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2099"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2098"
-        },
-        {
-          "title": "cant view the output and also a problem with launch",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2097"
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2102"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21349,17 +21356,12 @@
     },
     {
       "date": "2024-04-02",
-      "unRespondedItems": [
-        {
-          "title": "HACKS FOR XBOX SERIES S",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3119"
-        },
-        {
-          "title": "Outdated Edge version references found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3118"
-        }
-      ],
       "rate": "95.83"
+    },
+    {
+      "date": "2024-04-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22065,11 +22067,11 @@
     },
     {
       "date": "2024-04-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-03",
       "unRespondedItems": [
-        {
-          "title": "click on the edit and resender button but it doesn't work ",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/issues/125"
-        },
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/123"
@@ -22191,7 +22193,7 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/78"
         }
       ],
-      "rate": "38.00"
+      "rate": "40.00"
     }
   ]
 }

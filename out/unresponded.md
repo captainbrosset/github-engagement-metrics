@@ -1,4 +1,4 @@
-Response rate: 79.98%
+Response rate: 81.75%
 
 * **webhintio/hint** - _84.00%_
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
@@ -10,8 +10,7 @@ Response rate: 79.98%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Chromium bug](https://github.com/MicrosoftEdge/DevTools/issues/241)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _78.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -24,8 +23,8 @@ Response rate: 79.98%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
-  * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: WinUi3 Webview2 Input box in a web page does ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
@@ -40,21 +39,17 @@ Response rate: 79.98%
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
-  * [Navigation Events not fired when navigating by button click](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4393)
+  * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
+  * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [[Bug]: Crash when accessing new WebView2 types in WinAppSDK ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [javajx](https://github.com/microsoft/vscode-edge-devtools/issues/2101)
-  * [tienda lux](https://github.com/microsoft/vscode-edge-devtools/issues/2100)
-  * [Vue.js not detected](https://github.com/microsoft/vscode-edge-devtools/issues/2099)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2098)
-  * [cant view the output and also a problem with launch](https://github.com/microsoft/vscode-edge-devtools/issues/2097)
-* **microsoft/edge-devtools-network-console** - _38.00%_
-  * [click on the edit and resender button but it doesn't work ](https://github.com/microsoft/edge-devtools-network-console/issues/125)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2102)
+* **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -85,6 +80,4 @@ Response rate: 79.98%
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [HACKS FOR XBOX SERIES S](https://github.com/MicrosoftDocs/edge-developer/issues/3119)
-  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3118)
+* **MicrosoftDocs/edge-developer** - _100.00%_
