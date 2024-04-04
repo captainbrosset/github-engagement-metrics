@@ -3022,7 +3022,15 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [
+        {
+          "title": "[Feature] Update MDN compat data - it's 2 years old",
+          "url": "https://github.com/webhintio/hint/issues/5824"
+        },
         {
           "title": "cachae control missing Error",
           "url": "https://github.com/webhintio/hint/issues/5823"
@@ -3056,7 +3064,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "84.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6082,6 +6090,10 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9109,8 +9121,17 @@
     },
     {
       "date": "2024-04-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-04",
+      "unRespondedItems": [
+        {
+          "title": "Wrong FR translation in DevTools",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/242"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12136,6 +12157,10 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15208,6 +15233,10 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: WinUi3 Webview2 Input box in a web page does not get focus and returning to Webview2 does not restaure focus on input box.",
@@ -15282,6 +15311,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         },
         {
+          "title": "[Problem/Bug]: The WebView control is no longer valid because the browser process crashed",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4452"
+        },
+        {
           "title": "[Problem/Bug]: How to get all links in an iframe?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
@@ -15292,10 +15325,6 @@
         {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
-        },
-        {
-          "title": "[Bug]: Crash when accessing new WebView2 types in WinAppSDK 1.5",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4421"
         },
         {
           "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
@@ -18328,10 +18357,14 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [
         {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2102"
+          "title": "FREEMONEY",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2104"
         }
       ],
       "rate": "98.00"
@@ -21360,6 +21393,10 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22071,6 +22108,10 @@
     },
     {
       "date": "2024-04-03",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
