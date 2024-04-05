@@ -1,7 +1,6 @@
-Response rate: 81.25%
+Response rate: 80.75%
 
-* **webhintio/hint** - _82.00%_
-  * [[Feature] Update MDN compat data - it's 2 years old](https://github.com/webhintio/hint/issues/5824)
+* **webhintio/hint** - _84.00%_
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
@@ -13,7 +12,8 @@ Response rate: 81.25%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Wrong FR translation in DevTools](https://github.com/MicrosoftEdge/DevTools/issues/242)
-* **MicrosoftEdge/EdgeWebDriver** - _78.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _76.00%_
+  * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
@@ -26,6 +26,7 @@ Response rate: 81.25%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Feature]: Fast way to send large amounts of data to fronten...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468)
   * [[Problem/Bug]: WinUi3 Webview2 Input box in a web page does ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
@@ -41,7 +42,6 @@ Response rate: 81.25%
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
-  * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: The WebView control is no longer valid becaus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4452)
@@ -49,7 +49,9 @@ Response rate: 81.25%
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [feature request](https://github.com/microsoft/vscode-edge-devtools/issues/2106)
+  * [tt](https://github.com/microsoft/vscode-edge-devtools/issues/2105)
   * [FREEMONEY](https://github.com/microsoft/vscode-edge-devtools/issues/2104)
 * **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

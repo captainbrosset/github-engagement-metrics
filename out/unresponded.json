@@ -3026,11 +3026,11 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
-        {
-          "title": "[Feature] Update MDN compat data - it's 2 years old",
-          "url": "https://github.com/webhintio/hint/issues/5824"
-        },
         {
           "title": "cachae control missing Error",
           "url": "https://github.com/webhintio/hint/issues/5823"
@@ -3064,7 +3064,7 @@
           "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
-      "rate": "82.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6094,6 +6094,10 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9125,6 +9129,10 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
         {
           "title": "Wrong FR translation in DevTools",
@@ -12161,7 +12169,15 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
+        {
+          "title": "Launching msedge.exe with --no-sandbox command line switch",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
+        },
         {
           "title": "Local edge driver session - session not created exception",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
@@ -12207,7 +12223,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -15237,7 +15253,15 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Fast way to send large amounts of data to frontend",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468"
+        },
         {
           "title": "[Problem/Bug]: WinUi3 Webview2 Input box in a web page does not get focus and returning to Webview2 does not restaure focus on input box.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465"
@@ -15297,10 +15321,6 @@
         {
           "title": "[Problem/Bug]: Exception in async call from js bridge crashes application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
-        },
-        {
-          "title": "[Feature]: Add generatePdfDocumentOutline to print options",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
         },
         {
           "title": "[Problem/Bug]: Unable to View Page Source any more via SendInput",
@@ -18361,13 +18381,25 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
+        {
+          "title": "feature request",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2106"
+        },
+        {
+          "title": "tt",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2105"
+        },
         {
           "title": "FREEMONEY",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2104"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21397,6 +21429,10 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22112,6 +22148,10 @@
     },
     {
       "date": "2024-04-04",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
