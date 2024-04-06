@@ -3030,6 +3030,10 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
         {
           "title": "cachae control missing Error",
@@ -6098,6 +6102,10 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9133,13 +9141,21 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
+        {
+          "title": "Debugger pausing on ignore listed files ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/243"
+        },
         {
           "title": "Wrong FR translation in DevTools",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/242"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12173,11 +12189,11 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
-        {
-          "title": "Launching msedge.exe with --no-sandbox command line switch",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
-        },
         {
           "title": "Local edge driver session - session not created exception",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
@@ -12201,6 +12217,10 @@
         {
           "title": "XML file downloads are blocked",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
+        },
+        {
+          "title": "Launching msedge.exe with --no-sandbox command line switch",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         },
         {
           "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
@@ -15257,6 +15277,10 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
         {
           "title": "[Feature]: Fast way to send large amounts of data to frontend",
@@ -15327,6 +15351,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463"
         },
         {
+          "title": "[Problem/Bug]: Html page is not displayed in WebView2 edge 123.0.2420.65",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462"
+        },
+        {
           "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         },
@@ -15351,7 +15379,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18385,21 +18413,17 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
         {
-          "title": "feature request",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2106"
-        },
-        {
-          "title": "tt",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2105"
-        },
-        {
-          "title": "FREEMONEY",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2104"
+          "title": "bug flower",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2107"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21433,6 +21457,10 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22152,6 +22180,10 @@
     },
     {
       "date": "2024-04-05",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
