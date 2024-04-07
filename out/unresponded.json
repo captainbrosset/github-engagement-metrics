@@ -3034,6 +3034,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
         {
           "title": "cachae control missing Error",
@@ -6106,6 +6110,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9145,7 +9153,15 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
+        {
+          "title": "how to modify devtools UI font?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/244"
+        },
         {
           "title": "Debugger pausing on ignore listed files ",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/243"
@@ -9155,7 +9171,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/242"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12193,6 +12209,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15281,6 +15301,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
         {
           "title": "[Feature]: Fast way to send large amounts of data to frontend",
@@ -15347,6 +15371,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
         },
         {
+          "title": "[Feature]: Add generatePdfDocumentOutline to print options",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
+        },
+        {
           "title": "[Problem/Bug]: Unable to View Page Source any more via SendInput",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463"
         },
@@ -15379,7 +15407,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18417,13 +18445,21 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
+        {
+          "title": "we want copilot",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2108"
+        },
         {
           "title": "bug flower",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2107"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21461,6 +21497,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22184,6 +22224,10 @@
     },
     {
       "date": "2024-04-06",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 80.75%
+Response rate: 80.00%
 
 * **webhintio/hint** - _84.00%_
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
@@ -10,7 +10,8 @@ Response rate: 80.75%
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
   * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * [how to modify devtools UI font?](https://github.com/MicrosoftEdge/DevTools/issues/244)
   * [Debugger pausing on ignore listed files ](https://github.com/MicrosoftEdge/DevTools/issues/243)
   * [Wrong FR translation in DevTools](https://github.com/MicrosoftEdge/DevTools/issues/242)
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
@@ -26,7 +27,7 @@ Response rate: 80.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
   * [[Feature]: Fast way to send large amounts of data to fronten...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468)
   * [[Problem/Bug]: WinUi3 Webview2 Input box in a web page does ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
@@ -43,6 +44,7 @@ Response rate: 80.75%
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
   * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
+  * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
   * [[Problem/Bug]: Html page is not displayed in WebView2 edge 1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
@@ -51,7 +53,8 @@ Response rate: 80.75%
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
   * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [we want copilot](https://github.com/microsoft/vscode-edge-devtools/issues/2108)
   * [bug flower](https://github.com/microsoft/vscode-edge-devtools/issues/2107)
 * **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
