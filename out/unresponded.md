@@ -1,6 +1,7 @@
-Response rate: 80.00%
+Response rate: 79.25%
 
 * **webhintio/hint** - _84.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5826)
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
@@ -8,7 +9,6 @@ Response rate: 80.00%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
   * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
-  * [[Bug] `hint` doesn't seem to load for `.jsx` files.](https://github.com/webhintio/hint/issues/5702)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _94.00%_
   * [how to modify devtools UI font?](https://github.com/MicrosoftEdge/DevTools/issues/244)
@@ -28,6 +28,8 @@ Response rate: 80.00%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
+  * [[Problem/Bug]: Recent Loacation In pdf Files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4475)
   * [[Feature]: Fast way to send large amounts of data to fronten...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468)
   * [[Problem/Bug]: WinUi3 Webview2 Input box in a web page does ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465)
   * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
@@ -43,7 +45,6 @@ Response rate: 80.00%
   * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
-  * [[Problem/Bug]: Exception in async call from js bridge crashe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406)
   * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
   * [[Problem/Bug]: Html page is not displayed in WebView2 edge 1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462)
@@ -52,8 +53,10 @@ Response rate: 80.00%
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
-  * [After webview2 is loaded, it shows that there is an issue lo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Create devcontainer.json](https://github.com/microsoft/vscode-edge-devtools/pull/2111)
+  * [help](https://github.com/microsoft/vscode-edge-devtools/issues/2110)
+  * [Rename SECURITY.md to SECURITY](https://github.com/microsoft/vscode-edge-devtools/pull/2109)
   * [we want copilot](https://github.com/microsoft/vscode-edge-devtools/issues/2108)
   * [bug flower](https://github.com/microsoft/vscode-edge-devtools/issues/2107)
 * **microsoft/edge-devtools-network-console** - _40.00%_

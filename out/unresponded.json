@@ -3038,7 +3038,15 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5826"
+        },
         {
           "title": "cachae control missing Error",
           "url": "https://github.com/webhintio/hint/issues/5823"
@@ -3066,10 +3074,6 @@
         {
           "title": "[Bug] http-cache fails for object URLs",
           "url": "https://github.com/webhintio/hint/issues/5706"
-        },
-        {
-          "title": "[Bug] `hint` doesn't seem to load for `.jsx` files.",
-          "url": "https://github.com/webhintio/hint/issues/5702"
         }
       ],
       "rate": "84.00"
@@ -6114,6 +6118,10 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9157,6 +9165,10 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
         {
           "title": "how to modify devtools UI font?",
@@ -12213,6 +12225,10 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15305,7 +15321,19 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: interaction with pdf files",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
+        },
+        {
+          "title": "[Problem/Bug]: Recent Loacation In pdf Files",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4475"
+        },
         {
           "title": "[Feature]: Fast way to send large amounts of data to frontend",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468"
@@ -15367,10 +15395,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412"
         },
         {
-          "title": "[Problem/Bug]: Exception in async call from js bridge crashes application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4406"
-        },
-        {
           "title": "[Feature]: Add generatePdfDocumentOutline to print options",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
         },
@@ -15401,10 +15425,6 @@
         {
           "title": "ICoreWebView2DownloadOperation handlers not called after page navigation during download operation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
-        },
-        {
-          "title": "After webview2 is loaded, it shows that there is an issue loading this source. Please refresh the source",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4405"
         }
       ],
       "rate": "50.00"
@@ -18449,7 +18469,23 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
+        {
+          "title": "Create devcontainer.json",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2111"
+        },
+        {
+          "title": "help",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2110"
+        },
+        {
+          "title": "Rename SECURITY.md to SECURITY",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2109"
+        },
         {
           "title": "we want copilot",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2108"
@@ -18459,7 +18495,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2107"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21501,6 +21537,10 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22228,6 +22268,10 @@
     },
     {
       "date": "2024-04-07",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
