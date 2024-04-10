@@ -1,16 +1,14 @@
-Response rate: 81.75%
+Response rate: 82.50%
 
-* **webhintio/hint** - _86.00%_
+* **webhintio/hint** - _88.00%_
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-  * [[Bug] http-cache fails for object URLs](https://github.com/webhintio/hint/issues/5706)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Debugger pausing on ignore listed files ](https://github.com/MicrosoftEdge/DevTools/issues/243)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -24,10 +22,8 @@ Response rate: 81.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [[Feature]: Fast way to send large amounts of data to fronten...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468)
-  * [[Problem/Bug]: WinUi3 Webview2 Input box in a web page does ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4465)
-  * [[Feature] Requesting the possibility to have better granular...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4460)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
@@ -40,7 +36,8 @@ Response rate: 81.75%
   * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Problem/Bug]: Webview2 issue on Windows Server 2022](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414)
   * [Can not release webview2,memory leak](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412)
-  * [[Problem/Bug]: Unable to View Page Source any more via SendI...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4463)
+  * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
+  * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Problem/Bug]: Html page is not displayed in WebView2 edge 1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: The WebView control is no longer valid becaus...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4452)
