@@ -3050,7 +3050,15 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [
+        {
+          "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
+          "url": "https://github.com/webhintio/hint/issues/5829"
+        },
         {
           "title": "cachae control missing Error",
           "url": "https://github.com/webhintio/hint/issues/5823"
@@ -3076,7 +3084,7 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6130,6 +6138,10 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9185,8 +9197,17 @@
     },
     {
       "date": "2024-04-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-11",
+      "unRespondedItems": [
+        {
+          "title": "New JSON Viewer is changing the JSON serialized value for some numbers",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/246"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12240,6 +12261,10 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15344,7 +15369,19 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
+        },
+        {
+          "title": "[Problem/Bug]: NavigateToString does not work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481"
+        },
         {
           "title": "[Feature]: Fast way to send large amounts of data to frontend",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468"
@@ -15390,10 +15427,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416"
         },
         {
-          "title": "[Problem/Bug]: Webview2 issue on Windows Server 2022",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4414"
-        },
-        {
           "title": "Can not release webview2,memory leak",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412"
         },
@@ -15430,7 +15463,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18484,13 +18517,21 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [
+        {
+          "title": "asa",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2115"
+        },
         {
           "title": "Create devcontainer.json",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2111"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21544,6 +21585,10 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22283,6 +22328,10 @@
     },
     {
       "date": "2024-04-10",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
