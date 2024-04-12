@@ -3054,6 +3054,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6142,6 +6146,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9201,6 +9209,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
         {
           "title": "New JSON Viewer is changing the JSON serialized value for some numbers",
@@ -12265,6 +12277,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15373,7 +15389,15 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Application freeze after DPI change",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485"
+        },
         {
           "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
@@ -15397,10 +15421,6 @@
         {
           "title": "[Problem/Bug]: WebView2 crashed unexpectedly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450"
-        },
-        {
-          "title": "[Bug]: [Accessibility] Narrator reads \"text\" after close button",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449"
         },
         {
           "title": "[Problem/Bug]: PDF Printing: ColorMode appears to be ignored",
@@ -15427,10 +15447,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416"
         },
         {
-          "title": "Can not release webview2,memory leak",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4412"
-        },
-        {
           "title": "[Feature]: interaction with pdf files",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
         },
@@ -15439,16 +15455,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
         },
         {
-          "title": "[Problem/Bug]: Html page is not displayed in WebView2 edge 123.0.2420.65",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4462"
-        },
-        {
           "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         },
         {
           "title": "[Problem/Bug]: The WebView control is no longer valid because the browser process crashed",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4452"
+        },
+        {
+          "title": "[Bug]: [Accessibility] Narrator reads \"text\" after close button",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449"
         },
         {
           "title": "[Problem/Bug]: How to get all links in an iframe?",
@@ -15463,7 +15479,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18521,17 +18537,17 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
-        {
-          "title": "asa",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2115"
-        },
         {
           "title": "Create devcontainer.json",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2111"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21589,6 +21605,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22332,6 +22352,10 @@
     },
     {
       "date": "2024-04-11",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-04-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -22430,6 +22454,10 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/93"
         },
         {
+          "title": "Bump async from 2.6.3 to 2.6.4 in /packages/devtools-network-console",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/90"
+        },
+        {
           "title": "Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/84"
         },
@@ -22454,7 +22482,7 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/78"
         }
       ],
-      "rate": "40.00"
+      "rate": "38.00"
     }
   ]
 }
