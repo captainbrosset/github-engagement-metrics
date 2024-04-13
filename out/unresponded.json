@@ -3058,6 +3058,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6150,6 +6154,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9213,6 +9221,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
         {
           "title": "New JSON Viewer is changing the JSON serialized value for some numbers",
@@ -12281,6 +12293,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15393,6 +15409,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Application freeze after DPI change",
@@ -18541,13 +18561,21 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
+        {
+          "title": "COLOR.CSS",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2117"
+        },
         {
           "title": "Create devcontainer.json",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2111"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21609,6 +21637,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22356,6 +22388,10 @@
     },
     {
       "date": "2024-04-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
