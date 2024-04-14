@@ -1,4 +1,4 @@
-Response rate: 81.50%
+Response rate: 80.82%
 
 * **webhintio/hint** - _86.00%_
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -8,7 +8,8 @@ Response rate: 81.50%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-* **MicrosoftEdge/demos** - _100.00%_
+* **MicrosoftEdge/demos** - _96.77%_
+  * [Fix source code link devtools-postmessage-perf-timeline, sor...](https://github.com/MicrosoftEdge/Demos/pull/35)
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [New JSON Viewer is changing the JSON serialized value for so...](https://github.com/MicrosoftEdge/DevTools/issues/246)
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
@@ -81,4 +82,5 @@ Response rate: 81.50%
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.78%_
+  * [HTTP (Hypertext Transfer Protocol) is a request and response...](https://github.com/MicrosoftDocs/edge-developer/issues/3130)
