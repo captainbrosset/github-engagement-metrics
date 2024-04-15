@@ -3066,6 +3066,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6166,6 +6170,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "96.77"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "Fix source code link devtools-postmessage-perf-timeline, sort new entries",
@@ -9242,6 +9250,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "New JSON Viewer is changing the JSON serialized value for some numbers",
@@ -12318,6 +12330,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15438,6 +15454,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Application freeze after DPI change",
@@ -18594,7 +18614,19 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
+        {
+          "title": "live server is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2119"
+        },
+        {
+          "title": "file not execute",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2118"
+        },
         {
           "title": "COLOR.CSS",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2117"
@@ -18604,7 +18636,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2111"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21674,13 +21706,21 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
+        {
+          "title": "chrome is not defined",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3131"
+        },
         {
           "title": "HTTP (Hypertext Transfer Protocol) is a request and response protocol used to send a request to a server and receive a response back in the form of a file. HTTP is the basis of data communication for the web. HTTPS is an evolution in HTTP, where the “S” stands for secure socket layer allowing communication in HTTP to be more secure.",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3130"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22434,6 +22474,10 @@
     },
     {
       "date": "2024-04-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

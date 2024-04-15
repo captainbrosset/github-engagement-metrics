@@ -1,4 +1,4 @@
-Response rate: 80.82%
+Response rate: 80.04%
 
 * **webhintio/hint** - _86.00%_
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -47,7 +47,9 @@ Response rate: 80.82%
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
   * [ICoreWebView2DownloadOperation handlers not called after pag...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4435)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [live server is not working](https://github.com/microsoft/vscode-edge-devtools/issues/2119)
+  * [file not execute](https://github.com/microsoft/vscode-edge-devtools/issues/2118)
   * [COLOR.CSS](https://github.com/microsoft/vscode-edge-devtools/issues/2117)
   * [Create devcontainer.json](https://github.com/microsoft/vscode-edge-devtools/pull/2111)
 * **microsoft/edge-devtools-network-console** - _38.00%_
@@ -82,5 +84,6 @@ Response rate: 80.82%
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
   * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
   * [Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/78)
-* **MicrosoftDocs/edge-developer** - _97.78%_
+* **MicrosoftDocs/edge-developer** - _95.56%_
+  * [chrome is not defined](https://github.com/MicrosoftDocs/edge-developer/issues/3131)
   * [HTTP (Hypertext Transfer Protocol) is a request and response...](https://github.com/MicrosoftDocs/edge-developer/issues/3130)
