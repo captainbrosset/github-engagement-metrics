@@ -1,4 +1,4 @@
-Response rate: 82.50%
+Response rate: 81.36%
 
 * **webhintio/hint** - _86.00%_
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -8,8 +8,10 @@ Response rate: 82.50%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-* **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/demos** - _96.88%_
+  * [Sync table of DevTools samples, clean up sample](https://github.com/MicrosoftEdge/Demos/pull/36)
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Always syncing CSS changes in the Styles pane](https://github.com/MicrosoftEdge/DevTools/issues/247)
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -24,6 +26,7 @@ Response rate: 82.50%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
@@ -36,15 +39,16 @@ Response rate: 82.50%
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
   * [[Problem/Bug]: Navigate to a normal web page but  trigger a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417)
-  * [[Problem/Bug]: If the <TargetFramework> is a .NET Framework ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4416)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
   * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Bug]: [Accessibility] Narrator reads "text" after close but...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [cAlgo.api](https://github.com/microsoft/vscode-edge-devtools/issues/2121)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [www.jesutomisinodukoya.com](https://github.com/microsoft/vscode-edge-devtools/issues/2124)
+  * [https//www.jesutomisinodukoya.com](https://github.com/microsoft/vscode-edge-devtools/issues/2123)
+  * [Edge](https://github.com/microsoft/vscode-edge-devtools/issues/2122)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
