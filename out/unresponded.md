@@ -1,4 +1,4 @@
-Response rate: 81.36%
+Response rate: 82.00%
 
 * **webhintio/hint** - _86.00%_
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -8,8 +8,7 @@ Response rate: 81.36%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-* **MicrosoftEdge/demos** - _96.88%_
-  * [Sync table of DevTools samples, clean up sample](https://github.com/MicrosoftEdge/Demos/pull/36)
+* **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Always syncing CSS changes in the Styles pane](https://github.com/MicrosoftEdge/DevTools/issues/247)
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
@@ -26,6 +25,7 @@ Response rate: 81.36%
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
@@ -38,18 +38,14 @@ Response rate: 81.36%
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
-  * [[Problem/Bug]: Navigate to a normal web page but  trigger a ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
   * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Bug]: [Accessibility] Narrator reads "text" after close but...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [www.jesutomisinodukoya.com](https://github.com/microsoft/vscode-edge-devtools/issues/2124)
-  * [https//www.jesutomisinodukoya.com](https://github.com/microsoft/vscode-edge-devtools/issues/2123)
-  * [Edge](https://github.com/microsoft/vscode-edge-devtools/issues/2122)
-* **microsoft/edge-devtools-network-console** - _38.00%_
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/edge-devtools-network-console** - _34.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -74,6 +70,8 @@ Response rate: 81.36%
   * [Bump terser from 4.6.11 to 4.8.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/96)
   * [Bump jsdom from 16.4.0 to 16.7.0 in /packages/devtools-netwo...](https://github.com/microsoft/edge-devtools-network-console/pull/94)
   * [Bump eventsource from 1.0.7 to 1.1.1 in /packages/devtools-n...](https://github.com/microsoft/edge-devtools-network-console/pull/93)
+  * [suggestion: option to add request to collection from network...](https://github.com/microsoft/edge-devtools-network-console/issues/92)
+  * [First collection not autoseclected when trying to save reque...](https://github.com/microsoft/edge-devtools-network-console/issues/91)
   * [Bump async from 2.6.3 to 2.6.4 in /packages/devtools-network...](https://github.com/microsoft/edge-devtools-network-console/pull/90)
   * [Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools...](https://github.com/microsoft/edge-devtools-network-console/pull/84)
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)

@@ -3078,6 +3078,10 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6190,13 +6194,12 @@
     },
     {
       "date": "2024-04-17",
-      "unRespondedItems": [
-        {
-          "title": "Sync table of DevTools samples, clean up sample",
-          "url": "https://github.com/MicrosoftEdge/Demos/pull/36"
-        }
-      ],
       "rate": "96.88"
+    },
+    {
+      "date": "2024-04-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -9278,6 +9281,10 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12366,6 +12373,10 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15498,7 +15509,15 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Profile deleted immediately upon calling Deleted rather than being scheduled for when the browser process exits",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
+        },
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489"
@@ -15546,10 +15565,6 @@
         {
           "title": "[Problem/Bug]: Devtools can't dock to the form that opened it",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423"
-        },
-        {
-          "title": "[Problem/Bug]: Navigate to a normal web page but  trigger a file download callback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4417"
         },
         {
           "title": "[Feature]: interaction with pdf files",
@@ -18658,21 +18673,12 @@
     },
     {
       "date": "2024-04-17",
-      "unRespondedItems": [
-        {
-          "title": "www.jesutomisinodukoya.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2124"
-        },
-        {
-          "title": "https//www.jesutomisinodukoya.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2123"
-        },
-        {
-          "title": "Edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2122"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2024-04-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21754,6 +21760,10 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22521,6 +22531,10 @@
     },
     {
       "date": "2024-04-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -22619,6 +22633,14 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/93"
         },
         {
+          "title": "suggestion: option to add request to collection from network tab itself",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/issues/92"
+        },
+        {
+          "title": "First collection not autoseclected when trying to save request in collection",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/issues/91"
+        },
+        {
           "title": "Bump async from 2.6.3 to 2.6.4 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/90"
         },
@@ -22647,7 +22669,7 @@
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/78"
         }
       ],
-      "rate": "38.00"
+      "rate": "34.00"
     }
   ]
 }
