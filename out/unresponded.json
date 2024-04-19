@@ -3082,6 +3082,10 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6198,6 +6202,10 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9285,6 +9293,10 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12377,6 +12389,10 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15513,11 +15529,11 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: Profile deleted immediately upon calling Deleted rather than being scheduled for when the browser process exits",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
-        },
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489"
@@ -15565,6 +15581,10 @@
         {
           "title": "[Problem/Bug]: Devtools can't dock to the form that opened it",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423"
+        },
+        {
+          "title": "[Problem/Bug]: Profile deleted immediately upon calling Delete rather than being scheduled for when the browser process exits",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
         },
         {
           "title": "[Feature]: interaction with pdf files",
@@ -18677,8 +18697,17 @@
     },
     {
       "date": "2024-04-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-19",
+      "unRespondedItems": [
+        {
+          "title": "litoarcele",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2127"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21764,8 +21793,17 @@
     },
     {
       "date": "2024-04-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-19",
+      "unRespondedItems": [
+        {
+          "title": "https://online.anyflip.com/tblfs/hrmy/mobile/index.html",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3133"
+        }
+      ],
+      "rate": "97.67"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22535,6 +22573,10 @@
     },
     {
       "date": "2024-04-18",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-04-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -22663,13 +22705,9 @@
         {
           "title": "Bump pathval from 1.1.0 to 1.1.1 in /packages/network-console-shared",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/79"
-        },
-        {
-          "title": "Bump nanoid from 3.1.16 to 3.2.0 in /packages/devtools-network-console",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/78"
         }
       ],
-      "rate": "34.00"
+      "rate": "36.00"
     }
   ]
 }
