@@ -3086,6 +3086,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
@@ -6206,6 +6210,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9297,6 +9305,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12393,6 +12405,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15533,6 +15549,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
@@ -15565,10 +15585,6 @@
         {
           "title": "[Problem/Bug]: WebView2 crashed unexpectedly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450"
-        },
-        {
-          "title": "[Problem/Bug]: PDF Printing: ColorMode appears to be ignored",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4445"
         },
         {
           "title": "[Problem/Bug]: In IFrame, when WebResourceResponseReceived , var res = await e.Response.GetContentAsync() will make thread suspend",
@@ -15611,7 +15627,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18701,13 +18717,25 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
+        {
+          "title": "My Visual studio Is reset",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2129"
+        },
+        {
+          "title": "Psikotes BMT DAQU",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2128"
+        },
         {
           "title": "litoarcele",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2127"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21797,13 +21825,17 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "97.67"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "https://online.anyflip.com/tblfs/hrmy/mobile/index.html",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3133"
         }
       ],
-      "rate": "97.67"
+      "rate": "97.73"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22577,6 +22609,10 @@
     },
     {
       "date": "2024-04-19",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-04-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
