@@ -3098,7 +3098,15 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [
+        {
+          "title": "[Bug] No browser detected even if two installed & working",
+          "url": "https://github.com/webhintio/hint/issues/5832"
+        },
         {
           "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
           "url": "https://github.com/webhintio/hint/issues/5829"
@@ -3128,7 +3136,7 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6230,6 +6238,10 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9333,6 +9345,10 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12441,6 +12457,10 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15593,7 +15613,15 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [
+        {
+          "title": "How can we close the new popup WebView2 window?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4495"
+        },
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489"
@@ -15601,10 +15629,6 @@
         {
           "title": "[Problem/Bug]: Application freeze after DPI change",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485"
-        },
-        {
-          "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
         },
         {
           "title": "[Problem/Bug]: NavigateToString does not work",
@@ -18769,21 +18793,12 @@
     },
     {
       "date": "2024-04-22",
-      "unRespondedItems": [
-        {
-          "title": "My Visual studio Is reset",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2129"
-        },
-        {
-          "title": "Psikotes BMT DAQU",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2128"
-        },
-        {
-          "title": "litoarcele",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2127"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2024-04-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21885,13 +21900,12 @@
     },
     {
       "date": "2024-04-22",
-      "unRespondedItems": [
-        {
-          "title": "https://online.anyflip.com/tblfs/hrmy/mobile/index.html",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3133"
-        }
-      ],
       "rate": "97.73"
+    },
+    {
+      "date": "2024-04-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22677,6 +22691,10 @@
     },
     {
       "date": "2024-04-22",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-04-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
