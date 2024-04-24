@@ -3102,6 +3102,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -6242,6 +6246,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9349,6 +9357,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12461,6 +12473,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15617,6 +15633,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [
         {
           "title": "How can we close the new popup WebView2 window?",
@@ -15633,10 +15653,6 @@
         {
           "title": "[Problem/Bug]: NavigateToString does not work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481"
-        },
-        {
-          "title": "[Feature]: Fast way to send large amounts of data to frontend",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468"
         },
         {
           "title": "[Problem/Bug]: Webview2 Not position on High scaled monitor when gdiScaling is DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED",
@@ -15671,10 +15687,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
         },
         {
-          "title": "[Feature]: Add generatePdfDocumentOutline to print options",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466"
-        },
-        {
           "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         },
@@ -15691,7 +15703,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         }
       ],
-      "rate": "64.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18797,8 +18809,21 @@
     },
     {
       "date": "2024-04-23",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-24",
+      "unRespondedItems": [
+        {
+          "title": "zd ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2133"
+        },
+        {
+          "title": "sel",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2132"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21904,6 +21929,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22695,6 +22724,10 @@
     },
     {
       "date": "2024-04-23",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-04-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -22819,13 +22852,9 @@
         {
           "title": "Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-shared",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/80"
-        },
-        {
-          "title": "Bump pathval from 1.1.0 to 1.1.1 in /packages/network-console-shared",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/79"
         }
       ],
-      "rate": "36.00"
+      "rate": "38.00"
     }
   ]
 }

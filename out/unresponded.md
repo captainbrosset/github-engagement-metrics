@@ -1,4 +1,4 @@
-Response rate: 82.25%
+Response rate: 82.50%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
@@ -25,12 +25,11 @@ Response rate: 82.25%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
   * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _68.00%_
   * [How can we close the new popup WebView2 window?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4495)
   * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
-  * [[Feature]: Fast way to send large amounts of data to fronten...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4468)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
@@ -39,13 +38,14 @@ Response rate: 82.25%
   * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-  * [[Feature]: Add generatePdfDocumentOutline to print options](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4466)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Bug]: [Accessibility] Narrator reads "text" after close but...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _100.00%_
-* **microsoft/edge-devtools-network-console** - _36.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [zd ](https://github.com/microsoft/vscode-edge-devtools/issues/2133)
+  * [sel](https://github.com/microsoft/vscode-edge-devtools/issues/2132)
+* **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -77,5 +77,4 @@ Response rate: 82.25%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-  * [Bump pathval from 1.1.0 to 1.1.1 in /packages/network-consol...](https://github.com/microsoft/edge-devtools-network-console/pull/79)
 * **MicrosoftDocs/edge-developer** - _100.00%_
