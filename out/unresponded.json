@@ -3106,6 +3106,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -6250,6 +6254,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9361,6 +9369,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12477,7 +12489,15 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [
+        {
+          "title": "Not able to disable auto profile switching and auto signing feature",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/142"
+        },
         {
           "title": "Local edge driver session - session not created exception",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
@@ -12521,10 +12541,6 @@
         {
           "title": "When we set the capability \"webSocketUrl\" to true for chromium browsers, the new tab or window opened with anchor tag click, hangs up.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
-        },
-        {
-          "title": "Unable to interact with Web elements using InternetExplorerDriver attached to EdgeDriver",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91"
         }
       ],
       "rate": "76.00"
@@ -15637,6 +15653,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [
         {
           "title": "How can we close the new popup WebView2 window?",
@@ -15675,12 +15695,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424"
         },
         {
-          "title": "[Problem/Bug]: Devtools can't dock to the form that opened it",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423"
-        },
-        {
           "title": "[Problem/Bug]: Profile deleted immediately upon calling Delete rather than being scheduled for when the browser process exits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
+        },
+        {
+          "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
         },
         {
           "title": "[Feature]: interaction with pdf files",
@@ -18813,17 +18833,12 @@
     },
     {
       "date": "2024-04-24",
-      "unRespondedItems": [
-        {
-          "title": "zd ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2133"
-        },
-        {
-          "title": "sel",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2132"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-04-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -21933,6 +21948,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22728,6 +22747,10 @@
     },
     {
       "date": "2024-04-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

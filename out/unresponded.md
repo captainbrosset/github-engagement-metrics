@@ -1,4 +1,4 @@
-Response rate: 82.50%
+Response rate: 83.00%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
@@ -13,6 +13,7 @@ Response rate: 82.50%
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Always syncing CSS changes in the Styles pane](https://github.com/MicrosoftEdge/DevTools/issues/247)
 * **MicrosoftEdge/EdgeWebDriver** - _76.00%_
+  * [Not able to disable auto profile switching and auto signing ...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/142)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
@@ -24,7 +25,6 @@ Response rate: 82.50%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-  * [Unable to interact with Web elements using InternetExplorerD...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/91)
 * **MicrosoftEdge/WebView2Feedback** - _68.00%_
   * [How can we close the new popup WebView2 window?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4495)
   * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
@@ -35,16 +35,14 @@ Response rate: 82.50%
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
   * [[Problem/Bug]: In IFrame, when WebResourceResponseReceived ,...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433)
   * [[Problem/Bug]: Link opening in new window and triggering New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424)
-  * [[Problem/Bug]: Devtools can't dock to the form that opened i...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4423)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
+  * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Bug]: [Accessibility] Narrator reads "text" after close but...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [zd ](https://github.com/microsoft/vscode-edge-devtools/issues/2133)
-  * [sel](https://github.com/microsoft/vscode-edge-devtools/issues/2132)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
