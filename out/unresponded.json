@@ -3110,6 +3110,10 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -6258,6 +6262,10 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9373,13 +9381,21 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [
+        {
+          "title": "Dyslexia friendly front  / text to speech ",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/249"
+        },
         {
           "title": "Always syncing CSS changes in the Styles pane",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/247"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12493,11 +12509,11 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [
-        {
-          "title": "Not able to disable auto profile switching and auto signing feature",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/142"
-        },
         {
           "title": "Local edge driver session - session not created exception",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
@@ -12543,7 +12559,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "76.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -15657,7 +15673,23 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
+        },
+        {
+          "title": "[Problem/Bug]: Invoked Async HostObject method that returns null crashes WebView",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4509"
+        },
+        {
+          "title": "Send Input Key",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505"
+        },
         {
           "title": "How can we close the new popup WebView2 window?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4495"
@@ -15691,10 +15723,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4433"
         },
         {
-          "title": "[Problem/Bug]: Link opening in new window and triggering NewWindow event has no URI to handle in the NewWindow event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4424"
-        },
-        {
           "title": "[Problem/Bug]: Profile deleted immediately upon calling Delete rather than being scheduled for when the browser process exits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
         },
@@ -15723,7 +15751,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18837,6 +18865,10 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21952,6 +21984,10 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22751,6 +22787,10 @@
     },
     {
       "date": "2024-04-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
