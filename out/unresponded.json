@@ -3114,6 +3114,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -6266,6 +6270,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9385,6 +9393,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [
         {
           "title": "Dyslexia friendly front  / text to speech ",
@@ -12513,6 +12525,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15677,7 +15693,15 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Make ZoomFactorChanged communicate the direction we got zoomed in",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511"
+        },
         {
           "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
@@ -15689,10 +15713,6 @@
         {
           "title": "Send Input Key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505"
-        },
-        {
-          "title": "How can we close the new popup WebView2 window?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4495"
         },
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
@@ -15739,10 +15759,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         },
         {
-          "title": "[Bug]: [Accessibility] Narrator reads \"text\" after close button",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4449"
-        },
-        {
           "title": "[Problem/Bug]: How to get all links in an iframe?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
@@ -15751,7 +15767,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         }
       ],
-      "rate": "64.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18869,6 +18885,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -21988,6 +22008,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22791,6 +22815,10 @@
     },
     {
       "date": "2024-04-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
