@@ -1,4 +1,4 @@
-Response rate: 82.75%
+Response rate: 81.50%
 
 * **webhintio/hint** - _84.00%_
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
@@ -26,7 +26,7 @@ Response rate: 82.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _66.00%_
-  * [[Feature]: Make ZoomFactorChanged communicate the direction ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
+  * [[Feature]: Expose zoom direction in ZoomFactorChanged event ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
   * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [[Problem/Bug]: Invoked Async HostObject method that returns ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4509)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
@@ -43,7 +43,12 @@ Response rate: 82.75%
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [javascript language](https://github.com/microsoft/vscode-edge-devtools/issues/2139)
+  * [rom keras.layers import Input, Lambda, Dense, Flatten](https://github.com/microsoft/vscode-edge-devtools/issues/2138)
+  * [rearrange my code into short](https://github.com/microsoft/vscode-edge-devtools/issues/2136)
+  * [VS code is not clear working](https://github.com/microsoft/vscode-edge-devtools/issues/2135)
+  * [noncebuild.py](https://github.com/microsoft/vscode-edge-devtools/issues/2137)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

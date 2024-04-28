@@ -3118,6 +3118,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -6274,6 +6278,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9397,6 +9405,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [
         {
           "title": "Dyslexia friendly front  / text to speech ",
@@ -12529,6 +12541,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15697,9 +15713,13 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [
         {
-          "title": "[Feature]: Make ZoomFactorChanged communicate the direction we got zoomed in",
+          "title": "[Feature]: Expose zoom direction in ZoomFactorChanged event handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511"
         },
         {
@@ -18889,8 +18909,33 @@
     },
     {
       "date": "2024-04-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-28",
+      "unRespondedItems": [
+        {
+          "title": "javascript language",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2139"
+        },
+        {
+          "title": "rom keras.layers import Input, Lambda, Dense, Flatten",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2138"
+        },
+        {
+          "title": "rearrange my code into short",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2136"
+        },
+        {
+          "title": "VS code is not clear working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2135"
+        },
+        {
+          "title": "noncebuild.py",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2137"
+        }
+      ],
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22012,6 +22057,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -22819,6 +22868,10 @@
     },
     {
       "date": "2024-04-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
