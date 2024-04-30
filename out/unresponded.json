@@ -3126,6 +3126,10 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
         {
           "title": "[Bug] No browser detected even if two installed & working",
@@ -3160,7 +3164,7 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "84.00"
+      "rate": "83.67"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6290,6 +6294,10 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9421,17 +9429,17 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
-        {
-          "title": "Dyslexia friendly front  / text to speech ",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/249"
-        },
         {
           "title": "Always syncing CSS changes in the Styles pane",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/247"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12561,6 +12569,10 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15737,6 +15749,10 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
         {
           "title": "--enable-features=msWebView2BrowserHitTransparent Causes the program to crash in ",
@@ -15745,14 +15761,6 @@
         {
           "title": "[Feature]: Expose zoom direction in ZoomFactorChanged event handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511"
-        },
-        {
-          "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
-        },
-        {
-          "title": "[Problem/Bug]: Invoked Async HostObject method that returns null crashes WebView",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4509"
         },
         {
           "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
@@ -15803,11 +15811,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         },
         {
+          "title": "[Problem/Bug]: Downloads Hub flyout escapes application boundary in multiple monitor setup",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442"
+        },
+        {
           "title": "[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-debugging-port=0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438"
         }
       ],
-      "rate": "66.00"
+      "rate": "68.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -18937,29 +18949,17 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
         {
-          "title": "javascript language",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2139"
-        },
-        {
-          "title": "rom keras.layers import Input, Lambda, Dense, Flatten",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2138"
-        },
-        {
-          "title": "rearrange my code into short",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2136"
-        },
-        {
-          "title": "VS code is not clear working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2135"
-        },
-        {
-          "title": "noncebuild.py",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2137"
+          "title": "Share Option of code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2141"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22089,8 +22089,17 @@
     },
     {
       "date": "2024-04-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-04-30",
+      "unRespondedItems": [
+        {
+          "title": "I think the page is outdated",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3139"
+        }
+      ],
+      "rate": "97.78"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -22904,6 +22913,10 @@
     },
     {
       "date": "2024-04-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-04-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
