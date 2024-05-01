@@ -1,6 +1,7 @@
-Response rate: 82.68%
+Response rate: 81.72%
 
-* **webhintio/hint** - _83.67%_
+* **webhintio/hint** - _82.00%_
+  * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
@@ -24,15 +25,17 @@ Response rate: 82.68%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [[Problem/Bug]: With CoreWebView2.SetVirtualHostNameToFolderM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4516)
+  * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
   * [--enable-features=msWebView2BrowserHitTransparent Causes the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512)
   * [[Feature]: Expose zoom direction in ZoomFactorChanged event ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
   * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
-  * [[Problem/Bug]: Prevent opening a window via CoreWebView2 New...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4453)
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
+  * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
@@ -40,9 +43,10 @@ Response rate: 82.68%
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
   * [[Problem/Bug]: Downloads Hub flyout escapes application boun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4442)
-  * [[Problem/Bug]: ERR_HTTP2_PROTOCOL_ERROR when using --remote-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4438)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [Share Option of code](https://github.com/microsoft/vscode-edge-devtools/issues/2141)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [<!DOCTYPE html> <html lang="en"> <head>     <meta charset="U...](https://github.com/microsoft/vscode-edge-devtools/issues/2144)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2143)
+  * [jondi](https://github.com/microsoft/vscode-edge-devtools/issues/2142)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -76,4 +80,4 @@ Response rate: 82.68%
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
 * **MicrosoftDocs/edge-developer** - _97.78%_
-  * [I think the page is outdated](https://github.com/MicrosoftDocs/edge-developer/issues/3139)
+  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3142)
