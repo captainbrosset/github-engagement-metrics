@@ -1,4 +1,4 @@
-Response rate: 81.22%
+Response rate: 79.72%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -25,7 +25,9 @@ Response rate: 81.22%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _68.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Feature]: Add a WinRTAdapter project template for both UWP/...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521)
+  * [Issue with Single Sign-On (SSO) Implementation in WPF Applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520)
   * [[Bug]: WPF hybrid - touch in WebView2 makes mouse invisible ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4518)
   * [[Problem/Bug]: With CoreWebView2.SetVirtualHostNameToFolderM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4516)
   * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
@@ -36,18 +38,22 @@ Response rate: 81.22%
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
+  * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
+  * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
   * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [localhost:8080/liatings open nhi ho raha h](https://github.com/microsoft/vscode-edge-devtools/issues/2151)
+  * [The file that i have in VS code: no muestra la pagina web co...](https://github.com/microsoft/vscode-edge-devtools/issues/2150)
+  * [Please add support for cursor: pointer](https://github.com/microsoft/vscode-edge-devtools/issues/2149)
+  * [The Developer Tools Sometimes Fail to Load](https://github.com/microsoft/vscode-edge-devtools/issues/2148)
   * [Edge DevTools Extension Fails to Launch Visible Browser and ...](https://github.com/microsoft/vscode-edge-devtools/issues/2147)
   * [devtools for runnig react code](https://github.com/microsoft/vscode-edge-devtools/issues/2146)
   * [devtools](https://github.com/microsoft/vscode-edge-devtools/issues/2145)
-  * [<!DOCTYPE html> <html lang="en"> <head>     <meta charset="U...](https://github.com/microsoft/vscode-edge-devtools/issues/2144)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2143)
   * [jondi](https://github.com/microsoft/vscode-edge-devtools/issues/2142)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
