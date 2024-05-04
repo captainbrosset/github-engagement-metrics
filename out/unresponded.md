@@ -1,4 +1,4 @@
-Response rate: 79.72%
+Response rate: 81.25%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -25,7 +25,9 @@ Response rate: 79.72%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Problem/Bug]: GetResponseAsync in WebResourceResponseReceiv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530)
+  * [[Feature]: Fire WebResourceResponseReceived Event for frames...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529)
   * [[Feature]: Add a WinRTAdapter project template for both UWP/...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521)
   * [Issue with Single Sign-On (SSO) Implementation in WPF Applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520)
   * [[Bug]: WPF hybrid - touch in WebView2 makes mouse invisible ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4518)
@@ -38,23 +40,16 @@ Response rate: 79.72%
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
   * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [[Problem/Bug]: WebView2 crashed unexpectedly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450)
+  * [UI sometimes becomes uninteractive with the mouse after sele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
-  * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
   * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
-  * [[Problem/Bug]: How to get all links in an iframe?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447)
-* **microsoft/vscode-edge-devtools** - _84.00%_
-  * [localhost:8080/liatings open nhi ho raha h](https://github.com/microsoft/vscode-edge-devtools/issues/2151)
-  * [The file that i have in VS code: no muestra la pagina web co...](https://github.com/microsoft/vscode-edge-devtools/issues/2150)
-  * [Please add support for cursor: pointer](https://github.com/microsoft/vscode-edge-devtools/issues/2149)
-  * [The Developer Tools Sometimes Fail to Load](https://github.com/microsoft/vscode-edge-devtools/issues/2148)
-  * [Edge DevTools Extension Fails to Launch Visible Browser and ...](https://github.com/microsoft/vscode-edge-devtools/issues/2147)
-  * [devtools for runnig react code](https://github.com/microsoft/vscode-edge-devtools/issues/2146)
-  * [devtools](https://github.com/microsoft/vscode-edge-devtools/issues/2145)
-  * [jondi](https://github.com/microsoft/vscode-edge-devtools/issues/2142)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [oke](https://github.com/microsoft/vscode-edge-devtools/issues/2156)
+  * [Database used to show warnings/notes (CSS) seems to be outda...](https://github.com/microsoft/vscode-edge-devtools/issues/2155)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -87,5 +82,4 @@ Response rate: 79.72%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3142)
+* **MicrosoftDocs/edge-developer** - _100.00%_

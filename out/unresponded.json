@@ -3142,6 +3142,10 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6326,6 +6330,10 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9473,6 +9481,10 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12625,6 +12637,10 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15817,7 +15833,19 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: GetResponseAsync in WebResourceResponseReceived does not return correct server response for PDFs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530"
+        },
+        {
+          "title": "[Feature]: Fire WebResourceResponseReceived Event for frames",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529"
+        },
         {
           "title": "[Feature]: Add a WinRTAdapter project template for both UWP/WinUI3/Packaged/Unpackaged to Visual Studio",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521"
@@ -15867,12 +15895,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450"
         },
         {
-          "title": "[Feature]: Add WillZoomFactorChange event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
+          "title": "UI sometimes becomes uninteractive with the mouse after selecting a file from a file input (.NET MAUI Blazor)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531"
         },
         {
-          "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
+          "title": "[Feature]: Add WillZoomFactorChange event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
         },
         {
           "title": "Send Input Key",
@@ -15893,13 +15921,9 @@
         {
           "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
-        },
-        {
-          "title": "[Problem/Bug]: How to get all links in an iframe?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4447"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19045,41 +19069,21 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
         {
-          "title": "localhost:8080/liatings open nhi ho raha h",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2151"
+          "title": "oke",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2156"
         },
         {
-          "title": "The file that i have in VS code: no muestra la pagina web como deberia",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2150"
-        },
-        {
-          "title": "Please add support for cursor: pointer",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2149"
-        },
-        {
-          "title": "The Developer Tools Sometimes Fail to Load",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2148"
-        },
-        {
-          "title": "Edge DevTools Extension Fails to Launch Visible Browser and DevTools in VS Code on Windows 11",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2147"
-        },
-        {
-          "title": "devtools for runnig react code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2146"
-        },
-        {
-          "title": "devtools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2145"
-        },
-        {
-          "title": "jondi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2142"
+          "title": "Database used to show warnings/notes (CSS) seems to be outdated",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2155"
         }
       ],
-      "rate": "84.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22225,13 +22229,12 @@
     },
     {
       "date": "2024-05-03",
-      "unRespondedItems": [
-        {
-          "title": "Outdated Edge version references found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3142"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2024-05-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23061,6 +23064,10 @@
     },
     {
       "date": "2024-05-03",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
