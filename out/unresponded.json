@@ -3146,6 +3146,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6334,6 +6338,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9485,6 +9493,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12641,6 +12653,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15837,7 +15853,15 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: support window controls overlay",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4532"
+        },
         {
           "title": "[Problem/Bug]: GetResponseAsync in WebResourceResponseReceived does not return correct server response for PDFs",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530"
@@ -15889,10 +15913,6 @@
         {
           "title": "[Problem/Bug]: Webview2 Not position on High scaled monitor when gdiScaling is DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 crashed unexpectedly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4450"
         },
         {
           "title": "UI sometimes becomes uninteractive with the mouse after selecting a file from a file input (.NET MAUI Blazor)",
@@ -19073,7 +19093,15 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
+        {
+          "title": "issuse BUG REPORT 👍 xisting issues to avoid creating duplicates",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2157"
+        },
         {
           "title": "oke",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2156"
@@ -19083,7 +19111,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2155"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22233,6 +22261,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23068,6 +23100,10 @@
     },
     {
       "date": "2024-05-04",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
