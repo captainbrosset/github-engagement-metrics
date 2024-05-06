@@ -3150,6 +3150,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6342,6 +6346,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9497,6 +9505,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12657,6 +12669,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15857,10 +15873,14 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
         {
-          "title": "[Feature]: support window controls overlay",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4532"
+          "title": "Webview2 doesn't work on WinUI3 if you set the \"Output type\" of the app to Console",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533"
         },
         {
           "title": "[Problem/Bug]: GetResponseAsync in WebResourceResponseReceived does not return correct server response for PDFs",
@@ -19097,7 +19117,23 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
+        {
+          "title": "hello",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2160"
+        },
+        {
+          "title": "dftg",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2159"
+        },
+        {
+          "title": "tutoria",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2158"
+        },
         {
           "title": "issuse BUG REPORT 👍 xisting issues to avoid creating duplicates",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2157"
@@ -19111,7 +19147,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2155"
         }
       ],
-      "rate": "94.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22265,6 +22301,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23104,6 +23144,10 @@
     },
     {
       "date": "2024-05-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
