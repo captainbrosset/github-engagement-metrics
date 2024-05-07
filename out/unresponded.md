@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 81.50%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -25,13 +25,14 @@ Response rate: 80.25%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Problem/Bug]: ShouldPrintSelectionOnly does not work for Pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539)
+  * [[Feature]: Add a Reset method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536)
   * [Webview2 doesn't work on WinUI3 if you set the "Output type"...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533)
   * [[Problem/Bug]: GetResponseAsync in WebResourceResponseReceiv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530)
   * [[Feature]: Fire WebResourceResponseReceived Event for frames...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529)
   * [[Feature]: Add a WinRTAdapter project template for both UWP/...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521)
   * [Issue with Single Sign-On (SSO) Implementation in WPF Applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520)
-  * [[Bug]: WPF hybrid - touch in WebView2 makes mouse invisible ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4518)
   * [[Problem/Bug]: With CoreWebView2.SetVirtualHostNameToFolderM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4516)
   * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
   * [--enable-features=msWebView2BrowserHitTransparent Causes the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512)
@@ -39,21 +40,15 @@ Response rate: 80.25%
   * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
-  * [[Problem/Bug]: Webview2 Not position on High scaled monitor ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459)
   * [UI sometimes becomes uninteractive with the mouse after sele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531)
-  * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
+  * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-  * [[Feature]: Get user data folder / runtime path without needi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454)
-* **microsoft/vscode-edge-devtools** - _88.00%_
-  * [hello](https://github.com/microsoft/vscode-edge-devtools/issues/2160)
-  * [dftg](https://github.com/microsoft/vscode-edge-devtools/issues/2159)
-  * [tutoria](https://github.com/microsoft/vscode-edge-devtools/issues/2158)
-  * [issuse BUG REPORT 👍 xisting issues to avoid creating duplic...](https://github.com/microsoft/vscode-edge-devtools/issues/2157)
-  * [oke](https://github.com/microsoft/vscode-edge-devtools/issues/2156)
-  * [Database used to show warnings/notes (CSS) seems to be outda...](https://github.com/microsoft/vscode-edge-devtools/issues/2155)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [ Failed to launch the browser process! [0506/140130.618:ERRO...](https://github.com/microsoft/vscode-edge-devtools/issues/2164)
+  * [Cache problems](https://github.com/microsoft/vscode-edge-devtools/issues/2161)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

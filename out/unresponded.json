@@ -3154,6 +3154,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6350,6 +6354,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9509,6 +9517,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12673,6 +12685,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15877,7 +15893,19 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: ShouldPrintSelectionOnly does not work for PrintToPdfStreamAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539"
+        },
+        {
+          "title": "[Feature]: Add a Reset method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536"
+        },
         {
           "title": "Webview2 doesn't work on WinUI3 if you set the \"Output type\" of the app to Console",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533"
@@ -15897,10 +15925,6 @@
         {
           "title": "Issue with Single Sign-On (SSO) Implementation in WPF Application",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520"
-        },
-        {
-          "title": "[Bug]: WPF hybrid - touch in WebView2 makes mouse invisible even when moving over WPF",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4518"
         },
         {
           "title": "[Problem/Bug]: With CoreWebView2.SetVirtualHostNameToFolderMapping shows error Ip adress when start a local site",
@@ -15931,16 +15955,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481"
         },
         {
-          "title": "[Problem/Bug]: Webview2 Not position on High scaled monitor when gdiScaling is DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4459"
-        },
-        {
           "title": "UI sometimes becomes uninteractive with the mouse after selecting a file from a file input (.NET MAUI Blazor)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531"
         },
         {
-          "title": "[Feature]: Add WillZoomFactorChange event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
+          "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
         },
         {
           "title": "Send Input Key",
@@ -15957,13 +15977,9 @@
         {
           "title": "[Feature]: interaction with pdf files",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
-        },
-        {
-          "title": "[Feature]: Get user data folder / runtime path without needing an instance of the webview2 control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4454"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19121,33 +19137,21 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
         {
-          "title": "hello",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2160"
+          "title": " Failed to launch the browser process! [0506/140130.618:ERROR:headless_shell.cc(293)] Multiple targets are not supported.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2164"
         },
         {
-          "title": "dftg",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2159"
-        },
-        {
-          "title": "tutoria",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2158"
-        },
-        {
-          "title": "issuse BUG REPORT 👍 xisting issues to avoid creating duplicates",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2157"
-        },
-        {
-          "title": "oke",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2156"
-        },
-        {
-          "title": "Database used to show warnings/notes (CSS) seems to be outdated",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2155"
+          "title": "Cache problems",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2161"
         }
       ],
-      "rate": "88.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22305,6 +22309,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23148,6 +23156,10 @@
     },
     {
       "date": "2024-05-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
