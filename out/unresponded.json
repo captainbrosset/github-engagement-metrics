@@ -3158,6 +3158,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6358,6 +6362,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9521,6 +9529,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12689,6 +12701,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [
         {
           "title": "Local edge driver session - session not created exception",
@@ -15897,6 +15913,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: ShouldPrintSelectionOnly does not work for PrintToPdfStreamAsync",
@@ -19141,17 +19161,12 @@
     },
     {
       "date": "2024-05-07",
-      "unRespondedItems": [
-        {
-          "title": " Failed to launch the browser process! [0506/140130.618:ERROR:headless_shell.cc(293)] Multiple targets are not supported.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2164"
-        },
-        {
-          "title": "Cache problems",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2161"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-05-08",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22313,6 +22328,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23160,6 +23179,10 @@
     },
     {
       "date": "2024-05-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

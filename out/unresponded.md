@@ -1,4 +1,4 @@
-Response rate: 81.50%
+Response rate: 82.00%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -46,9 +46,7 @@ Response rate: 81.50%
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [ Failed to launch the browser process! [0506/140130.618:ERRO...](https://github.com/microsoft/vscode-edge-devtools/issues/2164)
-  * [Cache problems](https://github.com/microsoft/vscode-edge-devtools/issues/2161)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
