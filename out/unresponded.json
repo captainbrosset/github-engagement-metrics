@@ -3162,6 +3162,10 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6366,6 +6370,10 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9533,6 +9541,10 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12705,7 +12717,15 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [
+        {
+          "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/143"
+        },
         {
           "title": "Local edge driver session - session not created exception",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140"
@@ -12751,7 +12771,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "78.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -15917,7 +15937,31 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [
+        {
+          "title": "WebView2 API wrapped for Java",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546"
+        },
+        {
+          "title": "[Problem/Bug]: FluentUI ComboBox/Select don't accept selected option in WinUI WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4545"
+        },
+        {
+          "title": "[Problem/Bug]: Tooltips and Select options visible in screenshots/screenshares when using SetWindowDisplayAffinity",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4544"
+        },
+        {
+          "title": "[Problem/Bug]: Disabling built-in error pages not working as expected",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542"
+        },
+        {
+          "title": "[Problem/Bug]: When clicking on the area where “Tab Ctrl” and “WebView2” overlap, the dialog box UI stops.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4541"
+        },
         {
           "title": "[Problem/Bug]: ShouldPrintSelectionOnly does not work for PrintToPdfStreamAsync",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539"
@@ -15979,10 +16023,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531"
         },
         {
-          "title": "[Problem/Bug]: Inconsistent behavior for HostObject method with optional parameter called with upper/lower case first letter",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510"
-        },
-        {
           "title": "Send Input Key",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505"
         },
@@ -15999,7 +16039,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
         }
       ],
-      "rate": "60.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19165,8 +19205,17 @@
     },
     {
       "date": "2024-05-08",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-05-09",
+      "unRespondedItems": [
+        {
+          "title": "terminal",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2165"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22332,6 +22381,10 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23183,6 +23236,10 @@
     },
     {
       "date": "2024-05-08",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

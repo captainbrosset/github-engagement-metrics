@@ -1,4 +1,4 @@
-Response rate: 82.00%
+Response rate: 80.50%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -13,7 +13,8 @@ Response rate: 82.00%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Always syncing CSS changes in the Styles pane](https://github.com/MicrosoftEdge/DevTools/issues/247)
-* **MicrosoftEdge/EdgeWebDriver** - _78.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _76.00%_
+  * [This version of Microsoft Edge WebDriver only supports Micro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/143)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
@@ -25,7 +26,12 @@ Response rate: 82.00%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [WebView2 API wrapped for Java](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546)
+  * [[Problem/Bug]: FluentUI ComboBox/Select don't accept selecte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4545)
+  * [[Problem/Bug]: Tooltips and Select options visible in screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4544)
+  * [[Problem/Bug]: Disabling built-in error pages not working as...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542)
+  * [[Problem/Bug]: When clicking on the area where “Tab Ctrl” an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4541)
   * [[Problem/Bug]: ShouldPrintSelectionOnly does not work for Pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539)
   * [[Feature]: Add a Reset method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536)
   * [Webview2 doesn't work on WinUI3 if you set the "Output type"...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533)
@@ -41,12 +47,12 @@ Response rate: 82.00%
   * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Problem/Bug]: NavigateToString does not work](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481)
   * [UI sometimes becomes uninteractive with the mouse after sele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531)
-  * [[Problem/Bug]: Inconsistent behavior for HostObject method w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4510)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [terminal](https://github.com/microsoft/vscode-edge-devtools/issues/2165)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
