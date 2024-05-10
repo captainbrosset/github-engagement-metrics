@@ -3166,6 +3166,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6374,6 +6378,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9545,6 +9553,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12721,6 +12733,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
         {
           "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
@@ -15941,7 +15957,15 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: No memory causing WebView2 to crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548"
+        },
         {
           "title": "WebView2 API wrapped for Java",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546"
@@ -16039,7 +16063,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19209,13 +19233,21 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
+        {
+          "title": "DBSWM",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2167"
+        },
         {
           "title": "terminal",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2165"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22385,6 +22417,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23240,6 +23276,10 @@
     },
     {
       "date": "2024-05-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

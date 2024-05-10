@@ -1,4 +1,4 @@
-Response rate: 80.50%
+Response rate: 80.00%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -26,7 +26,8 @@ Response rate: 80.50%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: No memory causing WebView2 to crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548)
   * [WebView2 API wrapped for Java](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546)
   * [[Problem/Bug]: FluentUI ComboBox/Select don't accept selecte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4545)
   * [[Problem/Bug]: Tooltips and Select options visible in screen...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4544)
@@ -51,7 +52,8 @@ Response rate: 80.50%
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [DBSWM](https://github.com/microsoft/vscode-edge-devtools/issues/2167)
   * [terminal](https://github.com/microsoft/vscode-edge-devtools/issues/2165)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
