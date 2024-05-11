@@ -3170,6 +3170,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6382,6 +6386,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9557,6 +9565,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12737,6 +12749,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
         {
           "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
@@ -15961,10 +15977,14 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: No memory causing WebView2 to crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548"
+          "title": "[Problem/Bug]: CoreWebView2WindowFeatures/ICoreWebView2WindowFeatures returning invalid values for top and left when provided with negative values in window.open()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4551"
         },
         {
           "title": "WebView2 API wrapped for Java",
@@ -19237,7 +19257,19 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
+        {
+          "title": "clothing shop website",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2169"
+        },
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2168"
+        },
         {
           "title": "DBSWM",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2167"
@@ -19247,7 +19279,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2165"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22421,6 +22453,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23280,6 +23316,10 @@
     },
     {
       "date": "2024-05-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
