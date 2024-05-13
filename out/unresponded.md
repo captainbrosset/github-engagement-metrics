@@ -1,4 +1,4 @@
-Response rate: 78.97%
+Response rate: 78.44%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -53,7 +53,8 @@ Response rate: 78.97%
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
   * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
   * [[Feature]: interaction with pdf files](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [CAR PAGE](https://github.com/microsoft/vscode-edge-devtools/issues/2170)
   * [clothing shop website](https://github.com/microsoft/vscode-edge-devtools/issues/2169)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2168)
   * [DBSWM](https://github.com/microsoft/vscode-edge-devtools/issues/2167)
@@ -90,5 +91,6 @@ Response rate: 78.97%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.78%_
+* **MicrosoftDocs/edge-developer** - _95.56%_
+  * [Blueprint Digital Marketing ](https://github.com/MicrosoftDocs/edge-developer/issues/3152)
   * [I couldn't find any non-5-star reviews](https://github.com/MicrosoftDocs/edge-developer/issues/3149)

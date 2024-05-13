@@ -3178,6 +3178,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6398,6 +6402,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9581,6 +9589,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
         {
           "title": "Always syncing CSS changes in the Styles pane",
@@ -12769,6 +12781,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
         {
           "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
@@ -16001,6 +16017,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: CoreWebView2WindowFeatures/ICoreWebView2WindowFeatures returning invalid values for top and left when provided with negative values in window.open()",
@@ -19289,7 +19309,15 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
+        {
+          "title": "CAR PAGE",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2170"
+        },
         {
           "title": "clothing shop website",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2169"
@@ -19307,7 +19335,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2165"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22489,13 +22517,21 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
+        {
+          "title": "Blueprint Digital Marketing ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3152"
+        },
         {
           "title": "I couldn't find any non-5-star reviews",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3149"
         }
       ],
-      "rate": "97.78"
+      "rate": "95.56"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23361,6 +23397,10 @@
     },
     {
       "date": "2024-05-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
