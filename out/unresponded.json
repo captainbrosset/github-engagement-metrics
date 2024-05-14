@@ -3182,6 +3182,10 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6406,6 +6410,10 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9593,13 +9601,21 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
+        {
+          "title": "Sticky favorites and sticky pinned tabs that show in all workspaces",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/252"
+        },
         {
           "title": "Always syncing CSS changes in the Styles pane",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/247"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12785,6 +12801,10 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
         {
           "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
@@ -16021,22 +16041,18 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: CoreWebView2WindowFeatures/ICoreWebView2WindowFeatures returning invalid values for top and left when provided with negative values in window.open()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4551"
+          "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553"
         },
         {
           "title": "WebView2 API wrapped for Java",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546"
-        },
-        {
-          "title": "[Problem/Bug]: FluentUI ComboBox/Select don't accept selected option in WinUI WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4545"
-        },
-        {
-          "title": "[Problem/Bug]: Tooltips and Select options visible in screenshots/screenshares when using SetWindowDisplayAffinity",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4544"
         },
         {
           "title": "[Problem/Bug]: Disabling built-in error pages not working as expected",
@@ -16103,10 +16119,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481"
         },
         {
-          "title": "UI sometimes becomes uninteractive with the mouse after selecting a file from a file input (.NET MAUI Blazor)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4531"
-        },
-        {
           "title": "[Feature]: Add WillZoomFactorChange event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
         },
@@ -16121,13 +16133,9 @@
         {
           "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
-        },
-        {
-          "title": "[Feature]: interaction with pdf files",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4476"
         }
       ],
-      "rate": "48.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19313,29 +19321,12 @@
     },
     {
       "date": "2024-05-13",
-      "unRespondedItems": [
-        {
-          "title": "CAR PAGE",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2170"
-        },
-        {
-          "title": "clothing shop website",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2169"
-        },
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2168"
-        },
-        {
-          "title": "DBSWM",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2167"
-        },
-        {
-          "title": "terminal",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2165"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-05-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22521,14 +22512,18 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "95.56"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
         {
-          "title": "Blueprint Digital Marketing ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3152"
+          "title": "Longview",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3156"
         },
         {
-          "title": "I couldn't find any non-5-star reviews",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3149"
+          "title": "Native apps docs stop short: no information on how to package a native extension in a real visual studio project",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3155"
         }
       ],
       "rate": "95.56"
@@ -23401,6 +23396,10 @@
     },
     {
       "date": "2024-05-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
