@@ -3186,6 +3186,10 @@
     },
     {
       "date": "2024-05-14",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-15",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6414,6 +6418,10 @@
     },
     {
       "date": "2024-05-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9605,17 +9613,12 @@
     },
     {
       "date": "2024-05-14",
-      "unRespondedItems": [
-        {
-          "title": "Sticky favorites and sticky pinned tabs that show in all workspaces",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/252"
-        },
-        {
-          "title": "Always syncing CSS changes in the Styles pane",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/247"
-        }
-      ],
       "rate": "96.00"
+    },
+    {
+      "date": "2024-05-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12805,7 +12808,15 @@
     },
     {
       "date": "2024-05-14",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-15",
       "unRespondedItems": [
+        {
+          "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144"
+        },
         {
           "title": "This version of Microsoft Edge WebDriver only supports Microsoft Edge version 122",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/143"
@@ -12855,7 +12866,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16045,6 +16056,10 @@
     },
     {
       "date": "2024-05-14",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-05-15",
       "unRespondedItems": [
         {
           "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
@@ -16115,8 +16130,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485"
         },
         {
-          "title": "[Problem/Bug]: NavigateToString does not work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4481"
+          "title": "[Problem/Bug]: Render process exited before DOMContentLoaded event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552"
+        },
+        {
+          "title": "[Problem/Bug]: No memory causing WebView2 to crash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548"
+        },
+        {
+          "title": "webview2 with SSO does not allow to select different account",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537"
         },
         {
           "title": "[Feature]: Add WillZoomFactorChange event",
@@ -16135,7 +16158,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
         }
       ],
-      "rate": "56.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19325,8 +19348,21 @@
     },
     {
       "date": "2024-05-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-05-15",
+      "unRespondedItems": [
+        {
+          "title": "style.css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2176"
+        },
+        {
+          "title": "social",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2175"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22516,17 +22552,12 @@
     },
     {
       "date": "2024-05-14",
-      "unRespondedItems": [
-        {
-          "title": "Longview",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3156"
-        },
-        {
-          "title": "Native apps docs stop short: no information on how to package a native extension in a real visual studio project",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3155"
-        }
-      ],
       "rate": "95.56"
+    },
+    {
+      "date": "2024-05-15",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23400,6 +23431,10 @@
     },
     {
       "date": "2024-05-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
