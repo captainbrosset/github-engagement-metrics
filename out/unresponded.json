@@ -3190,6 +3190,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -3226,9 +3230,13 @@
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
           "url": "https://github.com/webhintio/hint/issues/5723"
+        },
+        {
+          "title": "[Bug] Extension incorrectly says `'@layer' is not supported by Chrome, Chrome Android, Edge...`",
+          "url": "https://github.com/webhintio/hint/issues/5854"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6422,6 +6430,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9617,6 +9629,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12812,6 +12828,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -16060,6 +16080,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [
         {
           "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
@@ -16152,13 +16176,9 @@
         {
           "title": "[Problem/Bug]: Profile deleted immediately upon calling Delete rather than being scheduled for when the browser process exits",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
-        },
-        {
-          "title": "[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` Microsoft.Web.WebView2.WinForms.WebView2`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19352,17 +19372,17 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [
         {
-          "title": "style.css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2176"
-        },
-        {
-          "title": "social",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2175"
+          "title": "مظتمكنت",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2179"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22556,6 +22576,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23435,6 +23459,10 @@
     },
     {
       "date": "2024-05-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,6 +1,6 @@
-Response rate: 80.25%
+Response rate: 80.50%
 
-* **webhintio/hint** - _82.00%_
+* **webhintio/hint** - _80.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -10,6 +10,7 @@ Response rate: 80.25%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
+  * [[Bug] Extension incorrectly says `'@layer' is not supported ...](https://github.com/webhintio/hint/issues/5854)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _74.00%_
@@ -26,7 +27,7 @@ Response rate: 80.25%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [Videos Do Not Stop Playing => After a Page Navigation &|  Wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553)
   * [WebView2 API wrapped for Java](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546)
   * [[Problem/Bug]: Disabling built-in error pages not working as...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542)
@@ -50,10 +51,8 @@ Response rate: 80.25%
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
-  * [[Feature]: Wrapper for `ExecuteScriptWithResultAsync` on ` M...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4482)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [style.css](https://github.com/microsoft/vscode-edge-devtools/issues/2176)
-  * [social](https://github.com/microsoft/vscode-edge-devtools/issues/2175)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [مظتمكنت](https://github.com/microsoft/vscode-edge-devtools/issues/2179)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
