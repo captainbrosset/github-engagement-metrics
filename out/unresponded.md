@@ -1,6 +1,6 @@
-Response rate: 80.50%
+Response rate: 80.00%
 
-* **webhintio/hint** - _80.00%_
+* **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -10,7 +10,6 @@ Response rate: 80.50%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-  * [[Bug] Extension incorrectly says `'@layer' is not supported ...](https://github.com/webhintio/hint/issues/5854)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _74.00%_
@@ -27,7 +26,11 @@ Response rate: 80.50%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564)
+  * [DownloadStarting event not firing when selecting "Save as" f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4562)
+  * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
+  * [[Problem/Bug]: Load failure from UNC path](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4560)
   * [Videos Do Not Stop Playing => After a Page Navigation &|  Wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553)
   * [WebView2 API wrapped for Java](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546)
   * [[Problem/Bug]: Disabling built-in error pages not working as...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542)
@@ -43,16 +46,15 @@ Response rate: 80.50%
   * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
   * [--enable-features=msWebView2BrowserHitTransparent Causes the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512)
   * [[Feature]: Expose zoom direction in ZoomFactorChanged event ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
-  * [[Problem/Bug]: Invalid window handle. (Exception from HRESUL...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489)
-  * [[Problem/Bug]: Application freeze after DPI change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [[Problem/Bug]: No memory causing WebView2 to crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
   * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [مظتمكنت](https://github.com/microsoft/vscode-edge-devtools/issues/2179)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [interfaz](https://github.com/microsoft/vscode-edge-devtools/issues/2181)
+  * [python interpreter](https://github.com/microsoft/vscode-edge-devtools/issues/2180)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

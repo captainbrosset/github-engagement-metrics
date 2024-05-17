@@ -3194,6 +3194,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -3230,13 +3234,9 @@
         {
           "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
           "url": "https://github.com/webhintio/hint/issues/5723"
-        },
-        {
-          "title": "[Bug] Extension incorrectly says `'@layer' is not supported by Chrome, Chrome Android, Edge...`",
-          "url": "https://github.com/webhintio/hint/issues/5854"
         }
       ],
-      "rate": "80.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6434,6 +6434,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9633,6 +9637,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12832,6 +12840,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -16084,7 +16096,27 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft Update Catalog",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564"
+        },
+        {
+          "title": "DownloadStarting event not firing when selecting \"Save as\" from context menu",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4562"
+        },
+        {
+          "title": "[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service worker logs",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561"
+        },
+        {
+          "title": "[Problem/Bug]: Load failure from UNC path",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4560"
+        },
         {
           "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553"
@@ -16146,14 +16178,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511"
         },
         {
-          "title": "[Problem/Bug]: Invalid window handle. (Exception from HRESULT: 0x80070578)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4489"
-        },
-        {
-          "title": "[Problem/Bug]: Application freeze after DPI change",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4485"
-        },
-        {
           "title": "[Problem/Bug]: Render process exited before DOMContentLoaded event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552"
         },
@@ -16178,7 +16202,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491"
         }
       ],
-      "rate": "54.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19376,13 +19400,21 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [
         {
-          "title": "مظتمكنت",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2179"
+          "title": "interfaz",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2181"
+        },
+        {
+          "title": "python interpreter",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2180"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22580,6 +22612,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23463,6 +23499,10 @@
     },
     {
       "date": "2024-05-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
