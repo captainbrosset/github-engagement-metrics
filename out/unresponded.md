@@ -1,4 +1,4 @@
-Response rate: 80.00%
+Response rate: 78.06%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -10,7 +10,8 @@ Response rate: 80.00%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
-* **MicrosoftEdge/demos** - _100.00%_
+* **MicrosoftEdge/demos** - _96.97%_
+  * [Clarify Readme for 1DIV](https://github.com/MicrosoftEdge/Demos/pull/37)
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
@@ -27,6 +28,8 @@ Response rate: 80.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: Geolocation regression in WebView2 Canary](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567)
+  * [[Problem/Bug]: Webview2 on launch of UWP Tab keys dont work....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4566)
   * [[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564)
   * [DownloadStarting event not firing when selecting "Save as" f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4562)
   * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
@@ -47,12 +50,12 @@ Response rate: 80.00%
   * [--enable-features=msWebView2BrowserHitTransparent Causes the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512)
   * [[Feature]: Expose zoom direction in ZoomFactorChanged event ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
-  * [[Problem/Bug]: No memory causing WebView2 to crash](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4548)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
-  * [[Problem/Bug]: Profile deleted immediately upon calling Dele...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4491)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [<div class="my-auto">                         <img src="./as...](https://github.com/microsoft/vscode-edge-devtools/issues/2183)
+  * [i cant run  my website.it says no local host](https://github.com/microsoft/vscode-edge-devtools/issues/2182)
   * [interfaz](https://github.com/microsoft/vscode-edge-devtools/issues/2181)
   * [python interpreter](https://github.com/microsoft/vscode-edge-devtools/issues/2180)
 * **microsoft/edge-devtools-network-console** - _38.00%_
@@ -87,4 +90,8 @@ Response rate: 80.00%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _91.49%_
+  * [ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz](https://github.com/MicrosoftDocs/edge-developer/issues/3166)
+  * [error](https://github.com/MicrosoftDocs/edge-developer/issues/3165)
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3164)
+  * [I cant watch youtube](https://github.com/MicrosoftDocs/edge-developer/issues/3163)
