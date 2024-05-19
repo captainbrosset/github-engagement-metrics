@@ -3202,6 +3202,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6446,6 +6450,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "96.97"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "Clarify Readme for 1DIV",
@@ -9658,8 +9666,17 @@
     },
     {
       "date": "2024-05-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-05-19",
+      "unRespondedItems": [
+        {
+          "title": "New Edge version 125, DevTools - Application tab make browser crash",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/255"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12865,6 +12882,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -16125,7 +16146,15 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Why has this code stopped showing a a maximized popup window?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568"
+        },
         {
           "title": "[Problem/Bug]: Geolocation regression in WebView2 Canary",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567"
@@ -16227,7 +16256,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19433,6 +19462,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "<div class=\"my-auto\">                         <img src=\"./assets/img/team-2.jpg\" class=\"avatar avatar-sm  me-3 \">                       </div>                       <div class=\"d-flex flex-column justify-content-center\">                         <h6 class=\"text-sm font-weight-normal mb-1\">                           <span class=\"font-weight-bold\">New message</span> from Laur                         </h6>                         <p class=\"text-xs text-secondary mb-0\">                           <i class=\"fa fa-clock me-1\"></i>                           13 minutes ago                         </p>                       </div>",
@@ -22657,6 +22690,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "91.49"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
@@ -23565,6 +23602,10 @@
     },
     {
       "date": "2024-05-18",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

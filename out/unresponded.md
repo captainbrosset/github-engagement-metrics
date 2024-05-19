@@ -1,4 +1,4 @@
-Response rate: 78.06%
+Response rate: 77.56%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -12,7 +12,8 @@ Response rate: 78.06%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _96.97%_
   * [Clarify Readme for 1DIV](https://github.com/MicrosoftEdge/Demos/pull/37)
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [New Edge version 125, DevTools - Application tab make browse...](https://github.com/MicrosoftEdge/DevTools/issues/255)
 * **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [This version of Microsoft Edge WebDriver only supports Micro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/143)
@@ -27,7 +28,8 @@ Response rate: 78.06%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Geolocation regression in WebView2 Canary](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567)
   * [[Problem/Bug]: Webview2 on launch of UWP Tab keys dont work....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4566)
   * [[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564)
