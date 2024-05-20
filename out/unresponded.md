@@ -1,4 +1,4 @@
-Response rate: 77.56%
+Response rate: 76.56%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -28,7 +28,8 @@ Response rate: 77.56%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [[Feature]: Render methods](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570)
   * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Geolocation regression in WebView2 Canary](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567)
   * [[Problem/Bug]: Webview2 on launch of UWP Tab keys dont work....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4566)
@@ -55,11 +56,14 @@ Response rate: 77.56%
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
   * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [how to publish my web](https://github.com/microsoft/vscode-edge-devtools/issues/2185)
+  * [local host not working](https://github.com/microsoft/vscode-edge-devtools/issues/2184)
   * [<div class="my-auto">                         <img src="./as...](https://github.com/microsoft/vscode-edge-devtools/issues/2183)
   * [i cant run  my website.it says no local host](https://github.com/microsoft/vscode-edge-devtools/issues/2182)
   * [interfaz](https://github.com/microsoft/vscode-edge-devtools/issues/2181)
   * [python interpreter](https://github.com/microsoft/vscode-edge-devtools/issues/2180)
+  * [proyecto3](https://github.com/microsoft/vscode-edge-devtools/issues/2186)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
