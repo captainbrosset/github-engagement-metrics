@@ -1,4 +1,4 @@
-Response rate: 76.56%
+Response rate: 75.53%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -12,7 +12,9 @@ Response rate: 76.56%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _96.97%_
   * [Clarify Readme for 1DIV](https://github.com/MicrosoftEdge/Demos/pull/37)
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * [JSON Viewer - window.getSelection() not returning full text ...](https://github.com/MicrosoftEdge/DevTools/issues/257)
+  * [YouTube Livestream chat load super slow on Edge](https://github.com/MicrosoftEdge/DevTools/issues/256)
   * [New Edge version 125, DevTools - Application tab make browse...](https://github.com/MicrosoftEdge/DevTools/issues/255)
 * **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
@@ -29,14 +31,14 @@ Response rate: 76.56%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [[Problem/Bug]: Certain actions in event handlers may crash t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573)
+  * [[Feature]: Enumerate available zoom factors](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4572)
+  * [2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571)
   * [[Feature]: Render methods](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570)
-  * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Geolocation regression in WebView2 Canary](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567)
   * [[Problem/Bug]: Webview2 on launch of UWP Tab keys dont work....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4566)
   * [[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft U...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564)
-  * [DownloadStarting event not firing when selecting "Save as" f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4562)
   * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
-  * [[Problem/Bug]: Load failure from UNC path](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4560)
   * [Videos Do Not Stop Playing => After a Page Navigation &|  Wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553)
   * [WebView2 API wrapped for Java](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546)
   * [[Problem/Bug]: Disabling built-in error pages not working as...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542)
@@ -96,7 +98,9 @@ Response rate: 76.56%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _91.49%_
+* **MicrosoftDocs/edge-developer** - _87.23%_
+  * [ANY Suggestions for THESE TOPIC](https://github.com/MicrosoftDocs/edge-developer/issues/3169)
+  * [ticket](https://github.com/MicrosoftDocs/edge-developer/issues/3167)
   * [ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz](https://github.com/MicrosoftDocs/edge-developer/issues/3166)
   * [error](https://github.com/MicrosoftDocs/edge-developer/issues/3165)
   * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3164)

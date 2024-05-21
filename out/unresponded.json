@@ -3210,6 +3210,10 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6462,6 +6466,10 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "96.97"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
         {
           "title": "Clarify Readme for 1DIV",
@@ -9682,13 +9690,25 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
+        {
+          "title": "JSON Viewer - window.getSelection() not returning full text selection for browser extension",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/257"
+        },
+        {
+          "title": "YouTube Livestream chat load super slow on Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/256"
+        },
         {
           "title": "New Edge version 125, DevTools - Application tab make browser crash",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/255"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12902,6 +12922,10 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -16170,14 +16194,26 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Certain actions in event handlers may crash the app hosting WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573"
+        },
+        {
+          "title": "[Feature]: Enumerate available zoom factors",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4572"
+        },
+        {
+          "title": "2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571"
+        },
         {
           "title": "[Feature]: Render methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570"
-        },
-        {
-          "title": "[Problem/Bug]: Why has this code stopped showing a a maximized popup window?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568"
         },
         {
           "title": "[Problem/Bug]: Geolocation regression in WebView2 Canary",
@@ -16192,16 +16228,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564"
         },
         {
-          "title": "DownloadStarting event not firing when selecting \"Save as\" from context menu",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4562"
-        },
-        {
           "title": "[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service worker logs",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561"
-        },
-        {
-          "title": "[Problem/Bug]: Load failure from UNC path",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4560"
         },
         {
           "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
@@ -19494,6 +19522,10 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
         {
           "title": "how to publish my web",
@@ -22738,7 +22770,19 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "91.49"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
+        {
+          "title": "ANY Suggestions for THESE TOPIC",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3169"
+        },
+        {
+          "title": "ticket",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3167"
+        },
         {
           "title": "ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3166"
@@ -22756,7 +22800,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3163"
         }
       ],
-      "rate": "91.49"
+      "rate": "87.23"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23654,6 +23698,10 @@
     },
     {
       "date": "2024-05-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
