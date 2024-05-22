@@ -1,4 +1,4 @@
-Response rate: 75.53%
+Response rate: 74.53%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -12,13 +12,13 @@ Response rate: 75.53%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _96.97%_
   * [Clarify Readme for 1DIV](https://github.com/MicrosoftEdge/Demos/pull/37)
-* **MicrosoftEdge/DevTools** - _94.00%_
+* **MicrosoftEdge/DevTools** - _92.00%_
+  * [新标签页出现错误弹窗](https://github.com/MicrosoftEdge/DevTools/issues/258)
   * [JSON Viewer - window.getSelection() not returning full text ...](https://github.com/MicrosoftEdge/DevTools/issues/257)
   * [YouTube Livestream chat load super slow on Edge](https://github.com/MicrosoftEdge/DevTools/issues/256)
   * [New Edge version 125, DevTools - Application tab make browse...](https://github.com/MicrosoftEdge/DevTools/issues/255)
-* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _76.00%_
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
-  * [This version of Microsoft Edge WebDriver only supports Micro...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/143)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
@@ -30,7 +30,9 @@ Response rate: 75.53%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [[Feature]: Add SearchBar for Extensions (like favorites ctrl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4578)
+  * [[Bug]: WebView2 will cause app hang for several seconds](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4576)
   * [[Problem/Bug]: Certain actions in event handlers may crash t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573)
   * [[Feature]: Enumerate available zoom factors](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4572)
   * [2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571)
@@ -54,11 +56,13 @@ Response rate: 75.53%
   * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
   * [--enable-features=msWebView2BrowserHitTransparent Causes the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512)
   * [[Feature]: Expose zoom direction in ZoomFactorChanged event ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511)
+  * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
+  * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
-  * [Send Input Key](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4505)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _84.00%_
+  * [F. SOCIETY](https://github.com/microsoft/vscode-edge-devtools/issues/2187)
   * [how to publish my web](https://github.com/microsoft/vscode-edge-devtools/issues/2185)
   * [local host not working](https://github.com/microsoft/vscode-edge-devtools/issues/2184)
   * [<div class="my-auto">                         <img src="./as...](https://github.com/microsoft/vscode-edge-devtools/issues/2183)
