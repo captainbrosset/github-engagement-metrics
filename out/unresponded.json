@@ -3218,6 +3218,10 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6478,13 +6482,12 @@
     },
     {
       "date": "2024-05-22",
-      "unRespondedItems": [
-        {
-          "title": "Clarify Readme for 1DIV",
-          "url": "https://github.com/MicrosoftEdge/Demos/pull/37"
-        }
-      ],
       "rate": "96.97"
+    },
+    {
+      "date": "2024-05-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/DevTools": [
@@ -9706,6 +9709,10 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
         {
           "title": "新标签页出现错误弹窗",
@@ -12946,6 +12953,10 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -16218,6 +16229,10 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add SearchBar for Extensions (like favorites ctrl+shift+o)",
@@ -16242,14 +16257,6 @@
         {
           "title": "[Feature]: Render methods",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570"
-        },
-        {
-          "title": "[Problem/Bug]: Geolocation regression in WebView2 Canary",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4567"
-        },
-        {
-          "title": "[Problem/Bug]: Webview2 on launch of UWP Tab keys dont work.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4566"
         },
         {
           "title": "[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft Update Catalog",
@@ -16312,14 +16319,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515"
         },
         {
-          "title": "--enable-features=msWebView2BrowserHitTransparent Causes the program to crash in ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4512"
-        },
-        {
-          "title": "[Feature]: Expose zoom direction in ZoomFactorChanged event handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4511"
-        },
-        {
           "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         },
@@ -16340,7 +16339,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
         }
       ],
-      "rate": "40.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19562,7 +19561,19 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
+        {
+          "title": "why my c++ code is not run in VS code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2191"
+        },
+        {
+          "title": "1323",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2190"
+        },
         {
           "title": "F. SOCIETY",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2187"
@@ -19574,10 +19585,6 @@
         {
           "title": "local host not working",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2184"
-        },
-        {
-          "title": "<div class=\"my-auto\">                         <img src=\"./assets/img/team-2.jpg\" class=\"avatar avatar-sm  me-3 \">                       </div>                       <div class=\"d-flex flex-column justify-content-center\">                         <h6 class=\"text-sm font-weight-normal mb-1\">                           <span class=\"font-weight-bold\">New message</span> from Laur                         </h6>                         <p class=\"text-xs text-secondary mb-0\">                           <i class=\"fa fa-clock me-1\"></i>                           13 minutes ago                         </p>                       </div>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2183"
         },
         {
           "title": "i cant run  my website.it says no local host",
@@ -19592,11 +19599,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2180"
         },
         {
+          "title": "ken",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2189"
+        },
+        {
           "title": "proyecto3",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2186"
         }
       ],
-      "rate": "84.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22818,33 +22829,12 @@
     },
     {
       "date": "2024-05-22",
-      "unRespondedItems": [
-        {
-          "title": "ANY Suggestions for THESE TOPIC",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3169"
-        },
-        {
-          "title": "ticket",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3167"
-        },
-        {
-          "title": "ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3166"
-        },
-        {
-          "title": "error",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3165"
-        },
-        {
-          "title": "[DevTools Docs Feedback]",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3164"
-        },
-        {
-          "title": "I cant watch youtube",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3163"
-        }
-      ],
       "rate": "87.23"
+    },
+    {
+      "date": "2024-05-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23750,6 +23740,10 @@
     },
     {
       "date": "2024-05-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
