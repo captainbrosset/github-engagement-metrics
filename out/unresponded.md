@@ -1,4 +1,4 @@
-Response rate: 77.00%
+Response rate: 75.99%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -29,9 +29,9 @@ Response rate: 77.00%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
-  * [[Feature]: Add SearchBar for Extensions (like favorites ctrl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4578)
-  * [[Bug]: WebView2 will cause app hang for several seconds](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4576)
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
+  * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: Certain actions in event handlers may crash t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573)
   * [[Feature]: Enumerate available zoom factors](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4572)
   * [2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571)
@@ -49,14 +49,17 @@ Response rate: 77.00%
   * [[Feature]: Fire WebResourceResponseReceived Event for frames...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529)
   * [[Feature]: Add a WinRTAdapter project template for both UWP/...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521)
   * [Issue with Single Sign-On (SSO) Implementation in WPF Applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520)
-  * [[Problem/Bug]: With CoreWebView2.SetVirtualHostNameToFolderM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4516)
-  * [[Problem/Bug]: Added hostObject’s method doesn't support ove...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4515)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _70.00%_
+  * [Warning: PowerShell detected that you might be using a scree...](https://github.com/microsoft/vscode-edge-devtools/issues/2198)
+  * [visual studio code is not showing the output](https://github.com/microsoft/vscode-edge-devtools/issues/2196)
+  * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2195)
+  * [JSON](https://github.com/microsoft/vscode-edge-devtools/issues/2194)
+  * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2193)
   * [why my c++ code is not run in VS code](https://github.com/microsoft/vscode-edge-devtools/issues/2191)
   * [1323](https://github.com/microsoft/vscode-edge-devtools/issues/2190)
   * [F. SOCIETY](https://github.com/microsoft/vscode-edge-devtools/issues/2187)
@@ -99,4 +102,5 @@ Response rate: 77.00%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftDocs/edge-developer/issues/3175)
