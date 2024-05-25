@@ -3226,6 +3226,10 @@
     },
     {
       "date": "2024-05-24",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-25",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6494,6 +6498,10 @@
     },
     {
       "date": "2024-05-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9725,25 +9733,12 @@
     },
     {
       "date": "2024-05-24",
-      "unRespondedItems": [
-        {
-          "title": "新标签页出现错误弹窗",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/258"
-        },
-        {
-          "title": "JSON Viewer - window.getSelection() not returning full text selection for browser extension",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/257"
-        },
-        {
-          "title": "YouTube Livestream chat load super slow on Edge",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/256"
-        },
-        {
-          "title": "New Edge version 125, DevTools - Application tab make browser crash",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/255"
-        }
-      ],
       "rate": "92.00"
+    },
+    {
+      "date": "2024-05-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -12973,7 +12968,15 @@
     },
     {
       "date": "2024-05-24",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-05-25",
       "unRespondedItems": [
+        {
+          "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
+        },
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144"
@@ -13023,7 +13026,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "76.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16253,7 +16256,19 @@
     },
     {
       "date": "2024-05-24",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-05-25",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
+        },
+        {
+          "title": "[Problem/Bug]: password field is sometimes saved when IsPasswordAutosaveEnabled is false",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586"
+        },
         {
           "title": "[Problem/Bug]: WPF WebView2 does not accept Delete key when CommandBinding is in place",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585"
@@ -16351,7 +16366,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
         }
       ],
-      "rate": "52.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19581,69 +19596,12 @@
     },
     {
       "date": "2024-05-24",
-      "unRespondedItems": [
-        {
-          "title": "Warning: PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-Module PSReadLine'.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2198"
-        },
-        {
-          "title": "visual studio code is not showing the output",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2196"
-        },
-        {
-          "title": "test",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2195"
-        },
-        {
-          "title": "JSON",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2194"
-        },
-        {
-          "title": "python",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2193"
-        },
-        {
-          "title": "why my c++ code is not run in VS code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2191"
-        },
-        {
-          "title": "1323",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2190"
-        },
-        {
-          "title": "F. SOCIETY",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2187"
-        },
-        {
-          "title": "how to publish my web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2185"
-        },
-        {
-          "title": "local host not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2184"
-        },
-        {
-          "title": "i cant run  my website.it says no local host",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2182"
-        },
-        {
-          "title": "interfaz",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2181"
-        },
-        {
-          "title": "python interpreter",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2180"
-        },
-        {
-          "title": "ken",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2189"
-        },
-        {
-          "title": "proyecto3",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2186"
-        }
-      ],
       "rate": "70.00"
+    },
+    {
+      "date": "2024-05-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22873,13 +22831,12 @@
     },
     {
       "date": "2024-05-24",
-      "unRespondedItems": [
-        {
-          "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3175"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2024-05-25",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23793,6 +23750,10 @@
     },
     {
       "date": "2024-05-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
