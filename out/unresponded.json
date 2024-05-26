@@ -3230,6 +3230,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6502,6 +6506,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9737,6 +9745,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12972,6 +12984,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16260,6 +16276,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
@@ -19600,8 +19620,21 @@
     },
     {
       "date": "2024-05-25",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-05-26",
+      "unRespondedItems": [
+        {
+          "title": "sxp",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2200"
+        },
+        {
+          "title": "CSS Mirror Editing",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2199"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22835,6 +22868,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23754,6 +23791,10 @@
     },
     {
       "date": "2024-05-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

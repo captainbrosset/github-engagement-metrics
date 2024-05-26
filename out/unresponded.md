@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 79.75%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -53,7 +53,9 @@ Response rate: 80.25%
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
   * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [sxp](https://github.com/microsoft/vscode-edge-devtools/issues/2200)
+  * [CSS Mirror Editing](https://github.com/microsoft/vscode-edge-devtools/issues/2199)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
