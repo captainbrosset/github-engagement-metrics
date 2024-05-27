@@ -3234,6 +3234,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6510,6 +6514,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9749,6 +9757,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12988,6 +13000,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16280,6 +16296,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
@@ -19624,7 +19644,19 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [
+        {
+          "title": "zlp1051682086",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2203"
+        },
+        {
+          "title": "webos tv",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2202"
+        },
         {
           "title": "sxp",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2200"
@@ -19632,9 +19664,13 @@
         {
           "title": "CSS Mirror Editing",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2199"
+        },
+        {
+          "title": "Boostrap",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2201"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22872,6 +22908,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23795,6 +23835,10 @@
     },
     {
       "date": "2024-05-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
