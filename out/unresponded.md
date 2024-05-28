@@ -27,6 +27,8 @@ Response rate: 79.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
+  * [[Feature]: Make WebView2 compadible with MRTK3](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4588)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
@@ -46,8 +48,6 @@ Response rate: 79.00%
   * [Webview2 doesn't work on WinUI3 if you set the "Output type"...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533)
   * [[Problem/Bug]: GetResponseAsync in WebResourceResponseReceiv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530)
   * [[Feature]: Fire WebResourceResponseReceived Event for frames...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529)
-  * [[Feature]: Add a WinRTAdapter project template for both UWP/...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521)
-  * [Issue with Single Sign-On (SSO) Implementation in WPF Applic...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)

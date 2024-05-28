@@ -3238,6 +3238,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6518,6 +6522,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9761,6 +9769,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13004,6 +13016,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16300,7 +16316,19 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
+        },
+        {
+          "title": "[Feature]: Make WebView2 compadible with MRTK3",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4588"
+        },
         {
           "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
@@ -16376,14 +16404,6 @@
         {
           "title": "[Feature]: Fire WebResourceResponseReceived Event for frames",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529"
-        },
-        {
-          "title": "[Feature]: Add a WinRTAdapter project template for both UWP/WinUI3/Packaged/Unpackaged to Visual Studio",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4521"
-        },
-        {
-          "title": "Issue with Single Sign-On (SSO) Implementation in WPF Application",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4520"
         },
         {
           "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
@@ -19648,6 +19668,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [
         {
           "title": "zlp1051682086",
@@ -22912,6 +22936,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23839,6 +23867,10 @@
     },
     {
       "date": "2024-05-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
