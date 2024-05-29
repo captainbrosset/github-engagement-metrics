@@ -3242,6 +3242,10 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6526,6 +6530,10 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9773,6 +9781,10 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13020,7 +13032,15 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [
+        {
+          "title": "Edgedriver storage bucket listing XML is not updated since version 125.0",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/146"
+        },
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
@@ -13074,7 +13094,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16320,7 +16340,15 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [
+        {
+          "title": "Pass PayPal for free",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4594"
+        },
         {
           "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
@@ -16398,14 +16426,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533"
         },
         {
-          "title": "[Problem/Bug]: GetResponseAsync in WebResourceResponseReceived does not return correct server response for PDFs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530"
-        },
-        {
-          "title": "[Feature]: Fire WebResourceResponseReceived Event for frames",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529"
-        },
-        {
           "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         },
@@ -16420,13 +16440,9 @@
         {
           "title": "webview2 with SSO does not allow to select different account",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537"
-        },
-        {
-          "title": "[Feature]: Add WillZoomFactorChange event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522"
         }
       ],
-      "rate": "48.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19672,29 +19688,17 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [
-        {
-          "title": "zlp1051682086",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2203"
-        },
-        {
-          "title": "webos tv",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2202"
-        },
-        {
-          "title": "sxp",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2200"
-        },
         {
           "title": "CSS Mirror Editing",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2199"
-        },
-        {
-          "title": "Boostrap",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2201"
         }
       ],
-      "rate": "90.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22940,6 +22944,10 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -23871,6 +23879,10 @@
     },
     {
       "date": "2024-05-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 79.00%
+Response rate: 80.25%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -12,7 +12,8 @@ Response rate: 79.00%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+  * [Edgedriver storage bucket listing XML is not updated since v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/146)
   * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
@@ -26,7 +27,8 @@ Response rate: 79.00%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [Pass PayPal for free](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4594)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Feature]: Make WebView2 compadible with MRTK3](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4588)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
@@ -46,19 +48,12 @@ Response rate: 79.00%
   * [[Problem/Bug]: ShouldPrintSelectionOnly does not work for Pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539)
   * [[Feature]: Add a Reset method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536)
   * [Webview2 doesn't work on WinUI3 if you set the "Output type"...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533)
-  * [[Problem/Bug]: GetResponseAsync in WebResourceResponseReceiv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4530)
-  * [[Feature]: Fire WebResourceResponseReceived Event for frames...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4529)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
-  * [[Feature]: Add WillZoomFactorChange event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4522)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [zlp1051682086](https://github.com/microsoft/vscode-edge-devtools/issues/2203)
-  * [webos tv](https://github.com/microsoft/vscode-edge-devtools/issues/2202)
-  * [sxp](https://github.com/microsoft/vscode-edge-devtools/issues/2200)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [CSS Mirror Editing](https://github.com/microsoft/vscode-edge-devtools/issues/2199)
-  * [Boostrap](https://github.com/microsoft/vscode-edge-devtools/issues/2201)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
