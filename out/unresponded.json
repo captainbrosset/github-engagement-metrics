@@ -3246,6 +3246,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6534,6 +6538,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9785,6 +9793,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13036,6 +13048,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [
         {
           "title": "Edgedriver storage bucket listing XML is not updated since version 125.0",
@@ -16344,22 +16360,22 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [
         {
-          "title": "Pass PayPal for free",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4594"
+          "title": "[Bug]: WebView2 not handling DOM events properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4598"
+        },
+        {
+          "title": "F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597"
         },
         {
           "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
-        },
-        {
-          "title": "[Feature]: Make WebView2 compadible with MRTK3",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4588"
-        },
-        {
-          "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
         },
         {
           "title": "[Problem/Bug]: password field is sometimes saved when IsPasswordAutosaveEnabled is false",
@@ -16368,10 +16384,6 @@
         {
           "title": "[Problem/Bug]: WPF WebView2 does not accept Delete key when CommandBinding is in place",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585"
-        },
-        {
-          "title": "[Problem/Bug]: Opening a connection to an Access database breaks the `WebView2`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583"
         },
         {
           "title": "[Problem/Bug]: Certain actions in event handlers may crash the app hosting WebView2",
@@ -16422,8 +16434,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536"
         },
         {
-          "title": "Webview2 doesn't work on WinUI3 if you set the \"Output type\" of the app to Console",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4533"
+          "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
         },
         {
           "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
@@ -16440,9 +16452,13 @@
         {
           "title": "webview2 with SSO does not allow to select different account",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537"
+        },
+        {
+          "title": "[Problem/Bug]: Paste function is out of focus when using the toolbar's shortcut icon.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4535"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19692,6 +19708,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [
         {
           "title": "CSS Mirror Editing",
@@ -22948,8 +22968,21 @@
     },
     {
       "date": "2024-05-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-05-30",
+      "unRespondedItems": [
+        {
+          "title": "10th result",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3180"
+        },
+        {
+          "title": "Link to symbol.exe doesn't lead to download page",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3179"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23883,6 +23916,10 @@
     },
     {
       "date": "2024-05-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
