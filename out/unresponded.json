@@ -3250,6 +3250,10 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [
         {
           "title": "[Feature] Axe errors: show which element the error is about",
@@ -6542,6 +6546,10 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9797,6 +9805,10 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13052,11 +13064,11 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [
-        {
-          "title": "Edgedriver storage bucket listing XML is not updated since version 125.0",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/146"
-        },
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
@@ -13110,7 +13122,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16364,7 +16376,15 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 control throws OutOfMemoryException on call to EnsureCoreWebView2Async()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4601"
+        },
         {
           "title": "[Bug]: WebView2 not handling DOM events properly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4598"
@@ -16430,8 +16450,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539"
         },
         {
-          "title": "[Feature]: Add a Reset method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536"
+          "title": "[Problem/Bug]: Windows Explorer's Quick View stops working after previewing a PDF file with the Preview Pane",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4600"
         },
         {
           "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
@@ -16452,10 +16472,6 @@
         {
           "title": "webview2 with SSO does not allow to select different account",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537"
-        },
-        {
-          "title": "[Problem/Bug]: Paste function is out of focus when using the toolbar's shortcut icon.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4535"
         }
       ],
       "rate": "54.00"
@@ -19712,13 +19728,12 @@
     },
     {
       "date": "2024-05-30",
-      "unRespondedItems": [
-        {
-          "title": "CSS Mirror Editing",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2199"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-05-31",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -22972,14 +22987,18 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [
-        {
-          "title": "10th result",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3180"
-        },
         {
           "title": "Link to symbol.exe doesn't lead to download page",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3179"
+        },
+        {
+          "title": "oi vim queria criar um mapa no Roblox para as pessoas que querem jogar jogo novo",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3184"
         }
       ],
       "rate": "96.00"
@@ -23920,6 +23939,10 @@
     },
     {
       "date": "2024-05-30",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-05-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

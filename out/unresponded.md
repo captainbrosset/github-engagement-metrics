@@ -1,4 +1,4 @@
-Response rate: 80.00%
+Response rate: 80.50%
 
 * **webhintio/hint** - _82.00%_
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -12,8 +12,7 @@ Response rate: 80.00%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
-  * [Edgedriver storage bucket listing XML is not updated since v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/146)
+* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
@@ -28,6 +27,7 @@ Response rate: 80.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: WebView2 control throws OutOfMemoryException ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4601)
   * [[Bug]: WebView2 not handling DOM events properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4598)
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
@@ -44,15 +44,13 @@ Response rate: 80.00%
   * [[Problem/Bug]: Disabling built-in error pages not working as...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4542)
   * [[Problem/Bug]: When clicking on the area where “Tab Ctrl” an...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4541)
   * [[Problem/Bug]: ShouldPrintSelectionOnly does not work for Pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4539)
-  * [[Feature]: Add a Reset method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4536)
+  * [[Problem/Bug]: Windows Explorer's Quick View stops working a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4600)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Why has this code stopped showing a a maximiz...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4568)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
   * [webview2 with SSO does not allow to select different account...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4537)
-  * [[Problem/Bug]: Paste function is out of focus when using the...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4535)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [CSS Mirror Editing](https://github.com/microsoft/vscode-edge-devtools/issues/2199)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -86,5 +84,5 @@ Response rate: 80.00%
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
 * **MicrosoftDocs/edge-developer** - _96.00%_
-  * [10th result](https://github.com/MicrosoftDocs/edge-developer/issues/3180)
   * [Link to symbol.exe doesn't lead to download page](https://github.com/MicrosoftDocs/edge-developer/issues/3179)
+  * [oi vim queria criar um mapa no Roblox para as pessoas que qu...](https://github.com/MicrosoftDocs/edge-developer/issues/3184)
