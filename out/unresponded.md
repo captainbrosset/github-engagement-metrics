@@ -1,6 +1,8 @@
-Response rate: 79.97%
+Response rate: 78.96%
 
-* **webhintio/hint** - _82.00%_
+* **webhintio/hint** - _78.00%_
+  * [vertalen](https://github.com/webhintio/hint/issues/5877)
+  * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -50,7 +52,8 @@ Response rate: 79.97%
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [VSC console affected by this extension](https://github.com/microsoft/vscode-edge-devtools/issues/2207)
   * [tooll box](https://github.com/microsoft/vscode-edge-devtools/issues/2206)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -84,7 +87,8 @@ Response rate: 79.97%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.75%_
+* **MicrosoftDocs/edge-developer** - _91.67%_
+  * [unbanned gta ](https://github.com/MicrosoftDocs/edge-developer/issues/3188)
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3187)
   * [Link to symbol.exe doesn't lead to download page](https://github.com/MicrosoftDocs/edge-developer/issues/3179)
   * [oi vim queria criar um mapa no Roblox para as pessoas que qu...](https://github.com/MicrosoftDocs/edge-developer/issues/3184)

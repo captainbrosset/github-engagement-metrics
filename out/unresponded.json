@@ -3258,7 +3258,19 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
+        {
+          "title": "vertalen",
+          "url": "https://github.com/webhintio/hint/issues/5877"
+        },
+        {
+          "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
+          "url": "https://github.com/webhintio/hint/pull/5876"
+        },
         {
           "title": "[Feature] Axe errors: show which element the error is about",
           "url": "https://github.com/webhintio/hint/issues/5835"
@@ -3296,7 +3308,7 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "82.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6558,6 +6570,10 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9821,6 +9837,10 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
         {
           "title": "New Edge version 125, DevTools - Application tab make browser crash",
@@ -13089,6 +13109,10 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16405,6 +16429,10 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Fix your Documentation link",
@@ -19757,13 +19785,21 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
+        {
+          "title": "VSC console affected by this extension",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2207"
+        },
         {
           "title": "tooll box",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2206"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23025,7 +23061,15 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "93.75"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
+        {
+          "title": "unbanned gta ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3188"
+        },
         {
           "title": "Outdated Edge version references found",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3187"
@@ -23039,7 +23083,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3184"
         }
       ],
-      "rate": "93.75"
+      "rate": "91.67"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -23985,6 +24029,10 @@
     },
     {
       "date": "2024-06-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
