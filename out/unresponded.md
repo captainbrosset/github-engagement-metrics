@@ -1,4 +1,4 @@
-Response rate: 78.96%
+Response rate: 78.21%
 
 * **webhintio/hint** - _78.00%_
   * [vertalen](https://github.com/webhintio/hint/issues/5877)
@@ -29,7 +29,8 @@ Response rate: 78.96%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
   * [[Problem/Bug]: Fix your Documentation link](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4606)
   * [[Problem/Bug]: FrameNavigationStarting and FrameNavigationCo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605)
   * [[Feature]: Pass Uri and FrameId into Frame::NavigationComple...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4604)
@@ -52,9 +53,11 @@ Response rate: 78.96%
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
   * [[Problem/Bug]: Render process exited before DOMContentLoaded...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [css work](https://github.com/microsoft/vscode-edge-devtools/issues/2208)
   * [VSC console affected by this extension](https://github.com/microsoft/vscode-edge-devtools/issues/2207)
   * [tooll box](https://github.com/microsoft/vscode-edge-devtools/issues/2206)
+  * [Every time I write something,it starts with a new row and ev...](https://github.com/microsoft/vscode-edge-devtools/issues/2209)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

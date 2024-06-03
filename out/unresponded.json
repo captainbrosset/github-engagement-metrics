@@ -3262,6 +3262,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
         {
           "title": "vertalen",
@@ -6574,6 +6578,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9841,6 +9849,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
         {
           "title": "New Edge version 125, DevTools - Application tab make browser crash",
@@ -13113,6 +13125,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16433,7 +16449,15 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Synchronizing Tab States with Extension Scripts in a Multi-tab Browser Developed with C# WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
+        },
         {
           "title": "[Problem/Bug]: Fix your Documentation link",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4606"
@@ -16523,7 +16547,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19789,7 +19813,15 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
+        {
+          "title": "css work",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2208"
+        },
         {
           "title": "VSC console affected by this extension",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2207"
@@ -19797,9 +19829,13 @@
         {
           "title": "tooll box",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2206"
+        },
+        {
+          "title": "Every time I write something,it starts with a new row and every time delete it,it starts deleating with some twitching.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2209"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23065,6 +23101,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "91.67"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
         {
           "title": "unbanned gta ",
@@ -24033,6 +24073,10 @@
     },
     {
       "date": "2024-06-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
