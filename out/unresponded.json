@@ -3266,11 +3266,11 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [
-        {
-          "title": "vertalen",
-          "url": "https://github.com/webhintio/hint/issues/5877"
-        },
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
           "url": "https://github.com/webhintio/hint/pull/5876"
@@ -3312,7 +3312,7 @@
           "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "78.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6582,6 +6582,10 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9853,13 +9857,12 @@
     },
     {
       "date": "2024-06-03",
-      "unRespondedItems": [
-        {
-          "title": "New Edge version 125, DevTools - Application tab make browser crash",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/255"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-06-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13129,6 +13132,10 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16453,18 +16460,18 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [
+        {
+          "title": "DownloadStarting event not firing when selecting Screenshot > Save from the context menu",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609"
+        },
         {
           "title": "[Problem/Bug]: Synchronizing Tab States with Extension Scripts in a Multi-tab Browser Developed with C# WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
-        },
-        {
-          "title": "[Problem/Bug]: Fix your Documentation link",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4606"
-        },
-        {
-          "title": "[Problem/Bug]: FrameNavigationStarting and FrameNavigationCompleted not called for nested iframes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605"
         },
         {
           "title": "[Feature]: Pass Uri and FrameId into Frame::NavigationCompleted event handler",
@@ -16481,10 +16488,6 @@
         {
           "title": "F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
         },
         {
           "title": "[Problem/Bug]: password field is sometimes saved when IsPasswordAutosaveEnabled is false",
@@ -16523,20 +16526,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553"
         },
         {
-          "title": "WebView2 API wrapped for Java",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4546"
-        },
-        {
           "title": "[Problem/Bug]: Windows Explorer's Quick View stops working after previewing a PDF file with the Preview Pane",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4600"
         },
         {
-          "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
+          "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
         },
         {
-          "title": "[Problem/Bug]: Opening a connection to an Access database breaks the `WebView2`",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583"
+          "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
         },
         {
           "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
@@ -16547,7 +16546,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19817,25 +19816,17 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [
         {
-          "title": "css work",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2208"
-        },
-        {
-          "title": "VSC console affected by this extension",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2207"
-        },
-        {
-          "title": "tooll box",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2206"
-        },
-        {
-          "title": "Every time I write something,it starts with a new row and every time delete it,it starts deleating with some twitching.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2209"
+          "title": "base repository",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2211"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23105,25 +23096,12 @@
     },
     {
       "date": "2024-06-03",
-      "unRespondedItems": [
-        {
-          "title": "unbanned gta ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3188"
-        },
-        {
-          "title": "Outdated Edge version references found",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3187"
-        },
-        {
-          "title": "Link to symbol.exe doesn't lead to download page",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3179"
-        },
-        {
-          "title": "oi vim queria criar um mapa no Roblox para as pessoas que querem jogar jogo novo",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3184"
-        }
-      ],
       "rate": "91.67"
+    },
+    {
+      "date": "2024-06-04",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24077,6 +24055,10 @@
     },
     {
       "date": "2024-06-03",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
