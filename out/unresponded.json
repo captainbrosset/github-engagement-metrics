@@ -3270,6 +3270,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6586,6 +6590,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9861,6 +9869,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13136,6 +13148,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16464,7 +16480,19 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Download is blocked when subscribed to DownloadStarting",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612"
+        },
+        {
+          "title": "[Feature]: Set or Get the WebView2 Control thread priority.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610"
+        },
         {
           "title": "DownloadStarting event not firing when selecting Screenshot > Save from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609"
@@ -16514,16 +16542,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570"
         },
         {
-          "title": "[Problem/Bug]: WebView2 124.0.2478.105 is not in Microsoft Update Catalog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4564"
-        },
-        {
           "title": "[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service worker logs",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561"
         },
         {
           "title": "Videos Do Not Stop Playing => After a Page Navigation &|  When another Instance Is Closed that has a video playing.  Multiple Instance are effective too",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553"
+        },
+        {
+          "title": "[Problem/Bug]: Can not manage extensions",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4608"
         },
         {
           "title": "[Problem/Bug]: Windows Explorer's Quick View stops working after previewing a PDF file with the Preview Pane",
@@ -16538,15 +16566,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
         },
         {
-          "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
+          "title": "[Problem/Bug]: Opening a connection to an Access database breaks the `WebView2`",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583"
         },
         {
-          "title": "[Problem/Bug]: Render process exited before DOMContentLoaded event",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4552"
+          "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19820,13 +19848,12 @@
     },
     {
       "date": "2024-06-04",
-      "unRespondedItems": [
-        {
-          "title": "base repository",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2211"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-06-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23100,6 +23127,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -24059,6 +24090,10 @@
     },
     {
       "date": "2024-06-04",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
