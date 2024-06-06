@@ -1,4 +1,4 @@
-Response rate: 81.00%
+Response rate: 80.50%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -28,13 +28,14 @@ Response rate: 81.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: Browser process crashes in context menu with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615)
+  * [Why does windows.xam.ul api change the binding of a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614)
   * [[Problem/Bug]: Download is blocked when subscribed to Downlo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612)
   * [[Feature]: Set or Get the WebView2 Control thread priority.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610)
   * [DownloadStarting event not firing when selecting Screenshot ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609)
   * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
   * [[Feature]: Pass Uri and FrameId into Frame::NavigationComple...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4604)
   * [[Problem/Bug]: WebView2 control throws OutOfMemoryException ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4601)
-  * [[Bug]: WebView2 not handling DOM events properly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4598)
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
@@ -43,14 +44,15 @@ Response rate: 81.00%
   * [2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571)
   * [[Feature]: Render methods](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570)
   * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
-  * [Videos Do Not Stop Playing => After a Page Navigation &|  Wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4553)
   * [[Problem/Bug]: Can not manage extensions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4608)
   * [[Problem/Bug]: Windows Explorer's Quick View stops working a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4600)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [MS Edge does not open HTML file from VScode](https://github.com/microsoft/vscode-edge-devtools/issues/2214)
+  * [Lui Lernen](https://github.com/microsoft/vscode-edge-devtools/issues/2213)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
