@@ -3278,6 +3278,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6602,6 +6606,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9885,6 +9893,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13168,6 +13180,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16504,7 +16520,19 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: WebUI2 Mutual SSL",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4619"
+        },
+        {
+          "title": "WebView2 freezes (stuck) and pressing F12 usually helps to fix the issue",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4617"
+        },
         {
           "title": "[Problem/Bug]: Browser process crashes in context menu with custom menu items",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615"
@@ -16570,6 +16598,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561"
         },
         {
+          "title": "[Problem/Bug]: CoInitialize has not been called when creating Edge Webview2 environment",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616"
+        },
+        {
           "title": "[Problem/Bug]: Can not manage extensions",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4608"
         },
@@ -16594,7 +16626,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         }
       ],
-      "rate": "56.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19876,17 +19908,17 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [
         {
-          "title": "MS Edge does not open HTML file from VScode",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2214"
-        },
-        {
-          "title": "Lui Lernen",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2213"
+          "title": "dd",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2216"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23168,6 +23200,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -24135,6 +24171,10 @@
     },
     {
       "date": "2024-06-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
