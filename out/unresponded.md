@@ -1,4 +1,4 @@
-Response rate: 80.00%
+Response rate: 79.50%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -47,14 +47,16 @@ Response rate: 80.00%
   * [[Feature]: Render methods](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570)
   * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
+  * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: Can not manage extensions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4608)
-  * [[Problem/Bug]: Windows Explorer's Quick View stops working a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4600)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [dd](https://github.com/microsoft/vscode-edge-devtools/issues/2216)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [11](https://github.com/microsoft/vscode-edge-devtools/issues/2219)
+  * [coding](https://github.com/microsoft/vscode-edge-devtools/issues/2218)
+  * [bhautik](https://github.com/microsoft/vscode-edge-devtools/issues/2217)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
