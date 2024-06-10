@@ -3290,6 +3290,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6626,6 +6630,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9921,6 +9929,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13216,7 +13228,15 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
+        {
+          "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: was killed.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/147"
+        },
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
@@ -13270,7 +13290,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16564,6 +16584,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
         {
           "title": "WebView2 freezes (stuck) and pressing F12 usually helps to fix the issue",
@@ -19956,7 +19980,15 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
+        {
+          "title": "test",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2220"
+        },
         {
           "title": "11",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2219"
@@ -19970,7 +20002,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2217"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23264,6 +23296,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "97.87"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
         {
           "title": "Update documentation to be clear that native extensions cannot be developed using UWP / WinUI3",
@@ -24248,6 +24284,10 @@
     },
     {
       "date": "2024-06-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

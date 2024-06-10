@@ -1,4 +1,4 @@
-Response rate: 79.48%
+Response rate: 78.98%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -13,7 +13,8 @@ Response rate: 79.48%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+  * [SessionNotCreatedException: Could not start a new session. R...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/147)
   * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
@@ -52,7 +53,8 @@ Response rate: 79.48%
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2220)
   * [11](https://github.com/microsoft/vscode-edge-devtools/issues/2219)
   * [coding](https://github.com/microsoft/vscode-edge-devtools/issues/2218)
   * [bhautik](https://github.com/microsoft/vscode-edge-devtools/issues/2217)
