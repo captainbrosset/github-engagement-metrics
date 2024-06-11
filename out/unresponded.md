@@ -1,4 +1,4 @@
-Response rate: 78.98%
+Response rate: 80.50%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -13,8 +13,7 @@ Response rate: 78.98%
   * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
-  * [SessionNotCreatedException: Could not start a new session. R...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/147)
+* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
@@ -28,7 +27,7 @@ Response rate: 78.98%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [WebView2 freezes (stuck) and pressing F12 usually helps to f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4617)
   * [[Problem/Bug]: Browser process crashes in context menu with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615)
   * [Why does windows.xam.ul api change the binding of a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614)
@@ -45,7 +44,6 @@ Response rate: 78.98%
   * [[Feature]: Enumerate available zoom factors](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4572)
   * [2024/05/18 時点で、インストールされるwebview2 のバージョンが異なる](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4571)
   * [[Feature]: Render methods](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570)
-  * [[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: Can not manage extensions](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4608)
@@ -53,11 +51,8 @@ Response rate: 78.98%
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: Opening a connection to an Access database br...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4583)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _92.00%_
-  * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2220)
-  * [11](https://github.com/microsoft/vscode-edge-devtools/issues/2219)
-  * [coding](https://github.com/microsoft/vscode-edge-devtools/issues/2218)
-  * [bhautik](https://github.com/microsoft/vscode-edge-devtools/issues/2217)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [Mda shop](https://github.com/microsoft/vscode-edge-devtools/issues/2222)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -90,5 +85,4 @@ Response rate: 78.98%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Update documentation to be clear that native extensions cann...](https://github.com/MicrosoftDocs/edge-developer/issues/3191)
+* **MicrosoftDocs/edge-developer** - _100.00%_

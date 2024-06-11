@@ -3294,6 +3294,10 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6634,6 +6638,10 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9933,6 +9941,10 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13232,11 +13244,11 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [
-        {
-          "title": "SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Microsoft Edge failed to start: was killed.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/147"
-        },
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
@@ -13290,7 +13302,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16588,6 +16600,10 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [
         {
           "title": "WebView2 freezes (stuck) and pressing F12 usually helps to fix the issue",
@@ -16654,10 +16670,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4570"
         },
         {
-          "title": "[Problem/Bug]: ClearBrowsingDataAsync doesn't clear service worker logs",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561"
-        },
-        {
           "title": "[Problem/Bug]: CoInitialize has not been called when creating Edge Webview2 environment",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616"
         },
@@ -16686,7 +16698,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -19984,25 +19996,17 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [
         {
-          "title": "test",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2220"
-        },
-        {
-          "title": "11",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2219"
-        },
-        {
-          "title": "coding",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2218"
-        },
-        {
-          "title": "bhautik",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2217"
+          "title": "Mda shop",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2222"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23300,13 +23304,12 @@
     },
     {
       "date": "2024-06-10",
-      "unRespondedItems": [
-        {
-          "title": "Update documentation to be clear that native extensions cannot be developed using UWP / WinUI3",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3191"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2024-06-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24288,6 +24291,10 @@
     },
     {
       "date": "2024-06-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
