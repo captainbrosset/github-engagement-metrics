@@ -3306,6 +3306,10 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6658,6 +6662,10 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9969,6 +9977,10 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13285,6 +13297,10 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16649,7 +16665,15 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: `focus` event does not trigger when switching to the window using alt+tab",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626"
+        },
         {
           "title": "[Problem/Bug]: WebView2 keeps crashing, and restarting the client doesn't solve the problem",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4623"
@@ -16685,10 +16709,6 @@
         {
           "title": "[Feature]: Pass Uri and FrameId into Frame::NavigationCompleted event handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4604"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 control throws OutOfMemoryException on call to EnsureCoreWebView2Async()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4601"
         },
         {
           "title": "F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ",
@@ -16727,8 +16747,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611"
         },
         {
-          "title": "[Problem/Bug]: FrameNavigationStarting and FrameNavigationCompleted not called for nested iframes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605"
+          "title": "[Problem/Bug]: WebView2 control throws OutOfMemoryException on call to EnsureCoreWebView2Async()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4601"
         },
         {
           "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
@@ -20053,13 +20073,25 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
+        {
+          "title": "programa",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2230"
+        },
+        {
+          "title": "Error: Could not find or load main class class1.sorted Caused by: java.lang.ClassNotFoundException: class1.sorted",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2229"
+        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23369,8 +23401,21 @@
     },
     {
       "date": "2024-06-13",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-06-14",
+      "unRespondedItems": [
+        {
+          "title": "0",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3194"
+        },
+        {
+          "title": "0x0",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3193"
+        }
+      ],
+      "rate": "95.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24364,6 +24409,10 @@
     },
     {
       "date": "2024-06-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
