@@ -3314,6 +3314,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6674,6 +6678,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -9993,6 +10001,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13317,6 +13329,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16689,7 +16705,15 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
+        },
         {
           "title": "Why does the WebView2 for .NET provide the CoreWebView2CompositionController but dose not implement its interfaces?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630"
@@ -16753,10 +16777,6 @@
         {
           "title": "[Problem/Bug]: WPF WebView2 does not accept Delete key when CommandBinding is in place",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585"
-        },
-        {
-          "title": "[Problem/Bug]: Certain actions in event handlers may crash the app hosting WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573"
         },
         {
           "title": "[Problem/Bug]: Fixed Version runtime distribution mode opening  folder Process Crashes Bug",
@@ -20101,7 +20121,15 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
+        {
+          "title": "my program dont show output",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2232"
+        },
         {
           "title": "Allow for drag and drop of files",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2231"
@@ -20117,9 +20145,13 @@
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
+        },
+        {
+          "title": "please add auto reload page feature upon saving the code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2233"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23437,6 +23469,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "95.83"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
         {
           "title": "0",
@@ -24449,6 +24485,10 @@
     },
     {
       "date": "2024-06-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

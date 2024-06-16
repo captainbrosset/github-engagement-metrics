@@ -1,4 +1,4 @@
-Response rate: 78.98%
+Response rate: 78.48%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,6 +29,7 @@ Response rate: 78.98%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
   * [[Feature]: Provide methods to manage extension settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627)
@@ -45,18 +46,19 @@ Response rate: 78.98%
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
-  * [[Problem/Bug]: Certain actions in event handlers may crash t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4573)
   * [[Problem/Bug]: Fixed Version runtime distribution mode openi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4629)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [my program dont show output](https://github.com/microsoft/vscode-edge-devtools/issues/2232)
   * [Allow for drag and drop of files](https://github.com/microsoft/vscode-edge-devtools/issues/2231)
   * [programa](https://github.com/microsoft/vscode-edge-devtools/issues/2230)
   * [Error: Could not find or load main class class1.sorted Cause...](https://github.com/microsoft/vscode-edge-devtools/issues/2229)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
+  * [please add auto reload page feature upon saving the code](https://github.com/microsoft/vscode-edge-devtools/issues/2233)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
