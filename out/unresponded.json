@@ -3318,6 +3318,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -3354,13 +3358,9 @@
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
           "url": "https://github.com/webhintio/hint/issues/5730"
-        },
-        {
-          "title": "[Bug] \"text-decoration-thickness\" wrongly labeled as not supported by Firefox for Android.",
-          "url": "https://github.com/webhintio/hint/issues/5723"
         }
       ],
-      "rate": "80.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6682,6 +6682,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10005,6 +10009,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13333,6 +13341,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16709,6 +16721,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
@@ -20125,7 +20141,15 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
+        {
+          "title": "DJANGO",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2235"
+        },
         {
           "title": "my program dont show output",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2232"
@@ -20151,7 +20175,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2233"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23473,6 +23497,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "95.83"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "0",
@@ -24489,6 +24517,10 @@
     },
     {
       "date": "2024-06-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

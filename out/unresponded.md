@@ -1,6 +1,6 @@
 Response rate: 78.48%
 
-* **webhintio/hint** - _80.00%_
+* **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
@@ -10,7 +10,6 @@ Response rate: 78.48%
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
-  * [[Bug] "text-decoration-thickness" wrongly labeled as not sup...](https://github.com/webhintio/hint/issues/5723)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
@@ -52,7 +51,8 @@ Response rate: 78.48%
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [DJANGO](https://github.com/microsoft/vscode-edge-devtools/issues/2235)
   * [my program dont show output](https://github.com/microsoft/vscode-edge-devtools/issues/2232)
   * [Allow for drag and drop of files](https://github.com/microsoft/vscode-edge-devtools/issues/2231)
   * [programa](https://github.com/microsoft/vscode-edge-devtools/issues/2230)
