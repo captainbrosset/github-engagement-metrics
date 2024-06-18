@@ -3322,6 +3322,10 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6686,6 +6690,10 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10013,6 +10021,10 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13345,6 +13357,10 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
@@ -16725,11 +16741,11 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
-        },
         {
           "title": "Why does the WebView2 for .NET provide the CoreWebView2CompositionController but dose not implement its interfaces?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630"
@@ -16745,10 +16761,6 @@
         {
           "title": "[Problem/Bug]: `focus` event does not trigger when switching to the window using alt+tab",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 keeps crashing, and restarting the client doesn't solve the problem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4623"
         },
         {
           "title": "WebView2 freezes (stuck) and pressing F12 usually helps to fix the issue",
@@ -16795,8 +16807,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585"
         },
         {
-          "title": "[Problem/Bug]: Fixed Version runtime distribution mode opening  folder Process Crashes Bug",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4629"
+          "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
         },
         {
           "title": "[Problem/Bug]: CoInitialize has not been called when creating Edge Webview2 environment",
@@ -16819,7 +16831,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         }
       ],
-      "rate": "54.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20145,37 +20157,21 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
         {
-          "title": "DJANGO",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2235"
-        },
-        {
-          "title": "my program dont show output",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2232"
-        },
-        {
-          "title": "Allow for drag and drop of files",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2231"
-        },
-        {
-          "title": "programa",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2230"
-        },
-        {
-          "title": "Error: Could not find or load main class class1.sorted Caused by: java.lang.ClassNotFoundException: class1.sorted",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2229"
+          "title": "C41",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2239"
         },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
-        },
-        {
-          "title": "please add auto reload page feature upon saving the code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2233"
         }
       ],
-      "rate": "86.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23501,17 +23497,12 @@
     },
     {
       "date": "2024-06-17",
-      "unRespondedItems": [
-        {
-          "title": "0",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3194"
-        },
-        {
-          "title": "0x0",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3193"
-        }
-      ],
       "rate": "95.83"
+    },
+    {
+      "date": "2024-06-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24521,6 +24512,10 @@
     },
     {
       "date": "2024-06-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

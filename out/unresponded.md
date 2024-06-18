@@ -1,4 +1,4 @@
-Response rate: 78.48%
+Response rate: 80.75%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -27,13 +27,11 @@ Response rate: 78.48%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
   * [[Feature]: Provide methods to manage extension settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627)
   * [[Problem/Bug]: `focus` event does not trigger when switching...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626)
-  * [[Problem/Bug]: WebView2 keeps crashing, and restarting the c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4623)
   * [WebView2 freezes (stuck) and pressing F12 usually helps to f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4617)
   * [[Problem/Bug]: Browser process crashes in context menu with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615)
   * [Why does windows.xam.ul api change the binding of a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614)
@@ -45,20 +43,15 @@ Response rate: 78.48%
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
-  * [[Problem/Bug]: Fixed Version runtime distribution mode openi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4629)
+  * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
-* **microsoft/vscode-edge-devtools** - _86.00%_
-  * [DJANGO](https://github.com/microsoft/vscode-edge-devtools/issues/2235)
-  * [my program dont show output](https://github.com/microsoft/vscode-edge-devtools/issues/2232)
-  * [Allow for drag and drop of files](https://github.com/microsoft/vscode-edge-devtools/issues/2231)
-  * [programa](https://github.com/microsoft/vscode-edge-devtools/issues/2230)
-  * [Error: Could not find or load main class class1.sorted Cause...](https://github.com/microsoft/vscode-edge-devtools/issues/2229)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [C41](https://github.com/microsoft/vscode-edge-devtools/issues/2239)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
-  * [please add auto reload page feature upon saving the code](https://github.com/microsoft/vscode-edge-devtools/issues/2233)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -91,6 +84,4 @@ Response rate: 78.48%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.83%_
-  * [0](https://github.com/MicrosoftDocs/edge-developer/issues/3194)
-  * [0x0](https://github.com/MicrosoftDocs/edge-developer/issues/3193)
+* **MicrosoftDocs/edge-developer** - _100.00%_
