@@ -1,4 +1,4 @@
-Response rate: 80.75%
+Response rate: 80.25%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -13,7 +13,8 @@ Response rate: 80.75%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
-* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+  * [Run Edge Test on Mobile Device - Samsung/Android](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148)
   * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
@@ -50,7 +51,7 @@ Response rate: 80.75%
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
   * [[Problem/Bug]: NavigationCompleted is not invoked since 125....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [C41](https://github.com/microsoft/vscode-edge-devtools/issues/2239)
+  * [browser](https://github.com/microsoft/vscode-edge-devtools/issues/2242)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -84,4 +85,5 @@ Response rate: 80.75%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.96%_
+  * [GET is easy. What about POST](https://github.com/MicrosoftDocs/edge-developer/issues/3197)

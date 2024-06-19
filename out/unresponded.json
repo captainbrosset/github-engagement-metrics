@@ -3326,6 +3326,10 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6694,6 +6698,10 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10025,6 +10033,10 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13361,7 +13373,15 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
+        {
+          "title": "Run Edge Test on Mobile Device - Samsung/Android",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148"
+        },
         {
           "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
@@ -13415,7 +13435,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16745,6 +16765,10 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
         {
           "title": "Why does the WebView2 for .NET provide the CoreWebView2CompositionController but dose not implement its interfaces?",
@@ -20161,10 +20185,14 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
         {
-          "title": "C41",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2239"
+          "title": "browser",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2242"
         },
         {
           "title": "Flutter web support",
@@ -23501,8 +23529,17 @@
     },
     {
       "date": "2024-06-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-06-19",
+      "unRespondedItems": [
+        {
+          "title": "GET is easy. What about POST",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3197"
+        }
+      ],
+      "rate": "97.96"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24516,6 +24553,10 @@
     },
     {
       "date": "2024-06-18",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
