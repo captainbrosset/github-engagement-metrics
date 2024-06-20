@@ -3330,6 +3330,10 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6702,6 +6706,10 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10037,13 +10045,25 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
+        {
+          "title": "Dev Tools override on a domain caused response 'true' to be parsed incorrectly",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/261"
+        },
+        {
+          "title": "Unexpected Gray Border and Incorrect Width in Fullscreen Mode with DevTools Open in Edge",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/260"
+        },
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/259"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13377,7 +13397,15 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
+        {
+          "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149"
+        },
         {
           "title": "Run Edge Test on Mobile Device - Samsung/Android",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148"
@@ -13435,7 +13463,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16769,7 +16797,19 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
+        },
+        {
+          "title": "[Problem/Bug]: F3 with Find popup doesn't behave correctly when not focused on the Find popup",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638"
+        },
         {
           "title": "Why does the WebView2 for .NET provide the CoreWebView2CompositionController but dose not implement its interfaces?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630"
@@ -16843,19 +16883,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611"
         },
         {
+          "title": "[Problem/Bug]: FrameNavigationStarting and FrameNavigationCompleted not called for nested iframes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 deadlocks and crashes when sending large messages on ARM64 Windows with x64 target",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
         },
         {
           "title": "[Problem/Bug]: All WebView2 controls fire ProcessFailed events and controls are not responsive",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
-        },
-        {
-          "title": "[Problem/Bug]: NavigationCompleted is not invoked since 125.0",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4579"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20189,17 +20229,25 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
         {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2246"
+        },
+        {
           "title": "browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2242"
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2245"
         },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23533,6 +23581,10 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "97.96"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
         {
           "title": "GET is easy. What about POST",
@@ -24557,6 +24609,10 @@
     },
     {
       "date": "2024-06-19",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
