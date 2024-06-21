@@ -1,4 +1,4 @@
-Response rate: 78.75%
+Response rate: 79.24%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -55,9 +55,7 @@ Response rate: 78.75%
   * [[Problem/Bug]: FrameNavigationStarting and FrameNavigationCo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2246)
-  * [browser](https://github.com/microsoft/vscode-edge-devtools/issues/2245)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -91,5 +89,5 @@ Response rate: 78.75%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.96%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
   * [GET is easy. What about POST](https://github.com/MicrosoftDocs/edge-developer/issues/3197)

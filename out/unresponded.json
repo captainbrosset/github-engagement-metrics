@@ -3334,6 +3334,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6710,6 +6714,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10049,6 +10057,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "Dev Tools override on a domain caused response 'true' to be parsed incorrectly",
@@ -13401,6 +13413,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
@@ -16801,6 +16817,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
@@ -20233,21 +20253,17 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2246"
-        },
-        {
-          "title": "browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2245"
-        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23585,13 +23601,17 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "97.96"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "GET is easy. What about POST",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3197"
         }
       ],
-      "rate": "97.96"
+      "rate": "97.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24613,6 +24633,10 @@
     },
     {
       "date": "2024-06-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
