@@ -1,4 +1,4 @@
-Response rate: 79.24%
+Response rate: 79.74%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -11,9 +11,7 @@ Response rate: 79.24%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.00%_
-  * [Dev Tools override on a domain caused response 'true' to be ...](https://github.com/MicrosoftEdge/DevTools/issues/261)
-  * [Unexpected Gray Border and Incorrect Width in Fullscreen Mod...](https://github.com/MicrosoftEdge/DevTools/issues/260)
+* **MicrosoftEdge/DevTools** - _98.00%_
   * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [An error occurred while initializing the browser: Message: s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149)
@@ -32,6 +30,7 @@ Response rate: 79.24%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
@@ -45,7 +44,6 @@ Response rate: 79.24%
   * [[Feature]: Set or Get the WebView2 Control thread priority.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610)
   * [DownloadStarting event not firing when selecting Screenshot ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609)
   * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
-  * [[Feature]: Pass Uri and FrameId into Frame::NavigationComple...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4604)
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)

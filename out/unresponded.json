@@ -3338,6 +3338,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6718,6 +6722,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10061,21 +10069,17 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
-        {
-          "title": "Dev Tools override on a domain caused response 'true' to be parsed incorrectly",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/261"
-        },
-        {
-          "title": "Unexpected Gray Border and Incorrect Width in Fullscreen Mode with DevTools Open in Edge",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/260"
-        },
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/259"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13417,6 +13421,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
@@ -16821,7 +16829,15 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Can we add tracking request IDs or features",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642"
+        },
         {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
@@ -16873,10 +16889,6 @@
         {
           "title": "[Problem/Bug]: Synchronizing Tab States with Extension Scripts in a Multi-tab Browser Developed with C# WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
-        },
-        {
-          "title": "[Feature]: Pass Uri and FrameId into Frame::NavigationCompleted event handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4604"
         },
         {
           "title": "F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ",
@@ -20257,6 +20269,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
         {
           "title": "Flutter web support",
@@ -23605,6 +23621,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "97.92"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
         {
           "title": "GET is easy. What about POST",
@@ -24637,6 +24657,10 @@
     },
     {
       "date": "2024-06-21",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
