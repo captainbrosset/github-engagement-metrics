@@ -3342,6 +3342,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6726,6 +6730,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10073,6 +10081,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13425,6 +13437,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
@@ -16833,6 +16849,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
         {
           "title": "[Feature]: Can we add tracking request IDs or features",
@@ -20273,13 +20293,29 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
+        {
+          "title": "no me deja ver mi codigo desde el navegador",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2254"
+        },
+        {
+          "title": "проблема с программой ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2253"
+        },
+        {
+          "title": "web erroe",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2251"
+        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "98.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23625,13 +23661,25 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "97.92"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
+        {
+          "title": "identity ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3202"
+        },
+        {
+          "title": "‏‪abwadhrhahmd68@gmail.com‬‏",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3201"
+        },
         {
           "title": "GET is easy. What about POST",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3197"
         }
       ],
-      "rate": "97.92"
+      "rate": "93.75"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24661,6 +24709,10 @@
     },
     {
       "date": "2024-06-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
