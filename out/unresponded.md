@@ -1,4 +1,4 @@
-Response rate: 78.47%
+Response rate: 78.46%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,9 +29,8 @@ Response rate: 78.47%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
-  * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
@@ -90,7 +89,8 @@ Response rate: 78.47%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.75%_
+* **MicrosoftDocs/edge-developer** - _91.67%_
+  * [www.rockstargames.com](https://github.com/MicrosoftDocs/edge-developer/issues/3203)
   * [identity ](https://github.com/MicrosoftDocs/edge-developer/issues/3202)
   * [‏‪abwadhrhahmd68@gmail.com‬‏](https://github.com/MicrosoftDocs/edge-developer/issues/3201)
   * [GET is easy. What about POST](https://github.com/MicrosoftDocs/edge-developer/issues/3197)
