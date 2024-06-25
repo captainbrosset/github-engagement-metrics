@@ -3350,6 +3350,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6742,6 +6746,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10097,6 +10105,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13457,6 +13469,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
@@ -13465,10 +13481,6 @@
         {
           "title": "Run Edge Test on Mobile Device - Samsung/Android",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148"
-        },
-        {
-          "title": "Incompatibility Between Microsoft Edge WebDriver and Browser Version",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145"
         },
         {
           "title": "Cannot start edgedriver when edge is not installed in program files for edge v120+",
@@ -13519,7 +13531,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "70.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16873,6 +16885,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "[Feature]: Can we add tracking request IDs or features",
@@ -16939,6 +16955,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585"
         },
         {
+          "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
         },
@@ -16963,7 +16983,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20317,7 +20337,19 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
+        {
+          "title": "Can't launch as Personal user on Mac OSX ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2256"
+        },
+        {
+          "title": "webdevlopment",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2255"
+        },
         {
           "title": "no me deja ver mi codigo desde el navegador",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2254"
@@ -20335,7 +20367,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23689,6 +23721,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "91.67"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "www.rockstargames.com",
@@ -24745,6 +24781,10 @@
     },
     {
       "date": "2024-06-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

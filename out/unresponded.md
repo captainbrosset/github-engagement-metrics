@@ -1,4 +1,4 @@
-Response rate: 78.46%
+Response rate: 77.96%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -13,10 +13,9 @@ Response rate: 78.46%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
   * [An error occurred while initializing the browser: Message: s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149)
   * [Run Edge Test on Mobile Device - Samsung/Android](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148)
-  * [Incompatibility Between Microsoft Edge WebDriver and Browser...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/145)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
   * [Local edge driver session - session not created exception](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/140)
   * [WebElement.click() stopped working on some fields between Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/139)
@@ -29,7 +28,7 @@ Response rate: 78.46%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
@@ -46,13 +45,16 @@ Response rate: 78.46%
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Problem/Bug]: password field is sometimes saved when IsPass...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4586)
   * [[Problem/Bug]: WPF WebView2 does not accept Delete key when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4585)
+  * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: FrameNavigationStarting and FrameNavigationCo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4605)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
   * [[Problem/Bug]: All WebView2 controls fire ProcessFailed even...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4587)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [Can't launch as Personal user on Mac OSX ](https://github.com/microsoft/vscode-edge-devtools/issues/2256)
+  * [webdevlopment](https://github.com/microsoft/vscode-edge-devtools/issues/2255)
   * [no me deja ver mi codigo desde el navegador](https://github.com/microsoft/vscode-edge-devtools/issues/2254)
   * [проблема с программой ](https://github.com/microsoft/vscode-edge-devtools/issues/2253)
   * [web erroe](https://github.com/microsoft/vscode-edge-devtools/issues/2251)
