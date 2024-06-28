@@ -3362,6 +3362,10 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -3398,9 +3402,13 @@
         {
           "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
           "url": "https://github.com/webhintio/hint/issues/5730"
+        },
+        {
+          "title": "[Bug] `hint` shouldn't warn about `forceConsistentCasingInFileNames` when TS version is >= 5.0.0",
+          "url": "https://github.com/webhintio/hint/issues/5880"
         }
       ],
-      "rate": "82.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -6766,6 +6774,10 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10133,13 +10145,12 @@
     },
     {
       "date": "2024-06-27",
-      "unRespondedItems": [
-        {
-          "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/259"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-06-28",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13505,6 +13516,10 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
@@ -13547,10 +13562,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         },
         {
-          "title": "With user-data-dir set to \"C\\Users\\{user}\\AppData\\Local\\Microsoft\\Edge\\User Data\". SessionNotCreatedException occurs when launch Selenium.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125"
-        },
-        {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
         },
@@ -13563,7 +13574,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "72.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16929,6 +16940,10 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Is there a known problem with webview2 creating an Intermediate d3d window and intercepting mouse events?",
@@ -16995,6 +17010,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4648"
         },
         {
+          "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
         },
@@ -17015,7 +17034,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20381,14 +20400,18 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [
-        {
-          "title": ".",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2258"
-        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
+        },
+        {
+          "title": "hacking",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2260"
         }
       ],
       "rate": "96.00"
@@ -23757,8 +23780,17 @@
     },
     {
       "date": "2024-06-27",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-06-28",
+      "unRespondedItems": [
+        {
+          "title": "Lies, all lies!",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3209"
+        }
+      ],
+      "rate": "97.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24808,6 +24840,10 @@
     },
     {
       "date": "2024-06-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

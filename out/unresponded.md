@@ -1,6 +1,6 @@
-Response rate: 80.50%
+Response rate: 80.24%
 
-* **webhintio/hint** - _82.00%_
+* **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
@@ -10,10 +10,10 @@ Response rate: 80.50%
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
+  * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
-* **MicrosoftEdge/EdgeWebDriver** - _72.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _74.00%_
   * [An error occurred while initializing the browser: Message: s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149)
   * [Run Edge Test on Mobile Device - Samsung/Android](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148)
   * [Cannot start edgedriver when edge is not installed in progra...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/144)
@@ -24,11 +24,10 @@ Response rate: 80.50%
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-  * [With user-data-dir set to "C\Users\{user}\AppData\Local\Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/125)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Problem/Bug]: Is there a known problem with webview2 creati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652)
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
@@ -45,14 +44,15 @@ Response rate: 80.50%
   * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
   * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [When opening a FileExplorer Dialog over a WebView2 instance ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4648)
+  * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2258)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
+  * [hacking](https://github.com/microsoft/vscode-edge-devtools/issues/2260)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -85,4 +85,5 @@ Response rate: 80.50%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [Lies, all lies!](https://github.com/MicrosoftDocs/edge-developer/issues/3209)
