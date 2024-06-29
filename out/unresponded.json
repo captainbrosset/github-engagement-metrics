@@ -3366,6 +3366,10 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6778,6 +6782,10 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10149,8 +10157,17 @@
     },
     {
       "date": "2024-06-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-06-29",
+      "unRespondedItems": [
+        {
+          "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/259"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13520,7 +13537,15 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [
+        {
+          "title": "add `--host` flag",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150"
+        },
         {
           "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149"
@@ -13574,7 +13599,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "74.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -16944,6 +16969,10 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Is there a known problem with webview2 creating an Intermediate d3d window and intercepting mouse events?",
@@ -17006,10 +17035,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597"
         },
         {
-          "title": "When opening a FileExplorer Dialog over a WebView2 instance the app freeze and then crash ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4648"
-        },
-        {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
         },
@@ -17034,7 +17059,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20404,14 +20429,18 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [
+        {
+          "title": "get data to excel file from web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2265"
+        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
-        },
-        {
-          "title": "hacking",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2260"
         }
       ],
       "rate": "96.00"
@@ -23784,13 +23813,12 @@
     },
     {
       "date": "2024-06-28",
-      "unRespondedItems": [
-        {
-          "title": "Lies, all lies!",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3209"
-        }
-      ],
       "rate": "97.92"
+    },
+    {
+      "date": "2024-06-29",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -24844,6 +24872,10 @@
     },
     {
       "date": "2024-06-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
