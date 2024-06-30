@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 80.00%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -51,7 +51,8 @@ Response rate: 80.25%
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
   * [[Problem/Bug]: WebView2 deadlocks and crashes when sending l...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4589)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [rasikasonone](https://github.com/microsoft/vscode-edge-devtools/issues/2266)
   * [get data to excel file from web](https://github.com/microsoft/vscode-edge-devtools/issues/2265)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_

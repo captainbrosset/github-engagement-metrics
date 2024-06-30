@@ -3370,6 +3370,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6786,6 +6790,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10161,6 +10169,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13541,6 +13553,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
         {
           "title": "add `--host` flag",
@@ -16973,6 +16989,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Is there a known problem with webview2 creating an Intermediate d3d window and intercepting mouse events?",
@@ -20433,7 +20453,15 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
+        {
+          "title": "rasikasonone",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2266"
+        },
         {
           "title": "get data to excel file from web",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2265"
@@ -20443,7 +20471,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23817,6 +23845,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -24876,6 +24908,10 @@
     },
     {
       "date": "2024-06-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-06-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
