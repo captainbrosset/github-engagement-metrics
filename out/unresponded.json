@@ -3378,6 +3378,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6802,6 +6806,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10185,6 +10193,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
         {
           "title": "JS variable assigned a value is always undefined in Microsoft Edge, but not in Google Chrome",
@@ -13573,7 +13585,15 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "72.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
+        {
+          "title": "How to correctly run a driver so that it always kills the process it spawns (binary)?",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/151"
+        },
         {
           "title": "add `--host` flag",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150"
@@ -13631,7 +13651,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "72.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17013,6 +17033,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerCompletedHandler encountered error code 0x80010108(RPC_E_DISCONNECTED)",
@@ -17079,6 +17103,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597"
         },
         {
+          "title": "SampleWinComp Example Consistently Reproduces Browser Process Crash with ICoreWebView2CompositionController Embedding",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
+        },
+        {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
         },
@@ -17099,7 +17127,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20481,21 +20509,17 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
-        {
-          "title": "rasikasonone",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2266"
-        },
-        {
-          "title": "get data to excel file from web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2265"
-        },
         {
           "title": "Flutter web support",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -23877,6 +23901,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -24944,6 +24972,10 @@
     },
     {
       "date": "2024-07-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
