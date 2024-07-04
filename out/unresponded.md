@@ -1,4 +1,4 @@
-Response rate: 78.73%
+Response rate: 79.50%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -12,8 +12,7 @@ Response rate: 78.73%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [JS variable assigned a value is always undefined in Microsof...](https://github.com/MicrosoftEdge/DevTools/issues/259)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
   * [How to correctly run a driver so that it always kills the pr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/151)
   * [add `--host` flag](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150)
@@ -30,7 +29,8 @@ Response rate: 78.73%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: how to cancel a navigate event ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4660)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
   * [[Problem/Bug]: Is there a known problem with webview2 creati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652)
@@ -55,9 +55,7 @@ Response rate: 78.73%
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [not working](https://github.com/microsoft/vscode-edge-devtools/issues/2271)
-  * [1](https://github.com/microsoft/vscode-edge-devtools/issues/2270)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -91,5 +89,4 @@ Response rate: 78.73%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.87%_
-  * [Gone?](https://github.com/MicrosoftDocs/edge-developer/issues/3212)
+* **MicrosoftDocs/edge-developer** - _100.00%_
