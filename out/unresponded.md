@@ -1,4 +1,4 @@
-Response rate: 79.50%
+Response rate: 79.00%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -14,7 +14,7 @@ Response rate: 79.50%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _70.00%_
-  * [How to correctly run a driver so that it always kills the pr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/151)
+  * [The EdgeWebDriver does not properly handle signals such as S...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152)
   * [add `--host` flag](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150)
   * [An error occurred while initializing the browser: Message: s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149)
   * [Run Edge Test on Mobile Device - Samsung/Android](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/148)
@@ -29,8 +29,9 @@ Response rate: 79.50%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [[Problem/Bug]: how to cancel a navigate event ?](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4660)
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: executing scripts while displaying a pdf file...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4662)
+  * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
   * [[Problem/Bug]: Is there a known problem with webview2 creati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652)
@@ -55,7 +56,8 @@ Response rate: 79.50%
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [fsh](https://github.com/microsoft/vscode-edge-devtools/issues/2273)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
