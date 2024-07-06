@@ -1,4 +1,4 @@
-Response rate: 79.00%
+Response rate: 78.00%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -13,7 +13,8 @@ Response rate: 79.00%
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+  * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
   * [The EdgeWebDriver does not properly handle signals such as S...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152)
   * [add `--host` flag](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150)
   * [An error occurred while initializing the browser: Message: s...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149)
@@ -30,11 +31,11 @@ Response rate: 79.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
-  * [[Problem/Bug]: executing scripts while displaying a pdf file...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4662)
+  * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
+  * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
-  * [[Problem/Bug]: Is there a known problem with webview2 creati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652)
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
@@ -48,15 +49,18 @@ Response rate: 79.00%
   * [[Feature]: Set or Get the WebView2 Control thread priority.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610)
   * [DownloadStarting event not firing when selecting Screenshot ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609)
   * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
-  * [F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
+  * [[Problem/Bug]: Is there a known problem with webview2 creati...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
+  * [css intellisence not working](https://github.com/microsoft/vscode-edge-devtools/issues/2275)
+  * [luise](https://github.com/microsoft/vscode-edge-devtools/issues/2274)
   * [fsh](https://github.com/microsoft/vscode-edge-devtools/issues/2273)
   * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_

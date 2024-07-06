@@ -3394,6 +3394,10 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6834,6 +6838,10 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10233,6 +10241,10 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13632,7 +13644,15 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [
+        {
+          "title": "Diversifying Archive Support in MS Edge WebDriver: Addressing Developer Needs",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153"
+        },
         {
           "title": "The EdgeWebDriver does not properly handle signals such as SIGTERM and SIGINT, resulting in sessions not being cleaned up correctly.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152"
@@ -13694,7 +13714,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17092,10 +17112,18 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: executing scripts while displaying a pdf file",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4662"
+          "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665"
+        },
+        {
+          "title": "[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Response.GetContentAsync()",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663"
         },
         {
           "title": "[Feature]: Add AddHostObjectToScript and AddScriptToExecuteOnDocumentCreatedAsync to Unity SDK",
@@ -17108,10 +17136,6 @@
         {
           "title": "[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerCompletedHandler encountered error code 0x80010108(RPC_E_DISCONNECTED)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654"
-        },
-        {
-          "title": "[Problem/Bug]: Is there a known problem with webview2 creating an Intermediate d3d window and intercepting mouse events?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652"
         },
         {
           "title": "[Feature]: Can we add tracking request IDs or features",
@@ -17166,16 +17190,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
         },
         {
-          "title": "F5 refresh causes uncontrolled page scrolling[Problem/Bug]: ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4597"
-        },
-        {
           "title": "[Feature]: Auto Dark Mode for Web Contents",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656"
         },
         {
           "title": "SampleWinComp Example Consistently Reproduces Browser Process Crash with ICoreWebView2CompositionController Embedding",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
+        },
+        {
+          "title": "[Problem/Bug]: Is there a known problem with webview2 creating an Intermediate d3d window and intercepting mouse events?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4652"
         },
         {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
@@ -20596,7 +20620,23 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [
+        {
+          "title": "sequenrespa.in ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
+        },
+        {
+          "title": "css intellisence not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2275"
+        },
+        {
+          "title": "luise",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2274"
+        },
         {
           "title": "fsh",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2273"
@@ -20606,7 +20646,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24004,6 +24044,10 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25087,6 +25131,10 @@
     },
     {
       "date": "2024-07-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
