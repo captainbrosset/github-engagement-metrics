@@ -1,4 +1,4 @@
-Response rate: 77.25%
+Response rate: 76.75%
 
 * **webhintio/hint** - _80.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -57,7 +57,9 @@ Response rate: 77.25%
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _84.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [how to configure html in vscode](https://github.com/microsoft/vscode-edge-devtools/issues/2281)
+  * [ksm](https://github.com/microsoft/vscode-edge-devtools/issues/2280)
   * [Nouveau projet](https://github.com/microsoft/vscode-edge-devtools/issues/2279)
   * [danteee](https://github.com/microsoft/vscode-edge-devtools/issues/2278)
   * [My Name is Danteee](https://github.com/microsoft/vscode-edge-devtools/issues/2277)

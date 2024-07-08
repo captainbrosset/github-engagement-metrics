@@ -3402,6 +3402,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6850,6 +6854,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10257,6 +10265,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13664,6 +13676,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [
         {
           "title": "Diversifying Archive Support in MS Edge WebDriver: Addressing Developer Needs",
@@ -17136,6 +17152,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [
         {
           "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
@@ -20648,7 +20668,19 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [
+        {
+          "title": "how to configure html in vscode",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2281"
+        },
+        {
+          "title": "ksm",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2280"
+        },
         {
           "title": "Nouveau projet",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2279"
@@ -20682,7 +20714,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2227"
         }
       ],
-      "rate": "84.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24088,6 +24120,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25179,6 +25215,10 @@
     },
     {
       "date": "2024-07-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
