@@ -1,9 +1,8 @@
-Response rate: 76.75%
+Response rate: 78.75%
 
-* **webhintio/hint** - _80.00%_
+* **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
-  * [[Bug] No browser detected even if two installed & working](https://github.com/webhintio/hint/issues/5832)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
   * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -30,7 +29,9 @@ Response rate: 76.75%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
+  * [[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.Ot...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667)
   * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
   * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
@@ -57,17 +58,8 @@ Response rate: 76.75%
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _80.00%_
-  * [how to configure html in vscode](https://github.com/microsoft/vscode-edge-devtools/issues/2281)
-  * [ksm](https://github.com/microsoft/vscode-edge-devtools/issues/2280)
-  * [Nouveau projet](https://github.com/microsoft/vscode-edge-devtools/issues/2279)
-  * [danteee](https://github.com/microsoft/vscode-edge-devtools/issues/2278)
-  * [My Name is Danteee](https://github.com/microsoft/vscode-edge-devtools/issues/2277)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
-  * [css intellisence not working](https://github.com/microsoft/vscode-edge-devtools/issues/2275)
-  * [luise](https://github.com/microsoft/vscode-edge-devtools/issues/2274)
-  * [fsh](https://github.com/microsoft/vscode-edge-devtools/issues/2273)
-  * [Flutter web support](https://github.com/microsoft/vscode-edge-devtools/issues/2227)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
