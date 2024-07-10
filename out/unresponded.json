@@ -3410,6 +3410,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6862,6 +6866,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10277,8 +10285,17 @@
     },
     {
       "date": "2024-07-09",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-07-10",
+      "unRespondedItems": [
+        {
+          "title": "Windows Notification Service endpoints for Web Push are down",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/262"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13692,6 +13709,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [
         {
           "title": "Diversifying Archive Support in MS Edge WebDriver: Addressing Developer Needs",
@@ -17172,7 +17193,19 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Method ICoreWebView2.Print() don't work if using page ranges",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4671"
+        },
+        {
+          "title": "[Problem/Bug]: Inconsistencies with pages using a certificate without Certificate Transparency",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
+        },
         {
           "title": "[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesWithDomainAndPath won't delete partitioned cookies",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
@@ -17180,10 +17213,6 @@
         {
           "title": "[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.OtherError when user cancels save as dialog",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667"
-        },
-        {
-          "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665"
         },
         {
           "title": "[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Response.GetContentAsync()",
@@ -17254,6 +17283,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
         },
         {
+          "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
+        },
+        {
+          "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665"
+        },
+        {
           "title": "[Feature]: Auto Dark Mode for Web Contents",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656"
         },
@@ -17286,7 +17323,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611"
         }
       ],
-      "rate": "44.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20700,6 +20737,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [
         {
           "title": "sequenrespa.in ",
@@ -24120,6 +24161,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25219,6 +25264,10 @@
     },
     {
       "date": "2024-07-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
