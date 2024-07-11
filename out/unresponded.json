@@ -3414,6 +3414,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6870,6 +6874,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10289,13 +10297,12 @@
     },
     {
       "date": "2024-07-10",
-      "unRespondedItems": [
-        {
-          "title": "Windows Notification Service endpoints for Web Push are down",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/262"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-07-11",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13713,6 +13720,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [
         {
           "title": "Diversifying Archive Support in MS Edge WebDriver: Addressing Developer Needs",
@@ -17197,7 +17208,15 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [
+        {
+          "title": "WebView2 går inte att publicera ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4675"
+        },
         {
           "title": "[Problem/Bug]: Method ICoreWebView2.Print() don't work if using page ranges",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4671"
@@ -17277,10 +17296,6 @@
         {
           "title": "DownloadStarting event not firing when selecting Screenshot > Save from the context menu",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609"
-        },
-        {
-          "title": "[Problem/Bug]: Synchronizing Tab States with Extension Scripts in a Multi-tab Browser Developed with C# WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607"
         },
         {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
@@ -20741,6 +20756,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [
         {
           "title": "sequenrespa.in ",
@@ -24165,6 +24184,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25268,6 +25291,10 @@
     },
     {
       "date": "2024-07-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

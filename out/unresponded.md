@@ -1,4 +1,4 @@
-Response rate: 77.75%
+Response rate: 78.00%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -11,8 +11,7 @@ Response rate: 77.75%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Windows Notification Service endpoints for Web Push are down...](https://github.com/MicrosoftEdge/DevTools/issues/262)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _68.00%_
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
   * [The EdgeWebDriver does not properly handle signals such as S...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152)
@@ -31,6 +30,7 @@ Response rate: 77.75%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [WebView2 går inte att publicera ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4675)
   * [[Problem/Bug]: Method ICoreWebView2.Print() don't work if us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4671)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
@@ -51,7 +51,6 @@ Response rate: 77.75%
   * [[Problem/Bug]: Download is blocked when subscribed to Downlo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612)
   * [[Feature]: Set or Get the WebView2 Control thread priority.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610)
   * [DownloadStarting event not firing when selecting Screenshot ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609)
-  * [[Problem/Bug]: Synchronizing Tab States with Extension Scrip...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4607)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
