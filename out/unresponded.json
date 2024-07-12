@@ -3418,6 +3418,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6878,6 +6882,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10301,6 +10309,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13724,6 +13736,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [
         {
           "title": "Diversifying Archive Support in MS Edge WebDriver: Addressing Developer Needs",
@@ -17212,7 +17228,19 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [
+        {
+          "title": "Issue with Webview2 for opening Office documents from sharepoint server",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4679"
+        },
+        {
+          "title": "[Problem/Bug]: Coordinates for Drag&Drop events shifted if Resolution Zoom in display Settings is not 100%",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678"
+        },
         {
           "title": "WebView2 går inte att publicera ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4675"
@@ -17288,14 +17316,6 @@
         {
           "title": "[Problem/Bug]: Download is blocked when subscribed to DownloadStarting",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612"
-        },
-        {
-          "title": "[Feature]: Set or Get the WebView2 Control thread priority.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610"
-        },
-        {
-          "title": "DownloadStarting event not firing when selecting Screenshot > Save from the context menu",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609"
         },
         {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
@@ -20760,13 +20780,25 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [
+        {
+          "title": "boda",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2291"
+        },
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2290"
+        },
         {
           "title": "sequenrespa.in ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24188,6 +24220,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25295,6 +25331,10 @@
     },
     {
       "date": "2024-07-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

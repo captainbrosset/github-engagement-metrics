@@ -1,4 +1,4 @@
-Response rate: 78.00%
+Response rate: 77.50%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -30,6 +30,8 @@ Response rate: 78.00%
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
   * [When we set the capability "webSocketUrl" to true for chromi...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/103)
 * **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [Issue with Webview2 for opening Office documents from sharep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4679)
+  * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
   * [WebView2 går inte att publicera ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4675)
   * [[Problem/Bug]: Method ICoreWebView2.Print() don't work if us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4671)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
@@ -49,8 +51,6 @@ Response rate: 78.00%
   * [[Problem/Bug]: Browser process crashes in context menu with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615)
   * [Why does windows.xam.ul api change the binding of a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614)
   * [[Problem/Bug]: Download is blocked when subscribed to Downlo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612)
-  * [[Feature]: Set or Get the WebView2 Control thread priority.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4610)
-  * [DownloadStarting event not firing when selecting Screenshot ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4609)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
@@ -61,7 +61,9 @@ Response rate: 78.00%
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [boda](https://github.com/microsoft/vscode-edge-devtools/issues/2291)
+  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2290)
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
