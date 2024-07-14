@@ -3426,6 +3426,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6894,6 +6898,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10325,6 +10333,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13756,6 +13768,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [
         {
           "title": "Is it possible to disable tracking prevention feature for edgedriver?",
@@ -17252,6 +17268,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [
         {
           "title": "Issue with Webview2 for opening Office documents from sharepoint server",
@@ -20804,13 +20824,21 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [
+        {
+          "title": "previsão do tempo",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2293"
+        },
         {
           "title": "sequenrespa.in ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24240,6 +24268,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25355,6 +25387,10 @@
     },
     {
       "date": "2024-07-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
