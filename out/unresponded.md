@@ -1,4 +1,4 @@
-Response rate: 78.00%
+Response rate: 78.75%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,11 +29,8 @@ Response rate: 78.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
-  * [Issue with Webview2 for opening Office documents from sharep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4679)
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
   * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
-  * [WebView2 går inte att publicera ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4675)
-  * [[Problem/Bug]: Method ICoreWebView2.Print() don't work if us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4671)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
   * [[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.Ot...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667)
   * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
@@ -60,8 +57,8 @@ Response rate: 78.00%
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
   * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
 * **microsoft/vscode-edge-devtools** - _94.00%_
-  * [WebDevlopment](https://github.com/microsoft/vscode-edge-devtools/issues/2294)
-  * [previsão do tempo](https://github.com/microsoft/vscode-edge-devtools/issues/2293)
+  * [unable to go live my code](https://github.com/microsoft/vscode-edge-devtools/issues/2296)
+  * [Add support to vscode.dev for remote tunnels](https://github.com/microsoft/vscode-edge-devtools/issues/2295)
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
