@@ -1,4 +1,4 @@
-Response rate: 78.75%
+Response rate: 78.97%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,7 +29,9 @@ Response rate: 78.75%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]:  Winform app crashes when window.open or Laun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684)
+  * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
   * [[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.Ot...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667)
@@ -45,8 +47,6 @@ Response rate: 78.75%
   * [[Problem/Bug]: `focus` event does not trigger when switching...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626)
   * [WebView2 freezes (stuck) and pressing F12 usually helps to f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4617)
   * [[Problem/Bug]: Browser process crashes in context menu with ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615)
-  * [Why does windows.xam.ul api change the binding of a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614)
-  * [[Problem/Bug]: Download is blocked when subscribed to Downlo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
@@ -55,10 +55,7 @@ Response rate: 78.75%
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
   * [[Problem/Bug]: CoInitialize has not been called when creatin...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616)
-  * [[Problem/Bug]: Unable to execute/inject bulk script](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [unable to go live my code](https://github.com/microsoft/vscode-edge-devtools/issues/2296)
-  * [Add support to vscode.dev for remote tunnels](https://github.com/microsoft/vscode-edge-devtools/issues/2295)
+* **microsoft/vscode-edge-devtools** - _98.00%_
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -92,4 +89,6 @@ Response rate: 78.75%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [bitcoin 50k ](https://github.com/MicrosoftDocs/edge-developer/issues/3226)
+  * [5000k ETH ](https://github.com/MicrosoftDocs/edge-developer/issues/3227)

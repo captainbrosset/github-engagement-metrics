@@ -3438,6 +3438,10 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6918,6 +6922,10 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10361,6 +10369,10 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13804,6 +13816,10 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [
         {
           "title": "Is it possible to disable tracking prevention feature for edgedriver?",
@@ -17312,7 +17328,19 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]:  Winform app crashes when window.open or Launch two apps and close one",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684"
+        },
+        {
+          "title": "[Feature]: I want to clear HTML content of browsing history (Previously accessed Page) from the memory",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
+        },
         {
           "title": "[Problem/Bug]: Coordinates for Drag&Drop events shifted if Resolution Zoom in display Settings is not 100%",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678"
@@ -17374,14 +17402,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615"
         },
         {
-          "title": "Why does windows.xam.ul api change the binding of a webview2 source using communitywinui 8.02.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4614"
-        },
-        {
-          "title": "[Problem/Bug]: Download is blocked when subscribed to DownloadStarting",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4612"
-        },
-        {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
         },
@@ -17412,13 +17432,9 @@
         {
           "title": "[Problem/Bug]: CoInitialize has not been called when creating Edge Webview2 environment",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616"
-        },
-        {
-          "title": "[Problem/Bug]: Unable to execute/inject bulk script",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4611"
         }
       ],
-      "rate": "48.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20860,21 +20876,17 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [
-        {
-          "title": "unable to go live my code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2296"
-        },
-        {
-          "title": "Add support to vscode.dev for remote tunnels",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2295"
-        },
         {
           "title": "sequenrespa.in ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24316,8 +24328,21 @@
     },
     {
       "date": "2024-07-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-07-17",
+      "unRespondedItems": [
+        {
+          "title": "bitcoin 50k ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3226"
+        },
+        {
+          "title": "5000k ETH ",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3227"
+        }
+      ],
+      "rate": "95.74"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -25443,6 +25468,10 @@
     },
     {
       "date": "2024-07-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
