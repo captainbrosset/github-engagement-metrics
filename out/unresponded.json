@@ -3442,6 +3442,10 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6926,6 +6930,10 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10373,6 +10381,10 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13820,6 +13832,10 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [
         {
           "title": "Is it possible to disable tracking prevention feature for edgedriver?",
@@ -13836,10 +13852,6 @@
         {
           "title": "add `--host` flag",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/150"
-        },
-        {
-          "title": "An error occurred while initializing the browser: Message: session not created: Microsoft Edge failed to start: crashed.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/149"
         },
         {
           "title": "Run Edge Test on Mobile Device - Samsung/Android",
@@ -13886,7 +13898,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "68.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17332,7 +17344,23 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter(\"*\", Document) doesn't work for secondary WebViews in the same process",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689"
+        },
+        {
+          "title": "[Problem/Bug]: Using WebResourceRequested event to \"cancel\" navigation vs Content-Security-Policy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4688"
+        },
+        {
+          "title": "[Problem/Bug]: Webview2 cache not consistent, does not respect max-age or ETag",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687"
+        },
         {
           "title": "[Problem/Bug]:  Winform app crashes when window.open or Launch two apps and close one",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684"
@@ -17394,16 +17422,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626"
         },
         {
-          "title": "WebView2 freezes (stuck) and pressing F12 usually helps to fix the issue",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4617"
-        },
-        {
-          "title": "[Problem/Bug]: Browser process crashes in context menu with custom menu items",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4615"
-        },
-        {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
+        },
+        {
+          "title": "[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesWithDomainAndPath won't delete partitioned cookies",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
         },
         {
           "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
@@ -17428,13 +17452,9 @@
         {
           "title": "[Problem/Bug]: NTLM login dialog doesn't pop up",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624"
-        },
-        {
-          "title": "[Problem/Bug]: CoInitialize has not been called when creating Edge Webview2 environment",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4616"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -20880,13 +20900,21 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [
+        {
+          "title": "news",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2297"
+        },
         {
           "title": "sequenrespa.in ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24332,17 +24360,12 @@
     },
     {
       "date": "2024-07-17",
-      "unRespondedItems": [
-        {
-          "title": "bitcoin 50k ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3226"
-        },
-        {
-          "title": "5000k ETH ",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3227"
-        }
-      ],
       "rate": "95.74"
+    },
+    {
+      "date": "2024-07-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -25472,6 +25495,10 @@
     },
     {
       "date": "2024-07-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
