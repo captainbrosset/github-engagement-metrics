@@ -3446,6 +3446,10 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6934,6 +6938,10 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10385,8 +10393,21 @@
     },
     {
       "date": "2024-07-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-07-19",
+      "unRespondedItems": [
+        {
+          "title": "Debugger on a website when disable ignore list in first time , the devtools will freeze for seconds or miniutes.",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/264"
+        },
+        {
+          "title": "How can I jump directly to vscode after clicking on a file in the console of devtools?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/263"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -13836,7 +13857,15 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [
+        {
+          "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155"
+        },
         {
           "title": "Is it possible to disable tracking prevention feature for edgedriver?",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154"
@@ -13898,7 +13927,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17348,14 +17377,22 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: How to influence which WebView2Loader.dll is used by WebView2's managed code",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693"
+        },
+        {
+          "title": "[Feature]: Ability to handle ContentSecurityPolicy failure",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691"
+        },
         {
           "title": "[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter(\"*\", Document) doesn't work for secondary WebViews in the same process",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689"
-        },
-        {
-          "title": "[Problem/Bug]: Using WebResourceRequested event to \"cancel\" navigation vs Content-Security-Policy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4688"
         },
         {
           "title": "[Problem/Bug]: Webview2 cache not consistent, does not respect max-age or ETag",
@@ -17376,10 +17413,6 @@
         {
           "title": "[Problem/Bug]: Inconsistencies with pages using a certificate without Certificate Transparency",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
-        },
-        {
-          "title": "[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.OtherError when user cancels save as dialog",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667"
         },
         {
           "title": "[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Response.GetContentAsync()",
@@ -17422,16 +17455,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626"
         },
         {
+          "title": "[Feature]: Add FrameDOMContentLoaded event",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
+        },
+        {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
         },
         {
           "title": "[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesWithDomainAndPath won't delete partitioned cookies",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
-        },
-        {
-          "title": "[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMethodAsync",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665"
         },
         {
           "title": "[Feature]: Auto Dark Mode for Web Contents",
@@ -20904,7 +20937,23 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [
+        {
+          "title": "formatter",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2300"
+        },
+        {
+          "title": "Support for Flutter Web Debugging in VS Code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2299"
+        },
+        {
+          "title": "Error of function",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2298"
+        },
         {
           "title": "news",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2297"
@@ -20914,7 +20963,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24364,6 +24413,10 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25499,6 +25552,10 @@
     },
     {
       "date": "2024-07-18",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

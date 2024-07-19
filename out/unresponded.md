@@ -1,4 +1,4 @@
-Response rate: 79.25%
+Response rate: 77.75%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -11,8 +11,11 @@ Response rate: 79.25%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _70.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [Debugger on a website when disable ignore list in first time...](https://github.com/MicrosoftEdge/DevTools/issues/264)
+  * [How can I jump directly to vscode after clicking on a file i...](https://github.com/MicrosoftEdge/DevTools/issues/263)
+* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+  * [Alert is not displayed while leaving site during test execut...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
   * [The EdgeWebDriver does not properly handle signals such as S...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152)
@@ -29,14 +32,14 @@ Response rate: 79.25%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
+  * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
-  * [[Problem/Bug]: Using WebResourceRequested event to "cancel" ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4688)
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
   * [[Problem/Bug]:  Winform app crashes when window.open or Laun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
-  * [[Problem/Bug]: PrintAsync returns CoreWebView2PrintStatus.Ot...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4667)
   * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
@@ -47,15 +50,18 @@ Response rate: 79.25%
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
   * [[Feature]: Provide methods to manage extension settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627)
   * [[Problem/Bug]: `focus` event does not trigger when switching...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626)
+  * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-  * [[Feature]: flat mode in CoreWebView2.CallDevToolsProtocolMet...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4665)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
   * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [formatter](https://github.com/microsoft/vscode-edge-devtools/issues/2300)
+  * [Support for Flutter Web Debugging in VS Code](https://github.com/microsoft/vscode-edge-devtools/issues/2299)
+  * [Error of function](https://github.com/microsoft/vscode-edge-devtools/issues/2298)
   * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2297)
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
