@@ -1,4 +1,4 @@
-Response rate: 77.75%
+Response rate: 77.97%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -11,9 +11,7 @@ Response rate: 77.75%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
-  * [Debugger on a website when disable ignore list in first time...](https://github.com/MicrosoftEdge/DevTools/issues/264)
-  * [How can I jump directly to vscode after clicking on a file i...](https://github.com/MicrosoftEdge/DevTools/issues/263)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _68.00%_
   * [Alert is not displayed while leaving site during test execut...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -32,6 +30,8 @@ Response rate: 77.75%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: Etag HTTP caching is not working with /api/ e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4695)
+  * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
@@ -49,7 +49,6 @@ Response rate: 77.75%
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
   * [[Feature]: Provide methods to manage extension settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627)
-  * [[Problem/Bug]: `focus` event does not trigger when switching...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4626)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
@@ -57,12 +56,10 @@ Response rate: 77.75%
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
-  * [[Problem/Bug]: NTLM login dialog doesn't pop up](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4624)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [formatter](https://github.com/microsoft/vscode-edge-devtools/issues/2300)
-  * [Support for Flutter Web Debugging in VS Code](https://github.com/microsoft/vscode-edge-devtools/issues/2299)
-  * [Error of function](https://github.com/microsoft/vscode-edge-devtools/issues/2298)
-  * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2297)
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [ bro fuck this shit bro its not woeking ](https://github.com/microsoft/vscode-edge-devtools/issues/2305)
+  * [npm install prompt-sync](https://github.com/microsoft/vscode-edge-devtools/issues/2304)
+  * [n = int(input()) for i in range(n):     if i == o:         p...](https://github.com/microsoft/vscode-edge-devtools/issues/2303)
   * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -96,4 +93,6 @@ Response rate: 77.75%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
+  * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
+  * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)
