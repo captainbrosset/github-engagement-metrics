@@ -3454,6 +3454,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6950,6 +6954,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10409,6 +10417,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13868,6 +13880,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17392,6 +17408,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Etag HTTP caching is not working with /api/ endpoint ",
@@ -20956,7 +20976,15 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
+        {
+          "title": "features in vs code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2306"
+        },
         {
           "title": " bro fuck this shit bro its not woeking ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2305"
@@ -20974,7 +21002,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24432,7 +24460,15 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "95.74"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
+        {
+          "title": "2097152",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3230"
+        },
         {
           "title": "sgqehgzg@gmail.com",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3229"
@@ -24442,7 +24478,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "95.74"
+      "rate": "93.62"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -25584,6 +25620,10 @@
     },
     {
       "date": "2024-07-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

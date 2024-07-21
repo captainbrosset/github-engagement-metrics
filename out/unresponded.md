@@ -1,4 +1,4 @@
-Response rate: 77.97%
+Response rate: 77.45%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -56,7 +56,8 @@ Response rate: 77.97%
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [features in vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2306)
   * [ bro fuck this shit bro its not woeking ](https://github.com/microsoft/vscode-edge-devtools/issues/2305)
   * [npm install prompt-sync](https://github.com/microsoft/vscode-edge-devtools/issues/2304)
   * [n = int(input()) for i in range(n):     if i == o:         p...](https://github.com/microsoft/vscode-edge-devtools/issues/2303)
@@ -93,6 +94,7 @@ Response rate: 77.97%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **MicrosoftDocs/edge-developer** - _93.62%_
+  * [2097152](https://github.com/MicrosoftDocs/edge-developer/issues/3230)
   * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
   * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)
