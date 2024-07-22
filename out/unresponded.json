@@ -3458,6 +3458,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6958,6 +6962,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10421,6 +10429,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13884,6 +13896,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17412,7 +17428,15 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Space character in Webview's Source causes net::ERR_FILE_NOT_FOUND error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4696"
+        },
         {
           "title": "[Problem/Bug]: Etag HTTP caching is not working with /api/ endpoint ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4695"
@@ -17484,10 +17508,6 @@
         {
           "title": "[Problem/Bug]: WebView2 process not disposing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628"
-        },
-        {
-          "title": "[Feature]: Provide methods to manage extension settings",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627"
         },
         {
           "title": "[Feature]: Add FrameDOMContentLoaded event",
@@ -20980,7 +21000,19 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
+        {
+          "title": "This is my real account",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2308"
+        },
+        {
+          "title": "  justify-content: space-around;",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2307"
+        },
         {
           "title": "features in vs code",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2306"
@@ -21002,7 +21034,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24464,6 +24496,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "93.62"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25624,6 +25660,10 @@
     },
     {
       "date": "2024-07-21",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

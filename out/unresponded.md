@@ -1,4 +1,4 @@
-Response rate: 77.45%
+Response rate: 76.95%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -30,6 +30,7 @@ Response rate: 77.45%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: Space character in Webview's Source causes ne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4696)
   * [[Problem/Bug]: Etag HTTP caching is not working with /api/ e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4695)
   * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
@@ -48,7 +49,6 @@ Response rate: 77.45%
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Problem/Bug]: WebView2 process not disposing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4628)
-  * [[Feature]: Provide methods to manage extension settings](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4627)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
@@ -56,7 +56,9 @@ Response rate: 77.45%
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
   * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [This is my real account](https://github.com/microsoft/vscode-edge-devtools/issues/2308)
+  * [  justify-content: space-around;](https://github.com/microsoft/vscode-edge-devtools/issues/2307)
   * [features in vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2306)
   * [ bro fuck this shit bro its not woeking ](https://github.com/microsoft/vscode-edge-devtools/issues/2305)
   * [npm install prompt-sync](https://github.com/microsoft/vscode-edge-devtools/issues/2304)
