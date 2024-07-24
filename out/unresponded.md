@@ -1,4 +1,4 @@
-Response rate: 76.65%
+Response rate: 77.14%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,15 +29,14 @@ Response rate: 76.65%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [WebResourceRequested didn't fire anymore if WebView2 is not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4697)
-  * [[Problem/Bug]: Etag HTTP caching is not working with /api/ e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4695)
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
+  * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
   * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
-  * [[Problem/Bug]:  Winform app crashes when window.open or Laun...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
@@ -47,14 +46,12 @@ Response rate: 76.65%
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
-  * [Why does the WebView2 for .NET provide the CoreWebView2Compo...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
-  * [[Problem/Bug]: WebView2 Fixed Runtime does not support PlayR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632)
 * **microsoft/vscode-edge-devtools** - _82.00%_
   * [code studeo kise file ko save kar te ha  not open](https://github.com/microsoft/vscode-edge-devtools/issues/2310)
   * [yaqoob](https://github.com/microsoft/vscode-edge-devtools/issues/2309)
@@ -97,7 +94,8 @@ Response rate: 76.65%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.18%_
+* **MicrosoftDocs/edge-developer** - _91.11%_
   * [2097152](https://github.com/MicrosoftDocs/edge-developer/issues/3230)
   * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
+  * [Coinb](https://github.com/MicrosoftDocs/edge-developer/issues/3237)
   * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)

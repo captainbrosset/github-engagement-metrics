@@ -3466,6 +3466,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6974,6 +6978,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10445,6 +10453,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13916,6 +13928,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17452,14 +17468,18 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
-          "title": "WebResourceRequested didn't fire anymore if WebView2 is not visible",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4697"
+          "title": "[Feature]: Unity API - expose DefaultBackgroundColor",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701"
         },
         {
-          "title": "[Problem/Bug]: Etag HTTP caching is not working with /api/ endpoint ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4695"
+          "title": "[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1 counterpart",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698"
         },
         {
           "title": "Same UserData for multiple browsers with different custom scheme registrations",
@@ -17480,10 +17500,6 @@
         {
           "title": "[Problem/Bug]: Webview2 cache not consistent, does not respect max-age or ETag",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687"
-        },
-        {
-          "title": "[Problem/Bug]:  Winform app crashes when window.open or Launch two apps and close one",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4684"
         },
         {
           "title": "[Feature]: I want to clear HTML content of browsing history (Previously accessed Page) from the memory",
@@ -17522,10 +17538,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638"
         },
         {
-          "title": "Why does the WebView2 for .NET provide the CoreWebView2CompositionController but dose not implement its interfaces?",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4630"
-        },
-        {
           "title": "[Feature]: Add FrameDOMContentLoaded event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
         },
@@ -17548,13 +17560,9 @@
         {
           "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 Fixed Runtime does not support PlayReady functionality.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4632"
         }
       ],
-      "rate": "50.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21024,6 +21032,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
           "title": "code studeo kise file ko save kar te ha  not open",
@@ -24532,6 +24544,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -24542,11 +24558,15 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3229"
         },
         {
+          "title": "Coinb",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3237"
+        },
+        {
           "title": "Afggcv",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "93.18"
+      "rate": "91.11"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -25700,6 +25720,10 @@
     },
     {
       "date": "2024-07-23",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
