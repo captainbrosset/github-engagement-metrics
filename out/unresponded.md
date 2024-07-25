@@ -1,4 +1,4 @@
-Response rate: 77.14%
+Response rate: 76.64%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -35,7 +35,6 @@ Response rate: 77.14%
   * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
-  * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
@@ -47,12 +46,15 @@ Response rate: 77.14%
   * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
   * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
+  * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
   * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
-* **microsoft/vscode-edge-devtools** - _82.00%_
+* **microsoft/vscode-edge-devtools** - _78.00%_
+  * [Initial](https://github.com/microsoft/vscode-edge-devtools/issues/2312)
+  * [Initial](https://github.com/microsoft/vscode-edge-devtools/issues/2311)
   * [code studeo kise file ko save kar te ha  not open](https://github.com/microsoft/vscode-edge-devtools/issues/2310)
   * [yaqoob](https://github.com/microsoft/vscode-edge-devtools/issues/2309)
   * [This is my real account](https://github.com/microsoft/vscode-edge-devtools/issues/2308)

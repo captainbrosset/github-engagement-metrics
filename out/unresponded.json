@@ -3470,6 +3470,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6982,6 +6986,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10457,6 +10465,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13932,6 +13944,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17472,6 +17488,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
         {
           "title": "[Feature]: Unity API - expose DefaultBackgroundColor",
@@ -17492,10 +17512,6 @@
         {
           "title": "[Feature]: Ability to handle ContentSecurityPolicy failure",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691"
-        },
-        {
-          "title": "[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter(\"*\", Document) doesn't work for secondary WebViews in the same process",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689"
         },
         {
           "title": "[Problem/Bug]: Webview2 cache not consistent, does not respect max-age or ETag",
@@ -17540,6 +17556,10 @@
         {
           "title": "[Feature]: Add FrameDOMContentLoaded event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
+        },
+        {
+          "title": "[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter(\"*\", Document) doesn't work for secondary WebViews in the same process",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689"
         },
         {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
@@ -21036,7 +21056,19 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
+        {
+          "title": "Initial",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2312"
+        },
+        {
+          "title": "Initial",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2311"
+        },
         {
           "title": "code studeo kise file ko save kar te ha  not open",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2310"
@@ -21074,7 +21106,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "82.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24548,6 +24580,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "91.11"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25724,6 +25760,10 @@
     },
     {
       "date": "2024-07-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
