@@ -3478,6 +3478,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -6998,6 +7002,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10481,6 +10489,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13964,6 +13976,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17512,7 +17528,19 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: CDP server connection - different applications visible through localhost and loopback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4709"
+        },
+        {
+          "title": "How to force use of cache when resource are gotten by WebResourceRequested",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4708"
+        },
         {
           "title": "[Problem]: Impossible to use GetFavicon in synchronous manner",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704"
@@ -17570,24 +17598,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654"
         },
         {
-          "title": "[Feature]: Can we add tracking request IDs or features",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642"
-        },
-        {
-          "title": "[Problem/Bug]: F3 with Find popup doesn't behave correctly when not focused on the Find popup",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638"
-        },
-        {
           "title": "[Feature]: Add FrameDOMContentLoaded event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
         },
         {
           "title": "[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690"
-        },
-        {
-          "title": "[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter(\"*\", Document) doesn't work for secondary WebViews in the same process",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689"
         },
         {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
@@ -17604,13 +17620,9 @@
         {
           "title": "SampleWinComp Example Consistently Reproduces Browser Process Crash with ICoreWebView2CompositionController Embedding",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
-        },
-        {
-          "title": "[Feature]: add a setting to CoreWebView2Settings to enable Ctrl+F find",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639"
         }
       ],
-      "rate": "52.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21092,7 +21104,23 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "76.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
+        {
+          "title": "120",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2315"
+        },
+        {
+          "title": "120",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2316"
+        },
+        {
+          "title": "Mr_code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2314"
+        },
         {
           "title": "bs4",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2313"
@@ -21142,7 +21170,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "76.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24624,6 +24652,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "93.48"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25804,6 +25836,10 @@
     },
     {
       "date": "2024-07-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

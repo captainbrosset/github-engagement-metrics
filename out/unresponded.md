@@ -1,4 +1,4 @@
-Response rate: 76.19%
+Response rate: 75.94%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -29,7 +29,9 @@ Response rate: 76.19%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: CDP server connection - different application...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4709)
+  * [How to force use of cache when resource are gotten by WebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4708)
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
   * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
   * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
@@ -44,17 +46,16 @@ Response rate: 76.19%
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
-  * [[Feature]: Can we add tracking request IDs or features](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4642)
-  * [[Problem/Bug]: F3 with Find popup doesn't behave correctly w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4638)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
-  * [[Problem/Bug]: CoreWebView2.AddWebResourceRequestedFilter("*...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4689)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
-  * [[Feature]: add a setting to CoreWebView2Settings to enable C...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4639)
-* **microsoft/vscode-edge-devtools** - _76.00%_
+* **microsoft/vscode-edge-devtools** - _70.00%_
+  * [120](https://github.com/microsoft/vscode-edge-devtools/issues/2315)
+  * [120](https://github.com/microsoft/vscode-edge-devtools/issues/2316)
+  * [Mr_code](https://github.com/microsoft/vscode-edge-devtools/issues/2314)
   * [bs4](https://github.com/microsoft/vscode-edge-devtools/issues/2313)
   * [Initial](https://github.com/microsoft/vscode-edge-devtools/issues/2312)
   * [Initial](https://github.com/microsoft/vscode-edge-devtools/issues/2311)
