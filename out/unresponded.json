@@ -3482,6 +3482,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -7006,6 +7010,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10493,6 +10501,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -13980,6 +13992,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
@@ -17532,6 +17548,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: CDP server connection - different applications visible through localhost and loopback",
@@ -21108,7 +21128,19 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
+        {
+          "title": "debugger problem",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2319"
+        },
+        {
+          "title": "localhost 8080 visual studio ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2317"
+        },
         {
           "title": "120",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2315"
@@ -21170,7 +21202,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24656,6 +24688,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "93.48"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25840,6 +25876,10 @@
     },
     {
       "date": "2024-07-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

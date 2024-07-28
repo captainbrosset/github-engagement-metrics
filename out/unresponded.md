@@ -1,4 +1,4 @@
-Response rate: 75.94%
+Response rate: 75.44%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -52,7 +52,9 @@ Response rate: 75.94%
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
-* **microsoft/vscode-edge-devtools** - _70.00%_
+* **microsoft/vscode-edge-devtools** - _66.00%_
+  * [debugger problem](https://github.com/microsoft/vscode-edge-devtools/issues/2319)
+  * [localhost 8080 visual studio ](https://github.com/microsoft/vscode-edge-devtools/issues/2317)
   * [120](https://github.com/microsoft/vscode-edge-devtools/issues/2315)
   * [120](https://github.com/microsoft/vscode-edge-devtools/issues/2316)
   * [Mr_code](https://github.com/microsoft/vscode-edge-devtools/issues/2314)
