@@ -3490,6 +3490,10 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
         {
           "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
@@ -7022,6 +7026,10 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10517,8 +10525,17 @@
     },
     {
       "date": "2024-07-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-07-30",
+      "unRespondedItems": [
+        {
+          "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/266"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14012,7 +14029,15 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
+        {
+          "title": "Edge Driver Installation from Brew.sh",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157"
+        },
         {
           "title": "Alert is not displayed while leaving site during test execution on EdgeDriver 127 version",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155"
@@ -14078,7 +14103,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17572,19 +17597,11 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
-        {
-          "title": "[Feature]: Persistence",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
-        },
-        {
-          "title": "[Problem/Bug]: CDP server connection - different applications visible through localhost and loopback",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4709"
-        },
-        {
-          "title": "How to force use of cache when resource are gotten by WebResourceRequested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4708"
-        },
         {
           "title": "[Problem]: Impossible to use GetFavicon in synchronous manner",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704"
@@ -17666,7 +17683,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21160,7 +21177,15 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
+        {
+          "title": "reload issue",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2320"
+        },
         {
           "title": "debugger problem",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2319"
@@ -21230,7 +21255,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24724,6 +24749,10 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "93.48"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -24738,7 +24767,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "93.48"
+      "rate": "93.33"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -25916,6 +25945,10 @@
     },
     {
       "date": "2024-07-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-07-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 75.19%
+Response rate: 75.17%
 
 * **webhintio/hint** - _82.00%_
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
@@ -11,8 +11,10 @@ Response rate: 75.19%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
+* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+  * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Alert is not displayed while leaving site during test execut...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
@@ -29,10 +31,7 @@ Response rate: 75.19%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-  * [[Problem/Bug]: CDP server connection - different application...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4709)
-  * [How to force use of cache when resource are gotten by WebRes...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4708)
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
   * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
   * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
@@ -53,7 +52,8 @@ Response rate: 75.19%
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
   * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
   * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
-* **microsoft/vscode-edge-devtools** - _66.00%_
+* **microsoft/vscode-edge-devtools** - _64.00%_
+  * [reload issue](https://github.com/microsoft/vscode-edge-devtools/issues/2320)
   * [debugger problem](https://github.com/microsoft/vscode-edge-devtools/issues/2319)
   * [localhost 8080 visual studio ](https://github.com/microsoft/vscode-edge-devtools/issues/2317)
   * [120](https://github.com/microsoft/vscode-edge-devtools/issues/2315)
@@ -103,7 +103,7 @@ Response rate: 75.19%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.48%_
+* **MicrosoftDocs/edge-developer** - _93.33%_
   * [2097152](https://github.com/MicrosoftDocs/edge-developer/issues/3230)
   * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
   * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)
