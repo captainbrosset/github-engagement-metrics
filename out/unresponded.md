@@ -1,6 +1,7 @@
-Response rate: 75.17%
+Response rate: 74.92%
 
-* **webhintio/hint** - _82.00%_
+* **webhintio/hint** - _80.00%_
+  * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
   * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
@@ -13,9 +14,8 @@ Response rate: 75.17%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
-* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _68.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
-  * [Alert is not displayed while leaving site during test execut...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/155)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
   * [The EdgeWebDriver does not properly handle signals such as S...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/152)
@@ -31,7 +31,7 @@ Response rate: 75.17%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
   * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
   * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
@@ -46,6 +46,7 @@ Response rate: 75.17%
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
   * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
+  * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
