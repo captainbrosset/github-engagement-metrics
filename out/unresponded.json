@@ -3498,6 +3498,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7042,6 +7046,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10545,6 +10553,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
         {
           "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
@@ -14053,6 +14065,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -14107,6 +14123,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
         },
         {
+          "title": "No latest stable release for Linux",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156"
+        },
+        {
           "title": "Launching msedge.exe with --no-sandbox command line switch",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         },
@@ -14119,7 +14139,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "68.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17621,7 +17641,19 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717"
+        },
+        {
+          "title": "[Problem/Bug]: When attaching the ContextMenuRequest event to the PDF viewer, the Back, Forward, and Refresh items disappear.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714"
+        },
         {
           "title": "[Problem]: Impossible to use GetFavicon in synchronous manner",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704"
@@ -17679,6 +17711,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654"
         },
         {
+          "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716"
+        },
+        {
           "title": "[Feature]: Persistence",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         },
@@ -17707,7 +17743,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
         }
       ],
-      "rate": "58.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21209,7 +21245,15 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
+        {
+          "title": "When I write on title Russian language the viscose doesn't recognize it and shows some weird letters on site",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2321"
+        },
         {
           "title": "reload issue",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2320"
@@ -21283,7 +21327,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24785,6 +24829,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "93.33"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25985,6 +26033,10 @@
     },
     {
       "date": "2024-07-31",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
