@@ -3502,6 +3502,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7050,6 +7054,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10557,6 +10565,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
         {
           "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
@@ -14069,6 +14081,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17645,7 +17661,31 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
+        {
+          "title": "Bug: Empty Referrer when opening link in new window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4722"
+        },
+        {
+          "title": "[Problem/Bug]: OnKeyDown event not received when typing keys \"p\", \"o\", \"i\" on PDFViewer",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4721"
+        },
+        {
+          "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720"
+        },
+        {
+          "title": "[Problem/Bug]: When opening a Pdf file for the first time by attaching source or nagigate, a black render appears before loading the pdf reader",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719"
+        },
+        {
+          "title": "[Problem/Bug]: When hiding toolbars Print, save, save as, full screen, rotate with HiddenPdfToolbarItems, 3 dots appear even though they are not active",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718"
+        },
         {
           "title": "[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717"
@@ -17703,14 +17743,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661"
         },
         {
-          "title": "[Problem/Bug]: Windows.Storage.Streams.Buffer length is always zero in WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658"
-        },
-        {
-          "title": "[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerCompletedHandler encountered error code 0x80010108(RPC_E_DISCONNECTED)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654"
-        },
-        {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716"
         },
@@ -17733,17 +17765,9 @@
         {
           "title": "[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesWithDomainAndPath won't delete partitioned cookies",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
-        },
-        {
-          "title": "[Feature]: Auto Dark Mode for Web Contents",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656"
-        },
-        {
-          "title": "SampleWinComp Example Consistently Reproduces Browser Process Crash with ICoreWebView2CompositionController Embedding",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21249,7 +21273,15 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
+        {
+          "title": "How to set iPhone SE as the default value instead of Responsive",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2322"
+        },
         {
           "title": "When I write on title Russian language the viscose doesn't recognize it and shows some weird letters on site",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2321"
@@ -21327,7 +21359,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24833,6 +24865,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "93.33"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -24847,7 +24883,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "93.33"
+      "rate": "93.18"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -26037,6 +26073,10 @@
     },
     {
       "date": "2024-08-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

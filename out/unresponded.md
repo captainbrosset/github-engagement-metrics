@@ -1,4 +1,4 @@
-Response rate: 73.67%
+Response rate: 73.15%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -32,7 +32,12 @@ Response rate: 73.67%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [Bug: Empty Referrer when opening link in new window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4722)
+  * [[Problem/Bug]: OnKeyDown event not received when typing keys...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4721)
+  * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
+  * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
+  * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
   * [[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717)
   * [[Problem/Bug]: When attaching the ContextMenuRequest event t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714)
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
@@ -47,17 +52,14 @@ Response rate: 73.67%
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
   * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
   * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
-  * [[Problem/Bug]: Windows.Storage.Streams.Buffer length is alwa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4658)
-  * [[Problem/Bug]: ICoreWebView2CreateCoreWebView2ControllerComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4654)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-  * [[Feature]: Auto Dark Mode for Web Contents](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4656)
-  * [SampleWinComp Example Consistently Reproduces Browser Proces...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4655)
-* **microsoft/vscode-edge-devtools** - _62.00%_
+* **microsoft/vscode-edge-devtools** - _60.00%_
+  * [How to set iPhone SE as the default value instead of Respons...](https://github.com/microsoft/vscode-edge-devtools/issues/2322)
   * [When I write on title Russian language the viscose doesn't r...](https://github.com/microsoft/vscode-edge-devtools/issues/2321)
   * [reload issue](https://github.com/microsoft/vscode-edge-devtools/issues/2320)
   * [debugger problem](https://github.com/microsoft/vscode-edge-devtools/issues/2319)
@@ -109,7 +111,7 @@ Response rate: 73.67%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.33%_
+* **MicrosoftDocs/edge-developer** - _93.18%_
   * [2097152](https://github.com/MicrosoftDocs/edge-developer/issues/3230)
   * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
   * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)
