@@ -1,4 +1,4 @@
-Response rate: 73.15%
+Response rate: 72.90%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -14,7 +14,8 @@ Response rate: 73.15%
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
-* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
+  * [session not created: Microsoft Edge failed to start: crashed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160)
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
@@ -32,9 +33,8 @@ Response rate: 73.15%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [Bug: Empty Referrer when opening link in new window](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4722)
-  * [[Problem/Bug]: OnKeyDown event not received when typing keys...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4721)
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+  * [[Problem/Bug]: The WebView2CompositionControl throws a Syste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4726)
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
   * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
@@ -48,17 +48,19 @@ Response rate: 73.15%
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
-  * [[Problem/Bug]: Coordinates for Drag&Drop events shifted if R...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
   * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
-  * [[Feature]: Add AddHostObjectToScript and AddScriptToExecuteO...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-* **microsoft/vscode-edge-devtools** - _60.00%_
+* **microsoft/vscode-edge-devtools** - _54.00%_
+  * [Astro Web](https://github.com/microsoft/vscode-edge-devtools/issues/2328)
+  * [i dont know how to use what i made i do not have a popup whe...](https://github.com/microsoft/vscode-edge-devtools/issues/2327)
+  * [JR games](https://github.com/microsoft/vscode-edge-devtools/issues/2325)
+  * [How can I install extensions on the VS Code Edge Devtools br...](https://github.com/microsoft/vscode-edge-devtools/issues/2323)
   * [How to set iPhone SE as the default value instead of Respons...](https://github.com/microsoft/vscode-edge-devtools/issues/2322)
   * [When I write on title Russian language the viscose doesn't r...](https://github.com/microsoft/vscode-edge-devtools/issues/2321)
   * [reload issue](https://github.com/microsoft/vscode-edge-devtools/issues/2320)
@@ -78,7 +80,6 @@ Response rate: 73.15%
   * [ bro fuck this shit bro its not woeking ](https://github.com/microsoft/vscode-edge-devtools/issues/2305)
   * [npm install prompt-sync](https://github.com/microsoft/vscode-edge-devtools/issues/2304)
   * [n = int(input()) for i in range(n):     if i == o:         p...](https://github.com/microsoft/vscode-edge-devtools/issues/2303)
-  * [sequenrespa.in ](https://github.com/microsoft/vscode-edge-devtools/issues/2276)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

@@ -3506,6 +3506,10 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7058,6 +7062,10 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10569,6 +10577,10 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
         {
           "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
@@ -14085,7 +14097,15 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
+        {
+          "title": "session not created: Microsoft Edge failed to start: crashed",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160"
+        },
         {
           "title": "Edge Driver Installation from Brew.sh",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157"
@@ -14155,7 +14175,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "66.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17665,14 +17685,14 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
         {
-          "title": "Bug: Empty Referrer when opening link in new window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4722"
-        },
-        {
-          "title": "[Problem/Bug]: OnKeyDown event not received when typing keys \"p\", \"o\", \"i\" on PDFViewer",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4721"
+          "title": "[Problem/Bug]: The WebView2CompositionControl throws a System.PlatformNotSupportedException with .NET 8",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4726"
         },
         {
           "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
@@ -17727,20 +17747,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
         },
         {
-          "title": "[Problem/Bug]: Coordinates for Drag&Drop events shifted if Resolution Zoom in display Settings is not 100%",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4678"
-        },
-        {
           "title": "[Problem/Bug]: Inconsistencies with pages using a certificate without Certificate Transparency",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
         },
         {
           "title": "[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Response.GetContentAsync()",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663"
-        },
-        {
-          "title": "[Feature]: Add AddHostObjectToScript and AddScriptToExecuteOnDocumentCreatedAsync to Unity SDK",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4661"
         },
         {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
@@ -17767,7 +17779,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
         }
       ],
-      "rate": "50.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21277,7 +21289,27 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
+        {
+          "title": "Astro Web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2328"
+        },
+        {
+          "title": "i dont know how to use what i made i do not have a popup when i launch or use the terminal",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2327"
+        },
+        {
+          "title": "JR games",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2325"
+        },
+        {
+          "title": "How can I install extensions on the VS Code Edge Devtools browser version? ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2323"
+        },
         {
           "title": "How to set iPhone SE as the default value instead of Responsive",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2322"
@@ -21353,13 +21385,9 @@
         {
           "title": "n = int(input()) for i in range(n):     if i == o:         print(\"* \"*i)",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
-        },
-        {
-          "title": "sequenrespa.in ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2276"
         }
       ],
-      "rate": "60.00"
+      "rate": "54.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24869,6 +24897,10 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26077,6 +26109,10 @@
     },
     {
       "date": "2024-08-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
