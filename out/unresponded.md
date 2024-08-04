@@ -1,4 +1,4 @@
-Response rate: 72.90%
+Response rate: 72.65%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -56,7 +56,8 @@ Response rate: 72.90%
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-* **microsoft/vscode-edge-devtools** - _54.00%_
+* **microsoft/vscode-edge-devtools** - _52.00%_
+  * [rs1](https://github.com/microsoft/vscode-edge-devtools/issues/2329)
   * [Astro Web](https://github.com/microsoft/vscode-edge-devtools/issues/2328)
   * [i dont know how to use what i made i do not have a popup whe...](https://github.com/microsoft/vscode-edge-devtools/issues/2327)
   * [JR games](https://github.com/microsoft/vscode-edge-devtools/issues/2325)

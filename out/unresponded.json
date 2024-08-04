@@ -3510,6 +3510,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7066,6 +7070,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10581,6 +10589,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
@@ -14101,6 +14113,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "session not created: Microsoft Edge failed to start: crashed",
@@ -17689,6 +17705,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: The WebView2CompositionControl throws a System.PlatformNotSupportedException with .NET 8",
@@ -21293,7 +21313,15 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
+        {
+          "title": "rs1",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2329"
+        },
         {
           "title": "Astro Web",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2328"
@@ -21387,7 +21415,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24901,6 +24929,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26113,6 +26145,10 @@
     },
     {
       "date": "2024-08-03",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
