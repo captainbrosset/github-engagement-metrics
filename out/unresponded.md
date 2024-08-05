@@ -1,4 +1,4 @@
-Response rate: 72.65%
+Response rate: 71.90%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -12,7 +12,8 @@ Response rate: 72.65%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [More shortcuts required](https://github.com/MicrosoftEdge/DevTools/issues/267)
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
 * **MicrosoftEdge/EdgeWebDriver** - _64.00%_
   * [session not created: Microsoft Edge failed to start: crashed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160)
@@ -56,7 +57,9 @@ Response rate: 72.65%
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-* **microsoft/vscode-edge-devtools** - _52.00%_
+* **microsoft/vscode-edge-devtools** - _48.00%_
+  * [vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2331)
+  * [my web](https://github.com/microsoft/vscode-edge-devtools/issues/2330)
   * [rs1](https://github.com/microsoft/vscode-edge-devtools/issues/2329)
   * [Astro Web](https://github.com/microsoft/vscode-edge-devtools/issues/2328)
   * [i dont know how to use what i made i do not have a popup whe...](https://github.com/microsoft/vscode-edge-devtools/issues/2327)

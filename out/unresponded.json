@@ -3514,6 +3514,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7074,6 +7078,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10593,13 +10601,21 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
+        {
+          "title": "More shortcuts required",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/267"
+        },
         {
           "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/266"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14117,6 +14133,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
         {
           "title": "session not created: Microsoft Edge failed to start: crashed",
@@ -17709,6 +17729,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: The WebView2CompositionControl throws a System.PlatformNotSupportedException with .NET 8",
@@ -21317,7 +21341,19 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
+        {
+          "title": "vs code",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2331"
+        },
+        {
+          "title": "my web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2330"
+        },
         {
           "title": "rs1",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2329"
@@ -21415,7 +21451,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "52.00"
+      "rate": "48.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24933,6 +24969,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26149,6 +26189,10 @@
     },
     {
       "date": "2024-08-04",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
