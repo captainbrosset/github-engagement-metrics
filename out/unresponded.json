@@ -3518,6 +3518,10 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7082,6 +7086,10 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10605,6 +10613,10 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
         {
           "title": "More shortcuts required",
@@ -14137,7 +14149,15 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
+        {
+          "title": "Stable version is wrongly reported as 129 when using https://msedgedriver.azureedge.net/LATEST_STABLE",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161"
+        },
         {
           "title": "session not created: Microsoft Edge failed to start: crashed",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160"
@@ -14211,7 +14231,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17733,11 +17753,11 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: The WebView2CompositionControl throws a System.PlatformNotSupportedException with .NET 8",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4726"
-        },
         {
           "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720"
@@ -17823,7 +17843,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
         }
       ],
-      "rate": "56.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21345,7 +21365,19 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
+        {
+          "title": "jerfaoui ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2333"
+        },
+        {
+          "title": "Kartbya Kumar",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2332"
+        },
         {
           "title": "vs code",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2331"
@@ -21451,7 +21483,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "48.00"
+      "rate": "44.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -24973,6 +25005,10 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -24987,7 +25023,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "93.18"
+      "rate": "93.33"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -26193,6 +26229,10 @@
     },
     {
       "date": "2024-08-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
