@@ -1,4 +1,4 @@
-Response rate: 71.42%
+Response rate: 70.65%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -15,8 +15,7 @@ Response rate: 71.42%
 * **MicrosoftEdge/DevTools** - _96.00%_
   * [More shortcuts required](https://github.com/MicrosoftEdge/DevTools/issues/267)
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
-* **MicrosoftEdge/EdgeWebDriver** - _62.00%_
-  * [Stable version is wrongly reported as 129 when using https:/...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161)
+* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
   * [session not created: Microsoft Edge failed to start: crashed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160)
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -35,7 +34,7 @@ Response rate: 71.42%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
   * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
@@ -50,14 +49,18 @@ Response rate: 71.42%
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
-  * [[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Res...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
   * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-* **microsoft/vscode-edge-devtools** - _44.00%_
+* **microsoft/vscode-edge-devtools** - _34.00%_
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2338)
+  * [1st bday](https://github.com/microsoft/vscode-edge-devtools/issues/2337)
+  * [1st bday](https://github.com/microsoft/vscode-edge-devtools/issues/2336)
+  * [white hat hacking app](https://github.com/microsoft/vscode-edge-devtools/issues/2335)
+  * [Add congiguration](https://github.com/microsoft/vscode-edge-devtools/issues/2334)
   * [jerfaoui ](https://github.com/microsoft/vscode-edge-devtools/issues/2333)
   * [Kartbya Kumar](https://github.com/microsoft/vscode-edge-devtools/issues/2332)
   * [vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2331)
@@ -118,7 +121,7 @@ Response rate: 71.42%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.33%_
+* **MicrosoftDocs/edge-developer** - _93.18%_
   * [2097152](https://github.com/MicrosoftDocs/edge-developer/issues/3230)
   * [sgqehgzg@gmail.com](https://github.com/MicrosoftDocs/edge-developer/issues/3229)
   * [Afggcv](https://github.com/MicrosoftDocs/edge-developer/issues/3228)

@@ -3522,6 +3522,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7090,6 +7094,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10617,6 +10625,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
         {
           "title": "More shortcuts required",
@@ -14153,11 +14165,11 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
-        {
-          "title": "Stable version is wrongly reported as 129 when using https://msedgedriver.azureedge.net/LATEST_STABLE",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161"
-        },
         {
           "title": "session not created: Microsoft Edge failed to start: crashed",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160"
@@ -14231,7 +14243,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "62.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -17757,6 +17769,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
         {
           "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
@@ -17815,10 +17831,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
         },
         {
-          "title": "[Problem/Bug]: Exception 0xFFFF8300 is raised in await e.Response.GetContentAsync()",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4663"
-        },
-        {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716"
         },
@@ -17843,7 +17855,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21369,7 +21381,31 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2338"
+        },
+        {
+          "title": "1st bday",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2337"
+        },
+        {
+          "title": "1st bday",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2336"
+        },
+        {
+          "title": "white hat hacking app",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2335"
+        },
+        {
+          "title": "Add congiguration",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2334"
+        },
         {
           "title": "jerfaoui ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2333"
@@ -21483,7 +21519,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "44.00"
+      "rate": "34.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25009,6 +25045,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "93.33"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -25023,7 +25063,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
         }
       ],
-      "rate": "93.33"
+      "rate": "93.18"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -26233,6 +26273,10 @@
     },
     {
       "date": "2024-08-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
