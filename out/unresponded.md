@@ -1,4 +1,4 @@
-Response rate: 70.65%
+Response rate: 69.65%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -12,7 +12,8 @@ Response rate: 70.65%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * ["Edit and Resend" feature is not working in v127.0.2651.86](https://github.com/MicrosoftEdge/DevTools/issues/268)
   * [More shortcuts required](https://github.com/MicrosoftEdge/DevTools/issues/267)
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
 * **MicrosoftEdge/EdgeWebDriver** - _64.00%_
@@ -34,7 +35,7 @@ Response rate: 70.65%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
   * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
@@ -49,13 +50,16 @@ Response rate: 70.65%
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
   * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: Inconsistencies with pages using a certificat...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670)
+  * [[Problem/Bug]: Failed to create WebView2 controller.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732)
+  * [[Problem/Bug]: "The group or resource is not in the correct ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4731)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
-  * [[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesW...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669)
-* **microsoft/vscode-edge-devtools** - _34.00%_
+* **microsoft/vscode-edge-devtools** - _30.00%_
+  * [- u - origin/](https://github.com/microsoft/vscode-edge-devtools/pull/2340)
+  * [blank solution](https://github.com/microsoft/vscode-edge-devtools/issues/2339)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2338)
   * [1st bday](https://github.com/microsoft/vscode-edge-devtools/issues/2337)
   * [1st bday](https://github.com/microsoft/vscode-edge-devtools/issues/2336)

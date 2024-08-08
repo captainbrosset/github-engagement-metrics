@@ -3526,6 +3526,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7098,6 +7102,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10629,7 +10637,15 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
+        {
+          "title": "\"Edit and Resend\" feature is not working in v127.0.2651.86",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/268"
+        },
         {
           "title": "More shortcuts required",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/267"
@@ -10639,7 +10655,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/266"
         }
       ],
-      "rate": "96.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14169,6 +14185,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
         {
           "title": "session not created: Microsoft Edge failed to start: crashed",
@@ -17773,6 +17793,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
         {
           "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
@@ -17831,6 +17855,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
         },
         {
+          "title": "[Problem/Bug]: Failed to create WebView2 controller.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732"
+        },
+        {
+          "title": "[Problem/Bug]: \"The group or resource is not in the correct state to perform the requested operation\" when launching multiple instances",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4731"
+        },
+        {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716"
         },
@@ -17849,13 +17881,9 @@
         {
           "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
-        },
-        {
-          "title": "[Problem/Bug]: DeleteCookie / DeleteCookies / DeleteCookiesWithDomainAndPath won't delete partitioned cookies",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4669"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21385,7 +21413,19 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
+        {
+          "title": "- u - origin/",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2340"
+        },
+        {
+          "title": "blank solution",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2339"
+        },
         {
           "title": "html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2338"
@@ -21519,7 +21559,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "34.00"
+      "rate": "30.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25049,6 +25089,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26277,6 +26321,10 @@
     },
     {
       "date": "2024-08-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
