@@ -1,4 +1,4 @@
-Response rate: 69.65%
+Response rate: 69.40%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -12,12 +12,12 @@ Response rate: 69.65%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.00%_
+* **MicrosoftEdge/DevTools** - _92.00%_
+  * [Where is the Microsoft repo/docs for building Edge's devtool...](https://github.com/MicrosoftEdge/DevTools/issues/269)
   * ["Edit and Resend" feature is not working in v127.0.2651.86](https://github.com/MicrosoftEdge/DevTools/issues/268)
   * [More shortcuts required](https://github.com/MicrosoftEdge/DevTools/issues/267)
   * [Support Safari web inspector debugging for Edge on iOS (and ...](https://github.com/MicrosoftEdge/DevTools/issues/266)
-* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
-  * [session not created: Microsoft Edge failed to start: crashed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/160)
+* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
@@ -57,7 +57,8 @@ Response rate: 69.65%
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
-* **microsoft/vscode-edge-devtools** - _30.00%_
+* **microsoft/vscode-edge-devtools** - _28.00%_
+  * [Launching our project](https://github.com/microsoft/vscode-edge-devtools/issues/2341)
   * [- u - origin/](https://github.com/microsoft/vscode-edge-devtools/pull/2340)
   * [blank solution](https://github.com/microsoft/vscode-edge-devtools/issues/2339)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2338)
