@@ -3534,6 +3534,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7114,6 +7118,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10653,6 +10661,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
         {
           "title": "Where is the Microsoft repo/docs for building Edge's devtools-frontend?",
@@ -14209,6 +14221,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17817,7 +17833,15 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
+        },
         {
           "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720"
@@ -17871,16 +17895,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
         },
         {
-          "title": "[Problem/Bug]: Inconsistencies with pages using a certificate without Certificate Transparency",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4670"
+          "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         },
         {
           "title": "[Problem/Bug]: Failed to create WebView2 controller.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732"
-        },
-        {
-          "title": "[Problem/Bug]: \"The group or resource is not in the correct state to perform the requested operation\" when launching multiple instances",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4731"
         },
         {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
@@ -21441,7 +21461,27 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "28.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
+        {
+          "title": "ShopZone",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2345"
+        },
+        {
+          "title": "set",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2344"
+        },
+        {
+          "title": "kartikpatil",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2343"
+        },
+        {
+          "title": "no title",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2342"
+        },
         {
           "title": "Launching our project",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2341"
@@ -21587,7 +21627,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "28.00"
+      "rate": "20.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25125,6 +25165,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26361,6 +26405,10 @@
     },
     {
       "date": "2024-08-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
