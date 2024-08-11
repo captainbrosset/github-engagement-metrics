@@ -3538,6 +3538,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7122,6 +7126,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10665,6 +10673,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "Where is the Microsoft repo/docs for building Edge's devtools-frontend?",
@@ -14225,6 +14237,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17837,6 +17853,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
@@ -17895,10 +17915,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
         },
         {
-          "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
-        },
-        {
           "title": "[Problem/Bug]: Failed to create WebView2 controller.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732"
         },
@@ -17923,7 +17939,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
         }
       ],
-      "rate": "58.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21465,7 +21481,19 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "20.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
+        {
+          "title": "not opening in edge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2347"
+        },
+        {
+          "title": "I cant delete or type",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2346"
+        },
         {
           "title": "ShopZone",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2345"
@@ -21627,7 +21655,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "20.00"
+      "rate": "16.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25169,6 +25197,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26409,6 +26441,10 @@
     },
     {
       "date": "2024-08-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
