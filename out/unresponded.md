@@ -1,4 +1,4 @@
-Response rate: 68.15%
+Response rate: 67.40%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -56,7 +56,10 @@ Response rate: 68.15%
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
   * [[Problem/Bug]: WebView creation fails when app is started us...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672)
-* **microsoft/vscode-edge-devtools** - _16.00%_
+* **microsoft/vscode-edge-devtools** - _10.00%_
+  * [terminal](https://github.com/microsoft/vscode-edge-devtools/issues/2350)
+  * [UKK](https://github.com/microsoft/vscode-edge-devtools/issues/2349)
+  * [Ensure `node` and `npm` are installed ... Node is installed ...](https://github.com/microsoft/vscode-edge-devtools/issues/2348)
   * [not opening in edge](https://github.com/microsoft/vscode-edge-devtools/issues/2347)
   * [I cant delete or type](https://github.com/microsoft/vscode-edge-devtools/issues/2346)
   * [ShopZone](https://github.com/microsoft/vscode-edge-devtools/issues/2345)

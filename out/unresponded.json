@@ -3542,6 +3542,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7130,6 +7134,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10677,6 +10685,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "Where is the Microsoft repo/docs for building Edge's devtools-frontend?",
@@ -14241,6 +14253,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17857,6 +17873,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
@@ -21485,7 +21505,23 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "16.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
+        {
+          "title": "terminal",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2350"
+        },
+        {
+          "title": "UKK",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2349"
+        },
+        {
+          "title": "Ensure `node` and `npm` are installed ... Node is installed to WSL",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2348"
+        },
         {
           "title": "not opening in edge",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2347"
@@ -21655,7 +21691,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
         }
       ],
-      "rate": "16.00"
+      "rate": "10.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25201,6 +25237,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "93.18"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "2097152",
@@ -26445,6 +26485,10 @@
     },
     {
       "date": "2024-08-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
