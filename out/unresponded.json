@@ -3546,6 +3546,10 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7138,6 +7142,10 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10689,25 +10697,17 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
         {
           "title": "Where is the Microsoft repo/docs for building Edge's devtools-frontend?",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/269"
-        },
-        {
-          "title": "\"Edit and Resend\" feature is not working in v127.0.2651.86",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/268"
-        },
-        {
-          "title": "More shortcuts required",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/267"
-        },
-        {
-          "title": "Support Safari web inspector debugging for Edge on iOS (and iPadOS)",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/266"
         }
       ],
-      "rate": "92.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14257,6 +14257,10 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17877,7 +17881,15 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
+        },
         {
           "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
@@ -17935,6 +17947,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
         },
         {
+          "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
+        },
+        {
           "title": "[Problem/Bug]: Failed to create WebView2 controller.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732"
         },
@@ -17953,13 +17969,9 @@
         {
           "title": "[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690"
-        },
-        {
-          "title": "[Problem/Bug]: WebView creation fails when app is started using \"Run as administrator\" and explicit admin credentials",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4672"
         }
       ],
-      "rate": "60.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21509,189 +21521,41 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "10.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
         {
-          "title": "terminal",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2350"
+          "title": "how to show python output",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2357"
         },
         {
-          "title": "UKK",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2349"
+          "title": "how to show python output on web",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2356"
         },
         {
-          "title": "Ensure `node` and `npm` are installed ... Node is installed to WSL",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2348"
+          "title": "to show output of python which port is used",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2355"
         },
         {
-          "title": "not opening in edge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2347"
+          "title": "css live server",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2354"
         },
         {
-          "title": "I cant delete or type",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2346"
+          "title": "informatique",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2353"
         },
         {
-          "title": "ShopZone",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2345"
+          "title": "to do ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2352"
         },
         {
-          "title": "set",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2344"
-        },
-        {
-          "title": "kartikpatil",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2343"
-        },
-        {
-          "title": "no title",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2342"
-        },
-        {
-          "title": "Launching our project",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2341"
-        },
-        {
-          "title": "- u - origin/",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2340"
-        },
-        {
-          "title": "blank solution",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2339"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2338"
-        },
-        {
-          "title": "1st bday",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2337"
-        },
-        {
-          "title": "1st bday",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2336"
-        },
-        {
-          "title": "white hat hacking app",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2335"
-        },
-        {
-          "title": "Add congiguration",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2334"
-        },
-        {
-          "title": "jerfaoui ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2333"
-        },
-        {
-          "title": "Kartbya Kumar",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2332"
-        },
-        {
-          "title": "vs code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2331"
-        },
-        {
-          "title": "my web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2330"
-        },
-        {
-          "title": "rs1",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2329"
-        },
-        {
-          "title": "Astro Web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2328"
-        },
-        {
-          "title": "i dont know how to use what i made i do not have a popup when i launch or use the terminal",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2327"
-        },
-        {
-          "title": "JR games",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2325"
-        },
-        {
-          "title": "How can I install extensions on the VS Code Edge Devtools browser version? ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2323"
-        },
-        {
-          "title": "How to set iPhone SE as the default value instead of Responsive",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2322"
-        },
-        {
-          "title": "When I write on title Russian language the viscose doesn't recognize it and shows some weird letters on site",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2321"
-        },
-        {
-          "title": "reload issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2320"
-        },
-        {
-          "title": "debugger problem",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2319"
-        },
-        {
-          "title": "localhost 8080 visual studio ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2317"
-        },
-        {
-          "title": "120",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2315"
-        },
-        {
-          "title": "120",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2316"
-        },
-        {
-          "title": "Mr_code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2314"
-        },
-        {
-          "title": "bs4",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2313"
-        },
-        {
-          "title": "Initial",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2312"
-        },
-        {
-          "title": "Initial",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2311"
-        },
-        {
-          "title": "code studeo kise file ko save kar te ha  not open",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2310"
-        },
-        {
-          "title": "yaqoob",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2309"
-        },
-        {
-          "title": "This is my real account",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2308"
-        },
-        {
-          "title": "  justify-content: space-around;",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2307"
-        },
-        {
-          "title": "features in vs code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2306"
-        },
-        {
-          "title": " bro fuck this shit bro its not woeking ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2305"
-        },
-        {
-          "title": "npm install prompt-sync",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2304"
-        },
-        {
-          "title": "n = int(input()) for i in range(n):     if i == o:         print(\"* \"*i)",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2303"
+          "title": "to do it",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2351"
         }
       ],
-      "rate": "10.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25241,21 +25105,12 @@
     },
     {
       "date": "2024-08-12",
-      "unRespondedItems": [
-        {
-          "title": "2097152",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3230"
-        },
-        {
-          "title": "sgqehgzg@gmail.com",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3229"
-        },
-        {
-          "title": "Afggcv",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3228"
-        }
-      ],
       "rate": "93.18"
+    },
+    {
+      "date": "2024-08-13",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -26489,6 +26344,10 @@
     },
     {
       "date": "2024-08-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
