@@ -3550,6 +3550,10 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7146,6 +7150,10 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10701,13 +10709,12 @@
     },
     {
       "date": "2024-08-13",
-      "unRespondedItems": [
-        {
-          "title": "Where is the Microsoft repo/docs for building Edge's devtools-frontend?",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/269"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-08-14",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14261,6 +14268,10 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17885,10 +17896,14 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
+          "title": "[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Handled True Does Nothing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740"
         },
         {
           "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
@@ -21525,37 +21540,17 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [
         {
-          "title": "how to show python output",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2357"
-        },
-        {
-          "title": "how to show python output on web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2356"
-        },
-        {
-          "title": "to show output of python which port is used",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2355"
-        },
-        {
-          "title": "css live server",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2354"
-        },
-        {
-          "title": "informatique",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2353"
-        },
-        {
-          "title": "to do ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2352"
-        },
-        {
-          "title": "to do it",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2351"
+          "title": ".",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2359"
         }
       ],
-      "rate": "86.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25109,6 +25104,10 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26348,6 +26347,10 @@
     },
     {
       "date": "2024-08-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

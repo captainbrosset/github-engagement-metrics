@@ -1,4 +1,4 @@
-Response rate: 78.25%
+Response rate: 80.00%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -12,8 +12,7 @@ Response rate: 78.25%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Where is the Microsoft repo/docs for building Edge's devtool...](https://github.com/MicrosoftEdge/DevTools/issues/269)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -33,7 +32,7 @@ Response rate: 78.25%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _58.00%_
-  * [[Problem/Bug]: When hidingBookmarks, Search or PageSelector ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
+  * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
   * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
   * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
@@ -54,14 +53,8 @@ Response rate: 78.25%
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
   * [[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Wi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690)
-* **microsoft/vscode-edge-devtools** - _86.00%_
-  * [how to show python output](https://github.com/microsoft/vscode-edge-devtools/issues/2357)
-  * [how to show python output on web](https://github.com/microsoft/vscode-edge-devtools/issues/2356)
-  * [to show output of python which port is used](https://github.com/microsoft/vscode-edge-devtools/issues/2355)
-  * [css live server](https://github.com/microsoft/vscode-edge-devtools/issues/2354)
-  * [informatique](https://github.com/microsoft/vscode-edge-devtools/issues/2353)
-  * [to do ](https://github.com/microsoft/vscode-edge-devtools/issues/2352)
-  * [to do it](https://github.com/microsoft/vscode-edge-devtools/issues/2351)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2359)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
