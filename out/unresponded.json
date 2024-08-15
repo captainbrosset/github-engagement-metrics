@@ -3554,6 +3554,10 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7154,6 +7158,10 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10713,8 +10721,17 @@
     },
     {
       "date": "2024-08-14",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-08-15",
+      "unRespondedItems": [
+        {
+          "title": "Video is not playing on android edge when passing video src as a blob",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/272"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14272,6 +14289,10 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17900,7 +17921,15 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Result of calling ShowPrintUI",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741"
+        },
         {
           "title": "[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Handled True Does Nothing",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740"
@@ -17962,6 +17991,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
         },
         {
+          "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         },
@@ -17980,13 +18013,9 @@
         {
           "title": "[Feature]: Add FrameDOMContentLoaded event",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
-        },
-        {
-          "title": "[Problem/Bug]: Failed to execute 'showSaveFilePicker' on 'Window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4690"
         }
       ],
-      "rate": "58.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21544,13 +21573,21 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [
+        {
+          "title": "JESSE",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2360"
+        },
         {
           "title": ".",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2359"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25108,6 +25145,10 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26351,6 +26392,10 @@
     },
     {
       "date": "2024-08-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
