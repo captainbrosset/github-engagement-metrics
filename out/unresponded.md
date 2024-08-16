@@ -1,4 +1,4 @@
-Response rate: 79.25%
+Response rate: 78.25%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -32,7 +32,9 @@ Response rate: 79.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
+  * [[Problem/Bug]: Webview2 FileIO.writeTextAsync throws "The sy...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745)
   * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
   * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
   * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
@@ -48,14 +50,16 @@ Response rate: 79.25%
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: Webview2 cache not consistent, does not respe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687)
-  * [[Feature]: I want to clear HTML content of browsing history ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683)
   * [[Problem/Bug]: When hidingBookmarks, Search or PageSelector ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Failed to create WebView2 controller.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Response@gmail.com](https://github.com/microsoft/vscode-edge-devtools/issues/2364)
+  * [kk](https://github.com/microsoft/vscode-edge-devtools/issues/2363)
+  * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2362)
   * [JESSE](https://github.com/microsoft/vscode-edge-devtools/issues/2360)
   * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2359)
 * **microsoft/edge-devtools-network-console** - _38.00%_

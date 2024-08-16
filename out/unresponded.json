@@ -3558,6 +3558,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7162,6 +7166,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10725,6 +10733,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
         {
           "title": "Video is not playing on android edge when passing video src as a blob",
@@ -14293,6 +14305,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17925,7 +17941,19 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: On-screen/touch keyboard does not open for input  fields when physical keyboard is detached.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746"
+        },
+        {
+          "title": "[Problem/Bug]: Webview2 FileIO.writeTextAsync throws \"The system cannot find the file specified 0x80070002\" when writing on the same file multiple times asynchronous",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745"
+        },
         {
           "title": "[Feature]: Result of calling ShowPrintUI",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741"
@@ -17987,10 +18015,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4687"
         },
         {
-          "title": "[Feature]: I want to clear HTML content of browsing history (Previously accessed Page) from the memory",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4683"
-        },
-        {
           "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
         },
@@ -18015,7 +18039,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21577,7 +21601,23 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
+        {
+          "title": "Response@gmail.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2364"
+        },
+        {
+          "title": "kk",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2363"
+        },
+        {
+          "title": "php",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2362"
+        },
         {
           "title": "JESSE",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2360"
@@ -21587,7 +21627,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2359"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25149,6 +25189,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26396,6 +26440,10 @@
     },
     {
       "date": "2024-08-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
