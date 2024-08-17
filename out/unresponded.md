@@ -1,4 +1,4 @@
-Response rate: 78.25%
+Response rate: 79.75%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -12,8 +12,7 @@ Response rate: 78.25%
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [Video is not playing on android edge when passing video src ...](https://github.com/MicrosoftEdge/DevTools/issues/272)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -56,12 +55,7 @@ Response rate: 78.25%
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [Response@gmail.com](https://github.com/microsoft/vscode-edge-devtools/issues/2364)
-  * [kk](https://github.com/microsoft/vscode-edge-devtools/issues/2363)
-  * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2362)
-  * [JESSE](https://github.com/microsoft/vscode-edge-devtools/issues/2360)
-  * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2359)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

@@ -3562,6 +3562,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7170,6 +7174,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10737,13 +10745,12 @@
     },
     {
       "date": "2024-08-16",
-      "unRespondedItems": [
-        {
-          "title": "Video is not playing on android edge when passing video src as a blob",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/272"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-08-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14309,6 +14316,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -17945,6 +17956,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: On-screen/touch keyboard does not open for input  fields when physical keyboard is detached.",
@@ -21605,29 +21620,12 @@
     },
     {
       "date": "2024-08-16",
-      "unRespondedItems": [
-        {
-          "title": "Response@gmail.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2364"
-        },
-        {
-          "title": "kk",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2363"
-        },
-        {
-          "title": "php",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2362"
-        },
-        {
-          "title": "JESSE",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2360"
-        },
-        {
-          "title": ".",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2359"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-08-17",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25193,6 +25191,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26444,6 +26446,10 @@
     },
     {
       "date": "2024-08-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
