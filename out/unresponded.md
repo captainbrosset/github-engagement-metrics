@@ -1,6 +1,7 @@
-Response rate: 79.25%
+Response rate: 77.75%
 
-* **webhintio/hint** - _80.00%_
+* **webhintio/hint** - _76.00%_
+  * [How does one contribute a Quick Fix for an error?](https://github.com/webhintio/hint/issues/5884)
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
   * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
   * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
@@ -10,9 +11,11 @@ Response rate: 79.25%
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
   * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
+  * [Update README.md](https://github.com/webhintio/hint/pull/5881)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [The conditional breakpoint and logpoint UI is very broken](https://github.com/MicrosoftEdge/DevTools/issues/273)
 * **MicrosoftEdge/EdgeWebDriver** - _66.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -56,7 +59,10 @@ Response rate: 79.25%
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [cod](https://github.com/microsoft/vscode-edge-devtools/issues/2369)
+  * [vscode display](https://github.com/microsoft/vscode-edge-devtools/issues/2368)
+  * [Unable to download DevTools for the current target - on vsco...](https://github.com/microsoft/vscode-edge-devtools/issues/2367)
   * [me](https://github.com/microsoft/vscode-edge-devtools/issues/2366)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
