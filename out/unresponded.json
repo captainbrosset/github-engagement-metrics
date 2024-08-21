@@ -3578,6 +3578,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7202,6 +7206,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10785,6 +10793,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14368,6 +14380,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -18020,7 +18036,19 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: zooming PDF behaves strangely; never resets to original zoom and keeps zooming out further each time",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4758"
+        },
+        {
+          "title": "[Problem/Bug]: \"System.Runtime.InteropServices.COMException(HRESULT: 0x887A002D)\" issue when using WebView2CompositionControl on older Windows 10 versions.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4755"
+        },
         {
           "title": "[Problem/Bug]: Show Downloads shortcut (Ctrl+J) enabled when it is not supposed to be",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4752"
@@ -18102,10 +18130,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         },
         {
-          "title": "[Problem/Bug]: Failed to create WebView2 controller.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732"
-        },
-        {
           "title": "[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716"
         },
@@ -18118,7 +18142,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21700,8 +21724,17 @@
     },
     {
       "date": "2024-08-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-08-21",
+      "unRespondedItems": [
+        {
+          "title": "JJ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2372"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25283,6 +25316,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26550,6 +26587,10 @@
     },
     {
       "date": "2024-08-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 79.50%
+Response rate: 79.00%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -31,7 +31,9 @@ Response rate: 79.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: zooming PDF behaves strangely; never resets t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4758)
+  * [[Problem/Bug]: "System.Runtime.InteropServices.COMException(...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4755)
   * [[Problem/Bug]: Show Downloads shortcut (Ctrl+J) enabled when...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4752)
   * [[Problem/Bug]: Multiple WebView2 instances of different proc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4751)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
@@ -52,11 +54,11 @@ Response rate: 79.50%
   * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: When hidingBookmarks, Search or PageSelector ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-  * [[Problem/Bug]: Failed to create WebView2 controller.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4732)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
   * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [JJ](https://github.com/microsoft/vscode-edge-devtools/issues/2372)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
