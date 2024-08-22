@@ -1,4 +1,4 @@
-Response rate: 79.00%
+Response rate: 78.50%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -13,7 +13,7 @@ Response rate: 79.00%
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _66.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
@@ -27,13 +27,15 @@ Response rate: 79.00%
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
+  * [Stable version is wrongly reported as 129 when using https:/...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Problem/Bug]: system context menu doesn't respect dark mode...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4761)
+  * [[Problem/Bug]: after using put_ZoomFactor, the shortcut key ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4760)
   * [[Problem/Bug]: zooming PDF behaves strangely; never resets t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4758)
-  * [[Problem/Bug]: "System.Runtime.InteropServices.COMException(...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4755)
   * [[Problem/Bug]: Show Downloads shortcut (Ctrl+J) enabled when...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4752)
   * [[Problem/Bug]: Multiple WebView2 instances of different proc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4751)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
@@ -51,13 +53,13 @@ Response rate: 79.00%
   * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
   * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
   * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
-  * [[Feature]: Ability to handle ContentSecurityPolicy failure](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4691)
   * [[Problem/Bug]: When hidingBookmarks, Search or PageSelector ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-  * [[Feature]: Add FrameDOMContentLoaded event](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4692)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [regarding live server in vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2374)
+  * [web](https://github.com/microsoft/vscode-edge-devtools/issues/2373)
   * [JJ](https://github.com/microsoft/vscode-edge-devtools/issues/2372)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
