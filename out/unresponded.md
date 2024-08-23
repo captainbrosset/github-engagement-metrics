@@ -1,4 +1,4 @@
-Response rate: 78.50%
+Response rate: 78.75%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -32,7 +32,11 @@ Response rate: 78.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: When [Frame]NavigationStarting event handler ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4766)
+  * [[Problem/Bug]: When [Frame]NavigationStarting event is cance...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4765)
+  * [[Problem/Bug]: Inspect is defaulting to light theme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764)
+  * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: system context menu doesn't respect dark mode...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4761)
   * [[Problem/Bug]: after using put_ZoomFactor, the shortcut key ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4760)
   * [[Problem/Bug]: zooming PDF behaves strangely; never resets t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4758)
@@ -51,16 +55,11 @@ Response rate: 78.50%
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
   * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
   * [[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698)
-  * [Same UserData for multiple browsers with different custom sc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694)
-  * [[Problem/Bug]: How to influence which WebView2Loader.dll is ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693)
   * [[Problem/Bug]: When hidingBookmarks, Search or PageSelector ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [regarding live server in vs code](https://github.com/microsoft/vscode-edge-devtools/issues/2374)
-  * [web](https://github.com/microsoft/vscode-edge-devtools/issues/2373)
-  * [JJ](https://github.com/microsoft/vscode-edge-devtools/issues/2372)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

@@ -3586,6 +3586,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7218,6 +7222,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10809,6 +10817,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14400,6 +14412,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -18064,7 +18080,27 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: When [Frame]NavigationStarting event handler runs, args.Request.Headers never has Referer header",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4766"
+        },
+        {
+          "title": "[Problem/Bug]: When [Frame]NavigationStarting event is canceled, the page/resource is still downloaded",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4765"
+        },
+        {
+          "title": "[Problem/Bug]: Inspect is defaulting to light theme",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764"
+        },
+        {
+          "title": "[Problem/Bug]: Blank window after navigate in hidden state",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
+        },
         {
           "title": "[Problem/Bug]: system context menu doesn't respect dark mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4761"
@@ -18138,14 +18174,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698"
         },
         {
-          "title": "Same UserData for multiple browsers with different custom scheme registrations",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4694"
-        },
-        {
-          "title": "[Problem/Bug]: How to influence which WebView2Loader.dll is used by WebView2's managed code",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4693"
-        },
-        {
           "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
         },
@@ -18162,7 +18190,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "52.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21752,21 +21780,12 @@
     },
     {
       "date": "2024-08-22",
-      "unRespondedItems": [
-        {
-          "title": "regarding live server in vs code",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2374"
-        },
-        {
-          "title": "web",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2373"
-        },
-        {
-          "title": "JJ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2372"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2024-08-23",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25356,6 +25375,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26631,6 +26654,10 @@
     },
     {
       "date": "2024-08-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
