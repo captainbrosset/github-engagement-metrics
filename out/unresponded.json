@@ -3590,6 +3590,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7226,6 +7230,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10821,6 +10829,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14416,6 +14428,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -18084,6 +18100,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: When [Frame]NavigationStarting event handler runs, args.Request.Headers never has Referer header",
@@ -18100,10 +18120,6 @@
         {
           "title": "[Problem/Bug]: Blank window after navigate in hidden state",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
-        },
-        {
-          "title": "[Problem/Bug]: system context menu doesn't respect dark mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4761"
         },
         {
           "title": "[Problem/Bug]: after using put_ZoomFactor, the shortcut key Ctrl+'0' (zoom reset) don't work anymore",
@@ -18170,10 +18186,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701"
         },
         {
-          "title": "[Problem/Bug]:  DataReader.ReadBytes is slower than WebView1 counterpart",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4698"
-        },
-        {
           "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
         },
@@ -18190,7 +18202,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "48.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21784,6 +21796,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -25379,6 +25395,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26658,6 +26678,10 @@
     },
     {
       "date": "2024-08-23",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
