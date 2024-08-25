@@ -3594,6 +3594,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7234,6 +7238,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10833,6 +10841,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14432,6 +14444,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -18104,6 +18120,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: When [Frame]NavigationStarting event handler runs, args.Request.Headers never has Referer header",
@@ -21800,8 +21820,25 @@
     },
     {
       "date": "2024-08-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-08-25",
+      "unRespondedItems": [
+        {
+          "title": "extension not install",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2378"
+        },
+        {
+          "title": "Eroor",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2377"
+        },
+        {
+          "title": "onlin_shop",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2376"
+        }
+      ],
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25399,6 +25436,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26682,6 +26723,10 @@
     },
     {
       "date": "2024-08-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
