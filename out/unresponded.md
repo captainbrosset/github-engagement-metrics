@@ -1,4 +1,4 @@
-Response rate: 78.50%
+Response rate: 78.25%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -57,7 +57,8 @@ Response rate: 78.50%
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [online-shop](https://github.com/microsoft/vscode-edge-devtools/issues/2381)
   * [extension not install](https://github.com/microsoft/vscode-edge-devtools/issues/2378)
   * [Eroor](https://github.com/microsoft/vscode-edge-devtools/issues/2377)
   * [onlin_shop](https://github.com/microsoft/vscode-edge-devtools/issues/2376)
