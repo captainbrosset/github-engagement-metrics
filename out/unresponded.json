@@ -3602,6 +3602,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7250,6 +7254,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10857,6 +10865,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14464,6 +14476,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [
         {
           "title": "Edge Driver Installation from Brew.sh",
@@ -18144,7 +18160,15 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Adding custom text to PermissionRequested prompt",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
+        },
         {
           "title": "[Problem/Bug]: When [Frame]NavigationStarting event handler runs, args.Request.Headers never has Referer header",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4766"
@@ -18156,26 +18180,6 @@
         {
           "title": "[Problem/Bug]: Inspect is defaulting to light theme",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764"
-        },
-        {
-          "title": "[Problem/Bug]: Blank window after navigate in hidden state",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
-        },
-        {
-          "title": "[Problem/Bug]: after using put_ZoomFactor, the shortcut key Ctrl+'0' (zoom reset) don't work anymore",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4760"
-        },
-        {
-          "title": "[Problem/Bug]: zooming PDF behaves strangely; never resets to original zoom and keeps zooming out further each time",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4758"
-        },
-        {
-          "title": "[Problem/Bug]: Show Downloads shortcut (Ctrl+J) enabled when it is not supposed to be",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4752"
-        },
-        {
-          "title": "[Problem/Bug]: Multiple WebView2 instances of different processes that share user data folders cannot run at the same time!",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4751"
         },
         {
           "title": "[Problem/Bug]: On-screen/touch keyboard does not open for input  fields when physical keyboard is detached.",
@@ -18226,10 +18230,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701"
         },
         {
-          "title": "[Problem/Bug]: When hidingBookmarks, Search or PageSelector the toolbar gets lost",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
-        },
-        {
           "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         },
@@ -18242,7 +18242,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "52.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21848,7 +21848,19 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [
+        {
+          "title": "sudden bugs pops up",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2383"
+        },
+        {
+          "title": "This is the issue, ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2382"
+        },
         {
           "title": "online-shop",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2381"
@@ -21866,7 +21878,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2376"
         }
       ],
-      "rate": "92.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25472,6 +25484,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26763,6 +26779,10 @@
     },
     {
       "date": "2024-08-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
