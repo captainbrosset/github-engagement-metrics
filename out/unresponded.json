@@ -3606,6 +3606,10 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [
         {
           "title": "[Bug] No inline hints with Angular application",
@@ -7258,6 +7262,10 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10869,6 +10877,10 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14480,7 +14492,15 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [
+        {
+          "title": "Unexpected error creating WebSocket DevTools session.",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163"
+        },
         {
           "title": "Edge Driver Installation from Brew.sh",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157"
@@ -14534,6 +14554,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
         },
         {
+          "title": "PDF printing does not work on 128.0.2739.42 as service",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162"
+        },
+        {
           "title": "Stable version is wrongly reported as 129 when using https://msedgedriver.azureedge.net/LATEST_STABLE",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161"
         },
@@ -14554,7 +14578,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "64.00"
+      "rate": "60.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18164,22 +18188,22 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: ICoreWebView2Controller invalid read on Close() C++",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4773"
+        },
+        {
+          "title": "[Problem/Bug]: Browser freezes when dragging a link using msWebView2BrowserHitTransparent ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772"
+        },
         {
           "title": "[Feature]: Adding custom text to PermissionRequested prompt",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
-        },
-        {
-          "title": "[Problem/Bug]: When [Frame]NavigationStarting event handler runs, args.Request.Headers never has Referer header",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4766"
-        },
-        {
-          "title": "[Problem/Bug]: When [Frame]NavigationStarting event is canceled, the page/resource is still downloaded",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4765"
-        },
-        {
-          "title": "[Problem/Bug]: Inspect is defaulting to light theme",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764"
         },
         {
           "title": "[Problem/Bug]: On-screen/touch keyboard does not open for input  fields when physical keyboard is detached.",
@@ -18226,8 +18250,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704"
         },
         {
-          "title": "[Feature]: Unity API - expose DefaultBackgroundColor",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701"
+          "title": "[Problem/Bug]: Inspect is defaulting to light theme",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764"
+        },
+        {
+          "title": "[Problem/Bug]:  Toolbar disappears either hiding all left side (bookmarks) or right side (Search, FullScreen, MoreSettings, PageSelector, PageLayout, Save, SaveAs, Print) icons.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
         },
         {
           "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
@@ -21852,7 +21880,15 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [
+        {
+          "title": "Show browser's console.log in vscode debug console [Feature Request]",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2384"
+        },
         {
           "title": "sudden bugs pops up",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2383"
@@ -21878,7 +21914,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2376"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25488,6 +25524,10 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26783,6 +26823,10 @@
     },
     {
       "date": "2024-08-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

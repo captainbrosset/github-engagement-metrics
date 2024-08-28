@@ -1,4 +1,4 @@
-Response rate: 79.00%
+Response rate: 78.25%
 
 * **webhintio/hint** - _80.00%_
   * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
@@ -13,7 +13,8 @@ Response rate: 79.00%
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _64.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _60.00%_
+  * [Unexpected error creating WebSocket DevTools session.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163)
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
   * [Diversifying Archive Support in MS Edge WebDriver: Addressin...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/153)
@@ -27,16 +28,16 @@ Response rate: 79.00%
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
+  * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [Stable version is wrongly reported as 129 when using https:/...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: ICoreWebView2Controller invalid read on Close...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4773)
+  * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
-  * [[Problem/Bug]: When [Frame]NavigationStarting event handler ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4766)
-  * [[Problem/Bug]: When [Frame]NavigationStarting event is cance...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4765)
-  * [[Problem/Bug]: Inspect is defaulting to light theme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
   * [[Problem/Bug]: Webview2 FileIO.writeTextAsync throws "The sy...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745)
   * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
@@ -48,11 +49,13 @@ Response rate: 79.00%
   * [[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717)
   * [[Problem/Bug]: When attaching the ContextMenuRequest event t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714)
   * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
-  * [[Feature]: Unity API - expose DefaultBackgroundColor](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4701)
+  * [[Problem/Bug]: Inspect is defaulting to light theme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764)
+  * [[Problem/Bug]:  Toolbar disappears either hiding all left si...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [Show browser's console.log in vscode debug console [Feature ...](https://github.com/microsoft/vscode-edge-devtools/issues/2384)
   * [sudden bugs pops up](https://github.com/microsoft/vscode-edge-devtools/issues/2383)
   * [This is the issue, ](https://github.com/microsoft/vscode-edge-devtools/issues/2382)
   * [online-shop](https://github.com/microsoft/vscode-edge-devtools/issues/2381)
