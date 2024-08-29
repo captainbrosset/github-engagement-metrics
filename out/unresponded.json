@@ -3610,27 +3610,11 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [
-        {
-          "title": "[Bug] No inline hints with Angular application",
-          "url": "https://github.com/webhintio/hint/issues/5883"
-        },
-        {
-          "title": "Fix an issue where axe would not provide an html snippet - Fixes #5835",
-          "url": "https://github.com/webhintio/hint/pull/5876"
-        },
-        {
-          "title": "[Feature] Axe errors: show which element the error is about",
-          "url": "https://github.com/webhintio/hint/issues/5835"
-        },
-        {
-          "title": "[VSCode extension] how to see all hint issues in my project without opening all files?",
-          "url": "https://github.com/webhintio/hint/issues/5829"
-        },
-        {
-          "title": "cachae control missing Error",
-          "url": "https://github.com/webhintio/hint/issues/5823"
-        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3644,15 +3628,11 @@
           "url": "https://github.com/webhintio/hint/issues/5735"
         },
         {
-          "title": "[Bug] iframe[loading]' is wrongly reported as not supported by Firefox, Firefox for Android, Safari, Safari on iOS",
-          "url": "https://github.com/webhintio/hint/issues/5730"
-        },
-        {
           "title": "[Bug] `hint` shouldn't warn about `forceConsistentCasingInFileNames` when TS version is >= 5.0.0",
           "url": "https://github.com/webhintio/hint/issues/5880"
         }
       ],
-      "rate": "80.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7266,6 +7246,10 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10881,6 +10865,10 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14496,6 +14484,10 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [
         {
           "title": "Unexpected error creating WebSocket DevTools session.",
@@ -18192,10 +18184,14 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: ICoreWebView2Controller invalid read on Close() C++",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4773"
+          "title": "[Feature]: Expose RasterizationScale, ShouldDetectMonitorScaleChanges and RasterizationScaleChanged of CoreWebView2Controller in WebView2 class",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775"
         },
         {
           "title": "[Problem/Bug]: Browser freezes when dragging a link using msWebView2BrowserHitTransparent ",
@@ -18246,16 +18242,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714"
         },
         {
-          "title": "[Problem]: Impossible to use GetFavicon in synchronous manner",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704"
-        },
-        {
-          "title": "[Problem/Bug]: Inspect is defaulting to light theme",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764"
-        },
-        {
-          "title": "[Problem/Bug]:  Toolbar disappears either hiding all left side (bookmarks) or right side (Search, FullScreen, MoreSettings, PageSelector, PageLayout, Save, SaveAs, Print) icons.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738"
+          "title": "[Problem/Bug]: Blank window after navigate in hidden state",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         },
         {
           "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
@@ -18270,7 +18258,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "62.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21884,7 +21872,23 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [
+        {
+          "title": "var numbers = [10, 20, 30, 40, 50]; var index = 0; var sum = 0;  while (index < numbers.length) {   sum += numbers[index];   index++;    }",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2387"
+        },
+        {
+          "title": "Pressing \"Shift\" opens Edge Settings on a new target, inactivating the current target.  Headless Mode Only.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2386"
+        },
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2385"
+        },
         {
           "title": "Show browser's console.log in vscode debug console [Feature Request]",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2384"
@@ -21914,7 +21918,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2376"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25528,6 +25532,10 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26827,6 +26835,10 @@
     },
     {
       "date": "2024-08-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

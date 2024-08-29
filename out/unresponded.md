@@ -1,15 +1,9 @@
-Response rate: 78.25%
+Response rate: 79.50%
 
-* **webhintio/hint** - _80.00%_
-  * [[Bug] No inline hints with Angular application](https://github.com/webhintio/hint/issues/5883)
-  * [Fix an issue where axe would not provide an html snippet - F...](https://github.com/webhintio/hint/pull/5876)
-  * [[Feature] Axe errors: show which element the error is about](https://github.com/webhintio/hint/issues/5835)
-  * [[VSCode extension] how to see all hint issues in my project ...](https://github.com/webhintio/hint/issues/5829)
-  * [cachae control missing Error](https://github.com/webhintio/hint/issues/5823)
+* **webhintio/hint** - _92.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
-  * [[Bug] iframe[loading]' is wrongly reported as not supported ...](https://github.com/webhintio/hint/issues/5730)
   * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
@@ -34,8 +28,8 @@ Response rate: 78.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
-  * [[Problem/Bug]: ICoreWebView2Controller invalid read on Close...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4773)
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
@@ -48,13 +42,14 @@ Response rate: 78.25%
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
   * [[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717)
   * [[Problem/Bug]: When attaching the ContextMenuRequest event t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714)
-  * [[Problem]: Impossible to use GetFavicon in synchronous manne...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4704)
-  * [[Problem/Bug]: Inspect is defaulting to light theme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4764)
-  * [[Problem/Bug]:  Toolbar disappears either hiding all left si...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4738)
+  * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [var numbers = [10, 20, 30, 40, 50]; var index = 0; var sum =...](https://github.com/microsoft/vscode-edge-devtools/issues/2387)
+  * [Pressing "Shift" opens Edge Settings on a new target, inacti...](https://github.com/microsoft/vscode-edge-devtools/issues/2386)
+  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2385)
   * [Show browser's console.log in vscode debug console [Feature ...](https://github.com/microsoft/vscode-edge-devtools/issues/2384)
   * [sudden bugs pops up](https://github.com/microsoft/vscode-edge-devtools/issues/2383)
   * [This is the issue, ](https://github.com/microsoft/vscode-edge-devtools/issues/2382)
