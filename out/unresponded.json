@@ -3614,6 +3614,10 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -3626,13 +3630,9 @@
         {
           "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
           "url": "https://github.com/webhintio/hint/issues/5735"
-        },
-        {
-          "title": "[Bug] `hint` shouldn't warn about `forceConsistentCasingInFileNames` when TS version is >= 5.0.0",
-          "url": "https://github.com/webhintio/hint/issues/5880"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7250,6 +7250,10 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10869,8 +10873,21 @@
     },
     {
       "date": "2024-08-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-08-30",
+      "unRespondedItems": [
+        {
+          "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/277"
+        },
+        {
+          "title": "Edge internet access",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/276"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14488,6 +14505,10 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [
         {
           "title": "Unexpected error creating WebSocket DevTools session.",
@@ -18188,7 +18209,19 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
+        },
         {
           "title": "[Feature]: Expose RasterizationScale, ShouldDetectMonitorScaleChanges and RasterizationScaleChanged of CoreWebView2Controller in WebView2 class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775"
@@ -18258,7 +18291,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21876,49 +21909,25 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [
         {
-          "title": "var numbers = [10, 20, 30, 40, 50]; var index = 0; var sum = 0;  while (index < numbers.length) {   sum += numbers[index];   index++;    }",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2387"
+          "title": "css not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2389"
+        },
+        {
+          "title": "cant work my site",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2388"
         },
         {
           "title": "Pressing \"Shift\" opens Edge Settings on a new target, inactivating the current target.  Headless Mode Only.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2386"
-        },
-        {
-          "title": "css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2385"
-        },
-        {
-          "title": "Show browser's console.log in vscode debug console [Feature Request]",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2384"
-        },
-        {
-          "title": "sudden bugs pops up",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2383"
-        },
-        {
-          "title": "This is the issue, ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2382"
-        },
-        {
-          "title": "online-shop",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2381"
-        },
-        {
-          "title": "extension not install",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2378"
-        },
-        {
-          "title": "Eroor",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2377"
-        },
-        {
-          "title": "onlin_shop",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2376"
         }
       ],
-      "rate": "80.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25536,6 +25545,10 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26839,6 +26852,10 @@
     },
     {
       "date": "2024-08-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

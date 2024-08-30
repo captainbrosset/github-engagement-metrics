@@ -1,12 +1,13 @@
-Response rate: 79.50%
+Response rate: 80.50%
 
-* **webhintio/hint** - _92.00%_
+* **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
-  * [[Bug] `hint` shouldn't warn about `forceConsistentCasingInFi...](https://github.com/webhintio/hint/issues/5880)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [Selenium IE Driver launches browser window and times out. Su...](https://github.com/MicrosoftEdge/DevTools/issues/277)
+  * [Edge internet access](https://github.com/MicrosoftEdge/DevTools/issues/276)
 * **MicrosoftEdge/EdgeWebDriver** - _60.00%_
   * [Unexpected error creating WebSocket DevTools session.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163)
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
@@ -28,7 +29,9 @@ Response rate: 79.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
+  * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
@@ -46,17 +49,10 @@ Response rate: 79.50%
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _80.00%_
-  * [var numbers = [10, 20, 30, 40, 50]; var index = 0; var sum =...](https://github.com/microsoft/vscode-edge-devtools/issues/2387)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [css not working](https://github.com/microsoft/vscode-edge-devtools/issues/2389)
+  * [cant work my site](https://github.com/microsoft/vscode-edge-devtools/issues/2388)
   * [Pressing "Shift" opens Edge Settings on a new target, inacti...](https://github.com/microsoft/vscode-edge-devtools/issues/2386)
-  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2385)
-  * [Show browser's console.log in vscode debug console [Feature ...](https://github.com/microsoft/vscode-edge-devtools/issues/2384)
-  * [sudden bugs pops up](https://github.com/microsoft/vscode-edge-devtools/issues/2383)
-  * [This is the issue, ](https://github.com/microsoft/vscode-edge-devtools/issues/2382)
-  * [online-shop](https://github.com/microsoft/vscode-edge-devtools/issues/2381)
-  * [extension not install](https://github.com/microsoft/vscode-edge-devtools/issues/2378)
-  * [Eroor](https://github.com/microsoft/vscode-edge-devtools/issues/2377)
-  * [onlin_shop](https://github.com/microsoft/vscode-edge-devtools/issues/2376)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
