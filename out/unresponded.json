@@ -3618,6 +3618,10 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7254,6 +7258,10 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10877,17 +10885,17 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
-        {
-          "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/277"
-        },
         {
           "title": "Edge internet access",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/276"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14509,7 +14517,15 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
+        {
+          "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/164"
+        },
         {
           "title": "Unexpected error creating WebSocket DevTools session.",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163"
@@ -14567,6 +14583,10 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
         },
         {
+          "title": "Edge 128.0.2739.42 Timeout renderer",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/165"
+        },
+        {
           "title": "PDF printing does not work on 128.0.2739.42 as service",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162"
         },
@@ -14591,7 +14611,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "60.00"
+      "rate": "56.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18213,6 +18233,10 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
@@ -21913,21 +21937,21 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
         {
-          "title": "css not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2389"
-        },
-        {
-          "title": "cant work my site",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2388"
+          "title": "Ensure node and npm are installed",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2390"
         },
         {
           "title": "Pressing \"Shift\" opens Edge Settings on a new target, inactivating the current target.  Headless Mode Only.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2386"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25549,6 +25573,10 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26856,6 +26884,10 @@
     },
     {
       "date": "2024-08-30",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-08-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

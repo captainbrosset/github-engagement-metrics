@@ -5,10 +5,10 @@ Response rate: 80.50%
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
-  * [Selenium IE Driver launches browser window and times out. Su...](https://github.com/MicrosoftEdge/DevTools/issues/277)
+* **MicrosoftEdge/DevTools** - _98.00%_
   * [Edge internet access](https://github.com/MicrosoftEdge/DevTools/issues/276)
-* **MicrosoftEdge/EdgeWebDriver** - _60.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _56.00%_
+  * [Selenium IE Driver launches browser window and times out. Su...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/164)
   * [Unexpected error creating WebSocket DevTools session.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163)
   * [Edge Driver Installation from Brew.sh](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/157)
   * [Is it possible to disable tracking prevention feature for ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/154)
@@ -23,6 +23,7 @@ Response rate: 80.50%
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
+  * [Edge 128.0.2739.42 Timeout renderer](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/165)
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [Stable version is wrongly reported as 129 when using https:/...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
@@ -49,9 +50,8 @@ Response rate: 80.50%
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _94.00%_
-  * [css not working](https://github.com/microsoft/vscode-edge-devtools/issues/2389)
-  * [cant work my site](https://github.com/microsoft/vscode-edge-devtools/issues/2388)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [Ensure node and npm are installed](https://github.com/microsoft/vscode-edge-devtools/issues/2390)
   * [Pressing "Shift" opens Edge Settings on a new target, inacti...](https://github.com/microsoft/vscode-edge-devtools/issues/2386)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
