@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 79.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -50,7 +50,9 @@ Response rate: 80.25%
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [PORTFOLIO](https://github.com/microsoft/vscode-edge-devtools/issues/2395)
+  * [Welcome](https://github.com/microsoft/vscode-edge-devtools/issues/2394)
   * [new ternimal option](https://github.com/microsoft/vscode-edge-devtools/issues/2392)
   * [Ensure node and npm are installed](https://github.com/microsoft/vscode-edge-devtools/issues/2390)
   * [Pressing "Shift" opens Edge Settings on a new target, inacti...](https://github.com/microsoft/vscode-edge-devtools/issues/2386)

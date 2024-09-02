@@ -3626,6 +3626,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7270,6 +7274,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10901,6 +10909,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
         {
           "title": "Edge internet access",
@@ -14537,6 +14549,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
         {
           "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
@@ -18257,6 +18273,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
@@ -21965,7 +21985,19 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
+        {
+          "title": "PORTFOLIO",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2395"
+        },
+        {
+          "title": "Welcome",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2394"
+        },
         {
           "title": "new ternimal option",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2392"
@@ -21979,7 +22011,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2386"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25609,6 +25641,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26924,6 +26960,10 @@
     },
     {
       "date": "2024-09-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
