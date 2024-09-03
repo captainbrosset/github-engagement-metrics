@@ -3630,6 +3630,10 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7278,6 +7282,10 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10913,13 +10921,12 @@
     },
     {
       "date": "2024-09-02",
-      "unRespondedItems": [
-        {
-          "title": "Edge internet access",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/276"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-09-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -14553,7 +14560,15 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [
+        {
+          "title": "Windows drivers are missing from packages 127.0.2651.107 and 128.0.2739.56",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166"
+        },
         {
           "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/164"
@@ -14643,7 +14658,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18277,7 +18292,15 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 Native AOT bug",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4783"
+        },
         {
           "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
@@ -18339,6 +18362,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714"
         },
         {
+          "title": "[Problem/Bug]: `Microsoft.Web.WebView2.Core` missing from NuGet package build",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4784"
+        },
+        {
+          "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
+        },
+        {
           "title": "[Problem/Bug]: Blank window after navigate in hidden state",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         },
@@ -18355,7 +18386,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "62.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -21989,29 +22020,12 @@
     },
     {
       "date": "2024-09-02",
-      "unRespondedItems": [
-        {
-          "title": "PORTFOLIO",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2395"
-        },
-        {
-          "title": "Welcome",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2394"
-        },
-        {
-          "title": "new ternimal option",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2392"
-        },
-        {
-          "title": "Ensure node and npm are installed",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2390"
-        },
-        {
-          "title": "Pressing \"Shift\" opens Edge Settings on a new target, inactivating the current target.  Headless Mode Only.",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2386"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-09-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25645,6 +25659,10 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26964,6 +26982,10 @@
     },
     {
       "date": "2024-09-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
