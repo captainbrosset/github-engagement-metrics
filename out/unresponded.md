@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 80.50%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -30,9 +30,8 @@ Response rate: 80.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: WebView2 Native AOT bug](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4783)
-  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
@@ -47,13 +46,13 @@ Response rate: 80.25%
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
   * [[Problem/Bug]: WebView2 is not appearing in VS 2017 toolbox](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4717)
   * [[Problem/Bug]: When attaching the ContextMenuRequest event t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714)
-  * [[Problem/Bug]: `Microsoft.Web.WebView2.Core` missing from Nu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4784)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
   * [[Problem/Bug]: Navigate() in version 1.0.2592.51 doesn't wor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4716)
   * [[Feature]: Persistence](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [A feature of hint while coding .....](https://github.com/microsoft/vscode-edge-devtools/issues/2397)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

@@ -3634,6 +3634,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7286,6 +7290,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10925,6 +10933,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14564,6 +14576,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [
         {
           "title": "Windows drivers are missing from packages 127.0.2651.107 and 128.0.2739.56",
@@ -18296,14 +18312,14 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: WebView2 Native AOT bug",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4783"
-        },
-        {
-          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
         },
         {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
@@ -18362,10 +18378,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4714"
         },
         {
-          "title": "[Problem/Bug]: `Microsoft.Web.WebView2.Core` missing from NuGet package build",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4784"
-        },
-        {
           "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         },
@@ -18386,7 +18398,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4713"
         }
       ],
-      "rate": "56.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22024,8 +22036,17 @@
     },
     {
       "date": "2024-09-03",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-09-04",
+      "unRespondedItems": [
+        {
+          "title": "A feature of hint while coding .....",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2397"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25663,6 +25684,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26986,6 +27011,10 @@
     },
     {
       "date": "2024-09-03",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
