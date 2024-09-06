@@ -3642,6 +3642,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7302,6 +7306,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10949,6 +10957,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14596,6 +14608,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [
         {
           "title": "Windows drivers are missing from packages 127.0.2651.107 and 128.0.2739.56",
@@ -18336,11 +18352,11 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794"
-        },
         {
           "title": "[Problem/Bug]: User interface is extremely slow, power usage VERY HIGH, cpu 100%",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792"
@@ -18348,14 +18364,6 @@
         {
           "title": "[Problem/Bug]: Window.print doesn't work on fixed runtime unless ALL APPLICATION PACKAGES permissions set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
-        },
-        {
-          "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         },
         {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
@@ -18406,6 +18414,14 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718"
         },
         {
+          "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
+        },
+        {
+          "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
+        },
+        {
           "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         },
@@ -18418,7 +18434,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22064,13 +22080,21 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [
         {
-          "title": "socials bets",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2398"
+          "title": "www.carlosgat@gmail.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2399"
+        },
+        {
+          "title": "welcome japan",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2400"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25716,6 +25740,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27047,6 +27075,10 @@
     },
     {
       "date": "2024-09-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

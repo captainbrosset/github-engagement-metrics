@@ -30,12 +30,9 @@ Response rate: 80.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
-  * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
-  * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
@@ -48,11 +45,14 @@ Response rate: 80.50%
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
   * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
   * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
+  * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
+  * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-* **microsoft/vscode-edge-devtools** - _98.00%_
-  * [socials bets](https://github.com/microsoft/vscode-edge-devtools/issues/2398)
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [www.carlosgat@gmail.com](https://github.com/microsoft/vscode-edge-devtools/issues/2399)
+  * [welcome japan](https://github.com/microsoft/vscode-edge-devtools/issues/2400)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
