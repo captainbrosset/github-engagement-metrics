@@ -1,4 +1,4 @@
-Response rate: 80.50%
+Response rate: 79.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -6,7 +6,8 @@ Response rate: 80.50%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _54.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _52.00%_
+  * [problems while using the selenium in python3](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167)
   * [Windows drivers are missing from packages 127.0.2651.107 and...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166)
   * [Selenium IE Driver launches browser window and times out. Su...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/164)
   * [Unexpected error creating WebSocket DevTools session.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163)
@@ -30,7 +31,9 @@ Response rate: 80.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [[Problem/Bug]: Unable to cast to ICoreWebView2Environment10](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4796)
+  * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
@@ -43,10 +46,10 @@ Response rate: 80.50%
   * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
   * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
   * [[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720)
-  * [[Problem/Bug]: When opening a Pdf file for the first time by...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719)
-  * [[Problem/Bug]: When hiding toolbars Print, save, save as, fu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718)
+  * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
+  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)

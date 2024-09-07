@@ -3646,6 +3646,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7310,6 +7314,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10961,6 +10969,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14612,7 +14624,15 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [
+        {
+          "title": "problems while using the selenium in python3",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167"
+        },
         {
           "title": "Windows drivers are missing from packages 127.0.2651.107 and 128.0.2739.56",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166"
@@ -14706,7 +14726,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18356,7 +18376,19 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Unable to cast to ICoreWebView2Environment10",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4796"
+        },
+        {
+          "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
+        },
         {
           "title": "[Problem/Bug]: User interface is extremely slow, power usage VERY HIGH, cpu 100%",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792"
@@ -18406,12 +18438,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720"
         },
         {
-          "title": "[Problem/Bug]: When opening a Pdf file for the first time by attaching source or nagigate, a black render appears before loading the pdf reader",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4719"
-        },
-        {
-          "title": "[Problem/Bug]: When hiding toolbars Print, save, save as, full screen, rotate with HiddenPdfToolbarItems, 3 dots appear even though they are not active",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4718"
+          "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794"
         },
         {
           "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
@@ -18420,6 +18448,10 @@
         {
           "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
+        },
+        {
+          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
         },
         {
           "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
@@ -18434,7 +18466,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22084,6 +22116,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [
         {
           "title": "www.carlosgat@gmail.com",
@@ -25744,6 +25780,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27079,6 +27119,10 @@
     },
     {
       "date": "2024-09-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
