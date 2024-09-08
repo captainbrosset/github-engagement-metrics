@@ -3650,6 +3650,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7318,6 +7322,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10973,6 +10981,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14628,6 +14640,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [
         {
           "title": "problems while using the selenium in python3",
@@ -18380,6 +18396,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Unable to cast to ICoreWebView2Environment10",
@@ -22120,6 +22140,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [
         {
           "title": "www.carlosgat@gmail.com",
@@ -25784,6 +25808,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27123,6 +27151,10 @@
     },
     {
       "date": "2024-09-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
