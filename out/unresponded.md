@@ -1,4 +1,4 @@
-Response rate: 79.75%
+Response rate: 79.25%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -31,7 +31,7 @@ Response rate: 79.75%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: Unable to cast to ICoreWebView2Environment10](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4796)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
@@ -49,11 +49,13 @@ Response rate: 79.75%
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
-  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [budong](https://github.com/microsoft/vscode-edge-devtools/issues/2404)
+  * [madhan sample](https://github.com/microsoft/vscode-edge-devtools/issues/2403)
+  * [LAUNCH.JSON](https://github.com/microsoft/vscode-edge-devtools/issues/2402)
   * [www.carlosgat@gmail.com](https://github.com/microsoft/vscode-edge-devtools/issues/2399)
   * [welcome japan](https://github.com/microsoft/vscode-edge-devtools/issues/2400)
 * **microsoft/edge-devtools-network-console** - _38.00%_
