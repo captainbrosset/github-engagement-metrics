@@ -3658,7 +3658,15 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [
+        {
+          "title": "owner : need help . need ferret up and scanning now .",
+          "url": "https://github.com/webhintio/hint/issues/5922"
+        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3672,7 +3680,7 @@
           "url": "https://github.com/webhintio/hint/issues/5735"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7334,6 +7342,10 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -10997,6 +11009,10 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14660,6 +14676,10 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [
         {
           "title": "problems while using the selenium in python3",
@@ -14668,10 +14688,6 @@
         {
           "title": "Windows drivers are missing from packages 127.0.2651.107 and 128.0.2739.56",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166"
-        },
-        {
-          "title": "Selenium IE Driver launches browser window and times out. Suspected Edge 'Tracking Prevention' interference",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/164"
         },
         {
           "title": "Unexpected error creating WebSocket DevTools session.",
@@ -14758,7 +14774,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18420,10 +18436,14 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Unable to cast to ICoreWebView2Environment10",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4796"
+          "title": "[Problem/Bug]: WebResourceResponseReceived for a new window doesn't fire for initial navigation",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799"
         },
         {
           "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
@@ -18474,10 +18494,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
         },
         {
-          "title": "[Feature]: Microsoft Edge WebView2 - Support SerialAllowAllPortsForUrls policy",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4720"
-        },
-        {
           "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794"
         },
@@ -18502,7 +18518,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22164,29 +22180,21 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [
         {
-          "title": "budong",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2404"
+          "title": "Cannot read properties of undefined (reading 'fsPath')",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2410"
         },
         {
-          "title": "madhan sample",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2403"
-        },
-        {
-          "title": "LAUNCH.JSON",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2402"
-        },
-        {
-          "title": "www.carlosgat@gmail.com",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2399"
-        },
-        {
-          "title": "welcome japan",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2400"
+          "title": "e",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2411"
         }
       ],
-      "rate": "90.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25848,6 +25856,10 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27195,6 +27207,10 @@
     },
     {
       "date": "2024-09-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
