@@ -1,4 +1,4 @@
-Response rate: 80.25%
+Response rate: 79.00%
 
 * **webhintio/hint** - _92.00%_
   * [owner : need help . need ferret up and scanning now .](https://github.com/webhintio/hint/issues/5922)
@@ -7,7 +7,8 @@ Response rate: 80.25%
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _54.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _52.00%_
+  * [problem with setup Microsoft Edge WebDriver ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168)
   * [problems while using the selenium in python3](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167)
   * [Windows drivers are missing from packages 127.0.2651.107 and...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166)
   * [Unexpected error creating WebSocket DevTools session.](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/163)
@@ -31,7 +32,10 @@ Response rate: 80.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
+  * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
+  * [[Problem/Bug]: Clipboard write API doesn't support multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801)
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
@@ -45,6 +49,7 @@ Response rate: 80.25%
   * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
   * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
   * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
+  * [[Problem/Bug]: WebView2 Nuget packages don't support NativeA...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4800)
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
@@ -52,7 +57,7 @@ Response rate: 80.25%
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
 * **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Cannot read properties of undefined (reading 'fsPath')](https://github.com/microsoft/vscode-edge-devtools/issues/2410)
+  * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2412)
   * [e](https://github.com/microsoft/vscode-edge-devtools/issues/2411)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

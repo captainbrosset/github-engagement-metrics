@@ -3662,6 +3662,10 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [
         {
           "title": "owner : need help . need ferret up and scanning now .",
@@ -7346,6 +7350,10 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11013,6 +11021,10 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14680,7 +14692,15 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [
+        {
+          "title": "problem with setup Microsoft Edge WebDriver ",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168"
+        },
         {
           "title": "problems while using the selenium in python3",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167"
@@ -14774,7 +14794,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "54.00"
+      "rate": "52.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18440,7 +18460,23 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Host object's methods can't be called in case IDispatch has no type info",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803"
+        },
+        {
+          "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
+        },
+        {
+          "title": "[Problem/Bug]: Clipboard write API doesn't support multiple mime types",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801"
+        },
         {
           "title": "[Problem/Bug]: WebResourceResponseReceived for a new window doesn't fire for initial navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799"
@@ -18494,6 +18530,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
         },
         {
+          "title": "[Problem/Bug]: WebView2 Nuget packages don't support NativeAOT w/ WinAppSDK 1.6+",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4800"
+        },
+        {
           "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794"
         },
@@ -18518,7 +18558,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "62.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22184,10 +22224,14 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [
         {
-          "title": "Cannot read properties of undefined (reading 'fsPath')",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2410"
+          "title": "python",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2412"
         },
         {
           "title": "e",
@@ -25860,6 +25904,10 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27211,6 +27259,10 @@
     },
     {
       "date": "2024-09-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
