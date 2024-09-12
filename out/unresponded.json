@@ -3666,11 +3666,11 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [
-        {
-          "title": "owner : need help . need ferret up and scanning now .",
-          "url": "https://github.com/webhintio/hint/issues/5922"
-        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
@@ -3684,7 +3684,7 @@
           "url": "https://github.com/webhintio/hint/issues/5735"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7354,6 +7354,10 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11025,6 +11029,10 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14696,7 +14704,15 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [
+        {
+          "title": "IE Mode not working with Version 128.0.2739.67",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/169"
+        },
         {
           "title": "problem with setup Microsoft Edge WebDriver ",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168"
@@ -14794,7 +14810,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18464,6 +18480,10 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Host object's methods can't be called in case IDispatch has no type info",
@@ -18480,10 +18500,6 @@
         {
           "title": "[Problem/Bug]: WebResourceResponseReceived for a new window doesn't fire for initial navigation",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799"
-        },
-        {
-          "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         },
         {
           "title": "[Problem/Bug]: User interface is extremely slow, power usage VERY HIGH, cpu 100%",
@@ -18558,7 +18574,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "54.00"
+      "rate": "56.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22228,17 +22244,17 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [
         {
-          "title": "python",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2412"
-        },
-        {
-          "title": "e",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2411"
+          "title": "scanf not working in c ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2414"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25908,6 +25924,10 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27263,6 +27283,10 @@
     },
     {
       "date": "2024-09-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

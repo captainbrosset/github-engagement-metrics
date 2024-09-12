@@ -1,13 +1,13 @@
-Response rate: 79.00%
+Response rate: 79.50%
 
-* **webhintio/hint** - _92.00%_
-  * [owner : need help . need ferret up and scanning now .](https://github.com/webhintio/hint/issues/5922)
+* **webhintio/hint** - _94.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
   * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _52.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _50.00%_
+  * [IE Mode not working with Version 128.0.2739.67](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/169)
   * [problem with setup Microsoft Edge WebDriver ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168)
   * [problems while using the selenium in python3](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167)
   * [Windows drivers are missing from packages 127.0.2651.107 and...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/166)
@@ -32,12 +32,11 @@ Response rate: 79.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: Clipboard write API doesn't support multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801)
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
-  * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
@@ -56,9 +55,8 @@ Response rate: 79.00%
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2412)
-  * [e](https://github.com/microsoft/vscode-edge-devtools/issues/2411)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [scanf not working in c ](https://github.com/microsoft/vscode-edge-devtools/issues/2414)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
