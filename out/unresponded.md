@@ -1,9 +1,8 @@
 Response rate: 79.50%
 
-* **webhintio/hint** - _94.00%_
+* **webhintio/hint** - _96.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
-  * [[Bug] Webhint does not seem to work when used in a Nuxt proj...](https://github.com/webhintio/hint/issues/5735)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _50.00%_
@@ -32,7 +31,8 @@ Response rate: 79.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _56.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+  * [[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807)
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: Clipboard write API doesn't support multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801)
@@ -48,7 +48,7 @@ Response rate: 79.50%
   * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
   * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
   * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
-  * [[Problem/Bug]: WebView2 Nuget packages don't support NativeA...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4800)
+  * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)

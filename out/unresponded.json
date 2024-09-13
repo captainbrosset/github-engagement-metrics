@@ -3670,6 +3670,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -3678,13 +3682,9 @@
         {
           "title": "[Bug] Throws exception when used in development mode in a git worktree",
           "url": "https://github.com/webhintio/hint/issues/5738"
-        },
-        {
-          "title": "[Bug] Webhint does not seem to work when used in a Nuxt project.",
-          "url": "https://github.com/webhintio/hint/issues/5735"
         }
       ],
-      "rate": "94.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7358,6 +7358,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11033,6 +11037,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14708,6 +14716,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [
         {
           "title": "IE Mode not working with Version 128.0.2739.67",
@@ -18484,7 +18496,15 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not occurring when closing the dialog via ESC",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807"
+        },
         {
           "title": "[Problem/Bug]: Host object's methods can't be called in case IDispatch has no type info",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803"
@@ -18546,8 +18566,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
         },
         {
-          "title": "[Problem/Bug]: WebView2 Nuget packages don't support NativeAOT w/ WinAppSDK 1.6+",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4800"
+          "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         },
         {
           "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
@@ -18574,7 +18594,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "56.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22248,6 +22268,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [
         {
           "title": "scanf not working in c ",
@@ -25928,6 +25952,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27287,6 +27315,10 @@
     },
     {
       "date": "2024-09-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
