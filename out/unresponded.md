@@ -1,11 +1,12 @@
-Response rate: 79.25%
+Response rate: 78.75%
 
 * **webhintio/hint** - _96.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
   * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _50.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _48.00%_
+  * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
   * [IE Mode not working with Version 128.0.2739.67](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/169)
   * [problem with setup Microsoft Edge WebDriver ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168)
   * [problems while using the selenium in python3](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/167)
@@ -56,7 +57,8 @@ Response rate: 79.25%
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
   * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-* **microsoft/vscode-edge-devtools** - _98.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [21@Abhilash j](https://github.com/microsoft/vscode-edge-devtools/issues/2419)
   * [scanf not working in c ](https://github.com/microsoft/vscode-edge-devtools/issues/2414)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

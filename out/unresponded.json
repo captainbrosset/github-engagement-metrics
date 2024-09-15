@@ -3678,6 +3678,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7370,6 +7374,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11053,6 +11061,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14736,7 +14748,15 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [
+        {
+          "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170"
+        },
         {
           "title": "IE Mode not working with Version 128.0.2739.67",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/169"
@@ -14838,7 +14858,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18520,6 +18540,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: KeyboardEvent repeat is false initially when holding down a key (and handling the first one in the desktop app)",
@@ -22300,13 +22324,21 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [
+        {
+          "title": "21@Abhilash j",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2419"
+        },
         {
           "title": "scanf not working in c ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2414"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -25988,6 +26020,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27355,6 +27391,10 @@
     },
     {
       "date": "2024-09-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
