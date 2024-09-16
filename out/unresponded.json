@@ -3682,6 +3682,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7378,6 +7382,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11065,6 +11073,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14752,6 +14764,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18544,7 +18560,15 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Unneeded references keep appearing in Visual Studio Solutions Explorer causing Warnings in Error List",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4812"
+        },
         {
           "title": "[Problem/Bug]: KeyboardEvent repeat is false initially when holding down a key (and handling the first one in the desktop app)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810"
@@ -18642,7 +18666,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22328,7 +22352,15 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [
+        {
+          "title": "google",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2420"
+        },
         {
           "title": "21@Abhilash j",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2419"
@@ -22336,9 +22368,13 @@
         {
           "title": "scanf not working in c ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2414"
+        },
+        {
+          "title": "Microsoft edge Tool",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2421"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26024,6 +26060,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27395,6 +27435,10 @@
     },
     {
       "date": "2024-09-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
