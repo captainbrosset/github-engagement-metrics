@@ -32,7 +32,8 @@ Response rate: 78.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+  * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
   * [[Problem/Bug]: Unneeded references keep appearing in Visual ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4812)
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
   * [[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807)
@@ -42,7 +43,6 @@ Response rate: 78.00%
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
-  * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
@@ -50,15 +50,15 @@ Response rate: 78.00%
   * [[Problem/Bug]: Webview2 FileIO.writeTextAsync throws "The sy...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745)
   * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
   * [[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Han...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740)
-  * [[Feature]: IsAccessibleBrowser - Detect if Accessibility Sup...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735)
+  * [[Problem/Bug]: winrt::hresult_error on app closing when WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-  * [[Problem/Bug]: WebView2 crashes entire application after ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2422)
   * [google](https://github.com/microsoft/vscode-edge-devtools/issues/2420)
   * [21@Abhilash j](https://github.com/microsoft/vscode-edge-devtools/issues/2419)
   * [scanf not working in c ](https://github.com/microsoft/vscode-edge-devtools/issues/2414)

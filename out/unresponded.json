@@ -3686,6 +3686,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7386,6 +7390,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11077,6 +11085,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14768,6 +14780,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18564,7 +18580,15 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: How to show Desktop Acrylic backdrop in Context menu and download dialog?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813"
+        },
         {
           "title": "[Problem/Bug]: Unneeded references keep appearing in Visual Studio Solutions Explorer causing Warnings in Error List",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4812"
@@ -18602,10 +18626,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790"
         },
         {
-          "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
-        },
-        {
           "title": "[Feature]: Expose RasterizationScale, ShouldDetectMonitorScaleChanges and RasterizationScaleChanged of CoreWebView2Controller in WebView2 class",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775"
         },
@@ -18634,8 +18654,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740"
         },
         {
-          "title": "[Feature]: IsAccessibleBrowser - Detect if Accessibility Support is Enabled",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4735"
+          "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
         },
         {
           "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
@@ -18660,13 +18680,9 @@
         {
           "title": "[Problem/Bug]: Blank window after navigate in hidden state",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 crashes entire application after opening modal window in event handler",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4734"
         }
       ],
-      "rate": "50.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22356,7 +22372,15 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [
+        {
+          "title": "HTML",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2422"
+        },
         {
           "title": "google",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2420"
@@ -22374,7 +22398,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2421"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26064,6 +26088,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27439,6 +27467,10 @@
     },
     {
       "date": "2024-09-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
