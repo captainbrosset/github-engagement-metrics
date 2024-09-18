@@ -1,4 +1,4 @@
-Response rate: 78.00%
+Response rate: 78.71%
 
 * **webhintio/hint** - _96.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -32,7 +32,8 @@ Response rate: 78.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
   * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
   * [[Problem/Bug]: Unneeded references keep appearing in Visual ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4812)
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
@@ -57,12 +58,7 @@ Response rate: 78.00%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _90.00%_
-  * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2422)
-  * [google](https://github.com/microsoft/vscode-edge-devtools/issues/2420)
-  * [21@Abhilash j](https://github.com/microsoft/vscode-edge-devtools/issues/2419)
-  * [scanf not working in c ](https://github.com/microsoft/vscode-edge-devtools/issues/2414)
-  * [Microsoft edge Tool](https://github.com/microsoft/vscode-edge-devtools/issues/2421)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
@@ -95,4 +91,5 @@ Response rate: 78.00%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.67%_
+  * [[Edge WebDriver Docs Feedback] Version Match between Browser...](https://github.com/MicrosoftDocs/edge-developer/issues/3270)

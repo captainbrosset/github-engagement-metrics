@@ -3690,6 +3690,10 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7394,6 +7398,10 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11089,6 +11097,10 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14784,6 +14796,10 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18584,7 +18600,15 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [
+        {
+          "title": "Webview2 not able to upload stream more than 65MB stream in \"CoreWebView2.Environment.CreateWebResourceResponse(stream, 200, \"OK\", string.Empty);\"",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816"
+        },
         {
           "title": "[Problem/Bug]: How to show Desktop Acrylic backdrop in Context menu and download dialog?",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813"
@@ -18682,7 +18706,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22376,29 +22400,12 @@
     },
     {
       "date": "2024-09-17",
-      "unRespondedItems": [
-        {
-          "title": "HTML",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2422"
-        },
-        {
-          "title": "google",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2420"
-        },
-        {
-          "title": "21@Abhilash j",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2419"
-        },
-        {
-          "title": "scanf not working in c ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2414"
-        },
-        {
-          "title": "Microsoft edge Tool",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2421"
-        }
-      ],
       "rate": "90.00"
+    },
+    {
+      "date": "2024-09-18",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26092,8 +26099,17 @@
     },
     {
       "date": "2024-09-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-09-18",
+      "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback] Version Match between Browser Version and Webdriver Version",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3270"
+        }
+      ],
+      "rate": "97.67"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -27471,6 +27487,10 @@
     },
     {
       "date": "2024-09-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
