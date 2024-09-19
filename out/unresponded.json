@@ -3694,6 +3694,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7402,6 +7406,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11101,6 +11109,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14800,6 +14812,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18604,7 +18620,19 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is unreliable",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818"
+        },
+        {
+          "title": "[Problem/Bug]: CoreWebView2Controller.Close() sometimes hangs when disposing a windows forms webview2 browser control",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817"
+        },
         {
           "title": "Webview2 not able to upload stream more than 65MB stream in \"CoreWebView2.Environment.CreateWebResourceResponse(stream, 200, \"OK\", string.Empty);\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816"
@@ -18674,10 +18702,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741"
         },
         {
-          "title": "[Problem/Bug]: WebView2 CoreWebView2 PermissionRequested Handled True Does Nothing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4740"
-        },
-        {
           "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
         },
@@ -18706,7 +18730,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22404,6 +22428,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26103,13 +26131,17 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "97.67"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback] Version Match between Browser Version and Webdriver Version",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3270"
         }
       ],
-      "rate": "97.67"
+      "rate": "97.78"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -27491,6 +27523,10 @@
     },
     {
       "date": "2024-09-18",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
