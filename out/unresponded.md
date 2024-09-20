@@ -1,4 +1,4 @@
-Response rate: 78.47%
+Response rate: 78.22%
 
 * **webhintio/hint** - _96.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -32,7 +32,9 @@ Response rate: 78.47%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [[Problem/Bug]: When intercepting NewWindowRequested, outerHe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821)
+  * [[Problem/Bug]: Web application frozen after closing containe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820)
   * [[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818)
   * [[Problem/Bug]: CoreWebView2Controller.Close() sometimes hang...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817)
   * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
@@ -51,7 +53,6 @@ Response rate: 78.47%
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
   * [[Problem/Bug]: Webview2 FileIO.writeTextAsync throws "The sy...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745)
-  * [[Feature]: Result of calling ShowPrintUI](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4741)
   * [[Problem/Bug]: winrt::hresult_error on app closing when WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
@@ -93,4 +94,4 @@ Response rate: 78.47%
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
 * **MicrosoftDocs/edge-developer** - _97.78%_
-  * [[Edge WebDriver Docs Feedback] Version Match between Browser...](https://github.com/MicrosoftDocs/edge-developer/issues/3270)
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3273)
