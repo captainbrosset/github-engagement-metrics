@@ -3702,17 +3702,17 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
-        },
-        {
-          "title": "[Bug] Throws exception when used in development mode in a git worktree",
-          "url": "https://github.com/webhintio/hint/issues/5738"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7418,6 +7418,10 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11125,6 +11129,10 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14832,6 +14840,10 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18644,7 +18656,19 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: When using an SVG format image as a menu item icon, it does not appear to be displayed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827"
+        },
+        {
+          "title": "[Problem/Bug]: Screen details are incorrect and change unexpectedly in PerMonitorV2 DPI awareness mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826"
+        },
         {
           "title": "[Problem/Bug]: When intercepting NewWindowRequested, outerHeight matches innerHeight and outerWidth matches innerWidth",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821"
@@ -18686,10 +18710,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803"
         },
         {
-          "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
-        },
-        {
           "title": "[Problem/Bug]: Clipboard write API doesn't support multiple mime types",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801"
         },
@@ -18722,12 +18742,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746"
         },
         {
-          "title": "[Problem/Bug]: Webview2 FileIO.writeTextAsync throws \"The system cannot find the file specified 0x80070002\" when writing on the same file multiple times asynchronous",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745"
-        },
-        {
           "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
+        },
+        {
+          "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
         },
         {
           "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
@@ -18754,7 +18774,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "46.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22460,8 +22480,29 @@
     },
     {
       "date": "2024-09-20",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-09-21",
+      "unRespondedItems": [
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2438"
+        },
+        {
+          "title": "Browser",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2437"
+        },
+        {
+          "title": "Zabiullah Rustaqi",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2436"
+        },
+        {
+          "title": "Bugs",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2435"
+        }
+      ],
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26167,6 +26208,10 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
@@ -27563,6 +27608,10 @@
     },
     {
       "date": "2024-09-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,8 +1,7 @@
-Response rate: 78.22%
+Response rate: 77.22%
 
-* **webhintio/hint** - _96.00%_
+* **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
-  * [[Bug] Throws exception when used in development mode in a gi...](https://github.com/webhintio/hint/issues/5738)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _48.00%_
@@ -32,7 +31,9 @@ Response rate: 78.22%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
+  * [[Problem/Bug]: Screen details are incorrect and change unexp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826)
   * [[Problem/Bug]: When intercepting NewWindowRequested, outerHe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821)
   * [[Problem/Bug]: Web application frozen after closing containe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820)
   * [[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818)
@@ -43,7 +44,6 @@ Response rate: 78.22%
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
   * [[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807)
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
-  * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: Clipboard write API doesn't support multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801)
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
@@ -52,15 +52,19 @@ Response rate: 78.22%
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
   * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
-  * [[Problem/Bug]: Webview2 FileIO.writeTextAsync throws "The sy...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4745)
   * [[Problem/Bug]: winrt::hresult_error on app closing when WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814)
+  * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2438)
+  * [Browser](https://github.com/microsoft/vscode-edge-devtools/issues/2437)
+  * [Zabiullah Rustaqi](https://github.com/microsoft/vscode-edge-devtools/issues/2436)
+  * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/2435)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
