@@ -1,4 +1,4 @@
-Response rate: 77.22%
+Response rate: 76.22%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -31,7 +31,8 @@ Response rate: 77.22%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
   * [[Problem/Bug]: Screen details are incorrect and change unexp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826)
   * [[Problem/Bug]: When intercepting NewWindowRequested, outerHe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821)
@@ -60,11 +61,14 @@ Response rate: 77.22%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2l...](https://github.com/microsoft/vscode-edge-devtools/issues/2441)
+  * [CLOSE INSTANCE NOT WORKING](https://github.com/microsoft/vscode-edge-devtools/issues/2440)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2438)
   * [Browser](https://github.com/microsoft/vscode-edge-devtools/issues/2437)
   * [Zabiullah Rustaqi](https://github.com/microsoft/vscode-edge-devtools/issues/2436)
   * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/2435)
+  * [costura](https://github.com/microsoft/vscode-edge-devtools/issues/2439)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
