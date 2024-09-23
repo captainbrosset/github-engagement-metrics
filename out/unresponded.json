@@ -3710,6 +3710,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7430,6 +7434,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11145,6 +11153,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14860,6 +14872,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
@@ -18680,7 +18696,15 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Block any clicks on the desktop",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
+        },
         {
           "title": "[Feature]: Support widevine DRM in webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828"
@@ -18760,10 +18784,6 @@
         {
           "title": "[Feature]: Adding custom text to PermissionRequested prompt",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
-        },
-        {
-          "title": "[Problem/Bug]: On-screen/touch keyboard does not open for input  fields when physical keyboard is detached.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746"
         },
         {
           "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
@@ -22512,7 +22532,35 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
+        {
+          "title": "array in javascript",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2447"
+        },
+        {
+          "title": "Request ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2446"
+        },
+        {
+          "title": "White screen and headless mode at the same time ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2445"
+        },
+        {
+          "title": "When i open  file with \"open with edge\"->\"open browser\" it opens the page but also opens a white screen i have to click out and in the window icon for t to go in the back, but it still there. ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2444"
+        },
+        {
+          "title": "Help",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2443"
+        },
+        {
+          "title": "Reset",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2442"
+        },
         {
           "title": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImlhdCI6MTcyNjkzMDU5NSwiZXhwIjoxNzI2OTM0MTk1LCJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay02cjM0eUB0YWJuaW5lLWF1dGgtMzQwMDE1LmlhbS5nc2VydmljZWFjY291bnQuY29tIiwic3ViIjoiZmlyZWJhc2UtYWRtaW5zZGstNnIzNHlAdGFibmluZS1hdXRoLTM0MDAxNS5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInVpZCI6IjUxMExjQmxHWk5VVzNqSTBXNFFsMTJYVDdlZjIifQ.NXuGmfB77pK3Ds9YnM6GVzAjUmpMGQPVQY9PW__MFmLesVPr0o6Vjuhhy3AG5iT5m0gsrMa5ug2PVCqrCyta6CpTs1Kzn4vfcqqjWL8B946hbeoJqnVdkdzDwcmNQSc7qKpdCtdmLUwuYfFKUQp005Pp90cxF7SlkZsJta-f-IRvLD3ZOnnyesJYmMNN3WGG2ruCjFXvNnhcPJg6CaE8eRr4hZbuulFYKZdeMJuP4tebSB9keSN07qmuBKUioHpUPl8H7YftLls_NvZiZOOryfq1C-Ryu3jMKalFQCQWyD7bCjdVKK03ng9rXVBRijJasz6ehDxBfwN3XGYi_rEilQ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2441"
@@ -22542,7 +22590,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2439"
         }
       ],
-      "rate": "86.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26256,6 +26304,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
@@ -27660,6 +27712,10 @@
     },
     {
       "date": "2024-09-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

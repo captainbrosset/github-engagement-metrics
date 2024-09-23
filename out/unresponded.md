@@ -1,4 +1,4 @@
-Response rate: 76.22%
+Response rate: 74.72%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -32,6 +32,7 @@ Response rate: 76.22%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
   * [[Problem/Bug]: Screen details are incorrect and change unexp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826)
@@ -52,7 +53,6 @@ Response rate: 76.22%
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
-  * [[Problem/Bug]: On-screen/touch keyboard does not open for in...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4746)
   * [[Problem/Bug]: winrt::hresult_error on app closing when WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
@@ -61,7 +61,13 @@ Response rate: 76.22%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _74.00%_
+  * [array in javascript](https://github.com/microsoft/vscode-edge-devtools/issues/2447)
+  * [Request ](https://github.com/microsoft/vscode-edge-devtools/issues/2446)
+  * [White screen and headless mode at the same time ](https://github.com/microsoft/vscode-edge-devtools/issues/2445)
+  * [When i open  file with "open with edge"->"open browser" it o...](https://github.com/microsoft/vscode-edge-devtools/issues/2444)
+  * [Help](https://github.com/microsoft/vscode-edge-devtools/issues/2443)
+  * [Reset](https://github.com/microsoft/vscode-edge-devtools/issues/2442)
   * [eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2l...](https://github.com/microsoft/vscode-edge-devtools/issues/2441)
   * [CLOSE INSTANCE NOT WORKING](https://github.com/microsoft/vscode-edge-devtools/issues/2440)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2438)
