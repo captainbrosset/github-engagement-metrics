@@ -1,10 +1,11 @@
-Response rate: 74.72%
+Response rate: 77.22%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _48.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _46.00%_
+  * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
   * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
   * [IE Mode not working with Version 128.0.2739.67](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/169)
   * [problem with setup Microsoft Edge WebDriver ](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/168)
@@ -31,7 +32,8 @@ Response rate: 74.72%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
@@ -59,22 +61,10 @@ Response rate: 74.72%
   * [[Problem/Bug]: web messages aren't posted while the system c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
+  * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _74.00%_
-  * [array in javascript](https://github.com/microsoft/vscode-edge-devtools/issues/2447)
-  * [Request ](https://github.com/microsoft/vscode-edge-devtools/issues/2446)
-  * [White screen and headless mode at the same time ](https://github.com/microsoft/vscode-edge-devtools/issues/2445)
-  * [When i open  file with "open with edge"->"open browser" it o...](https://github.com/microsoft/vscode-edge-devtools/issues/2444)
-  * [Help](https://github.com/microsoft/vscode-edge-devtools/issues/2443)
-  * [Reset](https://github.com/microsoft/vscode-edge-devtools/issues/2442)
-  * [eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2l...](https://github.com/microsoft/vscode-edge-devtools/issues/2441)
-  * [CLOSE INSTANCE NOT WORKING](https://github.com/microsoft/vscode-edge-devtools/issues/2440)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2438)
-  * [Browser](https://github.com/microsoft/vscode-edge-devtools/issues/2437)
-  * [Zabiullah Rustaqi](https://github.com/microsoft/vscode-edge-devtools/issues/2436)
-  * [Bugs](https://github.com/microsoft/vscode-edge-devtools/issues/2435)
-  * [costura](https://github.com/microsoft/vscode-edge-devtools/issues/2439)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

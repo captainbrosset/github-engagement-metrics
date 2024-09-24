@@ -3714,6 +3714,10 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7438,6 +7442,10 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11157,6 +11165,10 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14876,7 +14888,15 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [
+        {
+          "title": "Whitch Tolerance regarding the Version of the Webdriver to the Browser is given",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171"
+        },
         {
           "title": "Regression suite automation tool - MSEdgeDriver - OpenQA.Selenium.WebDriverException",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170"
@@ -14982,7 +15002,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "48.00"
+      "rate": "46.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18700,7 +18720,15 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: When AllowExternalDrop is set to false, the VueDraggable property of VUE cannot be used properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830"
+        },
         {
           "title": "[Problem/Bug]: Block any clicks on the desktop",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
@@ -18810,6 +18838,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         },
         {
+          "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
+        },
+        {
           "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         },
@@ -18818,7 +18850,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "42.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22536,61 +22568,12 @@
     },
     {
       "date": "2024-09-23",
-      "unRespondedItems": [
-        {
-          "title": "array in javascript",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2447"
-        },
-        {
-          "title": "Request ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2446"
-        },
-        {
-          "title": "White screen and headless mode at the same time ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2445"
-        },
-        {
-          "title": "When i open  file with \"open with edge\"->\"open browser\" it opens the page but also opens a white screen i have to click out and in the window icon for t to go in the back, but it still there. ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2444"
-        },
-        {
-          "title": "Help",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2443"
-        },
-        {
-          "title": "Reset",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2442"
-        },
-        {
-          "title": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImlhdCI6MTcyNjkzMDU5NSwiZXhwIjoxNzI2OTM0MTk1LCJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay02cjM0eUB0YWJuaW5lLWF1dGgtMzQwMDE1LmlhbS5nc2VydmljZWFjY291bnQuY29tIiwic3ViIjoiZmlyZWJhc2UtYWRtaW5zZGstNnIzNHlAdGFibmluZS1hdXRoLTM0MDAxNS5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInVpZCI6IjUxMExjQmxHWk5VVzNqSTBXNFFsMTJYVDdlZjIifQ.NXuGmfB77pK3Ds9YnM6GVzAjUmpMGQPVQY9PW__MFmLesVPr0o6Vjuhhy3AG5iT5m0gsrMa5ug2PVCqrCyta6CpTs1Kzn4vfcqqjWL8B946hbeoJqnVdkdzDwcmNQSc7qKpdCtdmLUwuYfFKUQp005Pp90cxF7SlkZsJta-f-IRvLD3ZOnnyesJYmMNN3WGG2ruCjFXvNnhcPJg6CaE8eRr4hZbuulFYKZdeMJuP4tebSB9keSN07qmuBKUioHpUPl8H7YftLls_NvZiZOOryfq1C-Ryu3jMKalFQCQWyD7bCjdVKK03ng9rXVBRijJasz6ehDxBfwN3XGYi_rEilQ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2441"
-        },
-        {
-          "title": "CLOSE INSTANCE NOT WORKING",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2440"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2438"
-        },
-        {
-          "title": "Browser",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2437"
-        },
-        {
-          "title": "Zabiullah Rustaqi",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2436"
-        },
-        {
-          "title": "Bugs",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2435"
-        },
-        {
-          "title": "costura",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2439"
-        }
-      ],
       "rate": "74.00"
+    },
+    {
+      "date": "2024-09-24",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26308,6 +26291,10 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
@@ -27716,6 +27703,10 @@
     },
     {
       "date": "2024-09-23",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
