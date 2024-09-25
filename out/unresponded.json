@@ -3718,6 +3718,10 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7446,6 +7450,10 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11169,6 +11177,10 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14892,7 +14904,15 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [
+        {
+          "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172"
+        },
         {
           "title": "Whitch Tolerance regarding the Version of the Webdriver to the Browser is given",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171"
@@ -15002,7 +15022,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "46.00"
+      "rate": "44.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18724,7 +18744,19 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: On android phone, when we click on input element, a white box space appears between input element and the virtual keyboard",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4833"
+        },
+        {
+          "title": "[Problem/Bug]: System.Globalization.CultureNotFoundException when InvariantGlobalization true in .csproj",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831"
+        },
         {
           "title": "[Problem/Bug]: When AllowExternalDrop is set to false, the VueDraggable property of VUE cannot be used properly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830"
@@ -18826,16 +18858,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         },
         {
-          "title": "[Problem/Bug]: web messages aren't posted while the system context menu is up",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4794"
-        },
-        {
           "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
         },
         {
           "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
+        },
+        {
+          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
         },
         {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
@@ -18850,7 +18882,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "38.00"
+      "rate": "34.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22572,8 +22604,21 @@
     },
     {
       "date": "2024-09-24",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-09-25",
+      "unRespondedItems": [
+        {
+          "title": "Feature request",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2450"
+        },
+        {
+          "title": "anudurgaadapa@gmail.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2449"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26295,13 +26340,17 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "97.78"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [
         {
           "title": "[DevTools Docs Feedback]",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3273"
         }
       ],
-      "rate": "97.78"
+      "rate": "97.62"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -27707,7 +27756,15 @@
     },
     {
       "date": "2024-09-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-25",
       "unRespondedItems": [
+        {
+          "title": "Network console fails to load with HTTP/1.1 404 Not Found",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/issues/130"
+        },
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/123"
@@ -27827,10 +27884,6 @@
         {
           "title": "Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/81"
-        },
-        {
-          "title": "Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-shared",
-          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/80"
         }
       ],
       "rate": "38.00"
