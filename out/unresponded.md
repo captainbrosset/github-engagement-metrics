@@ -1,4 +1,4 @@
-Response rate: 75.95%
+Response rate: 77.00%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -34,6 +34,8 @@ Response rate: 75.95%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _34.00%_
+  * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
+  * [[Problem/Bug]: Text fragment highlighting stays visible on s...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4835)
   * [[Problem/Bug]: On android phone, when we click on input elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4833)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
@@ -47,11 +49,9 @@ Response rate: 75.95%
   * [[Problem/Bug]: CoreWebView2Controller.Close() sometimes hang...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817)
   * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
   * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
-  * [[Problem/Bug]: Unneeded references keep appearing in Visual ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4812)
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
   * [[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807)
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
-  * [[Problem/Bug]: Clipboard write API doesn't support multiple ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4801)
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
@@ -67,11 +67,8 @@ Response rate: 75.95%
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _96.00%_
-  * [Feature request](https://github.com/microsoft/vscode-edge-devtools/issues/2450)
-  * [anudurgaadapa@gmail.com](https://github.com/microsoft/vscode-edge-devtools/issues/2449)
-* **microsoft/edge-devtools-network-console** - _38.00%_
-  * [Network console fails to load with HTTP/1.1 404 Not Found](https://github.com/microsoft/edge-devtools-network-console/issues/130)
+* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -102,5 +99,4 @@ Response rate: 75.95%
   * [Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools...](https://github.com/microsoft/edge-devtools-network-console/pull/84)
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
-* **MicrosoftDocs/edge-developer** - _97.62%_
-  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3273)
+* **MicrosoftDocs/edge-developer** - _100.00%_
