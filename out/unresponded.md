@@ -1,4 +1,4 @@
-Response rate: 77.00%
+Response rate: 77.50%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -33,10 +33,8 @@ Response rate: 77.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _34.00%_
+* **MicrosoftEdge/WebView2Feedback** - _38.00%_
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
-  * [[Problem/Bug]: Text fragment highlighting stays visible on s...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4835)
-  * [[Problem/Bug]: On android phone, when we click on input elem...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4833)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)

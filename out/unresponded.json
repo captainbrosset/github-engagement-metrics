@@ -3726,6 +3726,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7462,6 +7466,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11193,6 +11201,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14924,6 +14936,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -18768,18 +18784,14 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836"
-        },
-        {
-          "title": "[Problem/Bug]: Text fragment highlighting stays visible on same-page navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4835"
-        },
-        {
-          "title": "[Problem/Bug]: On android phone, when we click on input element, a white box space appears between input element and the virtual keyboard",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4833"
         },
         {
           "title": "[Problem/Bug]: System.Globalization.CultureNotFoundException when InvariantGlobalization true in .csproj",
@@ -18902,7 +18914,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "34.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22632,6 +22644,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26363,6 +26379,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27778,6 +27798,10 @@
     },
     {
       "date": "2024-09-26",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-09-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
