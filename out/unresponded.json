@@ -3730,6 +3730,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7470,6 +7474,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11205,6 +11213,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14940,7 +14952,15 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [
+        {
+          "title": "[🐛 Bug]: headless mode error - white rectangle",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/173"
+        },
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172"
@@ -15054,7 +15074,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "44.00"
+      "rate": "42.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -18788,6 +18808,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
@@ -18800,10 +18824,6 @@
         {
           "title": "[Problem/Bug]: When AllowExternalDrop is set to false, the VueDraggable property of VUE cannot be used properly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830"
-        },
-        {
-          "title": "[Problem/Bug]: Block any clicks on the desktop",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         },
         {
           "title": "[Feature]: Support widevine DRM in webview2",
@@ -18878,10 +18898,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
         },
         {
-          "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
-        },
-        {
           "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
         },
@@ -18898,10 +18914,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         },
         {
-          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
-        },
-        {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
         },
@@ -18914,7 +18926,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "38.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22648,6 +22660,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -26383,6 +26399,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27802,6 +27822,10 @@
     },
     {
       "date": "2024-09-27",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-09-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,10 +1,11 @@
-Response rate: 77.50%
+Response rate: 78.00%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _44.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _42.00%_
+  * [[🐛 Bug]: headless mode error - white rectangle](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/173)
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
   * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
   * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
@@ -33,11 +34,10 @@ Response rate: 77.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
-  * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
   * [[Problem/Bug]: Screen details are incorrect and change unexp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826)
@@ -56,12 +56,10 @@ Response rate: 77.50%
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
-  * [[Problem/Bug]: winrt::hresult_error on app closing when WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
-  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
