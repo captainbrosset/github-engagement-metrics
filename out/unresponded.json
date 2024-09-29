@@ -3734,6 +3734,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7478,6 +7482,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11217,6 +11225,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14956,6 +14968,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: headless mode error - white rectangle",
@@ -18812,7 +18828,19 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Request to WASM file is not resolved to virtual host sometimes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838"
+        },
+        {
+          "title": "[Problem/Bug]: Duplicate WebView2Loader.dll is heavily output",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4837"
+        },
         {
           "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836"
@@ -18898,6 +18926,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
         },
         {
+          "title": "[Problem/Bug]: Block any clicks on the desktop",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
+        },
+        {
           "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
         },
@@ -18914,6 +18946,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         },
         {
+          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
+        },
+        {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
         },
@@ -18926,7 +18962,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "44.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22664,8 +22700,21 @@
     },
     {
       "date": "2024-09-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-09-29",
+      "unRespondedItems": [
+        {
+          "title": "always great to learn by creating mistake. 😂 ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2453"
+        },
+        {
+          "title": "Ilyas",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
+        }
+      ],
+      "rate": "96.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26403,6 +26452,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27826,6 +27879,10 @@
     },
     {
       "date": "2024-09-28",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-09-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

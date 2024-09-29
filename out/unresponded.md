@@ -1,4 +1,4 @@
-Response rate: 78.00%
+Response rate: 76.50%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
@@ -34,7 +34,9 @@ Response rate: 78.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _36.00%_
+  * [[Problem/Bug]: Request to WASM file is not resolved to virtu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838)
+  * [[Problem/Bug]: Duplicate WebView2Loader.dll is heavily outpu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4837)
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
@@ -56,14 +58,18 @@ Response rate: 78.00%
   * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Browser freezes when dragging a link using ms...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772)
   * [[Feature]: Adding custom text to PermissionRequested prompt](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770)
+  * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
+  * [[Problem/Bug]: net core warnings for missing DLLs in a .NET ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
   * [[Problem/Bug]: Blank window after navigate in hidden state](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _96.00%_
+  * [always great to learn by creating mistake. 😂 ](https://github.com/microsoft/vscode-edge-devtools/issues/2453)
+  * [Ilyas](https://github.com/microsoft/vscode-edge-devtools/issues/2454)
 * **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
