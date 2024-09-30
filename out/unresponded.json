@@ -3738,13 +3738,21 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [
+        {
+          "title": "3.1",
+          "url": "https://github.com/webhintio/hint/issues/5932"
+        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7486,6 +7494,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11229,6 +11241,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14972,6 +14988,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: headless mode error - white rectangle",
@@ -18832,6 +18852,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Request to WASM file is not resolved to virtual host sometimes",
@@ -18930,6 +18954,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         },
         {
+          "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
+        },
+        {
           "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
         },
@@ -18962,7 +18990,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "36.00"
+      "rate": "34.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22704,7 +22732,23 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [
+        {
+          "title": "won't let me close instance. just stays there until I restart my pc",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2457"
+        },
+        {
+          "title": "Edge DevTools stops working freezes on \"The tab is inactive\"",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2456"
+        },
+        {
+          "title": "php",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2455"
+        },
         {
           "title": "always great to learn by creating mistake. 😂 ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2453"
@@ -22714,7 +22758,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "96.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26456,6 +26500,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27883,6 +27931,10 @@
     },
     {
       "date": "2024-09-29",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-09-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
