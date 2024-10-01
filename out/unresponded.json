@@ -3742,17 +3742,17 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [
-        {
-          "title": "3.1",
-          "url": "https://github.com/webhintio/hint/issues/5932"
-        },
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
           "url": "https://github.com/webhintio/hint/issues/5741"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7498,6 +7498,10 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11245,6 +11249,10 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -14992,6 +15000,10 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: headless mode error - white rectangle",
@@ -18856,7 +18868,15 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add option to change spellchecking method",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
+        },
         {
           "title": "[Problem/Bug]: Request to WASM file is not resolved to virtual host sometimes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838"
@@ -18950,6 +18970,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
         },
         {
+          "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839"
+        },
+        {
           "title": "[Problem/Bug]: Block any clicks on the desktop",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         },
@@ -18984,13 +19008,9 @@
         {
           "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
-        },
-        {
-          "title": "[Problem/Bug]: Blank window after navigate in hidden state",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4763"
         }
       ],
-      "rate": "34.00"
+      "rate": "32.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22736,7 +22756,15 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [
+        {
+          "title": ">skills hability<( time =stop- meanwhile-- training)( control velocity)///(  range- movement)>improve<=done",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2458"
+        },
         {
           "title": "won't let me close instance. just stays there until I restart my pc",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2457"
@@ -22754,11 +22782,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2453"
         },
         {
+          "title": "toda vez que tento iniciar a deputação aparece uma mensagem de erro para criar um arquivo json mas quando eu crio só consigo deputar um arquivo da pasta e os outros não ",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2459"
+        },
+        {
           "title": "Ilyas",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26504,6 +26536,10 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27935,6 +27971,10 @@
     },
     {
       "date": "2024-09-30",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-10-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
