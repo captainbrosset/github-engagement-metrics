@@ -3746,6 +3746,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [
         {
           "title": "[Bug] ''A form field element should have an id or name attribute'' should not display for `type=\"search\"`  inputs",
@@ -7502,6 +7506,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11253,6 +11261,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15004,6 +15016,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [
         {
           "title": "[🐛 Bug]: headless mode error - white rectangle",
@@ -18872,6 +18888,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "32.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [
         {
           "title": "[Feature]: Add option to change spellchecking method",
@@ -18998,10 +19018,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         },
         {
-          "title": "[Problem/Bug]: net core warnings for missing DLLs in a .NET Framework 4.8 solution",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4778"
-        },
-        {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
         },
@@ -19010,7 +19026,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         }
       ],
-      "rate": "32.00"
+      "rate": "34.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22760,6 +22776,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [
         {
           "title": ">skills hability<( time =stop- meanwhile-- training)( control velocity)///(  range- movement)>improve<=done",
@@ -26540,6 +26560,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -27975,6 +27999,10 @@
     },
     {
       "date": "2024-10-01",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-10-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
