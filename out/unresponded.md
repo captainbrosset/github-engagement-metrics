@@ -1,11 +1,9 @@
-Response rate: 75.00%
+Response rate: 74.50%
 
-* **webhintio/hint** - _98.00%_
-  * [[Bug] ''A form field element should have an id or name attri...](https://github.com/webhintio/hint/issues/5741)
+* **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _42.00%_
-  * [[🐛 Bug]: headless mode error - white rectangle](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/173)
+* **MicrosoftEdge/EdgeWebDriver** - _44.00%_
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
   * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
   * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
@@ -35,6 +33,7 @@ Response rate: 75.00%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _34.00%_
+  * [[Problem/Bug]: BrowserProcess crashes with exit code -214748...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4843)
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
   * [[Problem/Bug]: Request to WASM file is not resolved to virtu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838)
   * [[Problem/Bug]: Duplicate WebView2Loader.dll is heavily outpu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4837)
@@ -51,7 +50,6 @@ Response rate: 75.00%
   * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
   * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
-  * [[Problem/Bug]: IsDefaultDownloadDialogOpenChanged event not ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4807)
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
@@ -68,13 +66,17 @@ Response rate: 75.00%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
-* **microsoft/vscode-edge-devtools** - _86.00%_
-  * [>skills hability<( time =stop- meanwhile-- training)( contro...](https://github.com/microsoft/vscode-edge-devtools/issues/2458)
+* **microsoft/vscode-edge-devtools** - _78.00%_
+  * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2463)
+  * [armita](https://github.com/microsoft/vscode-edge-devtools/issues/2462)
+  * [adruichthe2](https://github.com/microsoft/vscode-edge-devtools/issues/2461)
+  * [library #include <stdio.h>](https://github.com/microsoft/vscode-edge-devtools/issues/2460)
   * [won't let me close instance. just stays there until I restar...](https://github.com/microsoft/vscode-edge-devtools/issues/2457)
   * [Edge DevTools stops working freezes on "The tab is inactive"...](https://github.com/microsoft/vscode-edge-devtools/issues/2456)
   * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2455)
   * [always great to learn by creating mistake. 😂 ](https://github.com/microsoft/vscode-edge-devtools/issues/2453)
   * [toda vez que tento iniciar a deputação aparece uma mensagem ...](https://github.com/microsoft/vscode-edge-devtools/issues/2459)
+  * [>skills hability<( time =stop- meanwhile-- training)( contro...](https://github.com/microsoft/vscode-edge-devtools/issues/2458)
   * [Ilyas](https://github.com/microsoft/vscode-edge-devtools/issues/2454)
 * **microsoft/edge-devtools-network-console** - _40.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
