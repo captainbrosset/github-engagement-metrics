@@ -1,4 +1,4 @@
-Response rate: 74.50%
+Response rate: 74.00%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -66,7 +66,9 @@ Response rate: 74.50%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
-* **microsoft/vscode-edge-devtools** - _78.00%_
+* **microsoft/vscode-edge-devtools** - _74.00%_
+  * [CSS](https://github.com/microsoft/vscode-edge-devtools/issues/2465)
+  * [localhost 8080 password and username](https://github.com/microsoft/vscode-edge-devtools/issues/2464)
   * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2463)
   * [armita](https://github.com/microsoft/vscode-edge-devtools/issues/2462)
   * [adruichthe2](https://github.com/microsoft/vscode-edge-devtools/issues/2461)
