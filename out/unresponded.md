@@ -1,4 +1,4 @@
-Response rate: 74.00%
+Response rate: 73.75%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -67,7 +67,7 @@ Response rate: 74.00%
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
 * **microsoft/vscode-edge-devtools** - _74.00%_
-  * [CSS](https://github.com/microsoft/vscode-edge-devtools/issues/2465)
+  * [its not running](https://github.com/microsoft/vscode-edge-devtools/issues/2466)
   * [localhost 8080 password and username](https://github.com/microsoft/vscode-edge-devtools/issues/2464)
   * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2463)
   * [armita](https://github.com/microsoft/vscode-edge-devtools/issues/2462)
@@ -80,7 +80,7 @@ Response rate: 74.00%
   * [toda vez que tento iniciar a deputação aparece uma mensagem ...](https://github.com/microsoft/vscode-edge-devtools/issues/2459)
   * [>skills hability<( time =stop- meanwhile-- training)( contro...](https://github.com/microsoft/vscode-edge-devtools/issues/2458)
   * [Ilyas](https://github.com/microsoft/vscode-edge-devtools/issues/2454)
-* **microsoft/edge-devtools-network-console** - _40.00%_
+* **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
   * [Bump ansi-regex from 3.0.0 to 3.0.1 in /packages/network-con...](https://github.com/microsoft/edge-devtools-network-console/pull/121)
@@ -111,4 +111,5 @@ Response rate: 74.00%
   * [Bump lodash-es from 4.17.15 to 4.17.21 in /packages/devtools...](https://github.com/microsoft/edge-devtools-network-console/pull/84)
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
+  * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
 * **MicrosoftDocs/edge-developer** - _100.00%_

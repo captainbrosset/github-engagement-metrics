@@ -3758,6 +3758,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7521,6 +7525,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11284,6 +11292,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15047,6 +15059,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -18923,6 +18939,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: BrowserProcess crashes with exit code -2147483645 when canceling the FrameNavigationStarting event (for a particular site)",
@@ -22819,10 +22839,14 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [
         {
-          "title": "CSS",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2465"
+          "title": "its not running",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2466"
         },
         {
           "title": "localhost 8080 password and username",
@@ -26635,6 +26659,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28082,6 +28110,10 @@
     },
     {
       "date": "2024-10-04",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-10-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
@@ -28202,9 +28234,13 @@
         {
           "title": "Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/devtools-network-console",
           "url": "https://github.com/microsoft/edge-devtools-network-console/pull/81"
+        },
+        {
+          "title": "Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-shared",
+          "url": "https://github.com/microsoft/edge-devtools-network-console/pull/80"
         }
       ],
-      "rate": "40.00"
+      "rate": "38.00"
     }
   ]
 }
