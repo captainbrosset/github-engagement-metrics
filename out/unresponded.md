@@ -1,4 +1,4 @@
-Response rate: 73.75%
+Response rate: 73.25%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -66,7 +66,8 @@ Response rate: 73.75%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
-* **microsoft/vscode-edge-devtools** - _74.00%_
+* **microsoft/vscode-edge-devtools** - _70.00%_
+  * [chat gtp](https://github.com/microsoft/vscode-edge-devtools/issues/2469)
   * [its not running](https://github.com/microsoft/vscode-edge-devtools/issues/2466)
   * [localhost 8080 password and username](https://github.com/microsoft/vscode-edge-devtools/issues/2464)
   * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2463)
@@ -77,6 +78,7 @@ Response rate: 73.75%
   * [Edge DevTools stops working freezes on "The tab is inactive"...](https://github.com/microsoft/vscode-edge-devtools/issues/2456)
   * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2455)
   * [always great to learn by creating mistake. 😂 ](https://github.com/microsoft/vscode-edge-devtools/issues/2453)
+  * [post css](https://github.com/microsoft/vscode-edge-devtools/issues/2468)
   * [toda vez que tento iniciar a deputação aparece uma mensagem ...](https://github.com/microsoft/vscode-edge-devtools/issues/2459)
   * [>skills hability<( time =stop- meanwhile-- training)( contro...](https://github.com/microsoft/vscode-edge-devtools/issues/2458)
   * [Ilyas](https://github.com/microsoft/vscode-edge-devtools/issues/2454)

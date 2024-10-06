@@ -3762,6 +3762,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7529,6 +7533,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11296,6 +11304,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15063,6 +15075,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -18943,6 +18959,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: BrowserProcess crashes with exit code -2147483645 when canceling the FrameNavigationStarting event (for a particular site)",
@@ -22843,7 +22863,15 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [
+        {
+          "title": "chat gtp",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2469"
+        },
         {
           "title": "its not running",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2466"
@@ -22885,6 +22913,10 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2453"
         },
         {
+          "title": "post css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2468"
+        },
+        {
           "title": "toda vez que tento iniciar a deputação aparece uma mensagem de erro para criar um arquivo json mas quando eu crio só consigo deputar um arquivo da pasta e os outros não ",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2459"
         },
@@ -22897,7 +22929,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26663,6 +26695,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28114,6 +28150,10 @@
     },
     {
       "date": "2024-10-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
