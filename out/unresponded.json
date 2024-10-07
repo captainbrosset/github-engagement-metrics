@@ -3766,6 +3766,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7537,6 +7541,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11308,6 +11316,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15079,6 +15091,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -18963,6 +18979,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: BrowserProcess crashes with exit code -2147483645 when canceling the FrameNavigationStarting event (for a particular site)",
@@ -19069,10 +19089,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         },
         {
-          "title": "[Problem/Bug]: winrt::hresult_error on app closing when WebView2 control presents in a WinUI3 app that is packaged with a separate WAP project",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4814"
-        },
-        {
           "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
         },
@@ -19097,7 +19113,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         }
       ],
-      "rate": "34.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22867,7 +22883,15 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [
+        {
+          "title": "executin policies",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2470"
+        },
         {
           "title": "chat gtp",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2469"
@@ -22929,7 +22953,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "70.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26699,6 +26723,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28154,6 +28182,10 @@
     },
     {
       "date": "2024-10-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
