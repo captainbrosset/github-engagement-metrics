@@ -32,11 +32,9 @@ Response rate: 73.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _36.00%_
-  * [[Problem/Bug]: BrowserProcess crashes with exit code -214748...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4843)
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
   * [[Problem/Bug]: Request to WASM file is not resolved to virtu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838)
-  * [[Problem/Bug]: Duplicate WebView2Loader.dll is heavily outpu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4837)
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
@@ -65,7 +63,9 @@ Response rate: 73.25%
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
   * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
   * [[Problem/Bug]: Construct 3 games miss some sprites and text ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767)
-* **microsoft/vscode-edge-devtools** - _68.00%_
+* **microsoft/vscode-edge-devtools** - _64.00%_
+  * [Variable expansion problem with launch config/userDataDir](https://github.com/microsoft/vscode-edge-devtools/issues/2472)
+  * [STATUS_STACK_OVERFLOW](https://github.com/microsoft/vscode-edge-devtools/issues/2471)
   * [executin policies](https://github.com/microsoft/vscode-edge-devtools/issues/2470)
   * [chat gtp](https://github.com/microsoft/vscode-edge-devtools/issues/2469)
   * [its not running](https://github.com/microsoft/vscode-edge-devtools/issues/2466)

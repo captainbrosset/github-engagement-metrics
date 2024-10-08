@@ -3770,6 +3770,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7545,6 +7549,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11320,6 +11328,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15095,6 +15107,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -18983,11 +18999,11 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: BrowserProcess crashes with exit code -2147483645 when canceling the FrameNavigationStarting event (for a particular site)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4843"
-        },
         {
           "title": "[Feature]: Add option to change spellchecking method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
@@ -18995,10 +19011,6 @@
         {
           "title": "[Problem/Bug]: Request to WASM file is not resolved to virtual host sometimes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838"
-        },
-        {
-          "title": "[Problem/Bug]: Duplicate WebView2Loader.dll is heavily output",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4837"
         },
         {
           "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
@@ -19113,7 +19125,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         }
       ],
-      "rate": "36.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22887,7 +22899,19 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "68.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [
+        {
+          "title": "Variable expansion problem with launch config/userDataDir",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2472"
+        },
+        {
+          "title": "STATUS_STACK_OVERFLOW",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2471"
+        },
         {
           "title": "executin policies",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2470"
@@ -22953,7 +22977,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "68.00"
+      "rate": "64.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26727,6 +26751,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28186,6 +28214,10 @@
     },
     {
       "date": "2024-10-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
