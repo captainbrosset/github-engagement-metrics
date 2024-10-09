@@ -3774,6 +3774,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7553,6 +7557,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11332,6 +11340,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15111,6 +15123,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19003,7 +19019,27 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add WebResourceRequested and WebResourceResponseReceived events To Microsoft.MixedReality.WebView (Unity Package) ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854"
+        },
+        {
+          "title": "BasicAuthenticationRequired event removes Content-Type header from Request.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853"
+        },
+        {
+          "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
+        },
+        {
+          "title": "[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendCompleted can't trigger",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851"
+        },
         {
           "title": "[Feature]: Add option to change spellchecking method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
@@ -19085,12 +19121,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775"
         },
         {
-          "title": "[Problem/Bug]: Browser freezes when dragging a link using msWebView2BrowserHitTransparent ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4772"
-        },
-        {
-          "title": "[Feature]: Adding custom text to PermissionRequested prompt",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4770"
+          "title": "[Problem/Bug]: Unable to launch application using a webview2 component in process running under a restricted token",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850"
         },
         {
           "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
@@ -19119,13 +19151,9 @@
         {
           "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
-        },
-        {
-          "title": "[Problem/Bug]: Construct 3 games miss some sprites and text objects on Xbox Series X/Y.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4767"
         }
       ],
-      "rate": "40.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22903,7 +22931,23 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "64.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [
+        {
+          "title": "visual code new microsoft extensiom having an one issue when i am one the microsoft extension new blank screen apper on the screen that is not useful screen what do",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2476"
+        },
+        {
+          "title": "code isn't building",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2475"
+        },
+        {
+          "title": "workflow launch",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2474"
+        },
         {
           "title": "Variable expansion problem with launch config/userDataDir",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2472"
@@ -22977,7 +23021,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
         }
       ],
-      "rate": "64.00"
+      "rate": "58.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26755,6 +26799,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28218,6 +28266,10 @@
     },
     {
       "date": "2024-10-08",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
