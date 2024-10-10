@@ -3778,6 +3778,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7561,6 +7565,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11344,6 +11352,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15127,6 +15139,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19023,7 +19039,27 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION while accessing window.chrome.webview",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
+        },
+        {
+          "title": "[Problem/Bug]: IsPasswordAutosaveEnabled doesn't work.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4857"
+        },
+        {
+          "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856"
+        },
+        {
+          "title": "[Problem/Bug]: win32C++ Webview2  When loading webpage content, the screen will flash white",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855"
+        },
         {
           "title": "[Feature]: Add WebResourceRequested and WebResourceResponseReceived events To Microsoft.MixedReality.WebView (Unity Package) ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854"
@@ -19031,10 +19067,6 @@
         {
           "title": "BasicAuthenticationRequired event removes Content-Type header from Request.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853"
-        },
-        {
-          "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
         },
         {
           "title": "[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendCompleted can't trigger",
@@ -19117,10 +19149,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790"
         },
         {
-          "title": "[Feature]: Expose RasterizationScale, ShouldDetectMonitorScaleChanges and RasterizationScaleChanged of CoreWebView2Controller in WebView2 class",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775"
-        },
-        {
           "title": "[Problem/Bug]: Unable to launch application using a webview2 component in process running under a restricted token",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850"
         },
@@ -19147,13 +19175,9 @@
         {
           "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 When opening a local PDF file, if the file path contains #, the PDF file fails to be opened.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777"
         }
       ],
-      "rate": "36.00"
+      "rate": "34.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22935,93 +22959,17 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [
         {
-          "title": "visual code new microsoft extensiom having an one issue when i am one the microsoft extension new blank screen apper on the screen that is not useful screen what do",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2476"
-        },
-        {
-          "title": "code isn't building",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2475"
-        },
-        {
-          "title": "workflow launch",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2474"
-        },
-        {
-          "title": "Variable expansion problem with launch config/userDataDir",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2472"
-        },
-        {
-          "title": "STATUS_STACK_OVERFLOW",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2471"
-        },
-        {
-          "title": "executin policies",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2470"
-        },
-        {
-          "title": "chat gtp",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2469"
-        },
-        {
-          "title": "its not running",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2466"
-        },
-        {
-          "title": "localhost 8080 password and username",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2464"
-        },
-        {
-          "title": "python",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2463"
-        },
-        {
-          "title": "armita",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2462"
-        },
-        {
-          "title": "adruichthe2",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2461"
-        },
-        {
-          "title": "library #include <stdio.h>",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2460"
-        },
-        {
-          "title": "won't let me close instance. just stays there until I restart my pc",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2457"
-        },
-        {
-          "title": "Edge DevTools stops working freezes on \"The tab is inactive\"",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2456"
-        },
-        {
-          "title": "php",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2455"
-        },
-        {
-          "title": "always great to learn by creating mistake. 😂 ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2453"
-        },
-        {
-          "title": "post css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2468"
-        },
-        {
-          "title": "toda vez que tento iniciar a deputação aparece uma mensagem de erro para criar um arquivo json mas quando eu crio só consigo deputar um arquivo da pasta e os outros não ",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2459"
-        },
-        {
-          "title": ">skills hability<( time =stop- meanwhile-- training)( control velocity)///(  range- movement)>improve<=done",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2458"
-        },
-        {
-          "title": "Ilyas",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2454"
+          "title": "i can't run  any c programming ever after downloading compiler",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2480"
         }
       ],
-      "rate": "58.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26803,6 +26751,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28270,6 +28222,10 @@
     },
     {
       "date": "2024-10-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

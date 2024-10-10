@@ -1,4 +1,4 @@
-Response rate: 72.00%
+Response rate: 76.75%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,10 +32,13 @@ Response rate: 72.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _36.00%_
+* **MicrosoftEdge/WebView2Feedback** - _34.00%_
+  * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
+  * [[Problem/Bug]: IsPasswordAutosaveEnabled doesn't work.](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4857)
+  * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
+  * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
   * [BasicAuthenticationRequired event removes Content-Type heade...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853)
-  * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
   * [[Problem/Bug]: Request to WASM file is not resolved to virtu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838)
@@ -56,7 +59,6 @@ Response rate: 72.00%
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
-  * [[Feature]: Expose RasterizationScale, ShouldDetectMonitorSca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4775)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
@@ -64,29 +66,8 @@ Response rate: 72.00%
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
   * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
-  * [[Problem/Bug]: WebView2 When opening a local PDF file, if th...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4777)
-* **microsoft/vscode-edge-devtools** - _58.00%_
-  * [visual code new microsoft extensiom having an one issue when...](https://github.com/microsoft/vscode-edge-devtools/issues/2476)
-  * [code isn't building](https://github.com/microsoft/vscode-edge-devtools/issues/2475)
-  * [workflow launch](https://github.com/microsoft/vscode-edge-devtools/issues/2474)
-  * [Variable expansion problem with launch config/userDataDir](https://github.com/microsoft/vscode-edge-devtools/issues/2472)
-  * [STATUS_STACK_OVERFLOW](https://github.com/microsoft/vscode-edge-devtools/issues/2471)
-  * [executin policies](https://github.com/microsoft/vscode-edge-devtools/issues/2470)
-  * [chat gtp](https://github.com/microsoft/vscode-edge-devtools/issues/2469)
-  * [its not running](https://github.com/microsoft/vscode-edge-devtools/issues/2466)
-  * [localhost 8080 password and username](https://github.com/microsoft/vscode-edge-devtools/issues/2464)
-  * [python](https://github.com/microsoft/vscode-edge-devtools/issues/2463)
-  * [armita](https://github.com/microsoft/vscode-edge-devtools/issues/2462)
-  * [adruichthe2](https://github.com/microsoft/vscode-edge-devtools/issues/2461)
-  * [library #include <stdio.h>](https://github.com/microsoft/vscode-edge-devtools/issues/2460)
-  * [won't let me close instance. just stays there until I restar...](https://github.com/microsoft/vscode-edge-devtools/issues/2457)
-  * [Edge DevTools stops working freezes on "The tab is inactive"...](https://github.com/microsoft/vscode-edge-devtools/issues/2456)
-  * [php](https://github.com/microsoft/vscode-edge-devtools/issues/2455)
-  * [always great to learn by creating mistake. 😂 ](https://github.com/microsoft/vscode-edge-devtools/issues/2453)
-  * [post css](https://github.com/microsoft/vscode-edge-devtools/issues/2468)
-  * [toda vez que tento iniciar a deputação aparece uma mensagem ...](https://github.com/microsoft/vscode-edge-devtools/issues/2459)
-  * [>skills hability<( time =stop- meanwhile-- training)( contro...](https://github.com/microsoft/vscode-edge-devtools/issues/2458)
-  * [Ilyas](https://github.com/microsoft/vscode-edge-devtools/issues/2454)
+* **microsoft/vscode-edge-devtools** - _98.00%_
+  * [i can't run  any c programming ever after downloading compil...](https://github.com/microsoft/vscode-edge-devtools/issues/2480)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
