@@ -3786,6 +3786,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7577,6 +7581,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11368,6 +11376,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15159,6 +15171,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19063,7 +19079,19 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
+        },
+        {
+          "title": "[Bug]: Cannot exclude bloat from Microsoft.Web.WebView2 package",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4860"
+        },
         {
           "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859"
@@ -19191,13 +19219,9 @@
         {
           "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
-        },
-        {
-          "title": "[Problem/Bug]: A window hierarchy problem introduced by WebView2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787"
         }
       ],
-      "rate": "34.00"
+      "rate": "32.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -22987,6 +23011,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [
         {
           "title": "heart",
@@ -26803,6 +26831,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28278,6 +28310,10 @@
     },
     {
       "date": "2024-10-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

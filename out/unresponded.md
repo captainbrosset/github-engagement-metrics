@@ -1,4 +1,4 @@
-Response rate: 75.50%
+Response rate: 75.25%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,7 +32,9 @@ Response rate: 75.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _34.00%_
+* **MicrosoftEdge/WebView2Feedback** - _32.00%_
+  * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
+  * [[Bug]: Cannot exclude bloat from Microsoft.Web.WebView2 pack...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4860)
   * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
@@ -65,7 +67,6 @@ Response rate: 75.50%
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
-  * [[Problem/Bug]: A window hierarchy problem introduced by WebV...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4787)
 * **microsoft/vscode-edge-devtools** - _88.00%_
   * [heart](https://github.com/microsoft/vscode-edge-devtools/issues/2484)
   * [WAD](https://github.com/microsoft/vscode-edge-devtools/issues/2483)
