@@ -1,4 +1,4 @@
-Response rate: 75.25%
+Response rate: 74.25%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -67,7 +67,11 @@ Response rate: 75.25%
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [REDEMPTION](https://github.com/microsoft/vscode-edge-devtools/issues/2489)
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2488)
+  * [bugging](https://github.com/microsoft/vscode-edge-devtools/issues/2487)
+  * [search](https://github.com/microsoft/vscode-edge-devtools/issues/2486)
   * [heart](https://github.com/microsoft/vscode-edge-devtools/issues/2484)
   * [WAD](https://github.com/microsoft/vscode-edge-devtools/issues/2483)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
