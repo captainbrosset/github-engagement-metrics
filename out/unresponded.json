@@ -3794,6 +3794,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7593,6 +7597,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11392,6 +11400,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15191,6 +15203,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19103,6 +19119,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "32.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
@@ -23039,7 +23059,15 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [
+        {
+          "title": "Issue001",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2490"
+        },
         {
           "title": "REDEMPTION",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2489"
@@ -23081,7 +23109,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26879,6 +26907,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28362,6 +28394,10 @@
     },
     {
       "date": "2024-10-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
