@@ -1,4 +1,4 @@
-Response rate: 74.00%
+Response rate: 76.00%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,9 +32,8 @@ Response rate: 74.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _32.00%_
+* **MicrosoftEdge/WebView2Feedback** - _36.00%_
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
-  * [[Bug]: Cannot exclude bloat from Microsoft.Web.WebView2 pack...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4860)
   * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
@@ -61,23 +60,16 @@ Response rate: 74.00%
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
-  * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
   * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
-* **microsoft/vscode-edge-devtools** - _78.00%_
-  * [Issue001](https://github.com/microsoft/vscode-edge-devtools/issues/2490)
-  * [REDEMPTION](https://github.com/microsoft/vscode-edge-devtools/issues/2489)
-  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2488)
-  * [bugging](https://github.com/microsoft/vscode-edge-devtools/issues/2487)
-  * [search](https://github.com/microsoft/vscode-edge-devtools/issues/2486)
-  * [heart](https://github.com/microsoft/vscode-edge-devtools/issues/2484)
-  * [WAD](https://github.com/microsoft/vscode-edge-devtools/issues/2483)
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [apc1](https://github.com/microsoft/vscode-edge-devtools/issues/2493)
+  * [C  Language Program](https://github.com/microsoft/vscode-edge-devtools/issues/2491)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
-  * [gemini working](https://github.com/microsoft/vscode-edge-devtools/issues/2481)
-  * [i can't run  any c programming ever after downloading compil...](https://github.com/microsoft/vscode-edge-devtools/issues/2480)
+  * [not open css](https://github.com/microsoft/vscode-edge-devtools/issues/2492)
   * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

@@ -3798,6 +3798,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7601,6 +7605,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11404,6 +11412,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15207,6 +15219,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19123,14 +19139,14 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "32.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
-        },
-        {
-          "title": "[Bug]: Cannot exclude bloat from Microsoft.Web.WebView2 package",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4860"
         },
         {
           "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
@@ -19237,10 +19253,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
         },
         {
-          "title": "[Problem/Bug]: Unable to launch application using a webview2 component in process running under a restricted token",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850"
-        },
-        {
           "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839"
         },
@@ -19261,7 +19273,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
         }
       ],
-      "rate": "32.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23063,53 +23075,33 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [
         {
-          "title": "Issue001",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2490"
+          "title": "apc1",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2493"
         },
         {
-          "title": "REDEMPTION",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2489"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2488"
-        },
-        {
-          "title": "bugging",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2487"
-        },
-        {
-          "title": "search",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2486"
-        },
-        {
-          "title": "heart",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2484"
-        },
-        {
-          "title": "WAD",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2483"
+          "title": "C  Language Program",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2491"
         },
         {
           "title": "Request for reopening incorrectly closed issue",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2482"
         },
         {
-          "title": "gemini working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2481"
-        },
-        {
-          "title": "i can't run  any c programming ever after downloading compiler",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2480"
+          "title": "not open css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2492"
         },
         {
           "title": "Use substituted config instead of raw",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "78.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26911,6 +26903,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28398,6 +28394,10 @@
     },
     {
       "date": "2024-10-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
