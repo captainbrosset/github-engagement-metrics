@@ -32,8 +32,8 @@ Response rate: 76.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _36.00%_
-  * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
+* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Problem]: Once a page failed to load, hitting f5 to reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4863)
   * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
@@ -64,11 +64,11 @@ Response rate: 76.00%
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
-  * [[Problem/Bug]: WebView2 displays a blank page when opening a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
   * [apc1](https://github.com/microsoft/vscode-edge-devtools/issues/2493)
   * [C  Language Program](https://github.com/microsoft/vscode-edge-devtools/issues/2491)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
+  * [file:///C:/Users/Lenovo/Downloads/2.html](https://github.com/microsoft/vscode-edge-devtools/issues/2494)
   * [not open css](https://github.com/microsoft/vscode-edge-devtools/issues/2492)
   * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
 * **microsoft/edge-devtools-network-console** - _38.00%_

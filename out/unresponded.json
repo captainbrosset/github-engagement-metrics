@@ -3802,6 +3802,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7609,6 +7613,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11416,6 +11424,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15223,6 +15235,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19143,10 +19159,14 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
+          "title": "[Problem]: Once a page failed to load, hitting f5 to reload page needs multiple tries to work",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4863"
         },
         {
           "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
@@ -19267,13 +19287,9 @@
         {
           "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 displays a blank page when opening a PDF file with parameter \"#zoom=300,400,500\"",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4788"
         }
       ],
-      "rate": "36.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23079,6 +23095,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [
         {
           "title": "apc1",
@@ -23093,6 +23113,10 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2482"
         },
         {
+          "title": "file:///C:/Users/Lenovo/Downloads/2.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2494"
+        },
+        {
           "title": "not open css",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2492"
         },
@@ -23101,7 +23125,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26907,6 +26931,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28398,6 +28426,10 @@
     },
     {
       "date": "2024-10-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
