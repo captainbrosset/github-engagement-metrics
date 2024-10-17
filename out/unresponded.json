@@ -3806,6 +3806,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7617,6 +7621,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11428,6 +11436,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15239,6 +15251,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19163,14 +19179,14 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [
         {
           "title": "[Problem]: Once a page failed to load, hitting f5 to reload page needs multiple tries to work",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4863"
-        },
-        {
-          "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859"
         },
         {
           "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
@@ -19269,8 +19285,20 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790"
         },
         {
+          "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
+        },
+        {
+          "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859"
+        },
+        {
           "title": "[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION while accessing window.chrome.webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
+        },
+        {
+          "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
         },
         {
           "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
@@ -19289,7 +19317,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         }
       ],
-      "rate": "38.00"
+      "rate": "34.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23099,7 +23127,23 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "88.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [
+        {
+          "title": "what the puk",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2497"
+        },
+        {
+          "title": "a",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2496"
+        },
+        {
+          "title": "PDF PROSSESOR",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2495"
+        },
         {
           "title": "apc1",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2493"
@@ -23125,7 +23169,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "88.00"
+      "rate": "82.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26935,6 +26979,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28430,6 +28478,10 @@
     },
     {
       "date": "2024-10-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

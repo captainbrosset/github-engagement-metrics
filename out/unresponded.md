@@ -1,4 +1,4 @@
-Response rate: 76.00%
+Response rate: 74.75%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,9 +32,8 @@ Response rate: 76.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+* **MicrosoftEdge/WebView2Feedback** - _34.00%_
   * [[Problem]: Once a page failed to load, hitting f5 to reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4863)
-  * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
@@ -59,12 +58,18 @@ Response rate: 76.00%
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: User interface is extremely slow, power usage...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792)
   * [[Problem/Bug]: Window.print doesn't work on fixed runtime un...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790)
+  * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
+  * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
+  * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
   * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
   * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
-* **microsoft/vscode-edge-devtools** - _88.00%_
+* **microsoft/vscode-edge-devtools** - _82.00%_
+  * [what the puk](https://github.com/microsoft/vscode-edge-devtools/issues/2497)
+  * [a](https://github.com/microsoft/vscode-edge-devtools/issues/2496)
+  * [PDF PROSSESOR](https://github.com/microsoft/vscode-edge-devtools/issues/2495)
   * [apc1](https://github.com/microsoft/vscode-edge-devtools/issues/2493)
   * [C  Language Program](https://github.com/microsoft/vscode-edge-devtools/issues/2491)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
