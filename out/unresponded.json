@@ -3810,6 +3810,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7625,6 +7629,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11440,6 +11448,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15255,6 +15267,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19183,10 +19199,14 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [
         {
-          "title": "[Problem]: Once a page failed to load, hitting f5 to reload page needs multiple tries to work",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4863"
+          "title": "[Problem/Bug]: ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4865"
         },
         {
           "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
@@ -19277,12 +19297,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799"
         },
         {
-          "title": "[Problem/Bug]: User interface is extremely slow, power usage VERY HIGH, cpu 100%",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4792"
-        },
-        {
-          "title": "[Problem/Bug]: Window.print doesn't work on fixed runtime unless ALL APPLICATION PACKAGES permissions set",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4790"
+          "title": "[Problem/Bug]: sessionStorage is being blocked",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864"
         },
         {
           "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
@@ -19317,7 +19333,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         }
       ],
-      "rate": "34.00"
+      "rate": "36.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23131,45 +23147,29 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "82.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [
         {
-          "title": "what the puk",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2497"
+          "title": "meron",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2501"
         },
         {
-          "title": "a",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2496"
-        },
-        {
-          "title": "PDF PROSSESOR",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2495"
-        },
-        {
-          "title": "apc1",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2493"
-        },
-        {
-          "title": "C  Language Program",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2491"
+          "title": "JavaScript not working and page not running",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2499"
         },
         {
           "title": "Request for reopening incorrectly closed issue",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2482"
         },
         {
-          "title": "file:///C:/Users/Lenovo/Downloads/2.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2494"
-        },
-        {
-          "title": "not open css",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2492"
-        },
-        {
           "title": "Use substituted config instead of raw",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "82.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -26983,6 +26983,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28482,6 +28486,10 @@
     },
     {
       "date": "2024-10-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
