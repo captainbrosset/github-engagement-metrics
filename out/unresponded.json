@@ -3814,6 +3814,10 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7633,6 +7637,10 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11452,8 +11460,17 @@
     },
     {
       "date": "2024-10-18",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-10-19",
+      "unRespondedItems": [
+        {
+          "title": "F12 IEChooser - Network collection agent failed to start",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/282"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15271,6 +15288,10 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19203,7 +19224,15 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "36.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: AOT publish not run right",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
+        },
         {
           "title": "[Problem/Bug]: ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4865"
@@ -19233,10 +19262,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
         },
         {
-          "title": "[Problem/Bug]: Request to WASM file is not resolved to virtual host sometimes",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838"
-        },
-        {
           "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836"
         },
@@ -19245,20 +19270,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831"
         },
         {
-          "title": "[Problem/Bug]: When AllowExternalDrop is set to false, the VueDraggable property of VUE cannot be used properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830"
-        },
-        {
           "title": "[Feature]: Support widevine DRM in webview2",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828"
         },
         {
           "title": "[Problem/Bug]: When using an SVG format image as a menu item icon, it does not appear to be displayed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827"
-        },
-        {
-          "title": "[Problem/Bug]: Screen details are incorrect and change unexpectedly in PerMonitorV2 DPI awareness mode",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826"
         },
         {
           "title": "[Problem/Bug]: When intercepting NewWindowRequested, outerHeight matches innerHeight and outerWidth matches innerWidth",
@@ -19305,10 +19322,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
         },
         {
-          "title": "[Problem/Bug]: Can drag-drop files anywhere on the page and open the file in a new window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859"
-        },
-        {
           "title": "[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION while accessing window.chrome.webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
         },
@@ -19317,23 +19330,19 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
         },
         {
+          "title": "[Problem/Bug]: Unable to launch application using a webview2 component in process running under a restricted token",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850"
+        },
+        {
           "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839"
         },
         {
           "title": "[Problem/Bug]: Block any clicks on the desktop",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
-        },
-        {
-          "title": "[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown and KeyUp",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802"
-        },
-        {
-          "title": "[Problem/Bug]: The excess projection.dll is copied to the output directory",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795"
         }
       ],
-      "rate": "36.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23151,10 +23160,14 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [
         {
-          "title": "meron",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2501"
+          "title": "blog",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2502"
         },
         {
           "title": "JavaScript not working and page not running",
@@ -26987,6 +27000,10 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28490,6 +28507,10 @@
     },
     {
       "date": "2024-10-18",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-19",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

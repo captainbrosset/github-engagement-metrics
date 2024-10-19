@@ -1,8 +1,9 @@
-Response rate: 76.25%
+Response rate: 77.00%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [F12 IEChooser - Network collection agent failed to start](https://github.com/MicrosoftEdge/DevTools/issues/282)
 * **MicrosoftEdge/EdgeWebDriver** - _44.00%_
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
   * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
@@ -32,7 +33,8 @@ Response rate: 76.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _36.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
   * [[Problem/Bug]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4865)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
@@ -40,13 +42,10 @@ Response rate: 76.25%
   * [BasicAuthenticationRequired event removes Content-Type heade...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853)
   * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
-  * [[Problem/Bug]: Request to WASM file is not resolved to virtu...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4838)
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
-  * [[Problem/Bug]: When AllowExternalDrop is set to false, the V...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4830)
   * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
-  * [[Problem/Bug]: Screen details are incorrect and change unexp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4826)
   * [[Problem/Bug]: When intercepting NewWindowRequested, outerHe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821)
   * [[Problem/Bug]: Web application frozen after closing containe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820)
   * [[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818)
@@ -58,15 +57,13 @@ Response rate: 76.25%
   * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
   * [[Problem/Bug]: sessionStorage is being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
-  * [[Problem/Bug]: Can drag-drop files anywhere on the page and ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4859)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
+  * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-  * [[Problem/Bug]: Shift and Enter key doesn't trigger KeyDown a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4802)
-  * [[Problem/Bug]: The excess projection.dll is copied to the ou...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4795)
 * **microsoft/vscode-edge-devtools** - _92.00%_
-  * [meron](https://github.com/microsoft/vscode-edge-devtools/issues/2501)
+  * [blog](https://github.com/microsoft/vscode-edge-devtools/issues/2502)
   * [JavaScript not working and page not running](https://github.com/microsoft/vscode-edge-devtools/issues/2499)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
   * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
