@@ -1,4 +1,4 @@
-Response rate: 77.00%
+Response rate: 76.50%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -62,10 +62,12 @@ Response rate: 77.00%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [my bestie](https://github.com/microsoft/vscode-edge-devtools/issues/2505)
   * [blog](https://github.com/microsoft/vscode-edge-devtools/issues/2502)
   * [JavaScript not working and page not running](https://github.com/microsoft/vscode-edge-devtools/issues/2499)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
+  * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2503)
   * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
