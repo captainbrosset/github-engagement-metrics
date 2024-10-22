@@ -3826,6 +3826,10 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7657,6 +7661,10 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11488,13 +11496,12 @@
     },
     {
       "date": "2024-10-21",
-      "unRespondedItems": [
-        {
-          "title": "F12 IEChooser - Network collection agent failed to start",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/282"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-10-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15324,6 +15331,10 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -15418,10 +15429,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162"
         },
         {
-          "title": "Stable version is wrongly reported as 129 when using https://msedgedriver.azureedge.net/LATEST_STABLE",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161"
-        },
-        {
           "title": "No latest stable release for Linux",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156"
         },
@@ -15438,7 +15445,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
-      "rate": "44.00"
+      "rate": "46.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -19268,14 +19275,18 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView2 Multiple Instances and userdatafolders",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4870"
+        },
         {
           "title": "[Problem/Bug]: AOT publish not run right",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
-        },
-        {
-          "title": "[Problem/Bug]: ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4865"
         },
         {
           "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
@@ -19350,8 +19361,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803"
         },
         {
-          "title": "[Problem/Bug]: WebResourceResponseReceived for a new window doesn't fire for initial navigation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799"
+          "title": "[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in WebView2, accessing phpMyAdmin causes a crash.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868"
         },
         {
           "title": "[Problem/Bug]: sessionStorage is being blocked",
@@ -23212,7 +23223,19 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [
+        {
+          "title": "Kun",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2511"
+        },
+        {
+          "title": "news",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2510"
+        },
         {
           "title": "wed maywed",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2509"
@@ -23242,6 +23265,10 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2482"
         },
         {
+          "title": "snack game",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2512"
+        },
+        {
           "title": "html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2507"
         },
@@ -23254,7 +23281,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "80.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27084,6 +27111,10 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28599,6 +28630,10 @@
     },
     {
       "date": "2024-10-21",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

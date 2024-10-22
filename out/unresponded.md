@@ -1,10 +1,9 @@
-Response rate: 75.50%
+Response rate: 75.25%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [F12 IEChooser - Network collection agent failed to start](https://github.com/MicrosoftEdge/DevTools/issues/282)
-* **MicrosoftEdge/EdgeWebDriver** - _44.00%_
+* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
   * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
   * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
@@ -28,14 +27,13 @@ Response rate: 75.50%
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Edge 128.0.2739.42 Timeout renderer](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/165)
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
-  * [Stable version is wrongly reported as 129 when using https:/...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/161)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: WebView2 Multiple Instances and userdatafolde...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4870)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
-  * [[Problem/Bug]: ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4865)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
@@ -54,7 +52,7 @@ Response rate: 75.50%
   * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
   * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
   * [[Problem/Bug]: Host object's methods can't be called in case...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4803)
-  * [[Problem/Bug]: WebResourceResponseReceived for a new window ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4799)
+  * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: sessionStorage is being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
@@ -62,7 +60,9 @@ Response rate: 75.50%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _74.00%_
+  * [Kun](https://github.com/microsoft/vscode-edge-devtools/issues/2511)
+  * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2510)
   * [wed maywed](https://github.com/microsoft/vscode-edge-devtools/issues/2509)
   * [Wed](https://github.com/microsoft/vscode-edge-devtools/issues/2508)
   * [Deg](https://github.com/microsoft/vscode-edge-devtools/issues/2506)
@@ -70,6 +70,7 @@ Response rate: 75.50%
   * [blog](https://github.com/microsoft/vscode-edge-devtools/issues/2502)
   * [JavaScript not working and page not running](https://github.com/microsoft/vscode-edge-devtools/issues/2499)
   * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
+  * [snack game](https://github.com/microsoft/vscode-edge-devtools/issues/2512)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2507)
   * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2503)
   * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
