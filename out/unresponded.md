@@ -1,4 +1,4 @@
-Response rate: 75.25%
+Response rate: 73.75%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -31,11 +31,12 @@ Response rate: 75.25%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
-  * [[Problem/Bug]: WebView2 Multiple Instances and userdatafolde...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4870)
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
+  * [[Problem/Bug]: For Microsoft Office 365, login to Google acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4873)
+  * [[Problem/Bug]: WebView2 closing a window is not calling wind...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4872)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
-  * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
   * [BasicAuthenticationRequired event removes Content-Type heade...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853)
   * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
@@ -56,11 +57,16 @@ Response rate: 75.25%
   * [[Problem/Bug]: sessionStorage is being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
+  * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _74.00%_
+* **microsoft/vscode-edge-devtools** - _66.00%_
+  * [web page 50](https://github.com/microsoft/vscode-edge-devtools/issues/2516)
+  * [Pressing "Shift" inactivating the tab, headless mode always ...](https://github.com/microsoft/vscode-edge-devtools/issues/2515)
+  * [web page](https://github.com/microsoft/vscode-edge-devtools/issues/2514)
+  * [web page](https://github.com/microsoft/vscode-edge-devtools/issues/2513)
   * [Kun](https://github.com/microsoft/vscode-edge-devtools/issues/2511)
   * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2510)
   * [wed maywed](https://github.com/microsoft/vscode-edge-devtools/issues/2509)

@@ -3830,6 +3830,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7665,6 +7669,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11500,6 +11508,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15335,6 +15347,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19279,10 +19295,22 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: WebView2 Multiple Instances and userdatafolders",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4870"
+          "title": "Download State Change",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874"
+        },
+        {
+          "title": "[Problem/Bug]: For Microsoft Office 365, login to Google account (with CAA) is successfull on web but fail on desktop app",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4873"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 closing a window is not calling window.onunload ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4872"
         },
         {
           "title": "[Problem/Bug]: AOT publish not run right",
@@ -19291,10 +19319,6 @@
         {
           "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856"
-        },
-        {
-          "title": "[Problem/Bug]: win32C++ Webview2  When loading webpage content, the screen will flash white",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855"
         },
         {
           "title": "[Feature]: Add WebResourceRequested and WebResourceResponseReceived events To Microsoft.MixedReality.WebView (Unity Package) ",
@@ -19377,6 +19401,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
         },
         {
+          "title": "[Problem/Bug]: win32C++ Webview2  When loading webpage content, the screen will flash white",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855"
+        },
+        {
           "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
         },
@@ -19393,7 +19421,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         }
       ],
-      "rate": "44.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23227,7 +23255,27 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [
+        {
+          "title": "web page 50",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2516"
+        },
+        {
+          "title": "Pressing \"Shift\" inactivating the tab, headless mode always activated",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2515"
+        },
+        {
+          "title": "web page",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2514"
+        },
+        {
+          "title": "web page",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2513"
+        },
         {
           "title": "Kun",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2511"
@@ -23281,7 +23329,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "74.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27115,6 +27163,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28634,6 +28686,10 @@
     },
     {
       "date": "2024-10-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
