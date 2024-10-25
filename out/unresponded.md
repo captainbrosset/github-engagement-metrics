@@ -1,4 +1,4 @@
-Response rate: 73.00%
+Response rate: 72.75%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -31,8 +31,8 @@ Response rate: 73.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _36.00%_
-  * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
+* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Problem/Bug]: For Microsoft Office 365, login to Google acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4873)
@@ -52,9 +52,8 @@ Response rate: 73.00%
   * [[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818)
   * [[Problem/Bug]: CoreWebView2Controller.Close() sometimes hang...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817)
   * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
-  * [[Problem/Bug]: How to show Desktop Acrylic backdrop in Conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4813)
-  * [[Problem/Bug]: KeyboardEvent repeat is false initially when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4810)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
+  * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: sessionStorage is being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
@@ -64,7 +63,9 @@ Response rate: 73.00%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _64.00%_
+* **microsoft/vscode-edge-devtools** - _60.00%_
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2519)
+  * [nn](https://github.com/microsoft/vscode-edge-devtools/issues/2518)
   * [report](https://github.com/microsoft/vscode-edge-devtools/issues/2517)
   * [web page 50](https://github.com/microsoft/vscode-edge-devtools/issues/2516)
   * [Pressing "Shift" inactivating the tab, headless mode always ...](https://github.com/microsoft/vscode-edge-devtools/issues/2515)
