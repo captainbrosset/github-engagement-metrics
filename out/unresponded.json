@@ -3842,6 +3842,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7689,6 +7693,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11536,6 +11544,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15383,6 +15395,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19339,7 +19355,15 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: load slowly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4887"
+        },
         {
           "title": "[Problem/Bug]: ~1% chance calling native-side code from web-side fails with Error: No parameters in result",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881"
@@ -19351,10 +19375,6 @@
         {
           "title": "Download State Change",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874"
-        },
-        {
-          "title": "[Problem/Bug]: For Microsoft Office 365, login to Google account (with CAA) is successfull on web but fail on desktop app",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4873"
         },
         {
           "title": "[Problem/Bug]: WebView2 closing a window is not calling window.onunload ",
@@ -23311,7 +23331,31 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [
+        {
+          "title": "7",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2525"
+        },
+        {
+          "title": "AMD64",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2524"
+        },
+        {
+          "title": "p",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2523"
+        },
+        {
+          "title": ".",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2522"
+        },
+        {
+          "title": "Custom indentation",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2521"
+        },
         {
           "title": "bug",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2519"
@@ -23393,7 +23437,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "60.00"
+      "rate": "50.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27239,6 +27283,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28770,6 +28818,10 @@
     },
     {
       "date": "2024-10-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

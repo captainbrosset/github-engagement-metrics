@@ -1,4 +1,4 @@
-Response rate: 72.75%
+Response rate: 71.50%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,10 +32,10 @@ Response rate: 72.75%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Problem/Bug]: load slowly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4887)
   * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
-  * [[Problem/Bug]: For Microsoft Office 365, login to Google acc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4873)
   * [[Problem/Bug]: WebView2 closing a window is not calling wind...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4872)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
@@ -63,7 +63,12 @@ Response rate: 72.75%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _60.00%_
+* **microsoft/vscode-edge-devtools** - _50.00%_
+  * [7](https://github.com/microsoft/vscode-edge-devtools/issues/2525)
+  * [AMD64](https://github.com/microsoft/vscode-edge-devtools/issues/2524)
+  * [p](https://github.com/microsoft/vscode-edge-devtools/issues/2523)
+  * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2522)
+  * [Custom indentation](https://github.com/microsoft/vscode-edge-devtools/issues/2521)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2519)
   * [nn](https://github.com/microsoft/vscode-edge-devtools/issues/2518)
   * [report](https://github.com/microsoft/vscode-edge-devtools/issues/2517)
