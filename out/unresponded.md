@@ -1,6 +1,7 @@
-Response rate: 71.50%
+Response rate: 70.25%
 
-* **webhintio/hint** - _100.00%_
+* **webhintio/hint** - _98.00%_
+  * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
@@ -32,6 +33,7 @@ Response rate: 71.50%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Feature]: IsDownloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
   * [[Problem/Bug]: load slowly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4887)
   * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
@@ -51,7 +53,6 @@ Response rate: 71.50%
   * [[Problem/Bug]: Web application frozen after closing containe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820)
   * [[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818)
   * [[Problem/Bug]: CoreWebView2Controller.Close() sometimes hang...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817)
-  * [Webview2 not able to upload stream more than 65MB stream in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4816)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
@@ -63,7 +64,11 @@ Response rate: 71.50%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _50.00%_
+* **microsoft/vscode-edge-devtools** - _42.00%_
+  * [Share code other developers](https://github.com/microsoft/vscode-edge-devtools/issues/2529)
+  * [Allah](https://github.com/microsoft/vscode-edge-devtools/issues/2528)
+  * [text](https://github.com/microsoft/vscode-edge-devtools/issues/2527)
+  * [output](https://github.com/microsoft/vscode-edge-devtools/issues/2526)
   * [7](https://github.com/microsoft/vscode-edge-devtools/issues/2525)
   * [AMD64](https://github.com/microsoft/vscode-edge-devtools/issues/2524)
   * [p](https://github.com/microsoft/vscode-edge-devtools/issues/2523)
