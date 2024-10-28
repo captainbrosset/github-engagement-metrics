@@ -3850,6 +3850,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7710,6 +7714,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11565,6 +11573,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15420,6 +15432,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19384,9 +19400,21 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [
         {
-          "title": "[Feature]: IsDownloading",
+          "title": "NavigationStarting and NavigationCompleted do not occur at certain sites.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892"
+        },
+        {
+          "title": "[pywebview] WebView2 initialization failed with exception",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891"
+        },
+        {
+          "title": "Downloading",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889"
         },
         {
@@ -19456,14 +19484,6 @@
         {
           "title": "[Problem/Bug]: Web application frozen after closing container form while setting up a new window",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820"
-        },
-        {
-          "title": "[Problem/Bug]: Dynamically updating HiddenPdfToolbarItems is unreliable",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4818"
-        },
-        {
-          "title": "[Problem/Bug]: CoreWebView2Controller.Close() sometimes hangs when disposing a windows forms webview2 browser control",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4817"
         },
         {
           "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
@@ -23364,7 +23384,19 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [
+        {
+          "title": "mr",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2532"
+        },
+        {
+          "title": "dd",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2531"
+        },
         {
           "title": "Share code other developers",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2529"
@@ -23482,7 +23514,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "42.00"
+      "rate": "38.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27336,6 +27368,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28875,6 +28911,10 @@
     },
     {
       "date": "2024-10-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
