@@ -1,4 +1,4 @@
-Response rate: 69.75%
+Response rate: 69.50%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
@@ -32,7 +32,9 @@ Response rate: 69.75%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _38.00%_
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
+  * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
   * [NavigationStarting and NavigationCompleted do not occur at c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892)
   * [[pywebview] WebView2 initialization failed with exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891)
   * [Downloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
@@ -51,20 +53,21 @@ Response rate: 69.75%
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
   * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
   * [[Problem/Bug]: When using an SVG format image as a menu item...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827)
-  * [[Problem/Bug]: When intercepting NewWindowRequested, outerHe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821)
-  * [[Problem/Bug]: Web application frozen after closing containe...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: sessionStorage is being blocked](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4864)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
-  * [[Problem/Bug]: win32C++ Webview2  When loading webpage conte...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855)
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _38.00%_
+* **microsoft/vscode-edge-devtools** - _34.00%_
+  * [Bug 2402](https://github.com/microsoft/vscode-edge-devtools/issues/2536)
+  * [https://github.com/aalborgi/Wallet-Stealer-tool/blob/main/wa...](https://github.com/microsoft/vscode-edge-devtools/issues/2535)
+  * [Wvu](https://github.com/microsoft/vscode-edge-devtools/issues/2534)
+  * [wwwwwwwwaaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2533)
   * [mr](https://github.com/microsoft/vscode-edge-devtools/issues/2532)
   * [dd](https://github.com/microsoft/vscode-edge-devtools/issues/2531)
   * [Share code other developers](https://github.com/microsoft/vscode-edge-devtools/issues/2529)
@@ -91,11 +94,9 @@ Response rate: 69.75%
   * [my bestie](https://github.com/microsoft/vscode-edge-devtools/issues/2505)
   * [blog](https://github.com/microsoft/vscode-edge-devtools/issues/2502)
   * [JavaScript not working and page not running](https://github.com/microsoft/vscode-edge-devtools/issues/2499)
-  * [Request for reopening incorrectly closed issue](https://github.com/microsoft/vscode-edge-devtools/issues/2482)
   * [snack game](https://github.com/microsoft/vscode-edge-devtools/issues/2512)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2507)
   * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2503)
-  * [Use substituted config instead of raw](https://github.com/microsoft/vscode-edge-devtools/pull/2485)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

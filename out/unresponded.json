@@ -3854,6 +3854,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7718,6 +7722,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11577,6 +11585,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15436,6 +15448,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19404,7 +19420,19 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Msal authentication Msal via a broker to webview2",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 does not support blocking main thread using javascript async/await",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
+        },
         {
           "title": "NavigationStarting and NavigationCompleted do not occur at certain sites.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892"
@@ -19478,14 +19506,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827"
         },
         {
-          "title": "[Problem/Bug]: When intercepting NewWindowRequested, outerHeight matches innerHeight and outerWidth matches innerWidth",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4821"
-        },
-        {
-          "title": "[Problem/Bug]: Web application frozen after closing container form while setting up a new window",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4820"
-        },
-        {
           "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879"
         },
@@ -19510,10 +19530,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
         },
         {
-          "title": "[Problem/Bug]: win32C++ Webview2  When loading webpage content, the screen will flash white",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4855"
-        },
-        {
           "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
         },
@@ -19530,7 +19546,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         }
       ],
-      "rate": "38.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23388,7 +23404,27 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [
+        {
+          "title": "Bug 2402",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2536"
+        },
+        {
+          "title": "https://github.com/aalborgi/Wallet-Stealer-tool/blob/main/wallets.cpp",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2535"
+        },
+        {
+          "title": "Wvu",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2534"
+        },
+        {
+          "title": "wwwwwwwwaaaaa",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2533"
+        },
         {
           "title": "mr",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2532"
@@ -23494,10 +23530,6 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2499"
         },
         {
-          "title": "Request for reopening incorrectly closed issue",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2482"
-        },
-        {
           "title": "snack game",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2512"
         },
@@ -23508,13 +23540,9 @@
         {
           "title": "HTML",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2503"
-        },
-        {
-          "title": "Use substituted config instead of raw",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2485"
         }
       ],
-      "rate": "38.00"
+      "rate": "34.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27372,6 +27400,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28915,6 +28947,10 @@
     },
     {
       "date": "2024-10-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
