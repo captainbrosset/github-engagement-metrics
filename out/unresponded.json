@@ -3858,6 +3858,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7726,6 +7730,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11589,8 +11597,17 @@
     },
     {
       "date": "2024-10-29",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-10-30",
+      "unRespondedItems": [
+        {
+          "title": "AI tool, keyboard and arrow away",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/285"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15452,6 +15469,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19424,6 +19445,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Msal authentication Msal via a broker to webview2",
@@ -19506,6 +19531,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4827"
         },
         {
+          "title": "[Problem/Bug]: Webview fails to initialize when uiaccess=\"true\" as of Windows 10 update KB5044273",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4880"
+        },
+        {
           "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879"
         },
@@ -19546,7 +19575,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         }
       ],
-      "rate": "40.00"
+      "rate": "38.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23408,7 +23437,15 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "34.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [
+        {
+          "title": "hello",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2537"
+        },
         {
           "title": "Bug 2402",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2536"
@@ -23542,7 +23579,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2503"
         }
       ],
-      "rate": "34.00"
+      "rate": "32.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27404,6 +27441,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -28951,6 +28992,10 @@
     },
     {
       "date": "2024-10-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-10-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
