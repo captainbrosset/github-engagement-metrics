@@ -1,4 +1,4 @@
-Response rate: 68.75%
+Response rate: 65.75%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
@@ -34,8 +34,8 @@ Response rate: 68.75%
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _38.00%_
+  * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
   * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
-  * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
   * [NavigationStarting and NavigationCompleted do not occur at c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892)
   * [[pywebview] WebView2 initialization failed with exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891)
   * [Downloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
@@ -65,7 +65,24 @@ Response rate: 68.75%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _32.00%_
+* **microsoft/vscode-edge-devtools** - _8.00%_
+  * [but](https://github.com/microsoft/vscode-edge-devtools/issues/2554)
+  * [Windows 11 Features](https://github.com/microsoft/vscode-edge-devtools/issues/2553)
+  * [Windows 11](https://github.com/microsoft/vscode-edge-devtools/issues/2552)
+  * [User](https://github.com/microsoft/vscode-edge-devtools/issues/2551)
+  * [Users](https://github.com/microsoft/vscode-edge-devtools/issues/2550)
+  * [Administrator](https://github.com/microsoft/vscode-edge-devtools/issues/2549)
+  * [GitHub](https://github.com/microsoft/vscode-edge-devtools/issues/2548)
+  * [piklu's PC](https://github.com/microsoft/vscode-edge-devtools/issues/2547)
+  * [My Bing](https://github.com/microsoft/vscode-edge-devtools/issues/2546)
+  * [Edge of the year](https://github.com/microsoft/vscode-edge-devtools/issues/2545)
+  * [4K HDR Desktop](https://github.com/microsoft/vscode-edge-devtools/issues/2544)
+  * [HomeComputer](https://github.com/microsoft/vscode-edge-devtools/issues/2543)
+  * [Macyoutuber](https://github.com/microsoft/vscode-edge-devtools/issues/2542)
+  * [Desktop](https://github.com/microsoft/vscode-edge-devtools/issues/2541)
+  * [Edge Browsing Feature added to my account](https://github.com/microsoft/vscode-edge-devtools/issues/2540)
+  * [Glossary](https://github.com/microsoft/vscode-edge-devtools/issues/2539)
+  * [Messean](https://github.com/microsoft/vscode-edge-devtools/issues/2538)
   * [hello](https://github.com/microsoft/vscode-edge-devtools/issues/2537)
   * [Bug 2402](https://github.com/microsoft/vscode-edge-devtools/issues/2536)
   * [https://github.com/aalborgi/Wallet-Stealer-tool/blob/main/wa...](https://github.com/microsoft/vscode-edge-devtools/issues/2535)
@@ -93,13 +110,8 @@ Response rate: 68.75%
   * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2510)
   * [wed maywed](https://github.com/microsoft/vscode-edge-devtools/issues/2509)
   * [Wed](https://github.com/microsoft/vscode-edge-devtools/issues/2508)
-  * [Deg](https://github.com/microsoft/vscode-edge-devtools/issues/2506)
-  * [my bestie](https://github.com/microsoft/vscode-edge-devtools/issues/2505)
-  * [blog](https://github.com/microsoft/vscode-edge-devtools/issues/2502)
-  * [JavaScript not working and page not running](https://github.com/microsoft/vscode-edge-devtools/issues/2499)
   * [snack game](https://github.com/microsoft/vscode-edge-devtools/issues/2512)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2507)
-  * [HTML](https://github.com/microsoft/vscode-edge-devtools/issues/2503)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
