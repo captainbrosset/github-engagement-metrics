@@ -1,4 +1,4 @@
-Response rate: 66.50%
+Response rate: 67.00%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
@@ -33,7 +33,7 @@ Response rate: 66.50%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
   * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
   * [[Problem/Bug]: Unity | HoloLens 2 - Application crashing at ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901)
   * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
   * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
@@ -43,7 +43,6 @@ Response rate: 66.50%
   * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
-  * [[Problem/Bug]: WebView2 closing a window is not calling wind...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4872)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
   * [[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856)
   * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
@@ -52,7 +51,7 @@ Response rate: 66.50%
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
-  * [[Feature]: Support widevine DRM in webview2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828)
+  * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
@@ -62,7 +61,9 @@ Response rate: 66.50%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
   * [[Problem/Bug]: Block any clicks on the desktop](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829)
-* **microsoft/vscode-edge-devtools** - _8.00%_
+* **microsoft/vscode-edge-devtools** - _10.00%_
+  * [bug again](https://github.com/microsoft/vscode-edge-devtools/issues/2560)
+  * [first project](https://github.com/microsoft/vscode-edge-devtools/issues/2559)
   * [Herbert](https://github.com/microsoft/vscode-edge-devtools/issues/2557)
   * [but](https://github.com/microsoft/vscode-edge-devtools/issues/2554)
   * [Windows 11 Features](https://github.com/microsoft/vscode-edge-devtools/issues/2553)
@@ -104,9 +105,6 @@ Response rate: 66.50%
   * [Pressing "Shift" inactivating the tab, headless mode always ...](https://github.com/microsoft/vscode-edge-devtools/issues/2515)
   * [web page](https://github.com/microsoft/vscode-edge-devtools/issues/2514)
   * [web page](https://github.com/microsoft/vscode-edge-devtools/issues/2513)
-  * [Kun](https://github.com/microsoft/vscode-edge-devtools/issues/2511)
-  * [news](https://github.com/microsoft/vscode-edge-devtools/issues/2510)
-  * [wed maywed](https://github.com/microsoft/vscode-edge-devtools/issues/2509)
   * [NOBI WEBSITE](https://github.com/microsoft/vscode-edge-devtools/issues/2558)
   * [snack game](https://github.com/microsoft/vscode-edge-devtools/issues/2512)
 * **microsoft/edge-devtools-network-console** - _38.00%_

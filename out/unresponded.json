@@ -3870,6 +3870,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7750,6 +7754,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11625,6 +11633,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
         {
           "title": "AI tool, keyboard and arrow away",
@@ -15505,6 +15517,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19489,6 +19505,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Unity | HoloLens 2 - Application crashing at start",
@@ -19527,10 +19547,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874"
         },
         {
-          "title": "[Problem/Bug]: WebView2 closing a window is not calling window.onunload ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4872"
-        },
-        {
           "title": "[Problem/Bug]: AOT publish not run right",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
         },
@@ -19563,8 +19579,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831"
         },
         {
-          "title": "[Feature]: Support widevine DRM in webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4828"
+          "title": "[Problem/Bug]: WebVIew Dependencies still not working correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902"
         },
         {
           "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
@@ -19603,7 +19619,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         }
       ],
-      "rate": "44.00"
+      "rate": "46.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23477,7 +23493,19 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "8.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
+        {
+          "title": "bug again",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2560"
+        },
+        {
+          "title": "first project",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2559"
+        },
         {
           "title": "Herbert",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2557"
@@ -23643,18 +23671,6 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2513"
         },
         {
-          "title": "Kun",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2511"
-        },
-        {
-          "title": "news",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2510"
-        },
-        {
-          "title": "wed maywed",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2509"
-        },
-        {
           "title": "NOBI WEBSITE",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2558"
         },
@@ -23663,7 +23679,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2512"
         }
       ],
-      "rate": "8.00"
+      "rate": "10.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27537,6 +27553,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29096,6 +29116,10 @@
     },
     {
       "date": "2024-11-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
