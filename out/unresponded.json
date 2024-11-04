@@ -3878,6 +3878,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7766,6 +7770,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11649,13 +11657,21 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
+        {
+          "title": "when I use \" export HAR\",sometimes the  downloaded file is empty( 0kb )",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/287"
+        },
         {
           "title": "AI tool, keyboard and arrow away",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/285"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15537,6 +15553,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19529,6 +19549,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Unity | HoloLens 2 - Application crashing at start",
@@ -23521,6 +23545,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "10.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
         {
           "title": "bug again",
@@ -27585,6 +27613,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29152,6 +29184,10 @@
     },
     {
       "date": "2024-11-03",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-04",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
