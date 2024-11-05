@@ -1,10 +1,9 @@
-Response rate: 66.75%
+Response rate: 67.00%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
-  * [when I use " export HAR",sometimes the  downloaded file is e...](https://github.com/MicrosoftEdge/DevTools/issues/287)
+* **MicrosoftEdge/DevTools** - _98.00%_
   * [AI tool, keyboard and arrow away](https://github.com/MicrosoftEdge/DevTools/issues/285)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
