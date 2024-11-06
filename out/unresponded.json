@@ -3886,6 +3886,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7782,6 +7786,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11673,6 +11681,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
         {
           "title": "AI tool, keyboard and arrow away",
@@ -15569,6 +15581,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
@@ -19569,7 +19585,15 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905"
+        },
         {
           "title": "[Problem/Bug]: Unity | HoloLens 2 - Application crashing at start",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901"
@@ -19611,10 +19635,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
         },
         {
-          "title": "[Problem/Bug]: UWP Sample + AddHostObjectToScript fails with Exception",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4856"
-        },
-        {
           "title": "[Feature]: Add WebResourceRequested and WebResourceResponseReceived events To Microsoft.MixedReality.WebView (Unity Package) ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854"
         },
@@ -19641,6 +19661,10 @@
         {
           "title": "[Problem/Bug]: WebVIew Dependencies still not working correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 does not support blocking main thread using javascript async/await",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
         },
         {
           "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
@@ -19673,10 +19697,6 @@
         {
           "title": "[Problem/Bug]: When using the Win11 desktop store version, the Webview2 Render process crashes",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839"
-        },
-        {
-          "title": "[Problem/Bug]: Block any clicks on the desktop",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4829"
         }
       ],
       "rate": "46.00"
@@ -23569,7 +23589,39 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "10.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
+        {
+          "title": "003",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2569"
+        },
+        {
+          "title": "03",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2568"
+        },
+        {
+          "title": "03",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2567"
+        },
+        {
+          "title": "newMO",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2566"
+        },
+        {
+          "title": "newMO",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2565"
+        },
+        {
+          "title": "report debug medge",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2564"
+        },
+        {
+          "title": "Rename index.html to Aindex.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2563"
+        },
         {
           "title": "bug again",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2560"
@@ -23715,43 +23767,11 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2521"
         },
         {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2519"
-        },
-        {
-          "title": "nn",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2518"
-        },
-        {
-          "title": "report",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2517"
-        },
-        {
-          "title": "web page 50",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2516"
-        },
-        {
-          "title": "Pressing \"Shift\" inactivating the tab, headless mode always activated",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2515"
-        },
-        {
-          "title": "web page",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2514"
-        },
-        {
-          "title": "web page",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2513"
-        },
-        {
           "title": "NOBI WEBSITE",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2558"
-        },
-        {
-          "title": "snack game",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2512"
         }
       ],
-      "rate": "10.00"
+      "rate": "12.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27641,6 +27661,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29216,6 +29240,10 @@
     },
     {
       "date": "2024-11-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
