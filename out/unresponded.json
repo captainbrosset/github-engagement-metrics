@@ -3890,6 +3890,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7790,6 +7794,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11685,6 +11693,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
         {
           "title": "AI tool, keyboard and arrow away",
@@ -15585,7 +15597,15 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
+        {
+          "title": "How can I obtain lower version drivers, such as 91.0.864.41",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174"
+        },
         {
           "title": "msedgedrive.exe is calling csrss.exe somehow and this process cannot be close affecting tests that run after",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172"
@@ -15689,10 +15709,6 @@
         {
           "title": "Edge 119.0.2151.44 disable DevTools logging",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
-        },
-        {
-          "title": "[🐛 Bug]: Something wrong when i switch browser tabs with Edge in IE-mode on windows 10.",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123"
         }
       ],
       "rate": "46.00"
@@ -19589,6 +19605,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
@@ -23593,7 +23613,15 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "12.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
+        {
+          "title": "003",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2570"
+        },
         {
           "title": "003",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2569"
@@ -23767,11 +23795,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2521"
         },
         {
+          "title": "Outdated error message",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
+        },
+        {
           "title": "NOBI WEBSITE",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2558"
         }
       ],
-      "rate": "12.00"
+      "rate": "8.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27665,6 +27697,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29244,6 +29280,10 @@
     },
     {
       "date": "2024-11-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

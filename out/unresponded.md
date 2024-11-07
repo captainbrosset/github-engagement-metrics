@@ -1,4 +1,4 @@
-Response rate: 67.25%
+Response rate: 66.75%
 
 * **webhintio/hint** - _98.00%_
   * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
@@ -6,6 +6,7 @@ Response rate: 67.25%
 * **MicrosoftEdge/DevTools** - _98.00%_
   * [AI tool, keyboard and arrow away](https://github.com/MicrosoftEdge/DevTools/issues/285)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
+  * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
   * [Whitch Tolerance regarding the Version of the Webdriver to t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/171)
   * [Regression suite automation tool - MSEdgeDriver - OpenQA.Sel...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/170)
@@ -32,7 +33,6 @@ Response rate: 67.25%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
-  * [[🐛 Bug]: Something wrong when i switch browser tabs with Ed...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/123)
 * **MicrosoftEdge/WebView2Feedback** - _46.00%_
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: Unity | HoloLens 2 - Application crashing at ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901)
@@ -61,7 +61,8 @@ Response rate: 67.25%
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
-* **microsoft/vscode-edge-devtools** - _12.00%_
+* **microsoft/vscode-edge-devtools** - _8.00%_
+  * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2570)
   * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2569)
   * [03](https://github.com/microsoft/vscode-edge-devtools/issues/2568)
   * [03](https://github.com/microsoft/vscode-edge-devtools/issues/2567)
@@ -105,6 +106,7 @@ Response rate: 67.25%
   * [p](https://github.com/microsoft/vscode-edge-devtools/issues/2523)
   * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2522)
   * [Custom indentation](https://github.com/microsoft/vscode-edge-devtools/issues/2521)
+  * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
   * [NOBI WEBSITE](https://github.com/microsoft/vscode-edge-devtools/issues/2558)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
