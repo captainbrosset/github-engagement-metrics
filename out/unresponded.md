@@ -50,7 +50,7 @@ Response rate: 66.75%
   * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
   * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
-  * [[Problem/Bug]: System.Globalization.CultureNotFoundException...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831)
+  * [[Problem/Bug]: new winui3 black app can not drag file from e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4908)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
@@ -62,6 +62,8 @@ Response rate: 66.75%
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
 * **microsoft/vscode-edge-devtools** - _8.00%_
+  * [c++](https://github.com/microsoft/vscode-edge-devtools/issues/2573)
+  * [JASURBEK](https://github.com/microsoft/vscode-edge-devtools/issues/2572)
   * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2570)
   * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2569)
   * [03](https://github.com/microsoft/vscode-edge-devtools/issues/2568)
@@ -104,8 +106,6 @@ Response rate: 66.75%
   * [7](https://github.com/microsoft/vscode-edge-devtools/issues/2525)
   * [AMD64](https://github.com/microsoft/vscode-edge-devtools/issues/2524)
   * [p](https://github.com/microsoft/vscode-edge-devtools/issues/2523)
-  * [.](https://github.com/microsoft/vscode-edge-devtools/issues/2522)
-  * [Custom indentation](https://github.com/microsoft/vscode-edge-devtools/issues/2521)
   * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
   * [NOBI WEBSITE](https://github.com/microsoft/vscode-edge-devtools/issues/2558)
 * **microsoft/edge-devtools-network-console** - _38.00%_

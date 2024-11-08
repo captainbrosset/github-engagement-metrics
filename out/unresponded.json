@@ -3894,6 +3894,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
         {
           "title": "[Bug] extension-vscode: Node and npm not found",
@@ -7798,6 +7802,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11697,6 +11705,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
         {
           "title": "AI tool, keyboard and arrow away",
@@ -15601,6 +15613,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
         {
           "title": "How can I obtain lower version drivers, such as 91.0.864.41",
@@ -19609,6 +19625,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
@@ -19675,8 +19695,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836"
         },
         {
-          "title": "[Problem/Bug]: System.Globalization.CultureNotFoundException when InvariantGlobalization true in .csproj",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4831"
+          "title": "[Problem/Bug]: new winui3 black app can not drag file from explorer to webview2 ,please fix this bug.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4908"
         },
         {
           "title": "[Problem/Bug]: WebVIew Dependencies still not working correctly",
@@ -23617,7 +23637,19 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "8.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
+        {
+          "title": "c++",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2573"
+        },
+        {
+          "title": "JASURBEK",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2572"
+        },
         {
           "title": "003",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2570"
@@ -23785,14 +23817,6 @@
         {
           "title": "p",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2523"
-        },
-        {
-          "title": ".",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2522"
-        },
-        {
-          "title": "Custom indentation",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2521"
         },
         {
           "title": "Outdated error message",
@@ -27701,6 +27725,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29284,6 +29312,10 @@
     },
     {
       "date": "2024-11-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
