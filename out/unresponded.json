@@ -3898,13 +3898,12 @@
     },
     {
       "date": "2024-11-08",
-      "unRespondedItems": [
-        {
-          "title": "[Bug] extension-vscode: Node and npm not found",
-          "url": "https://github.com/webhintio/hint/issues/5954"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-11-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -7806,6 +7805,10 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11709,13 +11712,21 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [
+        {
+          "title": "Custom Indentation",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/289"
+        },
         {
           "title": "AI tool, keyboard and arrow away",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/285"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15617,6 +15628,10 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [
         {
           "title": "How can I obtain lower version drivers, such as 91.0.864.41",
@@ -19629,7 +19644,15 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.webview.hostObjects",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910"
+        },
         {
           "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905"
@@ -19739,7 +19762,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839"
         }
       ],
-      "rate": "46.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23641,193 +23664,12 @@
     },
     {
       "date": "2024-11-08",
-      "unRespondedItems": [
-        {
-          "title": "c++",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2573"
-        },
-        {
-          "title": "JASURBEK",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2572"
-        },
-        {
-          "title": "003",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2570"
-        },
-        {
-          "title": "003",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2569"
-        },
-        {
-          "title": "03",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2568"
-        },
-        {
-          "title": "03",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2567"
-        },
-        {
-          "title": "newMO",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2566"
-        },
-        {
-          "title": "newMO",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2565"
-        },
-        {
-          "title": "report debug medge",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2564"
-        },
-        {
-          "title": "Rename index.html to Aindex.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2563"
-        },
-        {
-          "title": "bug again",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2560"
-        },
-        {
-          "title": "first project",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2559"
-        },
-        {
-          "title": "Herbert",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2557"
-        },
-        {
-          "title": "but",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2554"
-        },
-        {
-          "title": "Windows 11 Features",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2553"
-        },
-        {
-          "title": "Windows 11",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2552"
-        },
-        {
-          "title": "User",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2551"
-        },
-        {
-          "title": "Users",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2550"
-        },
-        {
-          "title": "Administrator",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2549"
-        },
-        {
-          "title": "GitHub",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2548"
-        },
-        {
-          "title": "piklu's PC",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2547"
-        },
-        {
-          "title": "My Bing",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2546"
-        },
-        {
-          "title": "Edge of the year",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2545"
-        },
-        {
-          "title": "4K HDR Desktop",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2544"
-        },
-        {
-          "title": "HomeComputer",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2543"
-        },
-        {
-          "title": "Macyoutuber",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2542"
-        },
-        {
-          "title": "Desktop",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2541"
-        },
-        {
-          "title": "Edge Browsing Feature added to my account",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2540"
-        },
-        {
-          "title": "Glossary",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2539"
-        },
-        {
-          "title": "Messean",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2538"
-        },
-        {
-          "title": "hello",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2537"
-        },
-        {
-          "title": "Bug 2402",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2536"
-        },
-        {
-          "title": "https://github.com/aalborgi/Wallet-Stealer-tool/blob/main/wallets.cpp",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2535"
-        },
-        {
-          "title": "Wvu",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2534"
-        },
-        {
-          "title": "wwwwwwwwaaaaa",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2533"
-        },
-        {
-          "title": "mr",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2532"
-        },
-        {
-          "title": "dd",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2531"
-        },
-        {
-          "title": "Share code other developers",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2529"
-        },
-        {
-          "title": "Allah",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2528"
-        },
-        {
-          "title": "text",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2527"
-        },
-        {
-          "title": "output",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2526"
-        },
-        {
-          "title": "7",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2525"
-        },
-        {
-          "title": "AMD64",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2524"
-        },
-        {
-          "title": "p",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2523"
-        },
-        {
-          "title": "Outdated error message",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
-        },
-        {
-          "title": "NOBI WEBSITE",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2558"
-        }
-      ],
       "rate": "8.00"
+    },
+    {
+      "date": "2024-11-09",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27729,6 +27571,10 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29316,6 +29162,10 @@
     },
     {
       "date": "2024-11-08",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

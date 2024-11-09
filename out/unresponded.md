@@ -1,9 +1,9 @@
-Response rate: 66.75%
+Response rate: 78.00%
 
-* **webhintio/hint** - _98.00%_
-  * [[Bug] extension-vscode: Node and npm not found](https://github.com/webhintio/hint/issues/5954)
+* **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [Custom Indentation](https://github.com/MicrosoftEdge/DevTools/issues/289)
   * [AI tool, keyboard and arrow away](https://github.com/MicrosoftEdge/DevTools/issues/285)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
@@ -33,7 +33,8 @@ Response rate: 66.75%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: Unity | HoloLens 2 - Application crashing at ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901)
   * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
@@ -61,53 +62,7 @@ Response rate: 66.75%
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
-* **microsoft/vscode-edge-devtools** - _8.00%_
-  * [c++](https://github.com/microsoft/vscode-edge-devtools/issues/2573)
-  * [JASURBEK](https://github.com/microsoft/vscode-edge-devtools/issues/2572)
-  * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2570)
-  * [003](https://github.com/microsoft/vscode-edge-devtools/issues/2569)
-  * [03](https://github.com/microsoft/vscode-edge-devtools/issues/2568)
-  * [03](https://github.com/microsoft/vscode-edge-devtools/issues/2567)
-  * [newMO](https://github.com/microsoft/vscode-edge-devtools/issues/2566)
-  * [newMO](https://github.com/microsoft/vscode-edge-devtools/issues/2565)
-  * [report debug medge](https://github.com/microsoft/vscode-edge-devtools/issues/2564)
-  * [Rename index.html to Aindex.html](https://github.com/microsoft/vscode-edge-devtools/pull/2563)
-  * [bug again](https://github.com/microsoft/vscode-edge-devtools/issues/2560)
-  * [first project](https://github.com/microsoft/vscode-edge-devtools/issues/2559)
-  * [Herbert](https://github.com/microsoft/vscode-edge-devtools/issues/2557)
-  * [but](https://github.com/microsoft/vscode-edge-devtools/issues/2554)
-  * [Windows 11 Features](https://github.com/microsoft/vscode-edge-devtools/issues/2553)
-  * [Windows 11](https://github.com/microsoft/vscode-edge-devtools/issues/2552)
-  * [User](https://github.com/microsoft/vscode-edge-devtools/issues/2551)
-  * [Users](https://github.com/microsoft/vscode-edge-devtools/issues/2550)
-  * [Administrator](https://github.com/microsoft/vscode-edge-devtools/issues/2549)
-  * [GitHub](https://github.com/microsoft/vscode-edge-devtools/issues/2548)
-  * [piklu's PC](https://github.com/microsoft/vscode-edge-devtools/issues/2547)
-  * [My Bing](https://github.com/microsoft/vscode-edge-devtools/issues/2546)
-  * [Edge of the year](https://github.com/microsoft/vscode-edge-devtools/issues/2545)
-  * [4K HDR Desktop](https://github.com/microsoft/vscode-edge-devtools/issues/2544)
-  * [HomeComputer](https://github.com/microsoft/vscode-edge-devtools/issues/2543)
-  * [Macyoutuber](https://github.com/microsoft/vscode-edge-devtools/issues/2542)
-  * [Desktop](https://github.com/microsoft/vscode-edge-devtools/issues/2541)
-  * [Edge Browsing Feature added to my account](https://github.com/microsoft/vscode-edge-devtools/issues/2540)
-  * [Glossary](https://github.com/microsoft/vscode-edge-devtools/issues/2539)
-  * [Messean](https://github.com/microsoft/vscode-edge-devtools/issues/2538)
-  * [hello](https://github.com/microsoft/vscode-edge-devtools/issues/2537)
-  * [Bug 2402](https://github.com/microsoft/vscode-edge-devtools/issues/2536)
-  * [https://github.com/aalborgi/Wallet-Stealer-tool/blob/main/wa...](https://github.com/microsoft/vscode-edge-devtools/issues/2535)
-  * [Wvu](https://github.com/microsoft/vscode-edge-devtools/issues/2534)
-  * [wwwwwwwwaaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2533)
-  * [mr](https://github.com/microsoft/vscode-edge-devtools/issues/2532)
-  * [dd](https://github.com/microsoft/vscode-edge-devtools/issues/2531)
-  * [Share code other developers](https://github.com/microsoft/vscode-edge-devtools/issues/2529)
-  * [Allah](https://github.com/microsoft/vscode-edge-devtools/issues/2528)
-  * [text](https://github.com/microsoft/vscode-edge-devtools/issues/2527)
-  * [output](https://github.com/microsoft/vscode-edge-devtools/issues/2526)
-  * [7](https://github.com/microsoft/vscode-edge-devtools/issues/2525)
-  * [AMD64](https://github.com/microsoft/vscode-edge-devtools/issues/2524)
-  * [p](https://github.com/microsoft/vscode-edge-devtools/issues/2523)
-  * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
-  * [NOBI WEBSITE](https://github.com/microsoft/vscode-edge-devtools/issues/2558)
+* **microsoft/vscode-edge-devtools** - _100.00%_
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
