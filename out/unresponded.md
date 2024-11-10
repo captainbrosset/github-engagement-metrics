@@ -1,8 +1,9 @@
-Response rate: 78.00%
+Response rate: 77.25%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * [Some extensions don't work when resuming from background in ...](https://github.com/MicrosoftEdge/DevTools/issues/290)
   * [Custom Indentation](https://github.com/MicrosoftEdge/DevTools/issues/289)
   * [AI tool, keyboard and arrow away](https://github.com/MicrosoftEdge/DevTools/issues/285)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
@@ -33,7 +34,9 @@ Response rate: 78.00%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
+  * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: Unity | HoloLens 2 - Application crashing at ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901)
