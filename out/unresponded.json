@@ -3906,6 +3906,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7817,6 +7821,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11728,6 +11736,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [
         {
           "title": "Some extensions don't work when resuming from background in Edge for Android",
@@ -15652,6 +15664,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [
         {
           "title": "How can I obtain lower version drivers, such as 91.0.864.41",
@@ -19672,6 +19688,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Pointer Lock APIs not working in UWP",
@@ -23704,8 +23724,33 @@
     },
     {
       "date": "2024-11-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-11-11",
+      "unRespondedItems": [
+        {
+          "title": "Micrsoft Edge does not work after I tried chrome this one time.",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2580"
+        },
+        {
+          "title": "ahmed",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2579"
+        },
+        {
+          "title": "proleacarta",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2578"
+        },
+        {
+          "title": "cartaaaa",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2577"
+        },
+        {
+          "title": "carta2.0",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2576"
+        }
+      ],
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27615,6 +27660,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29210,6 +29259,10 @@
     },
     {
       "date": "2024-11-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

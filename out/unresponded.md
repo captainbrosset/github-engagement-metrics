@@ -1,4 +1,4 @@
-Response rate: 77.25%
+Response rate: 76.00%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -65,7 +65,12 @@ Response rate: 77.25%
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
-* **microsoft/vscode-edge-devtools** - _100.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Micrsoft Edge does not work after I tried chrome this one ti...](https://github.com/microsoft/vscode-edge-devtools/issues/2580)
+  * [ahmed](https://github.com/microsoft/vscode-edge-devtools/issues/2579)
+  * [proleacarta](https://github.com/microsoft/vscode-edge-devtools/issues/2578)
+  * [cartaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2577)
+  * [carta2.0](https://github.com/microsoft/vscode-edge-devtools/issues/2576)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
