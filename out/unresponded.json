@@ -3910,6 +3910,10 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7825,6 +7829,10 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11740,21 +11748,17 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [
         {
-          "title": "Some extensions don't work when resuming from background in Edge for Android",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/290"
-        },
-        {
-          "title": "Custom Indentation",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/289"
-        },
-        {
-          "title": "AI tool, keyboard and arrow away",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/285"
+          "title": "How to access devtools theme CSS from an extension panel?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/292"
         }
       ],
-      "rate": "94.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15668,6 +15672,10 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [
         {
           "title": "How can I obtain lower version drivers, such as 91.0.864.41",
@@ -19692,7 +19700,15 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: FavIcon returned by GetFaviconAsync always blurry",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4915"
+        },
         {
           "title": "[Problem/Bug]: Pointer Lock APIs not working in UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
@@ -19764,10 +19780,6 @@
         {
           "title": "[Feature]: Add option to change spellchecking method",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
-        },
-        {
-          "title": "[Problem/Bug]: Refresh context menu item name inconsistent",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836"
         },
         {
           "title": "[Problem/Bug]: new winui3 black app can not drag file from explorer to webview2 ,please fix this bug.",
@@ -23728,7 +23740,15 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "90.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [
+        {
+          "title": "amirai",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2581"
+        },
         {
           "title": "Micrsoft Edge does not work after I tried chrome this one time.",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2580"
@@ -23748,9 +23768,13 @@
         {
           "title": "carta2.0",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2576"
+        },
+        {
+          "title": "Outdated error message",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "90.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27664,6 +27688,10 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29263,6 +29291,10 @@
     },
     {
       "date": "2024-11-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -2,10 +2,8 @@ Response rate: 76.00%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.00%_
-  * [Some extensions don't work when resuming from background in ...](https://github.com/MicrosoftEdge/DevTools/issues/290)
-  * [Custom Indentation](https://github.com/MicrosoftEdge/DevTools/issues/289)
-  * [AI tool, keyboard and arrow away](https://github.com/MicrosoftEdge/DevTools/issues/285)
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [How to access devtools theme CSS from an extension panel?](https://github.com/MicrosoftEdge/DevTools/issues/292)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
@@ -35,6 +33,7 @@ Response rate: 76.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
 * **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [[Problem/Bug]: FavIcon returned by GetFaviconAsync always bl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4915)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
@@ -53,7 +52,6 @@ Response rate: 76.00%
   * [BasicAuthenticationRequired event removes Content-Type heade...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853)
   * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
   * [[Feature]: Add option to change spellchecking method](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840)
-  * [[Problem/Bug]: Refresh context menu item name inconsistent](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4836)
   * [[Problem/Bug]: new winui3 black app can not drag file from e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4908)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
@@ -65,12 +63,14 @@ Response rate: 76.00%
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
   * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [amirai](https://github.com/microsoft/vscode-edge-devtools/issues/2581)
   * [Micrsoft Edge does not work after I tried chrome this one ti...](https://github.com/microsoft/vscode-edge-devtools/issues/2580)
   * [ahmed](https://github.com/microsoft/vscode-edge-devtools/issues/2579)
   * [proleacarta](https://github.com/microsoft/vscode-edge-devtools/issues/2578)
   * [cartaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2577)
   * [carta2.0](https://github.com/microsoft/vscode-edge-devtools/issues/2576)
+  * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)
