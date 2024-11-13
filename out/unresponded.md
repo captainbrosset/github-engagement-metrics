@@ -33,7 +33,8 @@ Response rate: 76.00%
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [Edge 119.0.2151.44 disable DevTools logging](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124)
 * **MicrosoftEdge/WebView2Feedback** - _40.00%_
-  * [[Problem/Bug]: FavIcon returned by GetFaviconAsync always bl...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4915)
+  * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
+  * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
@@ -62,7 +63,6 @@ Response rate: 76.00%
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
   * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
   * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
-  * [[Problem/Bug]: When using the Win11 desktop store version, t...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4839)
 * **microsoft/vscode-edge-devtools** - _86.00%_
   * [amirai](https://github.com/microsoft/vscode-edge-devtools/issues/2581)
   * [Micrsoft Edge does not work after I tried chrome this one ti...](https://github.com/microsoft/vscode-edge-devtools/issues/2580)
