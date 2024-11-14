@@ -3918,6 +3918,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7841,6 +7845,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11764,6 +11772,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [
         {
           "title": "How to access devtools theme CSS from an extension panel?",
@@ -15692,7 +15704,15 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [
+        {
+          "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175"
+        },
         {
           "title": "How can I obtain lower version drivers, such as 91.0.864.41",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174"
@@ -15796,10 +15816,6 @@
         {
           "title": "Launching msedge.exe with --no-sandbox command line switch",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
-        },
-        {
-          "title": "Edge 119.0.2151.44 disable DevTools logging",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/124"
         }
       ],
       "rate": "46.00"
@@ -19724,6 +19740,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Profiles vs PreferredColorScheme",
@@ -19802,8 +19822,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851"
         },
         {
-          "title": "[Feature]: Add option to change spellchecking method",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4840"
+          "title": "[Problem/Bug]: Directly loading the Zoom web app within a WebView2 control might not work for audio and video, thx",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4921"
         },
         {
           "title": "[Problem/Bug]: new winui3 black app can not drag file from explorer to webview2 ,please fix this bug.",
@@ -23768,7 +23788,15 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "86.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [
+        {
+          "title": "123",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2582"
+        },
         {
           "title": "amirai",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2581"
@@ -23798,7 +23826,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "86.00"
+      "rate": "84.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27720,6 +27748,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29327,6 +29359,10 @@
     },
     {
       "date": "2024-11-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
