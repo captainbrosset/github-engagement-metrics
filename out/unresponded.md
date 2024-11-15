@@ -32,7 +32,10 @@ Response rate: 75.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
+  * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
+  * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
@@ -49,10 +52,7 @@ Response rate: 75.75%
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
-  * [[Feature]: Add WebResourceRequested and WebResourceResponseR...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854)
-  * [BasicAuthenticationRequired event removes Content-Type heade...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853)
-  * [[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendComp...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851)
-  * [[Problem/Bug]: Directly loading the Zoom web app within a We...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4921)
+  * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: new winui3 black app can not drag file from e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4908)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
@@ -61,9 +61,8 @@ Response rate: 75.75%
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
-  * [[Problem/Bug]: SharedWorker stops to work after page reload ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852)
-  * [[Problem/Bug]: Unable to launch application using a webview2...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850)
-* **microsoft/vscode-edge-devtools** - _84.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [Devtool](https://github.com/microsoft/vscode-edge-devtools/issues/2585)
   * [123](https://github.com/microsoft/vscode-edge-devtools/issues/2582)
   * [amirai](https://github.com/microsoft/vscode-edge-devtools/issues/2581)
   * [Micrsoft Edge does not work after I tried chrome this one ti...](https://github.com/microsoft/vscode-edge-devtools/issues/2580)
@@ -71,6 +70,7 @@ Response rate: 75.75%
   * [proleacarta](https://github.com/microsoft/vscode-edge-devtools/issues/2578)
   * [cartaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2577)
   * [carta2.0](https://github.com/microsoft/vscode-edge-devtools/issues/2576)
+  * [output is not coming](https://github.com/microsoft/vscode-edge-devtools/issues/2584)
   * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)

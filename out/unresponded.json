@@ -3922,6 +3922,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7849,6 +7853,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11776,6 +11784,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [
         {
           "title": "How to access devtools theme CSS from an extension panel?",
@@ -15708,6 +15720,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19744,7 +19760,23 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: variable being redeclared when a preload script loads in an iframe in google.com",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929"
+        },
+        {
+          "title": "[Problem/Bug]: WebResourceResponseReceived not fired for requests done in webworkers",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926"
+        },
+        {
+          "title": "[Problem/Bug]: \"WebView2\" does not exist in namespace \"clr-namespace:Microsoft.Web.WebView2.Wpf; ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925"
+        },
         {
           "title": "[Problem/Bug]: Profiles vs PreferredColorScheme",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920"
@@ -19810,20 +19842,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
         },
         {
-          "title": "[Feature]: Add WebResourceRequested and WebResourceResponseReceived events To Microsoft.MixedReality.WebView (Unity Package) ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4854"
-        },
-        {
-          "title": "BasicAuthenticationRequired event removes Content-Type header from Request.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4853"
-        },
-        {
-          "title": "[Problem/Bug]: CustomScheme after TrySuspend, TrySuspendCompleted can't trigger",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4851"
-        },
-        {
-          "title": "[Problem/Bug]: Directly loading the Zoom web app within a WebView2 control might not work for audio and video, thx",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4921"
+          "title": "[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build files do not work in some MsBuild scenarios",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923"
         },
         {
           "title": "[Problem/Bug]: new winui3 black app can not drag file from explorer to webview2 ,please fix this bug.",
@@ -19856,17 +19876,9 @@
         {
           "title": "[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION while accessing window.chrome.webview",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858"
-        },
-        {
-          "title": "[Problem/Bug]: SharedWorker stops to work after page reload until DevTools attached",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4852"
-        },
-        {
-          "title": "[Problem/Bug]: Unable to launch application using a webview2 component in process running under a restricted token",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4850"
         }
       ],
-      "rate": "40.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23792,7 +23804,15 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "84.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [
+        {
+          "title": "Devtool",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2585"
+        },
         {
           "title": "123",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2582"
@@ -23822,11 +23842,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2576"
         },
         {
+          "title": "output is not coming",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2584"
+        },
+        {
           "title": "Outdated error message",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "84.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27752,6 +27776,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29363,6 +29391,10 @@
     },
     {
       "date": "2024-11-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
