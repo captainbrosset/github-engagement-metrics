@@ -32,14 +32,11 @@ Response rate: 75.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
-  * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
+* **MicrosoftEdge/WebView2Feedback** - _46.00%_
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
-  * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
-  * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: Unity | HoloLens 2 - Application crashing at ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901)
@@ -52,8 +49,10 @@ Response rate: 75.75%
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
+  * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
+  * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
+  * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-  * [[Problem/Bug]: new winui3 black app can not drag file from e...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4908)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
@@ -61,7 +60,8 @@ Response rate: 75.75%
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _78.00%_
+  * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
   * [Devtool](https://github.com/microsoft/vscode-edge-devtools/issues/2585)
   * [123](https://github.com/microsoft/vscode-edge-devtools/issues/2582)
   * [amirai](https://github.com/microsoft/vscode-edge-devtools/issues/2581)
