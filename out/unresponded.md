@@ -1,4 +1,4 @@
-Response rate: 75.75%
+Response rate: 74.73%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -60,7 +60,10 @@ Response rate: 75.75%
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
   * [[Problem/Bug]: Getting the error STATUS_ACCESS_VIOLATION whi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4858)
-* **microsoft/vscode-edge-devtools** - _78.00%_
+* **microsoft/vscode-edge-devtools** - _72.00%_
+  * [012](https://github.com/microsoft/vscode-edge-devtools/issues/2589)
+  * [0011](https://github.com/microsoft/vscode-edge-devtools/issues/2588)
+  * [012](https://github.com/microsoft/vscode-edge-devtools/issues/2587)
   * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
   * [Devtool](https://github.com/microsoft/vscode-edge-devtools/issues/2585)
   * [123](https://github.com/microsoft/vscode-edge-devtools/issues/2582)
@@ -104,4 +107,5 @@ Response rate: 75.75%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [Rewrite "Create a DevTools extension, adding a custom tool t...](https://github.com/MicrosoftDocs/edge-developer/pull/3304)

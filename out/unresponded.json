@@ -3930,6 +3930,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7865,6 +7869,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11800,6 +11808,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [
         {
           "title": "How to access devtools theme CSS from an extension panel?",
@@ -15740,6 +15752,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19784,6 +19800,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: WebResourceResponseReceived not fired for requests done in webworkers",
@@ -23828,7 +23848,23 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [
+        {
+          "title": "012",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2589"
+        },
+        {
+          "title": "0011",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2588"
+        },
+        {
+          "title": "012",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2587"
+        },
         {
           "title": "File upload option is not avilable",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2586"
@@ -23874,7 +23910,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "78.00"
+      "rate": "72.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27808,8 +27844,17 @@
     },
     {
       "date": "2024-11-16",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-11-17",
+      "unRespondedItems": [
+        {
+          "title": "Rewrite \"Create a DevTools extension, adding a custom tool tab and panel\"",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/pull/3304"
+        }
+      ],
+      "rate": "97.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29427,6 +29472,10 @@
     },
     {
       "date": "2024-11-16",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-17",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
