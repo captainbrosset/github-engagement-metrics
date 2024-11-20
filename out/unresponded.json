@@ -3942,6 +3942,10 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7889,6 +7893,10 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11836,6 +11844,10 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
         {
           "title": "How to access devtools theme CSS from an extension panel?",
@@ -15788,6 +15800,10 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19844,7 +19860,15 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Black Screen on video with DRM using keysystem Hardware or recommendation.3000",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935"
+        },
         {
           "title": "[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x80020008)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934"
@@ -19914,14 +19938,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
         },
         {
-          "title": "[Problem/Bug]: PDFの表示が崩れてしまう",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4933"
-        },
-        {
-          "title": "[Problem/Bug]: Webview 131.0.2903.48 control panel entry mysteriousely disappeared",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4931"
-        },
-        {
           "title": "[Feature]: Get the transparency of the web page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930"
         },
@@ -19966,7 +19982,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
         }
       ],
-      "rate": "40.00"
+      "rate": "42.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23912,7 +23928,19 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
+        {
+          "title": "Urbaneatscafe.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2593"
+        },
+        {
+          "title": "UrbanEatsGen-zurbaneatscafe.com",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2592"
+        },
         {
           "title": "AI DEVOLPER",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2591"
@@ -23974,7 +24002,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27920,10 +27948,14 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "97.83"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
         {
-          "title": "Unable to Access the WebDriver Download Page",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3308"
+          "title": "stupid is as stupid does",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3309"
         }
       ],
       "rate": "97.83"
@@ -29556,6 +29588,10 @@
     },
     {
       "date": "2024-11-19",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 73.73%
+Response rate: 73.48%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,7 +32,8 @@ Response rate: 73.73%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [[Problem/Bug]: Black Screen on video with DRM using keysyste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
@@ -50,8 +51,6 @@ Response rate: 73.73%
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
-  * [[Problem/Bug]: PDFの表示が崩れてしまう](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4933)
-  * [[Problem/Bug]: Webview 131.0.2903.48 control panel entry mys...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4931)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
@@ -63,7 +62,9 @@ Response rate: 73.73%
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
   * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
-* **microsoft/vscode-edge-devtools** - _70.00%_
+* **microsoft/vscode-edge-devtools** - _66.00%_
+  * [Urbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2593)
+  * [UrbanEatsGen-zurbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2592)
   * [AI DEVOLPER](https://github.com/microsoft/vscode-edge-devtools/issues/2591)
   * [012](https://github.com/microsoft/vscode-edge-devtools/issues/2589)
   * [0011](https://github.com/microsoft/vscode-edge-devtools/issues/2588)
@@ -112,4 +113,4 @@ Response rate: 73.73%
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
 * **MicrosoftDocs/edge-developer** - _97.83%_
-  * [Unable to Access the WebDriver Download Page](https://github.com/MicrosoftDocs/edge-developer/issues/3308)
+  * [stupid is as stupid does](https://github.com/MicrosoftDocs/edge-developer/issues/3309)
