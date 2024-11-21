@@ -3946,6 +3946,10 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7897,6 +7901,10 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11848,13 +11856,12 @@
     },
     {
       "date": "2024-11-20",
-      "unRespondedItems": [
-        {
-          "title": "How to access devtools theme CSS from an extension panel?",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/292"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2024-11-21",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15804,6 +15811,10 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19864,10 +19875,14 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Black Screen on video with DRM using keysystem Hardware or recommendation.3000",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935"
+          "title": "[Problem/Bug]: WebView2CompositionControl Not Displayed Correctly with Multiple TabItems",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4941"
         },
         {
           "title": "[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x80020008)",
@@ -19976,13 +19991,9 @@
         {
           "title": "[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in WebView2, accessing phpMyAdmin causes a crash.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868"
-        },
-        {
-          "title": "[Problem/Bug]: Copy/paste functions not working with touchscreen",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861"
         }
       ],
-      "rate": "42.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23932,7 +23943,19 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [
+        {
+          "title": "dianshang",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2595"
+        },
+        {
+          "title": "functions",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2594"
+        },
         {
           "title": "Urbaneatscafe.com",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2593"
@@ -24002,7 +24025,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27952,13 +27975,17 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "97.83"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [
         {
           "title": "stupid is as stupid does",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3309"
         }
       ],
-      "rate": "97.83"
+      "rate": "97.87"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29592,6 +29619,10 @@
     },
     {
       "date": "2024-11-20",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-21",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -2,8 +2,7 @@ Response rate: 73.48%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [How to access devtools theme CSS from an extension panel?](https://github.com/MicrosoftEdge/DevTools/issues/292)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
@@ -32,8 +31,8 @@ Response rate: 73.48%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
-  * [[Problem/Bug]: Black Screen on video with DRM using keysyste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935)
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: WebView2CompositionControl Not Displayed Corr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4941)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
@@ -61,8 +60,9 @@ Response rate: 73.48%
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
-  * [[Problem/Bug]: Copy/paste functions not working with touchsc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4861)
-* **microsoft/vscode-edge-devtools** - _66.00%_
+* **microsoft/vscode-edge-devtools** - _62.00%_
+  * [dianshang](https://github.com/microsoft/vscode-edge-devtools/issues/2595)
+  * [functions](https://github.com/microsoft/vscode-edge-devtools/issues/2594)
   * [Urbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2593)
   * [UrbanEatsGen-zurbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2592)
   * [AI DEVOLPER](https://github.com/microsoft/vscode-edge-devtools/issues/2591)
@@ -112,5 +112,5 @@ Response rate: 73.48%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.83%_
+* **MicrosoftDocs/edge-developer** - _97.87%_
   * [stupid is as stupid does](https://github.com/MicrosoftDocs/edge-developer/issues/3309)
