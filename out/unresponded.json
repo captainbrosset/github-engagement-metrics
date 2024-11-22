@@ -3950,6 +3950,10 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7905,6 +7909,10 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11860,6 +11868,10 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15815,6 +15827,10 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19879,7 +19895,15 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: have a way to set focus/blur state of the WebView2 without HWND c++",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
+        },
         {
           "title": "[Problem/Bug]: WebView2CompositionControl Not Displayed Correctly with Multiple TabItems",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4941"
@@ -19911,10 +19935,6 @@
         {
           "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905"
-        },
-        {
-          "title": "[Problem/Bug]: Unity | HoloLens 2 - Application crashing at start",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4901"
         },
         {
           "title": "[Problem/Bug]: The online video will hang(the picture freezing but the sound is playing) when switch the application between the edge and Vantage or copilot",
@@ -19951,6 +19971,10 @@
         {
           "title": "[Problem/Bug]: AOT publish not run right",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
+        },
+        {
+          "title": "[Problem/Bug]: Black Screen on video with DRM using keysystem Hardware or recommendation.3000",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935"
         },
         {
           "title": "[Feature]: Get the transparency of the web page",
@@ -19993,7 +20017,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868"
         }
       ],
-      "rate": "44.00"
+      "rate": "42.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23947,7 +23971,19 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [
+        {
+          "title": "Hello",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2597"
+        },
+        {
+          "title": "rainbowbeast5",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2596"
+        },
         {
           "title": "dianshang",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2595"
@@ -24025,7 +24061,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -27979,13 +28015,12 @@
     },
     {
       "date": "2024-11-21",
-      "unRespondedItems": [
-        {
-          "title": "stupid is as stupid does",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3309"
-        }
-      ],
       "rate": "97.87"
+    },
+    {
+      "date": "2024-11-22",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29623,6 +29658,10 @@
     },
     {
       "date": "2024-11-21",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
