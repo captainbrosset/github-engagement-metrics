@@ -3954,6 +3954,10 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7913,6 +7917,10 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11872,6 +11880,10 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15831,6 +15843,10 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19899,14 +19915,14 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [
         {
           "title": "[Feature]: have a way to set focus/blur state of the WebView2 without HWND c++",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2CompositionControl Not Displayed Correctly with Multiple TabItems",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4941"
         },
         {
           "title": "[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x80020008)",
@@ -19927,10 +19943,6 @@
         {
           "title": "[Problem/Bug]: Pointer Lock APIs not working in UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
-        },
-        {
-          "title": "[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.webview.hostObjects",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910"
         },
         {
           "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
@@ -19973,10 +19985,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866"
         },
         {
-          "title": "[Problem/Bug]: Black Screen on video with DRM using keysystem Hardware or recommendation.3000",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935"
-        },
-        {
           "title": "[Feature]: Get the transparency of the web page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930"
         },
@@ -20017,7 +20025,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868"
         }
       ],
-      "rate": "42.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -23975,7 +23983,19 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [
+        {
+          "title": "Bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2599"
+        },
+        {
+          "title": "nothing",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2598"
+        },
         {
           "title": "Hello",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2597"
@@ -24061,7 +24081,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "58.00"
+      "rate": "54.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28019,8 +28039,17 @@
     },
     {
       "date": "2024-11-22",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-11-23",
+      "unRespondedItems": [
+        {
+          "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3316"
+        }
+      ],
+      "rate": "97.92"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29662,6 +29691,10 @@
     },
     {
       "date": "2024-11-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

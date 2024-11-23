@@ -1,4 +1,4 @@
-Response rate: 73.00%
+Response rate: 72.99%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -31,15 +31,13 @@ Response rate: 73.00%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
-  * [[Problem/Bug]: WebView2CompositionControl Not Displayed Corr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4941)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
-  * [[Problem/Bug]: AddHostObjectToScript doesn't add to chrome.w...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4910)
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
   * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
@@ -50,7 +48,6 @@ Response rate: 73.00%
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Problem/Bug]: AOT publish not run right](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4866)
-  * [[Problem/Bug]: Black Screen on video with DRM using keysyste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
@@ -61,7 +58,9 @@ Response rate: 73.00%
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
-* **microsoft/vscode-edge-devtools** - _58.00%_
+* **microsoft/vscode-edge-devtools** - _54.00%_
+  * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/2599)
+  * [nothing](https://github.com/microsoft/vscode-edge-devtools/issues/2598)
   * [Hello](https://github.com/microsoft/vscode-edge-devtools/issues/2597)
   * [rainbowbeast5](https://github.com/microsoft/vscode-edge-devtools/issues/2596)
   * [dianshang](https://github.com/microsoft/vscode-edge-devtools/issues/2595)
@@ -115,4 +114,5 @@ Response rate: 73.00%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.92%_
+  * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)
