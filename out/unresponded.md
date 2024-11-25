@@ -1,4 +1,4 @@
-Response rate: 72.49%
+Response rate: 71.99%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -59,7 +59,8 @@ Response rate: 72.49%
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
-* **microsoft/vscode-edge-devtools** - _52.00%_
+* **microsoft/vscode-edge-devtools** - _48.00%_
+  * [reveal finder](https://github.com/microsoft/vscode-edge-devtools/issues/2601)
   * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
   * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/2599)
   * [nothing](https://github.com/microsoft/vscode-edge-devtools/issues/2598)
@@ -82,6 +83,7 @@ Response rate: 72.49%
   * [proleacarta](https://github.com/microsoft/vscode-edge-devtools/issues/2578)
   * [cartaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2577)
   * [carta2.0](https://github.com/microsoft/vscode-edge-devtools/issues/2576)
+  * [dd](https://github.com/microsoft/vscode-edge-devtools/issues/2602)
   * [output is not coming](https://github.com/microsoft/vscode-edge-devtools/issues/2584)
   * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
 * **microsoft/edge-devtools-network-console** - _38.00%_

@@ -3962,6 +3962,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7929,6 +7933,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11896,6 +11904,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15863,6 +15875,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19939,6 +19955,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [
         {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
@@ -24015,7 +24035,15 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [
+        {
+          "title": "reveal finder",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2601"
+        },
         {
           "title": "测",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2600"
@@ -24105,6 +24133,10 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2576"
         },
         {
+          "title": "dd",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2602"
+        },
+        {
           "title": "output is not coming",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2584"
         },
@@ -24113,7 +24145,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "52.00"
+      "rate": "48.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28079,6 +28111,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "97.92"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
@@ -29735,6 +29771,10 @@
     },
     {
       "date": "2024-11-24",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-25",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
