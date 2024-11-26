@@ -1,4 +1,4 @@
-Response rate: 71.99%
+Response rate: 71.74%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,7 +32,7 @@ Response rate: 71.99%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _46.00%_
-  * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
+  * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
@@ -48,7 +48,7 @@ Response rate: 71.99%
   * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
   * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
-  * [[Problem/Bug]: Black Screen on video with DRM using keysyste...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4935)
+  * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
@@ -59,7 +59,8 @@ Response rate: 71.99%
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
   * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
-* **microsoft/vscode-edge-devtools** - _48.00%_
+* **microsoft/vscode-edge-devtools** - _46.00%_
+  * [wows](https://github.com/microsoft/vscode-edge-devtools/issues/2603)
   * [reveal finder](https://github.com/microsoft/vscode-edge-devtools/issues/2601)
   * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
   * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/2599)
