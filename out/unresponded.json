@@ -3970,6 +3970,10 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7945,6 +7949,10 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11920,6 +11928,10 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -15895,6 +15907,10 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19979,7 +19995,19 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [
+        {
+          "title": "WebView2 Initialization Error in WinPE x64",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
+        },
+        {
+          "title": "[Feature]: Devtools open event should be there such that opening of new window can be prevented ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948"
+        },
         {
           "title": "[Problem/Bug]: Xbox runtime error",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946"
@@ -20057,10 +20085,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929"
         },
         {
-          "title": "[Problem/Bug]: \"WebView2\" does not exist in namespace \"clr-namespace:Microsoft.Web.WebView2.Wpf; ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925"
-        },
-        {
           "title": "[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build files do not work in some MsBuild scenarios",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923"
         },
@@ -20083,10 +20107,6 @@
         {
           "title": "[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878"
-        },
-        {
-          "title": "[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in WebView2, accessing phpMyAdmin causes a crash.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868"
         }
       ],
       "rate": "46.00"
@@ -24063,7 +24083,19 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [
+        {
+          "title": "My application",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2605"
+        },
+        {
+          "title": "vscode-funtional",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2604"
+        },
         {
           "title": "wows",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2603"
@@ -24173,7 +24205,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "46.00"
+      "rate": "42.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28147,13 +28179,17 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "97.92"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3316"
         }
       ],
-      "rate": "97.92"
+      "rate": "97.73"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29811,6 +29847,10 @@
     },
     {
       "date": "2024-11-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 71.74%
+Response rate: 71.22%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,6 +32,8 @@ Response rate: 71.74%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _46.00%_
+  * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
+  * [[Feature]: Devtools open event should be there such that ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948)
   * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
@@ -51,15 +53,15 @@ Response rate: 71.74%
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
-  * [[Problem/Bug]: "WebView2" does not exist in namespace "clr-n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4925)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
   * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
   * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
-  * [[Problem/Bug]: After enabling IsPasswordAutosaveEnabled in W...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4868)
-* **microsoft/vscode-edge-devtools** - _46.00%_
+* **microsoft/vscode-edge-devtools** - _42.00%_
+  * [My application](https://github.com/microsoft/vscode-edge-devtools/issues/2605)
+  * [vscode-funtional](https://github.com/microsoft/vscode-edge-devtools/issues/2604)
   * [wows](https://github.com/microsoft/vscode-edge-devtools/issues/2603)
   * [reveal finder](https://github.com/microsoft/vscode-edge-devtools/issues/2601)
   * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
@@ -119,5 +121,5 @@ Response rate: 71.74%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.92%_
+* **MicrosoftDocs/edge-developer** - _97.73%_
   * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)
