@@ -3974,6 +3974,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7953,6 +7957,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11932,8 +11940,17 @@
     },
     {
       "date": "2024-11-28",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-11-29",
+      "unRespondedItems": [
+        {
+          "title": "DarkMode default; Light mode default on webview2",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/297"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15911,6 +15928,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -19999,7 +20020,15 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
+        },
         {
           "title": "WebView2 Initialization Error in WinPE x64",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
@@ -20109,7 +20138,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878"
         }
       ],
-      "rate": "46.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24087,6 +24116,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [
         {
           "title": "My application",
@@ -28183,6 +28216,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "97.73"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
@@ -29851,6 +29888,10 @@
     },
     {
       "date": "2024-11-28",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-29",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

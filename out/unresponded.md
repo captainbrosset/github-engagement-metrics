@@ -1,8 +1,9 @@
-Response rate: 71.22%
+Response rate: 70.72%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [DarkMode default; Light mode default on webview2](https://github.com/MicrosoftEdge/DevTools/issues/297)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
@@ -31,7 +32,8 @@ Response rate: 71.22%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _46.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: Devtools open event should be there such that ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948)
   * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
