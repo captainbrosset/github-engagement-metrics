@@ -3978,6 +3978,10 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7961,6 +7965,10 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11944,13 +11952,25 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
+        {
+          "title": "Where did horizontal scrollbar go?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/299"
+        },
+        {
+          "title": "The Console Filter textbox does not expand",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/298"
+        },
         {
           "title": "DarkMode default; Light mode default on webview2",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/297"
         }
       ],
-      "rate": "98.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15932,6 +15952,10 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -20024,7 +20048,31 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Found conflicts between different versions of \"WindowsBase\" that could not be resolved",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959"
+        },
+        {
+          "title": "[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().getSupportedDisplayModes() throws error in JS",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958"
+        },
+        {
+          "title": "Playing videos still prevents the system from entering sleep mode or activating the screensaver",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957"
+        },
+        {
+          "title": "[Problem/Bug]: Runtime",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
+        },
+        {
+          "title": "[Problem/Bug]: Touching to select text will display a mini menu and is not interactive",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954"
+        },
         {
           "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
@@ -20094,14 +20142,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881"
         },
         {
-          "title": "Download Window - New Window Requested",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875"
-        },
-        {
-          "title": "Download State Change",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874"
-        },
-        {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         },
@@ -20128,17 +20168,9 @@
         {
           "title": "[Problem/Bug]: WebView2 does not support blocking main thread using javascript async/await",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
-        },
-        {
-          "title": "[Problem/Bug]: visibilitychange doesn't fire when parent window is minimized or covered",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878"
         }
       ],
-      "rate": "44.00"
+      "rate": "42.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24120,14 +24152,22 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
+        {
+          "title": "ABDUL ISLAM",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2609"
+        },
+        {
+          "title": "❤✔",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2608"
+        },
         {
           "title": "My application",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2605"
-        },
-        {
-          "title": "vscode-funtional",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2604"
         },
         {
           "title": "wows",
@@ -24238,7 +24278,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28220,6 +28260,10 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "97.73"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
         {
           "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
@@ -29892,6 +29936,10 @@
     },
     {
       "date": "2024-11-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-11-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

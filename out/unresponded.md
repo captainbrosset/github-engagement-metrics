@@ -1,8 +1,10 @@
-Response rate: 70.72%
+Response rate: 69.72%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * [Where did horizontal scrollbar go?](https://github.com/MicrosoftEdge/DevTools/issues/299)
+  * [The Console Filter textbox does not expand](https://github.com/MicrosoftEdge/DevTools/issues/298)
   * [DarkMode default; Light mode default on webview2](https://github.com/MicrosoftEdge/DevTools/issues/297)
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
@@ -32,7 +34,12 @@ Response rate: 70.72%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+  * [[Problem/Bug]: Found conflicts between different versions of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959)
+  * [[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958)
+  * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
+  * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
+  * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: Devtools open event should be there such that ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948)
@@ -50,8 +57,6 @@ Response rate: 70.72%
   * [[pywebview] WebView2 initialization failed with exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891)
   * [Downloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
   * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
-  * [Download Window - New Window Requested](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4875)
-  * [Download State Change](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4874)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
@@ -59,11 +64,10 @@ Response rate: 70.72%
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-  * [[Problem/Bug]: visibilitychange doesn't fire when parent win...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4879)
-  * [[Problem/Bug]: WebView2 Latest Stable Release WInUi3 ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4878)
-* **microsoft/vscode-edge-devtools** - _42.00%_
+* **microsoft/vscode-edge-devtools** - _40.00%_
+  * [ABDUL ISLAM](https://github.com/microsoft/vscode-edge-devtools/issues/2609)
+  * [❤✔](https://github.com/microsoft/vscode-edge-devtools/issues/2608)
   * [My application](https://github.com/microsoft/vscode-edge-devtools/issues/2605)
-  * [vscode-funtional](https://github.com/microsoft/vscode-edge-devtools/issues/2604)
   * [wows](https://github.com/microsoft/vscode-edge-devtools/issues/2603)
   * [reveal finder](https://github.com/microsoft/vscode-edge-devtools/issues/2601)
   * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
