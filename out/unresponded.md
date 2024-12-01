@@ -1,4 +1,4 @@
-Response rate: 69.72%
+Response rate: 69.68%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -64,7 +64,7 @@ Response rate: 69.72%
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-* **microsoft/vscode-edge-devtools** - _40.00%_
+* **microsoft/vscode-edge-devtools** - _42.00%_
   * [ABDUL ISLAM](https://github.com/microsoft/vscode-edge-devtools/issues/2609)
   * [❤✔](https://github.com/microsoft/vscode-edge-devtools/issues/2608)
   * [My application](https://github.com/microsoft/vscode-edge-devtools/issues/2605)
@@ -73,7 +73,6 @@ Response rate: 69.72%
   * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
   * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/2599)
   * [nothing](https://github.com/microsoft/vscode-edge-devtools/issues/2598)
-  * [Hello](https://github.com/microsoft/vscode-edge-devtools/issues/2597)
   * [rainbowbeast5](https://github.com/microsoft/vscode-edge-devtools/issues/2596)
   * [dianshang](https://github.com/microsoft/vscode-edge-devtools/issues/2595)
   * [functions](https://github.com/microsoft/vscode-edge-devtools/issues/2594)
@@ -127,5 +126,6 @@ Response rate: 69.72%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.73%_
+* **MicrosoftDocs/edge-developer** - _95.45%_
+  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3325)
   * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)
