@@ -3986,6 +3986,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7977,6 +7981,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11968,6 +11976,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
         {
           "title": "Where did horizontal scrollbar go?",
@@ -15972,6 +15984,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -20072,7 +20088,15 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock Prompts",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960"
+        },
         {
           "title": "[Problem/Bug]: Found conflicts between different versions of \"WindowsBase\" that could not be resolved",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959"
@@ -20190,7 +20214,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24180,7 +24204,15 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
+        {
+          "title": "Error loading webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2611"
+        },
         {
           "title": "ABDUL ISLAM",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2609"
@@ -24298,7 +24330,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28288,6 +28320,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "95.45"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
         {
           "title": "Outdated Edge version references found",
@@ -29972,6 +30008,10 @@
     },
     {
       "date": "2024-12-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

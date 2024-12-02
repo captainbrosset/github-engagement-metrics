@@ -1,4 +1,4 @@
-Response rate: 69.68%
+Response rate: 69.18%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -34,7 +34,8 @@ Response rate: 69.68%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _42.00%_
+* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+  * [[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960)
   * [[Problem/Bug]: Found conflicts between different versions of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959)
   * [[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958)
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
@@ -64,7 +65,8 @@ Response rate: 69.68%
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-* **microsoft/vscode-edge-devtools** - _42.00%_
+* **microsoft/vscode-edge-devtools** - _40.00%_
+  * [Error loading webview: Error: Could not register service wor...](https://github.com/microsoft/vscode-edge-devtools/issues/2611)
   * [ABDUL ISLAM](https://github.com/microsoft/vscode-edge-devtools/issues/2609)
   * [❤✔](https://github.com/microsoft/vscode-edge-devtools/issues/2608)
   * [My application](https://github.com/microsoft/vscode-edge-devtools/issues/2605)
