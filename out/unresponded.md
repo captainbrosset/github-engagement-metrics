@@ -1,11 +1,8 @@
-Response rate: 69.18%
+Response rate: 69.94%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.00%_
-  * [Where did horizontal scrollbar go?](https://github.com/MicrosoftEdge/DevTools/issues/299)
-  * [The Console Filter textbox does not expand](https://github.com/MicrosoftEdge/DevTools/issues/298)
-  * [DarkMode default; Light mode default on webview2](https://github.com/MicrosoftEdge/DevTools/issues/297)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
@@ -34,16 +31,15 @@ Response rate: 69.18%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _40.00%_
+* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
   * [[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960)
   * [[Problem/Bug]: Found conflicts between different versions of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959)
   * [[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958)
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
-  * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
-  * [[Feature]: Devtools open event should be there such that ope...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948)
   * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
@@ -57,7 +53,6 @@ Response rate: 69.18%
   * [NavigationStarting and NavigationCompleted do not occur at c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892)
   * [[pywebview] WebView2 initialization failed with exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891)
   * [Downloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
-  * [[Problem/Bug]: ~1% chance calling native-side code from web-...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
@@ -65,7 +60,9 @@ Response rate: 69.18%
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-* **microsoft/vscode-edge-devtools** - _40.00%_
+* **microsoft/vscode-edge-devtools** - _36.00%_
+  * [oops Pranjal](https://github.com/microsoft/vscode-edge-devtools/issues/2613)
+  * [creative](https://github.com/microsoft/vscode-edge-devtools/issues/2612)
   * [Error loading webview: Error: Could not register service wor...](https://github.com/microsoft/vscode-edge-devtools/issues/2611)
   * [ABDUL ISLAM](https://github.com/microsoft/vscode-edge-devtools/issues/2609)
   * [❤✔](https://github.com/microsoft/vscode-edge-devtools/issues/2608)
@@ -128,6 +125,6 @@ Response rate: 69.18%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.45%_
+* **MicrosoftDocs/edge-developer** - _95.56%_
   * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3325)
   * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)

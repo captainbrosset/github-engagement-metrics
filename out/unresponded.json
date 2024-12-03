@@ -3990,6 +3990,10 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -7985,6 +7989,10 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -11980,21 +11988,12 @@
     },
     {
       "date": "2024-12-02",
-      "unRespondedItems": [
-        {
-          "title": "Where did horizontal scrollbar go?",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/299"
-        },
-        {
-          "title": "The Console Filter textbox does not expand",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/298"
-        },
-        {
-          "title": "DarkMode default; Light mode default on webview2",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/297"
-        }
-      ],
       "rate": "94.00"
+    },
+    {
+      "date": "2024-12-03",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -15988,6 +15987,10 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -20092,7 +20095,15 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server Environment, while WebView.PrintToPdfStreamAsync() works",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961"
+        },
         {
           "title": "[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock Prompts",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960"
@@ -20118,16 +20129,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954"
         },
         {
-          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
-        },
-        {
           "title": "WebView2 Initialization Error in WinPE x64",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
-        },
-        {
-          "title": "[Feature]: Devtools open event should be there such that opening of new window can be prevented ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4948"
         },
         {
           "title": "[Problem/Bug]: Xbox runtime error",
@@ -20182,10 +20185,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889"
         },
         {
-          "title": "[Problem/Bug]: ~1% chance calling native-side code from web-side fails with Error: No parameters in result",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4881"
-        },
-        {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         },
@@ -20214,7 +20213,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
         }
       ],
-      "rate": "40.00"
+      "rate": "44.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24208,7 +24207,19 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [
+        {
+          "title": "oops Pranjal",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2613"
+        },
+        {
+          "title": "creative",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2612"
+        },
         {
           "title": "Error loading webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2611"
@@ -24330,7 +24341,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "40.00"
+      "rate": "36.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28324,6 +28335,10 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "95.45"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [
         {
           "title": "Outdated Edge version references found",
@@ -28334,7 +28349,7 @@
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3316"
         }
       ],
-      "rate": "95.45"
+      "rate": "95.56"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -30012,6 +30027,10 @@
     },
     {
       "date": "2024-12-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
