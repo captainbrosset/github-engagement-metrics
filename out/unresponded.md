@@ -1,4 +1,4 @@
-Response rate: 69.94%
+Response rate: 77.72%
 
 * **webhintio/hint** - _100.00%_
 * **MicrosoftEdge/demos** - _100.00%_
@@ -32,12 +32,13 @@ Response rate: 69.94%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
+  * [[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with Type...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
   * [[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960)
   * [[Problem/Bug]: Found conflicts between different versions of...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4959)
   * [[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958)
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
-  * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
@@ -50,9 +51,8 @@ Response rate: 69.94%
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
   * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
-  * [NavigationStarting and NavigationCompleted do not occur at c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4892)
-  * [[pywebview] WebView2 initialization failed with exception](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4891)
-  * [Downloading](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4889)
+  * [[Problem]: Version number is no longer shown on website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4963)
+  * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
@@ -60,38 +60,8 @@ Response rate: 69.94%
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
   * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-* **microsoft/vscode-edge-devtools** - _36.00%_
-  * [oops Pranjal](https://github.com/microsoft/vscode-edge-devtools/issues/2613)
-  * [creative](https://github.com/microsoft/vscode-edge-devtools/issues/2612)
-  * [Error loading webview: Error: Could not register service wor...](https://github.com/microsoft/vscode-edge-devtools/issues/2611)
-  * [ABDUL ISLAM](https://github.com/microsoft/vscode-edge-devtools/issues/2609)
-  * [❤✔](https://github.com/microsoft/vscode-edge-devtools/issues/2608)
-  * [My application](https://github.com/microsoft/vscode-edge-devtools/issues/2605)
-  * [wows](https://github.com/microsoft/vscode-edge-devtools/issues/2603)
-  * [reveal finder](https://github.com/microsoft/vscode-edge-devtools/issues/2601)
-  * [测](https://github.com/microsoft/vscode-edge-devtools/issues/2600)
-  * [Bug](https://github.com/microsoft/vscode-edge-devtools/issues/2599)
-  * [nothing](https://github.com/microsoft/vscode-edge-devtools/issues/2598)
-  * [rainbowbeast5](https://github.com/microsoft/vscode-edge-devtools/issues/2596)
-  * [dianshang](https://github.com/microsoft/vscode-edge-devtools/issues/2595)
-  * [functions](https://github.com/microsoft/vscode-edge-devtools/issues/2594)
-  * [Urbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2593)
-  * [UrbanEatsGen-zurbaneatscafe.com](https://github.com/microsoft/vscode-edge-devtools/issues/2592)
-  * [AI DEVOLPER](https://github.com/microsoft/vscode-edge-devtools/issues/2591)
-  * [012](https://github.com/microsoft/vscode-edge-devtools/issues/2589)
-  * [0011](https://github.com/microsoft/vscode-edge-devtools/issues/2588)
-  * [012](https://github.com/microsoft/vscode-edge-devtools/issues/2587)
+* **microsoft/vscode-edge-devtools** - _96.00%_
   * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
-  * [Devtool](https://github.com/microsoft/vscode-edge-devtools/issues/2585)
-  * [123](https://github.com/microsoft/vscode-edge-devtools/issues/2582)
-  * [amirai](https://github.com/microsoft/vscode-edge-devtools/issues/2581)
-  * [Micrsoft Edge does not work after I tried chrome this one ti...](https://github.com/microsoft/vscode-edge-devtools/issues/2580)
-  * [ahmed](https://github.com/microsoft/vscode-edge-devtools/issues/2579)
-  * [proleacarta](https://github.com/microsoft/vscode-edge-devtools/issues/2578)
-  * [cartaaaa](https://github.com/microsoft/vscode-edge-devtools/issues/2577)
-  * [carta2.0](https://github.com/microsoft/vscode-edge-devtools/issues/2576)
-  * [dd](https://github.com/microsoft/vscode-edge-devtools/issues/2602)
-  * [output is not coming](https://github.com/microsoft/vscode-edge-devtools/issues/2584)
   * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
@@ -125,6 +95,5 @@ Response rate: 69.94%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.56%_
-  * [Outdated Edge version references found](https://github.com/MicrosoftDocs/edge-developer/issues/3325)
+* **MicrosoftDocs/edge-developer** - _97.78%_
   * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)
