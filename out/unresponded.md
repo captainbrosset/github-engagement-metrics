@@ -1,6 +1,7 @@
-Response rate: 77.72%
+Response rate: 77.25%
 
-* **webhintio/hint** - _100.00%_
+* **webhintio/hint** - _98.00%_
+  * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _46.00%_
@@ -32,6 +33,8 @@ Response rate: 77.72%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
+  * [[Problem/Bug]: WebView2 Fixed Version download is broken](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4967)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with Type...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
@@ -49,8 +52,7 @@ Response rate: 77.72%
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
   * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
-  * [[Problem/Bug]: The online video will hang(the picture freezi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897)
-  * [[Problem/Bug]: Msal authentication Msal via a broker to webv...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895)
+  * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem]: Version number is no longer shown on website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4963)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
@@ -59,8 +61,9 @@ Response rate: 77.72%
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
   * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
-  * [[Problem/Bug]: WebView2 does not support blocking main threa...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893)
-* **microsoft/vscode-edge-devtools** - _96.00%_
+* **microsoft/vscode-edge-devtools** - _92.00%_
+  * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
+  * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
   * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
   * [Outdated error message](https://github.com/microsoft/vscode-edge-devtools/issues/2571)
 * **microsoft/edge-devtools-network-console** - _38.00%_
@@ -95,5 +98,4 @@ Response rate: 77.72%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.78%_
-  * [[Edge WebDriver Docs Feedback] Mirroring Edge Driver](https://github.com/MicrosoftDocs/edge-developer/issues/3316)
+* **MicrosoftDocs/edge-developer** - _100.00%_

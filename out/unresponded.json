@@ -3998,8 +3998,17 @@
     },
     {
       "date": "2024-12-04",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-12-05",
+      "unRespondedItems": [
+        {
+          "title": "Dependabot/npm and yarn/types/node 22.9.0",
+          "url": "https://github.com/webhintio/hint/pull/5977"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -8001,6 +8010,10 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12004,6 +12017,10 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16007,6 +16024,10 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -20119,7 +20140,19 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: New versions add new .appx package dependency",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969"
+        },
+        {
+          "title": "[Problem/Bug]: WebView2 Fixed Version download is broken",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4967"
+        },
         {
           "title": "[Problem/Bug]: DevTools window is unable to bring to front upon first opens",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964"
@@ -20189,12 +20222,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905"
         },
         {
-          "title": "[Problem/Bug]: The online video will hang(the picture freezing but the sound is playing) when switch the application between the edge and Vantage or copilot",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4897"
-        },
-        {
-          "title": "[Problem/Bug]: Msal authentication Msal via a broker to webview2",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4895"
+          "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968"
         },
         {
           "title": "[Problem]: Version number is no longer shown on website",
@@ -20227,10 +20256,6 @@
         {
           "title": "[Problem/Bug]: WebVIew Dependencies still not working correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 does not support blocking main thread using javascript async/await",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4893"
         }
       ],
       "rate": "44.00"
@@ -24235,7 +24260,19 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "96.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [
+        {
+          "title": "r4",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2618"
+        },
+        {
+          "title": "visual code feature",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2617"
+        },
         {
           "title": "File upload option is not avilable",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2586"
@@ -24245,7 +24282,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "96.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28247,13 +28284,12 @@
     },
     {
       "date": "2024-12-04",
-      "unRespondedItems": [
-        {
-          "title": "[Edge WebDriver Docs Feedback] Mirroring Edge Driver",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3316"
-        }
-      ],
       "rate": "97.78"
+    },
+    {
+      "date": "2024-12-05",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -29939,6 +29975,10 @@
     },
     {
       "date": "2024-12-04",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
