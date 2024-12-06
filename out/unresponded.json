@@ -4002,6 +4002,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [
         {
           "title": "Dependabot/npm and yarn/types/node 22.9.0",
@@ -8014,6 +8018,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12021,6 +12029,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16028,6 +16040,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
@@ -20144,14 +20160,22 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Webview2 not initialised 0x8007139F",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973"
+        },
+        {
+          "title": "[Problem/Bug]: Initialization failed due to a mismatch in DPI awareness (0x8007139F) ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4971"
+        },
         {
           "title": "[Problem/Bug]: New versions add new .appx package dependency",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 Fixed Version download is broken",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4967"
         },
         {
           "title": "[Problem/Bug]: DevTools window is unable to bring to front upon first opens",
@@ -20252,10 +20276,6 @@
         {
           "title": "[Problem/Bug]: Cannot update Webview2 to same version as Edge",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912"
-        },
-        {
-          "title": "[Problem/Bug]: WebVIew Dependencies still not working correctly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902"
         }
       ],
       "rate": "44.00"
@@ -24264,6 +24284,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [
         {
           "title": "r4",
@@ -28288,6 +28312,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -29979,6 +30007,10 @@
     },
     {
       "date": "2024-12-05",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-06",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

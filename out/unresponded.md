@@ -33,8 +33,9 @@ Response rate: 77.25%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _44.00%_
+  * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
+  * [[Problem/Bug]: Initialization failed due to a mismatch in DP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4971)
   * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
-  * [[Problem/Bug]: WebView2 Fixed Version download is broken](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4967)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with Type...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
@@ -60,7 +61,6 @@ Response rate: 77.25%
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
-  * [[Problem/Bug]: WebVIew Dependencies still not working correc...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4902)
 * **microsoft/vscode-edge-devtools** - _92.00%_
   * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
   * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
