@@ -4006,6 +4006,10 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [
         {
           "title": "Dependabot/npm and yarn/types/node 22.9.0",
@@ -8022,6 +8026,10 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12033,6 +12041,10 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16044,7 +16056,15 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "46.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [
+        {
+          "title": "Please allow the option to disable the infobar message \"Microsoft Edge is being controlled by automated test software.\"",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177"
+        },
         {
           "title": "Different artifacts version for Edge in Linux and MacOS when requesting the Edge updates API",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175"
@@ -16154,7 +16174,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         }
       ],
-      "rate": "46.00"
+      "rate": "44.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -20164,14 +20184,18 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [
+        {
+          "title": "AddBrowserExtensionAsync Error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977"
+        },
         {
           "title": "[Problem/Bug]: Webview2 not initialised 0x8007139F",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973"
-        },
-        {
-          "title": "[Problem/Bug]: Initialization failed due to a mismatch in DPI awareness (0x8007139F) ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4971"
         },
         {
           "title": "[Problem/Bug]: New versions add new .appx package dependency",
@@ -20214,10 +20238,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
-          "title": "[Problem/Bug]: Xbox runtime error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946"
-        },
-        {
           "title": "[Feature]: have a way to set focus/blur state of the WebView2 without HWND c++",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
         },
@@ -20240,10 +20260,6 @@
         {
           "title": "[Problem/Bug]: Pointer Lock APIs not working in UWP",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
-        },
-        {
-          "title": "[Problem/Bug]: Correct processing of HTTP error codes for XMLHttpRequest",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905"
         },
         {
           "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
@@ -20278,7 +20294,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912"
         }
       ],
-      "rate": "44.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24288,7 +24304,15 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [
+        {
+          "title": "indexhtml",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2619"
+        },
         {
           "title": "r4",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2618"
@@ -24306,7 +24330,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2571"
         }
       ],
-      "rate": "92.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28316,6 +28340,10 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30011,6 +30039,10 @@
     },
     {
       "date": "2024-12-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -4,7 +4,8 @@ Response rate: 77.25%
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _46.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _44.00%_
+  * [Please allow the option to disable the infobar message "Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177)
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
   * [msedgedrive.exe is calling csrss.exe somehow and this proces...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/172)
@@ -32,9 +33,9 @@ Response rate: 77.25%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _44.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [AddBrowserExtensionAsync Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
-  * [[Problem/Bug]: Initialization failed due to a mismatch in DP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4971)
   * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with Type...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962)
@@ -45,14 +46,12 @@ Response rate: 77.25%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
-  * [[Problem/Bug]: Xbox runtime error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4946)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
-  * [[Problem/Bug]: Correct processing of HTTP error codes for XM...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4905)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem]: Version number is no longer shown on website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4963)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
@@ -61,7 +60,8 @@ Response rate: 77.25%
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
-* **microsoft/vscode-edge-devtools** - _92.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [indexhtml](https://github.com/microsoft/vscode-edge-devtools/issues/2619)
   * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
   * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
   * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
