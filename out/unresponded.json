@@ -4014,6 +4014,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [
         {
           "title": "Dependabot/npm and yarn/types/node 22.9.0",
@@ -8038,6 +8042,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12057,6 +12065,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16076,7 +16088,15 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "44.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [
+        {
+          "title": "Mirroring Edge Driver to Corporate Artifactory",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179"
+        },
         {
           "title": "Please allow the option to disable the infobar message \"Microsoft Edge is being controlled by automated test software.\"",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177"
@@ -16190,7 +16210,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         }
       ],
-      "rate": "44.00"
+      "rate": "42.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -20208,6 +20228,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [
         {
           "title": "AddBrowserExtensionAsync Error",
@@ -24328,6 +24352,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [
         {
           "title": "Bug_@",
@@ -28388,6 +28416,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30091,6 +30123,10 @@
     },
     {
       "date": "2024-12-08",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

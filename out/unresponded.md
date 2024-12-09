@@ -1,10 +1,11 @@
-Response rate: 76.25%
+Response rate: 76.00%
 
 * **webhintio/hint** - _98.00%_
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
-* **MicrosoftEdge/EdgeWebDriver** - _44.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _42.00%_
+  * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
   * [Please allow the option to disable the infobar message "Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177)
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
   * [How can I obtain lower version drivers, such as 91.0.864.41](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/174)
