@@ -4018,13 +4018,29 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5980"
+        },
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5979"
+        },
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5978"
+        },
         {
           "title": "Dependabot/npm and yarn/types/node 22.9.0",
           "url": "https://github.com/webhintio/hint/pull/5977"
         }
       ],
-      "rate": "98.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -8046,6 +8062,10 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12069,6 +12089,10 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16092,6 +16116,10 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20232,10 +20260,14 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [
         {
-          "title": "AddBrowserExtensionAsync Error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977"
+          "title": "[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false doesn't work, systems microsoft account is always used!",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980"
         },
         {
           "title": "[Problem/Bug]: Webview2 not initialised 0x8007139F",
@@ -20302,6 +20334,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
         },
         {
+          "title": "AddBrowserExtensionAsync Error",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977"
+        },
+        {
           "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968"
         },
@@ -20334,7 +20370,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24356,7 +24392,15 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "80.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [
+        {
+          "title": "backup",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2627"
+        },
         {
           "title": "Bug_@",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2625"
@@ -24398,7 +24442,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "80.00"
+      "rate": "78.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28420,6 +28464,10 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30127,6 +30175,10 @@
     },
     {
       "date": "2024-12-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

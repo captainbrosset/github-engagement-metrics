@@ -1,6 +1,9 @@
-Response rate: 76.00%
+Response rate: 74.75%
 
-* **webhintio/hint** - _98.00%_
+* **webhintio/hint** - _92.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5978)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
 * **MicrosoftEdge/DevTools** - _100.00%_
@@ -34,8 +37,8 @@ Response rate: 76.00%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [AddBrowserExtensionAsync Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977)
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
@@ -52,6 +55,7 @@ Response rate: 76.00%
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
   * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
+  * [AddBrowserExtensionAsync Error](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem]: Version number is no longer shown on website](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4963)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
@@ -60,7 +64,8 @@ Response rate: 76.00%
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
   * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _78.00%_
+  * [backup](https://github.com/microsoft/vscode-edge-devtools/issues/2627)
   * [Bug_@](https://github.com/microsoft/vscode-edge-devtools/issues/2625)
   * [h](https://github.com/microsoft/vscode-edge-devtools/issues/2622)
   * [i wanaa bakeup but don’t working :(](https://github.com/microsoft/vscode-edge-devtools/issues/2621)
