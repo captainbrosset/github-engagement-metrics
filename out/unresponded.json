@@ -4022,6 +4022,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -4032,15 +4036,11 @@
           "url": "https://github.com/webhintio/hint/issues/5979"
         },
         {
-          "title": "[Bug] Bug description",
-          "url": "https://github.com/webhintio/hint/issues/5978"
-        },
-        {
           "title": "Dependabot/npm and yarn/types/node 22.9.0",
           "url": "https://github.com/webhintio/hint/pull/5977"
         }
       ],
-      "rate": "92.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -8066,6 +8066,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12093,6 +12097,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16120,6 +16128,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20264,7 +20276,15 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [
+        {
+          "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983"
+        },
         {
           "title": "[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false doesn't work, systems microsoft account is always used!",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980"
@@ -20334,16 +20354,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
         },
         {
-          "title": "AddBrowserExtensionAsync Error",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4977"
-        },
-        {
           "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968"
-        },
-        {
-          "title": "[Problem]: Version number is no longer shown on website",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4963"
         },
         {
           "title": "[Problem/Bug]: Runtime",
@@ -20370,7 +20382,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912"
         }
       ],
-      "rate": "48.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24396,7 +24408,19 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "78.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [
+        {
+          "title": "MOHANDSEDU_GPT",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2629"
+        },
+        {
+          "title": "idevicerestore --help man idevicerestore",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2628"
+        },
         {
           "title": "backup",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2627"
@@ -24442,7 +24466,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "78.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28468,6 +28492,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30179,6 +30207,10 @@
     },
     {
       "date": "2024-12-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
