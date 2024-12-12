@@ -1,4 +1,4 @@
-Response rate: 74.75%
+Response rate: 74.25%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -37,6 +37,7 @@ Response rate: 74.75%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
@@ -61,8 +62,9 @@ Response rate: 74.75%
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-  * [[Problem/Bug]: Cannot update Webview2 to same version as Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912)
-* **microsoft/vscode-edge-devtools** - _74.00%_
+* **microsoft/vscode-edge-devtools** - _70.00%_
+  * [Finexo](https://github.com/microsoft/vscode-edge-devtools/issues/2633)
+  * [API infinete\package.json](https://github.com/microsoft/vscode-edge-devtools/issues/2631)
   * [MOHANDSEDU_GPT](https://github.com/microsoft/vscode-edge-devtools/issues/2629)
   * [idevicerestore --help man idevicerestore](https://github.com/microsoft/vscode-edge-devtools/issues/2628)
   * [backup](https://github.com/microsoft/vscode-edge-devtools/issues/2627)

@@ -4026,6 +4026,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8070,6 +8074,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12101,6 +12109,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16132,6 +16144,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20280,7 +20296,15 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [
+        {
+          "title": "[Feature]: Add split screen support",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984"
+        },
         {
           "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983"
@@ -20376,10 +20400,6 @@
         {
           "title": "[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build files do not work in some MsBuild scenarios",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923"
-        },
-        {
-          "title": "[Problem/Bug]: Cannot update Webview2 to same version as Edge",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4912"
         }
       ],
       "rate": "50.00"
@@ -24412,7 +24432,19 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "74.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [
+        {
+          "title": "Finexo",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2633"
+        },
+        {
+          "title": "API infinete\\package.json",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2631"
+        },
         {
           "title": "MOHANDSEDU_GPT",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2629"
@@ -24466,7 +24498,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "74.00"
+      "rate": "70.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28496,6 +28528,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30211,6 +30247,10 @@
     },
     {
       "date": "2024-12-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
