@@ -4030,6 +4030,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8078,6 +8082,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12113,6 +12121,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16148,6 +16160,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20300,14 +20316,22 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Videos don't load correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989"
+        },
+        {
+          "title": "[Problem/Bug]: SourceBuffer.changeType always fails with Edge 130 on Xbox",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988"
+        },
         {
           "title": "[Feature]: Add split screen support",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984"
-        },
-        {
-          "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983"
         },
         {
           "title": "[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false doesn't work, systems microsoft account is always used!",
@@ -20324,10 +20348,6 @@
         {
           "title": "[Problem/Bug]: DevTools window is unable to bring to front upon first opens",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964"
-        },
-        {
-          "title": "[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with TypeLoadException: Method 'GetVirtualMethodTableInfoForKey' does not have an implementation",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962"
         },
         {
           "title": "[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server Environment, while WebView.PrintToPdfStreamAsync() works",
@@ -20374,8 +20394,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919"
         },
         {
-          "title": "[Problem/Bug]: Pointer Lock APIs not working in UWP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913"
+          "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983"
         },
         {
           "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
@@ -24436,7 +24456,15 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "70.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [
+        {
+          "title": "Inconsistent Behavior Across two ways of accessing Edge DevTools",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
+        },
         {
           "title": "Finexo",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2633"
@@ -24490,6 +24518,10 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2586"
         },
         {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2634"
+        },
+        {
           "title": "MATLAB Code:",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2624"
         },
@@ -24498,7 +24530,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "70.00"
+      "rate": "66.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28532,6 +28564,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30251,6 +30287,10 @@
     },
     {
       "date": "2024-12-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

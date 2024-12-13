@@ -1,4 +1,4 @@
-Response rate: 74.25%
+Response rate: 73.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -37,13 +37,13 @@ Response rate: 74.25%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: Videos don't load correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989)
+  * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
-  * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
-  * [[Problem/Bug]: WebView2 + WinUI3 + NativeAOT fails with Type...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4962)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
   * [[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960)
   * [[Problem/Bug]: HdmiDisplayInformation.getForCurrentView().ge...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4958)
@@ -55,14 +55,15 @@ Response rate: 74.25%
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
-  * [[Problem/Bug]: Pointer Lock APIs not working in UWP](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4913)
+  * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-* **microsoft/vscode-edge-devtools** - _70.00%_
+* **microsoft/vscode-edge-devtools** - _66.00%_
+  * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
   * [Finexo](https://github.com/microsoft/vscode-edge-devtools/issues/2633)
   * [API infinete\package.json](https://github.com/microsoft/vscode-edge-devtools/issues/2631)
   * [MOHANDSEDU_GPT](https://github.com/microsoft/vscode-edge-devtools/issues/2629)
@@ -76,6 +77,7 @@ Response rate: 74.25%
   * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
   * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
   * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2634)
   * [MATLAB Code:](https://github.com/microsoft/vscode-edge-devtools/issues/2624)
   * [sql has a bug](https://github.com/microsoft/vscode-edge-devtools/issues/2623)
 * **microsoft/edge-devtools-network-console** - _38.00%_
