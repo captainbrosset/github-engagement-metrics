@@ -1,4 +1,4 @@
-Response rate: 73.75%
+Response rate: 73.25%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -37,11 +37,10 @@ Response rate: 73.75%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
-  * [[Problem/Bug]: Videos don't load correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989)
+  * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
-  * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
@@ -54,15 +53,18 @@ Response rate: 73.75%
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
   * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
-  * [EmbeddedBrowserWebView.dll.pdb not found on symbol server](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919)
+  * [[Problem/Bug]: Videos don't load correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
+  * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-* **microsoft/vscode-edge-devtools** - _66.00%_
+* **microsoft/vscode-edge-devtools** - _62.00%_
+  * [ozod](https://github.com/microsoft/vscode-edge-devtools/issues/2637)
+  * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2636)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
   * [Finexo](https://github.com/microsoft/vscode-edge-devtools/issues/2633)
   * [API infinete\package.json](https://github.com/microsoft/vscode-edge-devtools/issues/2631)

@@ -4034,6 +4034,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8086,6 +8090,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12125,6 +12133,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16164,6 +16176,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20320,10 +20336,14 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Videos don't load correctly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989"
+          "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993"
         },
         {
           "title": "[Problem/Bug]: SourceBuffer.changeType always fails with Edge 130 on Xbox",
@@ -20336,10 +20356,6 @@
         {
           "title": "[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false doesn't work, systems microsoft account is always used!",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980"
-        },
-        {
-          "title": "[Problem/Bug]: Webview2 not initialised 0x8007139F",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973"
         },
         {
           "title": "[Problem/Bug]: New versions add new .appx package dependency",
@@ -20390,12 +20406,16 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920"
         },
         {
-          "title": "EmbeddedBrowserWebView.dll.pdb not found on symbol server",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4919"
+          "title": "[Problem/Bug]: Videos don't load correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989"
         },
         {
           "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983"
+        },
+        {
+          "title": "[Problem/Bug]: Webview2 not initialised 0x8007139F",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973"
         },
         {
           "title": "[Problem/Bug]: Gamepad and Pointer Lock APIs not working in \"Window to visual\" hosting mode",
@@ -24460,7 +24480,19 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "66.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [
+        {
+          "title": "ozod",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2637"
+        },
+        {
+          "title": "test",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2636"
+        },
         {
           "title": "Inconsistent Behavior Across two ways of accessing Edge DevTools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
@@ -24530,7 +24562,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28568,6 +28600,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30291,6 +30327,10 @@
     },
     {
       "date": "2024-12-13",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-14",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
