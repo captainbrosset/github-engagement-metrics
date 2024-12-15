@@ -1,4 +1,4 @@
-Response rate: 73.25%
+Response rate: 72.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -37,6 +37,7 @@ Response rate: 73.25%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: File uploading doesn't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
@@ -52,7 +53,6 @@ Response rate: 73.25%
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
   * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
-  * [[Problem/Bug]: Profiles vs PreferredColorScheme](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920)
   * [[Problem/Bug]: Videos don't load correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4989)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
@@ -62,7 +62,9 @@ Response rate: 73.25%
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-* **microsoft/vscode-edge-devtools** - _62.00%_
+* **microsoft/vscode-edge-devtools** - _58.00%_
+  * [ms](https://github.com/microsoft/vscode-edge-devtools/issues/2640)
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2638)
   * [ozod](https://github.com/microsoft/vscode-edge-devtools/issues/2637)
   * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2636)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
@@ -78,7 +80,7 @@ Response rate: 73.25%
   * [indexhtml](https://github.com/microsoft/vscode-edge-devtools/issues/2619)
   * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
   * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
-  * [File upload option is not avilable](https://github.com/microsoft/vscode-edge-devtools/issues/2586)
+  * [写一个轮播图](https://github.com/microsoft/vscode-edge-devtools/issues/2639)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2634)
   * [MATLAB Code:](https://github.com/microsoft/vscode-edge-devtools/issues/2624)
   * [sql has a bug](https://github.com/microsoft/vscode-edge-devtools/issues/2623)

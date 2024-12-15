@@ -4038,6 +4038,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8094,6 +8098,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12137,6 +12145,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16180,6 +16192,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20340,7 +20356,15 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: File uploading doesn't work correctly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994"
+        },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993"
@@ -20400,10 +20424,6 @@
         {
           "title": "[Problem/Bug]: WebResourceResponseReceived not fired for requests done in webworkers",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926"
-        },
-        {
-          "title": "[Problem/Bug]: Profiles vs PreferredColorScheme",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4920"
         },
         {
           "title": "[Problem/Bug]: Videos don't load correctly",
@@ -24484,7 +24504,19 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "62.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [
+        {
+          "title": "ms",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2640"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2638"
+        },
         {
           "title": "ozod",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2637"
@@ -24546,8 +24578,8 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2617"
         },
         {
-          "title": "File upload option is not avilable",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2586"
+          "title": "写一个轮播图",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2639"
         },
         {
           "title": "html",
@@ -24562,7 +24594,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "62.00"
+      "rate": "58.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28604,6 +28636,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30331,6 +30367,10 @@
     },
     {
       "date": "2024-12-14",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-15",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
