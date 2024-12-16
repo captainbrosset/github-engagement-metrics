@@ -1,4 +1,4 @@
-Response rate: 72.75%
+Response rate: 71.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -36,7 +36,8 @@ Response rate: 72.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _48.00%_
+  * [[Problem/Bug]: Some applications display extremely minimized...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4995)
   * [[Problem/Bug]: File uploading doesn't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
@@ -62,7 +63,10 @@ Response rate: 72.75%
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
   * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
   * [[Problem/Bug]: NuGet package Microsoft.Web.WebView2 build fi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923)
-* **microsoft/vscode-edge-devtools** - _58.00%_
+* **microsoft/vscode-edge-devtools** - _52.00%_
+  * [bms](https://github.com/microsoft/vscode-edge-devtools/issues/2643)
+  * [What You See , What You Get 😏](https://github.com/microsoft/vscode-edge-devtools/issues/2642)
+  * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
   * [ms](https://github.com/microsoft/vscode-edge-devtools/issues/2640)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2638)
   * [ozod](https://github.com/microsoft/vscode-edge-devtools/issues/2637)

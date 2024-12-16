@@ -4042,6 +4042,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8102,6 +8106,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12149,6 +12157,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16196,6 +16208,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20360,7 +20376,15 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Some applications display extremely minimized.",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4995"
+        },
         {
           "title": "[Problem/Bug]: File uploading doesn't work correctly",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994"
@@ -20462,7 +20486,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4923"
         }
       ],
-      "rate": "50.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24508,7 +24532,23 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "58.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [
+        {
+          "title": "bms",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2643"
+        },
+        {
+          "title": "What You See , What You Get 😏",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2642"
+        },
+        {
+          "title": "Browser Args and User Data Configuration Issues",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2641"
+        },
         {
           "title": "ms",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2640"
@@ -24594,7 +24634,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "58.00"
+      "rate": "52.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28640,6 +28680,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30371,6 +30415,10 @@
     },
     {
       "date": "2024-12-15",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-16",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
