@@ -4050,6 +4050,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8118,6 +8122,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12173,6 +12181,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -16228,6 +16240,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20400,10 +20416,22 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [
         {
-          "title": "[Feature]: Enable Sandbox mode for MS Edge on Ubuntu 24.04 and UP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4997"
+          "title": "[Problem/Bug]: In WebView2-hosted page, JavaScript window's position properties initially have wrong values",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003"
+        },
+        {
+          "title": "[Feature]: Want to inject WebView2 into WinRE.wim. We have customized WinRE environment in which we need WebView2 to inject for browser support. ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5002"
+        },
+        {
+          "title": "[Problem/Bug]: open a web page is not loading correct and white screen",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5000"
         },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
@@ -20462,8 +20490,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934"
         },
         {
-          "title": "[Problem/Bug]: WebResourceResponseReceived not fired for requests done in webworkers",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926"
+          "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998"
         },
         {
           "title": "[Problem/Bug]: File uploading doesn't work correctly",
@@ -20492,13 +20520,9 @@
         {
           "title": "[Feature]: Get the transparency of the web page",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930"
-        },
-        {
-          "title": "[Problem/Bug]: variable being redeclared when a preload script loads in an iframe in google.com",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24552,6 +24576,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [
         {
           "title": "bms",
@@ -28704,8 +28732,17 @@
     },
     {
       "date": "2024-12-17",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2024-12-18",
+      "unRespondedItems": [
+        {
+          "title": "[DevTools Docs Feedback]",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3331"
+        }
+      ],
+      "rate": "97.83"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -30443,6 +30480,10 @@
     },
     {
       "date": "2024-12-17",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-18",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

@@ -1,4 +1,4 @@
-Response rate: 72.25%
+Response rate: 71.73%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -36,8 +36,10 @@ Response rate: 72.25%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
-  * [[Feature]: Enable Sandbox mode for MS Edge on Ubuntu 24.04 a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4997)
+* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+  * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
+  * [[Feature]: Want to inject WebView2 into WinRE.wim. We have c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5002)
+  * [[Problem/Bug]: open a web page is not loading correct and wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5000)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
@@ -52,7 +54,7 @@ Response rate: 72.25%
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
-  * [[Problem/Bug]: WebResourceResponseReceived not fired for req...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4926)
+  * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [[Problem/Bug]: File uploading doesn't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
@@ -60,7 +62,6 @@ Response rate: 72.25%
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
-  * [[Problem/Bug]: variable being redeclared when a preload scri...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4929)
 * **microsoft/vscode-edge-devtools** - _52.00%_
   * [bms](https://github.com/microsoft/vscode-edge-devtools/issues/2643)
   * [What You See , What You Get 😏](https://github.com/microsoft/vscode-edge-devtools/issues/2642)
@@ -118,4 +119,5 @@ Response rate: 72.25%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _100.00%_
+* **MicrosoftDocs/edge-developer** - _97.83%_
+  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3331)
