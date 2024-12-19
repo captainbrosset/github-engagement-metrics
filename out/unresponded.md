@@ -1,11 +1,12 @@
-Response rate: 71.73%
+Response rate: 72.00%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _100.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
+  * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
 * **MicrosoftEdge/EdgeWebDriver** - _42.00%_
   * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
   * [Please allow the option to disable the infobar message "Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177)
@@ -36,15 +37,13 @@ Response rate: 71.73%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _50.00%_
+* **MicrosoftEdge/WebView2Feedback** - _52.00%_
   * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
-  * [[Feature]: Want to inject WebView2 into WinRE.wim. We have c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5002)
-  * [[Problem/Bug]: open a web page is not loading correct and wh...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5000)
+  * [[Feature]: Enable Sandbox mode for MS Edge on Ubuntu 24.04 a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4997)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
-  * [[Problem/Bug]: New versions add new .appx package dependency...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4969)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
   * [[Feature]: Add Flag to Suppress Fullscreen and Pointer Lock ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4960)
@@ -54,6 +53,7 @@ Response rate: 71.73%
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
+  * [[Feature]: Want to inject WebView2 into WinRE.wim. We have c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5002)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [[Problem/Bug]: File uploading doesn't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
@@ -119,5 +119,4 @@ Response rate: 71.73%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _97.83%_
-  * [[DevTools Docs Feedback]](https://github.com/MicrosoftDocs/edge-developer/issues/3331)
+* **MicrosoftDocs/edge-developer** - _100.00%_
