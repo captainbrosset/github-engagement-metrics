@@ -1,11 +1,12 @@
-Response rate: 72.00%
+Response rate: 71.50%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
 * **MicrosoftEdge/EdgeWebDriver** - _42.00%_
   * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
@@ -37,9 +38,8 @@ Response rate: 72.00%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
-  * [[Feature]: Enable Sandbox mode for MS Edge on Ubuntu 24.04 a...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4997)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
@@ -62,7 +62,9 @@ Response rate: 72.00%
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
   * [[Feature]: Get the transparency of the web page](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930)
-* **microsoft/vscode-edge-devtools** - _52.00%_
+* **microsoft/vscode-edge-devtools** - _48.00%_
+  * [PROJECT](https://github.com/microsoft/vscode-edge-devtools/issues/2645)
+  * [tamim](https://github.com/microsoft/vscode-edge-devtools/issues/2644)
   * [bms](https://github.com/microsoft/vscode-edge-devtools/issues/2643)
   * [What You See , What You Get 😏](https://github.com/microsoft/vscode-edge-devtools/issues/2642)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)

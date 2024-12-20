@@ -4058,6 +4058,10 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8134,6 +8138,10 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12197,13 +12205,21 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "98.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
+        {
+          "title": "DevTools version stuck at 113?",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/304"
+        },
         {
           "title": "window.matchMedia('(prefers-color-scheme: dark)')  work in Edge when I change the browser appearance color?",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/303"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16265,6 +16281,10 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20445,14 +20465,14 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: In WebView2-hosted page, JavaScript window's position properties initially have wrong values",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003"
-        },
-        {
-          "title": "[Feature]: Enable Sandbox mode for MS Edge on Ubuntu 24.04 and UP",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4997"
         },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
@@ -20543,7 +20563,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24605,7 +24625,19 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
+        {
+          "title": "PROJECT",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2645"
+        },
+        {
+          "title": "tamim",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2644"
+        },
         {
           "title": "bms",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2643"
@@ -24703,7 +24735,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "52.00"
+      "rate": "48.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28765,6 +28797,10 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30512,6 +30548,10 @@
     },
     {
       "date": "2024-12-19",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-20",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
