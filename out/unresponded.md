@@ -5,7 +5,8 @@ Response rate: 71.50%
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _94.00%_
+  * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
   * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
 * **MicrosoftEdge/EdgeWebDriver** - _42.00%_
@@ -38,7 +39,7 @@ Response rate: 71.50%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
+* **MicrosoftEdge/WebView2Feedback** - _56.00%_
   * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
@@ -53,9 +54,8 @@ Response rate: 71.50%
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x8002...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934)
-  * [[Feature]: Want to inject WebView2 into WinRE.wim. We have c...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5002)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
-  * [[Problem/Bug]: File uploading doesn't work correctly](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4994)
+  * [[Problem/Bug]: When --single-process is on, print with ShowP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4996)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
