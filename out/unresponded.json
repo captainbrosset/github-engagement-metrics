@@ -4066,6 +4066,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8150,6 +8154,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12221,6 +12229,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16305,6 +16317,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20493,7 +20509,15 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
+        {
+          "title": "Try Google Opinion Rewards",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5004"
+        },
         {
           "title": "[Problem/Bug]: In WebView2-hosted page, JavaScript window's position properties initially have wrong values",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003"
@@ -20577,10 +20601,6 @@
         {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
-        },
-        {
-          "title": "[Feature]: Get the transparency of the web page",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4930"
         }
       ],
       "rate": "56.00"
@@ -24653,7 +24673,23 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
+        {
+          "title": "live server is not working",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2648"
+        },
+        {
+          "title": "lgg",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2647"
+        },
+        {
+          "title": "while i run on microsoft edge the output is not showing",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2646"
+        },
         {
           "title": "PROJECT",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2645"
@@ -24759,7 +24795,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "48.00"
+      "rate": "42.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28829,6 +28865,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30584,6 +30624,10 @@
     },
     {
       "date": "2024-12-21",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-22",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
