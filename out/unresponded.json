@@ -4070,6 +4070,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8158,6 +8162,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12233,6 +12241,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16321,6 +16333,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20513,7 +20529,27 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "56.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
+        {
+          "title": "Prakash Hair Centre Treding & Services ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5010"
+        },
+        {
+          "title": "Gem",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5009"
+        },
+        {
+          "title": "Ok",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5008"
+        },
+        {
+          "title": "Ok",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5007"
+        },
         {
           "title": "Try Google Opinion Rewards",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5004"
@@ -20571,8 +20607,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
         },
         {
-          "title": "[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x80020008)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934"
+          "title": "Cloud Ads",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5006"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
@@ -20603,7 +20639,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "56.00"
+      "rate": "48.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24677,6 +24713,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
         {
           "title": "live server is not working",
@@ -28869,6 +28909,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30628,6 +30672,10 @@
     },
     {
       "date": "2024-12-22",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-23",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
