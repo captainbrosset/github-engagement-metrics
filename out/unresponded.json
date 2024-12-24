@@ -4074,6 +4074,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8166,6 +8170,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12245,6 +12253,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16337,6 +16349,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20533,26 +20549,18 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "48.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
         {
-          "title": "Prakash Hair Centre Treding & Services ",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5010"
+          "title": "Gitu hub",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5016"
         },
         {
-          "title": "Gem",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5009"
-        },
-        {
-          "title": "Ok",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5008"
-        },
-        {
-          "title": "Ok",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5007"
-        },
-        {
-          "title": "Try Google Opinion Rewards",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5004"
+          "title": "gatherplatform@google.com",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5015"
         },
         {
           "title": "[Problem/Bug]: In WebView2-hosted page, JavaScript window's position properties initially have wrong values",
@@ -20603,12 +20611,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
-          "title": "[Feature]: have a way to set focus/blur state of the WebView2 without HWND c++",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
-        },
-        {
-          "title": "Cloud Ads",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5006"
+          "title": "[Problem/Bug]: webview not initializing/rendering when UDF folder is not present",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5014"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
@@ -20633,13 +20637,9 @@
         {
           "title": "[Problem/Bug]: Runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
-        },
-        {
-          "title": "[Bug]: CSS rendering is different when webview transparency set",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "48.00"
+      "rate": "58.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24717,7 +24717,15 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
+        {
+          "title": "biginer",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2650"
+        },
         {
           "title": "live server is not working",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2648"
@@ -24835,7 +24843,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28913,6 +28921,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30676,6 +30688,10 @@
     },
     {
       "date": "2024-12-23",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-24",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

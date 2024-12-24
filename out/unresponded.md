@@ -1,4 +1,4 @@
-Response rate: 69.75%
+Response rate: 70.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -39,12 +39,9 @@ Response rate: 69.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _48.00%_
-  * [Prakash Hair Centre Treding & Services ](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5010)
-  * [Gem](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5009)
-  * [Ok](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5008)
-  * [Ok](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5007)
-  * [Try Google Opinion Rewards](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5004)
+* **MicrosoftEdge/WebView2Feedback** - _58.00%_
+  * [Gitu hub](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5016)
+  * [gatherplatform@google.com](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5015)
   * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
@@ -57,16 +54,15 @@ Response rate: 69.75%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
-  * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
-  * [Cloud Ads](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5006)
+  * [[Problem/Bug]: webview not initializing/rendering when UDF f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5014)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [[Problem/Bug]: When --single-process is on, print with ShowP...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4996)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-  * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _42.00%_
+* **microsoft/vscode-edge-devtools** - _40.00%_
+  * [biginer](https://github.com/microsoft/vscode-edge-devtools/issues/2650)
   * [live server is not working](https://github.com/microsoft/vscode-edge-devtools/issues/2648)
   * [lgg](https://github.com/microsoft/vscode-edge-devtools/issues/2647)
   * [while i run on microsoft edge the output is not showing](https://github.com/microsoft/vscode-edge-devtools/issues/2646)
