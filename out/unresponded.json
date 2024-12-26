@@ -4082,6 +4082,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8182,6 +8186,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12269,6 +12277,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16369,6 +16381,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20573,6 +20589,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Test failures with Latest Edge Canary (133.0.3010.0 canary)",
@@ -20667,11 +20687,15 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
         },
         {
+          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
+        },
+        {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "52.00"
+      "rate": "50.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24757,6 +24781,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "30.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "fhfhfh",
@@ -28985,6 +29013,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30756,6 +30788,10 @@
     },
     {
       "date": "2024-12-25",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-26",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
