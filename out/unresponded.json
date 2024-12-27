@@ -4086,6 +4086,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8190,6 +8194,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12281,6 +12289,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16385,6 +16397,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
@@ -20593,7 +20609,15 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "50.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: The Cookie-Editor extension is not working properly",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5019"
+        },
         {
           "title": "[Problem/Bug]: Test failures with Latest Edge Canary (133.0.3010.0 canary)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5018"
@@ -20655,20 +20679,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
         },
         {
-          "title": "[Problem/Bug]: WinRT UWP - Error: Bad variable type. (0x80020008)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4934"
-        },
-        {
           "title": "[Problem/Bug]: webview not initializing/rendering when UDF folder is not present",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5014"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998"
-        },
-        {
-          "title": "[Problem/Bug]: When --single-process is on, print with ShowPrintUI crash",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4996"
         },
         {
           "title": "The CacheFolder is locked by msedgewebview2.exe and cannot be deleted even when the app is closed.",
@@ -20695,7 +20711,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "50.00"
+      "rate": "52.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24785,6 +24801,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "30.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
         {
           "title": "fhfhfh",
@@ -29017,6 +29037,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30792,6 +30816,10 @@
     },
     {
       "date": "2024-12-26",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-27",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
