@@ -1,4 +1,4 @@
-Response rate: 68.75%
+Response rate: 76.75%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -9,7 +9,8 @@ Response rate: 68.75%
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
   * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
-* **MicrosoftEdge/EdgeWebDriver** - _42.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _40.00%_
+  * [Some azureedge.net domains are slated to be be decommissione...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/180)
   * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
   * [Please allow the option to disable the infobar message "Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177)
   * [Different artifacts version for Edge in Linux and MacOS when...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/175)
@@ -39,8 +40,7 @@ Response rate: 68.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _52.00%_
-  * [[Problem/Bug]: The Cookie-Editor extension is not working pr...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5019)
+* **MicrosoftEdge/WebView2Feedback** - _54.00%_
   * [[Problem/Bug]: Test failures with Latest Edge Canary (133.0....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5018)
   * [[Problem/Bug]: Resizing cursor lost if you resize the window...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5017)
   * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
@@ -64,42 +64,10 @@ Response rate: 68.75%
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _30.00%_
-  * [fhfhfh](https://github.com/microsoft/vscode-edge-devtools/issues/2655)
-  * [hfuyj](https://github.com/microsoft/vscode-edge-devtools/issues/2654)
-  * [пр](https://github.com/microsoft/vscode-edge-devtools/issues/2653)
-  * [AI_Driven_development](https://github.com/microsoft/vscode-edge-devtools/issues/2652)
-  * [AI_Driven_development](https://github.com/microsoft/vscode-edge-devtools/issues/2651)
-  * [biginer](https://github.com/microsoft/vscode-edge-devtools/issues/2650)
-  * [live server is not working](https://github.com/microsoft/vscode-edge-devtools/issues/2648)
-  * [lgg](https://github.com/microsoft/vscode-edge-devtools/issues/2647)
-  * [while i run on microsoft edge the output is not showing](https://github.com/microsoft/vscode-edge-devtools/issues/2646)
-  * [PROJECT](https://github.com/microsoft/vscode-edge-devtools/issues/2645)
-  * [tamim](https://github.com/microsoft/vscode-edge-devtools/issues/2644)
-  * [bms](https://github.com/microsoft/vscode-edge-devtools/issues/2643)
-  * [What You See , What You Get 😏](https://github.com/microsoft/vscode-edge-devtools/issues/2642)
+* **microsoft/vscode-edge-devtools** - _94.00%_
+  * [star](https://github.com/microsoft/vscode-edge-devtools/issues/2658)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
-  * [ms](https://github.com/microsoft/vscode-edge-devtools/issues/2640)
-  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2638)
-  * [ozod](https://github.com/microsoft/vscode-edge-devtools/issues/2637)
-  * [test](https://github.com/microsoft/vscode-edge-devtools/issues/2636)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
-  * [Finexo](https://github.com/microsoft/vscode-edge-devtools/issues/2633)
-  * [API infinete\package.json](https://github.com/microsoft/vscode-edge-devtools/issues/2631)
-  * [MOHANDSEDU_GPT](https://github.com/microsoft/vscode-edge-devtools/issues/2629)
-  * [idevicerestore --help man idevicerestore](https://github.com/microsoft/vscode-edge-devtools/issues/2628)
-  * [backup](https://github.com/microsoft/vscode-edge-devtools/issues/2627)
-  * [Bug_@](https://github.com/microsoft/vscode-edge-devtools/issues/2625)
-  * [h](https://github.com/microsoft/vscode-edge-devtools/issues/2622)
-  * [i wanaa bakeup but don’t working :(](https://github.com/microsoft/vscode-edge-devtools/issues/2621)
-  * [backup the html plz](https://github.com/microsoft/vscode-edge-devtools/issues/2620)
-  * [indexhtml](https://github.com/microsoft/vscode-edge-devtools/issues/2619)
-  * [r4](https://github.com/microsoft/vscode-edge-devtools/issues/2618)
-  * [visual code feature](https://github.com/microsoft/vscode-edge-devtools/issues/2617)
-  * [写一个轮播图](https://github.com/microsoft/vscode-edge-devtools/issues/2639)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2634)
-  * [MATLAB Code:](https://github.com/microsoft/vscode-edge-devtools/issues/2624)
-  * [sql has a bug](https://github.com/microsoft/vscode-edge-devtools/issues/2623)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

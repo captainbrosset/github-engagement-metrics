@@ -4090,6 +4090,10 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8198,6 +8202,10 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12293,6 +12301,10 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16401,7 +16413,15 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "42.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
+        {
+          "title": "Some azureedge.net domains are slated to be be decommissioned",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/180"
+        },
         {
           "title": "Mirroring Edge Driver to Corporate Artifactory",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179"
@@ -16519,7 +16539,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         }
       ],
-      "rate": "42.00"
+      "rate": "40.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -20613,11 +20633,11 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "52.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: The Cookie-Editor extension is not working properly",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5019"
-        },
         {
           "title": "[Problem/Bug]: Test failures with Latest Edge Canary (133.0.3010.0 canary)",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5018"
@@ -20711,7 +20731,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "52.00"
+      "rate": "54.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24805,149 +24825,25 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "30.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
         {
-          "title": "fhfhfh",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2655"
-        },
-        {
-          "title": "hfuyj",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2654"
-        },
-        {
-          "title": "пр",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2653"
-        },
-        {
-          "title": "AI_Driven_development",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2652"
-        },
-        {
-          "title": "AI_Driven_development",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2651"
-        },
-        {
-          "title": "biginer",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2650"
-        },
-        {
-          "title": "live server is not working",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2648"
-        },
-        {
-          "title": "lgg",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2647"
-        },
-        {
-          "title": "while i run on microsoft edge the output is not showing",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2646"
-        },
-        {
-          "title": "PROJECT",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2645"
-        },
-        {
-          "title": "tamim",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2644"
-        },
-        {
-          "title": "bms",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2643"
-        },
-        {
-          "title": "What You See , What You Get 😏",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2642"
+          "title": "star",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2658"
         },
         {
           "title": "Browser Args and User Data Configuration Issues",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2641"
         },
         {
-          "title": "ms",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2640"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2638"
-        },
-        {
-          "title": "ozod",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2637"
-        },
-        {
-          "title": "test",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2636"
-        },
-        {
           "title": "Inconsistent Behavior Across two ways of accessing Edge DevTools",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
-        },
-        {
-          "title": "Finexo",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2633"
-        },
-        {
-          "title": "API infinete\\package.json",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2631"
-        },
-        {
-          "title": "MOHANDSEDU_GPT",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2629"
-        },
-        {
-          "title": "idevicerestore --help man idevicerestore",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2628"
-        },
-        {
-          "title": "backup",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2627"
-        },
-        {
-          "title": "Bug_@",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2625"
-        },
-        {
-          "title": "h",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2622"
-        },
-        {
-          "title": "i wanaa bakeup but don’t working :(",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2621"
-        },
-        {
-          "title": "backup the html plz",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2620"
-        },
-        {
-          "title": "indexhtml",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2619"
-        },
-        {
-          "title": "r4",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2618"
-        },
-        {
-          "title": "visual code feature",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2617"
-        },
-        {
-          "title": "写一个轮播图",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2639"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2634"
-        },
-        {
-          "title": "MATLAB Code:",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2624"
-        },
-        {
-          "title": "sql has a bug",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2623"
         }
       ],
-      "rate": "30.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29041,6 +28937,10 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30820,6 +30720,10 @@
     },
     {
       "date": "2024-12-27",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-28",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
