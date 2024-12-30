@@ -1,4 +1,4 @@
-Response rate: 76.75%
+Response rate: 77.25%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -9,7 +9,8 @@ Response rate: 76.75%
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
   * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
-* **MicrosoftEdge/EdgeWebDriver** - _40.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _38.00%_
+  * [Shortcut to Add New Tab Directly Under Tab Group](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181)
   * [Some azureedge.net domains are slated to be be decommissione...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/180)
   * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
   * [Please allow the option to disable the infobar message "Micr...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/177)
@@ -40,10 +41,8 @@ Response rate: 76.75%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _54.00%_
-  * [[Problem/Bug]: Test failures with Latest Edge Canary (133.0....](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5018)
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: Resizing cursor lost if you resize the window...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5017)
-  * [[Problem/Bug]: In WebView2-hosted page, JavaScript window's ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
@@ -62,7 +61,6 @@ Response rate: 76.75%
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-  * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
 * **microsoft/vscode-edge-devtools** - _94.00%_
   * [star](https://github.com/microsoft/vscode-edge-devtools/issues/2658)

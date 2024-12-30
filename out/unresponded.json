@@ -4098,6 +4098,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8214,6 +8218,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12317,6 +12325,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16433,7 +16445,15 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "40.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
+        {
+          "title": "Shortcut to Add New Tab Directly Under Tab Group",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181"
+        },
         {
           "title": "Some azureedge.net domains are slated to be be decommissioned",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/180"
@@ -16555,7 +16575,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         }
       ],
-      "rate": "40.00"
+      "rate": "38.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -20657,18 +20677,14 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "54.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: Test failures with Latest Edge Canary (133.0.3010.0 canary)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5018"
-        },
         {
           "title": "[Problem/Bug]: Resizing cursor lost if you resize the window fast enough",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5017"
-        },
-        {
-          "title": "[Problem/Bug]: In WebView2-hosted page, JavaScript window's position properties initially have wrong values",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5003"
         },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
@@ -20743,15 +20759,11 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
         },
         {
-          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
-        },
-        {
           "title": "[Bug]: CSS rendering is different when webview transparency set",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "54.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24853,6 +24865,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
         {
           "title": "star",
@@ -28969,6 +28985,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30756,6 +30776,10 @@
     },
     {
       "date": "2024-12-29",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-30",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
