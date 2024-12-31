@@ -4102,6 +4102,10 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8222,6 +8226,10 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12329,6 +12337,10 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16449,7 +16461,15 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
+        {
+          "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182"
+        },
         {
           "title": "Shortcut to Add New Tab Directly Under Tab Group",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181"
@@ -16575,7 +16595,7 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
         }
       ],
-      "rate": "38.00"
+      "rate": "36.00"
     }
   ],
   "MicrosoftEdge/WebView2Feedback": [
@@ -20681,11 +20701,11 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "60.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
-        {
-          "title": "[Problem/Bug]: Resizing cursor lost if you resize the window fast enough",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5017"
-        },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993"
@@ -20693,10 +20713,6 @@
         {
           "title": "[Problem/Bug]: SourceBuffer.changeType always fails with Edge 130 on Xbox",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988"
-        },
-        {
-          "title": "[Feature]: Add split screen support",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984"
         },
         {
           "title": "[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false doesn't work, systems microsoft account is always used!",
@@ -20763,7 +20779,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "60.00"
+      "rate": "64.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24869,7 +24885,27 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "94.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
+        {
+          "title": "teste",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2663"
+        },
+        {
+          "title": "Teste",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2662"
+        },
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2661"
+        },
+        {
+          "title": "html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2660"
+        },
         {
           "title": "star",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2658"
@@ -24883,7 +24919,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "94.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -28989,6 +29025,10 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "100.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30780,6 +30820,10 @@
     },
     {
       "date": "2024-12-30",
+      "rate": "38.00"
+    },
+    {
+      "date": "2024-12-31",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

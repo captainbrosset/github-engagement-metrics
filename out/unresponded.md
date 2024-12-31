@@ -1,4 +1,4 @@
-Response rate: 77.25%
+Response rate: 76.50%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -9,7 +9,8 @@ Response rate: 77.25%
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
   * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
-* **MicrosoftEdge/EdgeWebDriver** - _38.00%_
+* **MicrosoftEdge/EdgeWebDriver** - _36.00%_
+  * [IE Driver (in Edge IE Mode) gets stuck after opening a new t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182)
   * [Shortcut to Add New Tab Directly Under Tab Group](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181)
   * [Some azureedge.net domains are slated to be be decommissione...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/180)
   * [Mirroring Edge Driver to Corporate Artifactory](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/179)
@@ -41,11 +42,9 @@ Response rate: 77.25%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [[Problem/Bug]: Resizing cursor lost if you resize the window...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5017)
+* **MicrosoftEdge/WebView2Feedback** - _64.00%_
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
-  * [[Feature]: Add split screen support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4984)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
   * [[Problem/Bug]: DevTools window is unable to bring to front u...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4964)
   * [[Problem/Bug]: WebView DevTools PrintToPdf hangs in Server E...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4961)
@@ -62,7 +61,11 @@ Response rate: 77.25%
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [teste](https://github.com/microsoft/vscode-edge-devtools/issues/2663)
+  * [Teste](https://github.com/microsoft/vscode-edge-devtools/issues/2662)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2661)
+  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2660)
   * [star](https://github.com/microsoft/vscode-edge-devtools/issues/2658)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
