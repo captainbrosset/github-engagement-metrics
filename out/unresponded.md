@@ -1,4 +1,4 @@
-Response rate: 76.50%
+Response rate: 75.50%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
@@ -42,7 +42,8 @@ Response rate: 76.50%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _64.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: Program crashes when calling host object](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
@@ -61,7 +62,10 @@ Response rate: 76.50%
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+* **microsoft/vscode-edge-devtools** - _80.00%_
+  * [Neth/githuh.html](https://github.com/microsoft/vscode-edge-devtools/issues/2666)
+  * [1688](https://github.com/microsoft/vscode-edge-devtools/issues/2665)
+  * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)
   * [teste](https://github.com/microsoft/vscode-edge-devtools/issues/2663)
   * [Teste](https://github.com/microsoft/vscode-edge-devtools/issues/2662)
   * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2661)

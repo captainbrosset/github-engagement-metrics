@@ -4106,6 +4106,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8230,6 +8234,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12341,6 +12349,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16465,6 +16477,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20705,7 +20721,15 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "64.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Program crashes when calling host object",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024"
+        },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993"
@@ -20779,7 +20803,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "64.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24889,7 +24913,23 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "86.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
+        {
+          "title": "Neth/githuh.html",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2666"
+        },
+        {
+          "title": "1688",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2665"
+        },
+        {
+          "title": "Add instructions for cloning the repository using GitHub CLI",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2664"
+        },
         {
           "title": "teste",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2663"
@@ -24919,7 +24959,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "86.00"
+      "rate": "80.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29029,6 +29069,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -30824,6 +30868,10 @@
     },
     {
       "date": "2024-12-31",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-01",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
