@@ -4110,6 +4110,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8238,6 +8242,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12353,6 +12361,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
@@ -16481,6 +16493,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20725,6 +20741,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "62.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Program crashes when calling host object",
@@ -24917,6 +24937,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "80.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "Neth/githuh.html",
@@ -29073,8 +29097,21 @@
     },
     {
       "date": "2025-01-01",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2025-01-02",
+      "unRespondedItems": [
+        {
+          "title": "Documentation issues",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3333"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3332"
+        }
+      ],
+      "rate": "95.65"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -30872,6 +30909,10 @@
     },
     {
       "date": "2025-01-01",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-02",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
