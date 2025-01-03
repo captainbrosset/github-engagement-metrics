@@ -1,11 +1,12 @@
-Response rate: 74.96%
+Response rate: 74.46%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _94.00%_
+* **MicrosoftEdge/DevTools** - _92.00%_
+  * [simulation section in webview missing](https://github.com/MicrosoftEdge/DevTools/issues/306)
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
   * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
   * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
@@ -42,8 +43,8 @@ Response rate: 74.96%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
-  * [[Problem/Bug]: Program crashes when calling host object](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024)
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
   * [[Problem/Bug]: AllowSingleSignOnUsingOSPrimaryAccount false ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4980)
@@ -55,7 +56,8 @@ Response rate: 74.96%
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
   * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
-  * [[Problem/Bug]: webview not initializing/rendering when UDF f...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5014)
+  * [[Problem/Bug]: WebView applications like teams and outlook n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027)
+  * [[Problem/Bug]: Program crashes when calling host object](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)

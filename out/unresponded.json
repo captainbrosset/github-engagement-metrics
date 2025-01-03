@@ -4114,6 +4114,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8246,6 +8250,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12365,7 +12373,15 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
+        {
+          "title": "simulation section in webview missing",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/306"
+        },
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/305"
@@ -12379,7 +12395,7 @@
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/303"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16497,6 +16513,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20745,10 +20765,14 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "62.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Program crashes when calling host object",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024"
+          "title": "[Problem/Bug]: Mouse cursor doesn't vanish during video playback",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028"
         },
         {
           "title": "[Feature]: Setting a custom User Agent before a WebView navigates",
@@ -20795,8 +20819,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
         },
         {
-          "title": "[Problem/Bug]: webview not initializing/rendering when UDF folder is not present",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5014"
+          "title": "[Problem/Bug]: WebView applications like teams and outlook not working with latest webview version 131.0.2903.112 on ARM",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027"
+        },
+        {
+          "title": "[Problem/Bug]: Program crashes when calling host object",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
@@ -20823,7 +20851,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -24941,6 +24969,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "80.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
           "title": "Neth/githuh.html",
@@ -29101,6 +29133,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "95.65"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
           "title": "Documentation issues",
@@ -30913,6 +30949,10 @@
     },
     {
       "date": "2025-01-02",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-03",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
