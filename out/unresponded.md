@@ -1,15 +1,12 @@
-Response rate: 74.46%
+Response rate: 75.22%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _92.00%_
-  * [simulation section in webview missing](https://github.com/MicrosoftEdge/DevTools/issues/306)
+* **MicrosoftEdge/DevTools** - _98.00%_
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
-  * [DevTools version stuck at 113?](https://github.com/MicrosoftEdge/DevTools/issues/304)
-  * [window.matchMedia('(prefers-color-scheme: dark)')  work in E...](https://github.com/MicrosoftEdge/DevTools/issues/303)
 * **MicrosoftEdge/EdgeWebDriver** - _36.00%_
   * [IE Driver (in Edge IE Mode) gets stuck after opening a new t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182)
   * [Shortcut to Add New Tab Directly Under Tab Group](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181)
@@ -107,6 +104,6 @@ Response rate: 74.46%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.65%_
+* **MicrosoftDocs/edge-developer** - _95.74%_
   * [Documentation issues](https://github.com/MicrosoftDocs/edge-developer/issues/3333)
   * [bug](https://github.com/MicrosoftDocs/edge-developer/issues/3332)
