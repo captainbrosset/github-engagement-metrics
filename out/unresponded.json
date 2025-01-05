@@ -4122,6 +4122,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8262,6 +8266,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12389,13 +12397,21 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "98.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
+        {
+          "title": "simulation section in webview missing",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/306"
+        },
         {
           "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/305"
         }
       ],
-      "rate": "98.00"
+      "rate": "96.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16521,6 +16537,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20777,6 +20797,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "60.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: Mouse cursor doesn't vanish during video playback",
@@ -24985,7 +25009,23 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "80.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
+        {
+          "title": "DD",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2671"
+        },
+        {
+          "title": "yenii",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2670"
+        },
+        {
+          "title": "yeni",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2669"
+        },
         {
           "title": "Neth/githuh.html",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2666"
@@ -25027,7 +25067,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "80.00"
+      "rate": "74.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29153,6 +29193,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "95.74"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
         {
           "title": "Documentation issues",
@@ -29161,9 +29205,13 @@
         {
           "title": "bug",
           "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3332"
+        },
+        {
+          "title": "azureedge.net CDN will cease operations by 15th January 2025",
+          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3335"
         }
       ],
-      "rate": "95.74"
+      "rate": "93.62"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -30973,6 +31021,10 @@
     },
     {
       "date": "2025-01-04",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-05",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

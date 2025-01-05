@@ -1,11 +1,12 @@
-Response rate: 75.22%
+Response rate: 73.95%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
+* **MicrosoftEdge/DevTools** - _96.00%_
+  * [simulation section in webview missing](https://github.com/MicrosoftEdge/DevTools/issues/306)
   * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
 * **MicrosoftEdge/EdgeWebDriver** - _36.00%_
   * [IE Driver (in Edge IE Mode) gets stuck after opening a new t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182)
@@ -61,7 +62,10 @@ Response rate: 75.22%
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _80.00%_
+* **microsoft/vscode-edge-devtools** - _74.00%_
+  * [DD](https://github.com/microsoft/vscode-edge-devtools/issues/2671)
+  * [yenii](https://github.com/microsoft/vscode-edge-devtools/issues/2670)
+  * [yeni](https://github.com/microsoft/vscode-edge-devtools/issues/2669)
   * [Neth/githuh.html](https://github.com/microsoft/vscode-edge-devtools/issues/2666)
   * [1688](https://github.com/microsoft/vscode-edge-devtools/issues/2665)
   * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)
@@ -104,6 +108,7 @@ Response rate: 75.22%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _95.74%_
+* **MicrosoftDocs/edge-developer** - _93.62%_
   * [Documentation issues](https://github.com/MicrosoftDocs/edge-developer/issues/3333)
   * [bug](https://github.com/MicrosoftDocs/edge-developer/issues/3332)
+  * [azureedge.net CDN will cease operations by 15th January 2025...](https://github.com/MicrosoftDocs/edge-developer/issues/3335)
