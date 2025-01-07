@@ -1,13 +1,12 @@
-Response rate: 73.95%
+Response rate: 77.50%
 
 * **webhintio/hint** - _94.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _96.00%_
+* **MicrosoftEdge/DevTools** - _98.00%_
   * [simulation section in webview missing](https://github.com/MicrosoftEdge/DevTools/issues/306)
-  * [Edit and Resend option in dev tools not working in 131.0.290...](https://github.com/MicrosoftEdge/DevTools/issues/305)
 * **MicrosoftEdge/EdgeWebDriver** - _36.00%_
   * [IE Driver (in Edge IE Mode) gets stuck after opening a new t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182)
   * [Shortcut to Add New Tab Directly Under Tab Group](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181)
@@ -42,6 +41,8 @@ Response rate: 73.95%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
 * **MicrosoftEdge/WebView2Feedback** - _60.00%_
+  * [[Problem/Bug]: AreBrowserAcceleratorKeysEnabled broken in Ca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5033)
+  * [[Problem/Bug]: Evergreen Standalone installer fails when run...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
@@ -53,27 +54,15 @@ Response rate: 73.95%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
-  * [[Feature]: have a way to set focus/blur state of the WebView...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944)
   * [[Problem/Bug]: WebView applications like teams and outlook n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027)
-  * [[Problem/Bug]: Program crashes when calling host object](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
   * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _74.00%_
-  * [DD](https://github.com/microsoft/vscode-edge-devtools/issues/2671)
-  * [yenii](https://github.com/microsoft/vscode-edge-devtools/issues/2670)
-  * [yeni](https://github.com/microsoft/vscode-edge-devtools/issues/2669)
-  * [Neth/githuh.html](https://github.com/microsoft/vscode-edge-devtools/issues/2666)
-  * [1688](https://github.com/microsoft/vscode-edge-devtools/issues/2665)
+* **microsoft/vscode-edge-devtools** - _94.00%_
   * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)
-  * [teste](https://github.com/microsoft/vscode-edge-devtools/issues/2663)
-  * [Teste](https://github.com/microsoft/vscode-edge-devtools/issues/2662)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2661)
-  * [html](https://github.com/microsoft/vscode-edge-devtools/issues/2660)
-  * [star](https://github.com/microsoft/vscode-edge-devtools/issues/2658)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
 * **microsoft/edge-devtools-network-console** - _38.00%_
@@ -108,7 +97,4 @@ Response rate: 73.95%
   * [Bump url-parse from 1.4.7 to 1.5.10 in /packages/devtools-ne...](https://github.com/microsoft/edge-devtools-network-console/pull/83)
   * [Bump follow-redirects from 1.13.0 to 1.14.8 in /packages/dev...](https://github.com/microsoft/edge-devtools-network-console/pull/81)
   * [Bump ajv from 6.12.0 to 6.12.6 in /packages/network-console-...](https://github.com/microsoft/edge-devtools-network-console/pull/80)
-* **MicrosoftDocs/edge-developer** - _93.62%_
-  * [Documentation issues](https://github.com/MicrosoftDocs/edge-developer/issues/3333)
-  * [bug](https://github.com/MicrosoftDocs/edge-developer/issues/3332)
-  * [azureedge.net CDN will cease operations by 15th January 2025...](https://github.com/MicrosoftDocs/edge-developer/issues/3335)
+* **MicrosoftDocs/edge-developer** - _100.00%_

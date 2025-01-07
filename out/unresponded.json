@@ -4130,6 +4130,10 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8278,6 +8282,10 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12413,17 +12421,17 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "96.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
         {
           "title": "simulation section in webview missing",
           "url": "https://github.com/MicrosoftEdge/DevTools/issues/306"
-        },
-        {
-          "title": "Edit and Resend option in dev tools not working in 131.0.2903.99",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/305"
         }
       ],
-      "rate": "96.00"
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16557,6 +16565,10 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20821,7 +20833,19 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "60.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: AreBrowserAcceleratorKeysEnabled broken in Canary/Dev release channel",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5033"
+        },
+        {
+          "title": "[Problem/Bug]: Evergreen Standalone installer fails when running during Operating System Deployment via SCCM",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032"
+        },
         {
           "title": "[Problem/Bug]: Mouse cursor doesn't vanish during video playback",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028"
@@ -20867,16 +20891,8 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
-          "title": "[Feature]: have a way to set focus/blur state of the WebView2 without HWND c++",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4944"
-        },
-        {
           "title": "[Problem/Bug]: WebView applications like teams and outlook not working with latest webview version 131.0.2903.112 on ARM",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027"
-        },
-        {
-          "title": "[Problem/Bug]: Program crashes when calling host object",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5024"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
@@ -25037,50 +25053,14 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "74.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
-        {
-          "title": "DD",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2671"
-        },
-        {
-          "title": "yenii",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2670"
-        },
-        {
-          "title": "yeni",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2669"
-        },
-        {
-          "title": "Neth/githuh.html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2666"
-        },
-        {
-          "title": "1688",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2665"
-        },
         {
           "title": "Add instructions for cloning the repository using GitHub CLI",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2664"
-        },
-        {
-          "title": "teste",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2663"
-        },
-        {
-          "title": "Teste",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2662"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2661"
-        },
-        {
-          "title": "html",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2660"
-        },
-        {
-          "title": "star",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2658"
         },
         {
           "title": "Browser Args and User Data Configuration Issues",
@@ -25091,7 +25071,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "74.00"
+      "rate": "94.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29225,21 +29205,12 @@
     },
     {
       "date": "2025-01-06",
-      "unRespondedItems": [
-        {
-          "title": "Documentation issues",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3333"
-        },
-        {
-          "title": "bug",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3332"
-        },
-        {
-          "title": "azureedge.net CDN will cease operations by 15th January 2025",
-          "url": "https://github.com/MicrosoftDocs/edge-developer/issues/3335"
-        }
-      ],
       "rate": "93.62"
+    },
+    {
+      "date": "2025-01-07",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "microsoft/edge-devtools-network-console": [
@@ -31057,6 +31028,10 @@
     },
     {
       "date": "2025-01-06",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-07",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
