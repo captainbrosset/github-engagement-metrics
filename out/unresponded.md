@@ -1,6 +1,7 @@
-Response rate: 77.50%
+Response rate: 77.00%
 
-* **webhintio/hint** - _94.00%_
+* **webhintio/hint** - _92.00%_
+  * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5982)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5980)
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
@@ -40,9 +41,8 @@ Response rate: 77.50%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
-  * [[Problem/Bug]: AreBrowserAcceleratorKeysEnabled broken in Ca...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5033)
-  * [[Problem/Bug]: Evergreen Standalone installer fails when run...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032)
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: WebView2CompositionControl hosted in a Winfor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
   * [[Problem/Bug]: SourceBuffer.changeType always fails with Edg...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4988)
@@ -54,14 +54,16 @@ Response rate: 77.50%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
+  * [[Problem/Bug]: Evergreen Standalone installer fails when run...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032)
   * [[Problem/Bug]: WebView applications like teams and outlook n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-  * [[Bug]: CSS rendering is different when webview transparency ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945)
-* **microsoft/vscode-edge-devtools** - _94.00%_
+* **microsoft/vscode-edge-devtools** - _90.00%_
+  * [Justin page for all work](https://github.com/microsoft/vscode-edge-devtools/issues/2675)
+  * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2674)
   * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
   * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)

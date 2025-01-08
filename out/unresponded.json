@@ -4134,7 +4134,15 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
+        {
+          "title": "[Bug] Bug description",
+          "url": "https://github.com/webhintio/hint/issues/5982"
+        },
         {
           "title": "[Bug] Bug description",
           "url": "https://github.com/webhintio/hint/issues/5980"
@@ -4148,7 +4156,7 @@
           "url": "https://github.com/webhintio/hint/pull/5977"
         }
       ],
-      "rate": "94.00"
+      "rate": "92.00"
     }
   ],
   "MicrosoftEdge/demos": [
@@ -8286,6 +8294,10 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12425,6 +12437,10 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "98.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
         {
           "title": "simulation section in webview missing",
@@ -16569,6 +16585,10 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20837,14 +20857,14 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "60.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: AreBrowserAcceleratorKeysEnabled broken in Canary/Dev release channel",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5033"
-        },
-        {
-          "title": "[Problem/Bug]: Evergreen Standalone installer fails when running during Operating System Deployment via SCCM",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032"
+          "title": "[Problem/Bug]: WebView2CompositionControl hosted in a Winforms ElementHost crashes on load",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036"
         },
         {
           "title": "[Problem/Bug]: Mouse cursor doesn't vanish during video playback",
@@ -20891,6 +20911,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
+          "title": "[Problem/Bug]: Evergreen Standalone installer fails when running during Operating System Deployment via SCCM",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032"
+        },
+        {
           "title": "[Problem/Bug]: WebView applications like teams and outlook not working with latest webview version 131.0.2903.112 on ARM",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027"
         },
@@ -20913,13 +20937,9 @@
         {
           "title": "[Problem/Bug]: Runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
-        },
-        {
-          "title": "[Bug]: CSS rendering is different when webview transparency set",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4945"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -25057,7 +25077,19 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "94.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
+        {
+          "title": "Justin page for all work",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2675"
+        },
+        {
+          "title": "bug",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2674"
+        },
         {
           "title": "Add instructions for cloning the repository using GitHub CLI",
           "url": "https://github.com/microsoft/vscode-edge-devtools/pull/2664"
@@ -25071,7 +25103,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "94.00"
+      "rate": "90.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29209,6 +29241,10 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31032,6 +31068,10 @@
     },
     {
       "date": "2025-01-07",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-08",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
