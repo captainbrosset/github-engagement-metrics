@@ -1,4 +1,4 @@
-Response rate: 77.00%
+Response rate: 77.25%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5982)
@@ -41,7 +41,7 @@ Response rate: 77.00%
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _66.00%_
   * [[Problem/Bug]: WebView2CompositionControl hosted in a Winfor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
@@ -54,14 +54,13 @@ Response rate: 77.00%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
-  * [[Problem/Bug]: Evergreen Standalone installer fails when run...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032)
-  * [[Problem/Bug]: WebView applications like teams and outlook n...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-* **microsoft/vscode-edge-devtools** - _90.00%_
+* **microsoft/vscode-edge-devtools** - _88.00%_
+  * [old age home management system](https://github.com/microsoft/vscode-edge-devtools/issues/2676)
   * [Justin page for all work](https://github.com/microsoft/vscode-edge-devtools/issues/2675)
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2674)
   * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)

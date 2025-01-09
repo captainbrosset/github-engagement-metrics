@@ -4138,6 +4138,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "92.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8298,6 +8302,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12441,6 +12449,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "98.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
         {
           "title": "simulation section in webview missing",
@@ -16589,6 +16601,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20861,6 +20877,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "62.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: WebView2CompositionControl hosted in a Winforms ElementHost crashes on load",
@@ -20911,14 +20931,6 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
-          "title": "[Problem/Bug]: Evergreen Standalone installer fails when running during Operating System Deployment via SCCM",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5032"
-        },
-        {
-          "title": "[Problem/Bug]: WebView applications like teams and outlook not working with latest webview version 131.0.2903.112 on ARM",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027"
-        },
-        {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998"
         },
@@ -20939,7 +20951,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
         }
       ],
-      "rate": "62.00"
+      "rate": "66.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -25081,7 +25093,15 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "90.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
+        {
+          "title": "old age home management system",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2676"
+        },
         {
           "title": "Justin page for all work",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2675"
@@ -25103,7 +25123,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "90.00"
+      "rate": "88.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29245,6 +29265,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31072,6 +31096,10 @@
     },
     {
       "date": "2025-01-08",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-09",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
