@@ -4142,6 +4142,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "92.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8306,6 +8310,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12453,13 +12461,12 @@
     },
     {
       "date": "2025-01-09",
-      "unRespondedItems": [
-        {
-          "title": "simulation section in webview missing",
-          "url": "https://github.com/MicrosoftEdge/DevTools/issues/306"
-        }
-      ],
       "rate": "98.00"
+    },
+    {
+      "date": "2025-01-10",
+      "unRespondedItems": [],
+      "rate": "100.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16605,6 +16612,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -16715,10 +16726,6 @@
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135"
         },
         {
-          "title": "XML file downloads are blocked",
-          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
-        },
-        {
           "title": "Edge 128.0.2739.42 Timeout renderer",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/165"
         },
@@ -16733,6 +16740,10 @@
         {
           "title": "Launching msedge.exe with --no-sandbox command line switch",
           "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141"
+        },
+        {
+          "title": "XML file downloads are blocked",
+          "url": "https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133"
         }
       ],
       "rate": "36.00"
@@ -20881,7 +20892,15 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "66.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [
+        {
+          "title": "[Problem/Bug]: Help, my EBWebView2 is missing",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5038"
+        },
         {
           "title": "[Problem/Bug]: WebView2CompositionControl hosted in a Winforms ElementHost crashes on load",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036"
@@ -20931,6 +20950,10 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
         },
         {
+          "title": "[Problem/Bug]: Printing page to PDF bypasses download/saveAs event handlers, may cause browser crash ",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5039"
+        },
+        {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998"
         },
@@ -20951,7 +20974,7 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
         }
       ],
-      "rate": "66.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -25097,6 +25120,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "88.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [
         {
           "title": "old age home management system",
@@ -29269,6 +29296,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31100,6 +31131,10 @@
     },
     {
       "date": "2025-01-09",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-10",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",

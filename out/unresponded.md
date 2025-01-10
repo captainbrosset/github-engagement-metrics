@@ -1,4 +1,4 @@
-Response rate: 77.25%
+Response rate: 77.00%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5982)
@@ -6,8 +6,7 @@ Response rate: 77.25%
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5979)
   * [Dependabot/npm and yarn/types/node 22.9.0](https://github.com/webhintio/hint/pull/5977)
 * **MicrosoftEdge/demos** - _100.00%_
-* **MicrosoftEdge/DevTools** - _98.00%_
-  * [simulation section in webview missing](https://github.com/MicrosoftEdge/DevTools/issues/306)
+* **MicrosoftEdge/DevTools** - _100.00%_
 * **MicrosoftEdge/EdgeWebDriver** - _36.00%_
   * [IE Driver (in Edge IE Mode) gets stuck after opening a new t...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/182)
   * [Shortcut to Add New Tab Directly Under Tab Group](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/181)
@@ -36,12 +35,13 @@ Response rate: 77.25%
   * [Edge webdriver failed: KeyError: 'MicrosoftEdge'](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/138)
   * [split screen control](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/137)
   * [Edge browser getting closed since the driver update to 120 v...](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/135)
-  * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
   * [Edge 128.0.2739.42 Timeout renderer](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/165)
   * [PDF printing does not work on 128.0.2739.42 as service](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/162)
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
-* **MicrosoftEdge/WebView2Feedback** - _66.00%_
+  * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+  * [[Problem/Bug]: Help, my EBWebView2 is missing](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5038)
   * [[Problem/Bug]: WebView2CompositionControl hosted in a Winfor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
   * [[Feature]: Setting a custom User Agent before a WebView navi...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4993)
@@ -54,6 +54,7 @@ Response rate: 77.25%
   * [Playing videos still prevents the system from entering sleep...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4957)
   * [[Problem/Bug]: Touching to select text will display a mini m...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954)
   * [WebView2 Initialization Error in WinPE x64](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951)
+  * [[Problem/Bug]: Printing page to PDF bypasses download/saveAs...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5039)
   * [[Problem/Bug]: File / Folder Browse dialog opening can cause...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4998)
   * [The CacheFolder is locked by msedgewebview2.exe and cannot b...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4983)
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
