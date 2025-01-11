@@ -4146,6 +4146,10 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "92.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8314,6 +8318,10 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12465,8 +12473,17 @@
     },
     {
       "date": "2025-01-10",
-      "unRespondedItems": [],
       "rate": "100.00"
+    },
+    {
+      "date": "2025-01-11",
+      "unRespondedItems": [
+        {
+          "title": "simulation section in webview missing",
+          "url": "https://github.com/MicrosoftEdge/DevTools/issues/306"
+        }
+      ],
+      "rate": "98.00"
     }
   ],
   "MicrosoftEdge/EdgeWebDriver": [
@@ -16616,6 +16633,10 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20896,10 +20917,14 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "62.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [
         {
-          "title": "[Problem/Bug]: Help, my EBWebView2 is missing",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5038"
+          "title": "[Problem/Bug]: How to properly use AddBrowserExtensionAsync in UWP with WebView2?",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5040"
         },
         {
           "title": "[Problem/Bug]: WebView2CompositionControl hosted in a Winforms ElementHost crashes on load",
@@ -20946,12 +20971,12 @@
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4954"
         },
         {
-          "title": "WebView2 Initialization Error in WinPE x64",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4951"
-        },
-        {
           "title": "[Problem/Bug]: Printing page to PDF bypasses download/saveAs event handlers, may cause browser crash ",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5039"
+        },
+        {
+          "title": "[Problem/Bug]: WebView applications like teams and outlook not working with latest webview version 131.0.2903.112 on ARM",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/5027"
         },
         {
           "title": "[Problem/Bug]: File / Folder Browse dialog opening can cause an AppCrash",
@@ -25124,7 +25149,15 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "88.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [
+        {
+          "title": "ISSUE",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2678"
+        },
         {
           "title": "old age home management system",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2676"
@@ -25150,7 +25183,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "88.00"
+      "rate": "86.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29300,6 +29333,10 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31135,6 +31172,10 @@
     },
     {
       "date": "2025-01-10",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-11",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
