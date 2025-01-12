@@ -1,4 +1,4 @@
-Response rate: 76.50%
+Response rate: 75.00%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5982)
@@ -41,7 +41,7 @@ Response rate: 76.50%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
-* **MicrosoftEdge/WebView2Feedback** - _62.00%_
+* **MicrosoftEdge/WebView2Feedback** - _60.00%_
   * [[Problem/Bug]: How to properly use AddBrowserExtensionAsync ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5040)
   * [[Problem/Bug]: WebView2CompositionControl hosted in a Winfor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
@@ -61,7 +61,13 @@ Response rate: 76.50%
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-* **microsoft/vscode-edge-devtools** - _86.00%_
+  * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
+* **microsoft/vscode-edge-devtools** - _76.00%_
+  * [AuthKit by WorkOS](https://github.com/microsoft/vscode-edge-devtools/issues/2683)
+  * [m](https://github.com/microsoft/vscode-edge-devtools/issues/2682)
+  * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2681)
+  * [project.1](https://github.com/microsoft/vscode-edge-devtools/issues/2680)
+  * [kuumip](https://github.com/microsoft/vscode-edge-devtools/issues/2679)
   * [ISSUE](https://github.com/microsoft/vscode-edge-devtools/issues/2678)
   * [old age home management system](https://github.com/microsoft/vscode-edge-devtools/issues/2676)
   * [Justin page for all work](https://github.com/microsoft/vscode-edge-devtools/issues/2675)

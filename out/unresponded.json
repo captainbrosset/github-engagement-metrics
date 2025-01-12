@@ -4150,6 +4150,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "92.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8322,6 +8326,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12477,6 +12485,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "98.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
         {
           "title": "simulation section in webview missing",
@@ -16637,6 +16649,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20921,6 +20937,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "62.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: How to properly use AddBrowserExtensionAsync in UWP with WebView2?",
@@ -20997,9 +21017,13 @@
         {
           "title": "[Problem/Bug]: Runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
+        },
+        {
+          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
+          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
         }
       ],
-      "rate": "62.00"
+      "rate": "60.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -25153,7 +25177,31 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "86.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
+        {
+          "title": "AuthKit by WorkOS",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2683"
+        },
+        {
+          "title": "m",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2682"
+        },
+        {
+          "title": "css",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2681"
+        },
+        {
+          "title": "project.1",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2680"
+        },
+        {
+          "title": "kuumip",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2679"
+        },
         {
           "title": "ISSUE",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2678"
@@ -25183,7 +25231,7 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
         }
       ],
-      "rate": "86.00"
+      "rate": "76.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29337,6 +29385,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31176,6 +31228,10 @@
     },
     {
       "date": "2025-01-11",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-12",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
