@@ -1,4 +1,4 @@
-Response rate: 75.00%
+Response rate: 74.25%
 
 * **webhintio/hint** - _92.00%_
   * [[Bug] Bug description](https://github.com/webhintio/hint/issues/5982)
@@ -41,7 +41,7 @@ Response rate: 75.00%
   * [No latest stable release for Linux](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/156)
   * [Launching msedge.exe with --no-sandbox command line switch](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/141)
   * [XML file downloads are blocked](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/133)
-* **MicrosoftEdge/WebView2Feedback** - _60.00%_
+* **MicrosoftEdge/WebView2Feedback** - _62.00%_
   * [[Problem/Bug]: How to properly use AddBrowserExtensionAsync ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5040)
   * [[Problem/Bug]: WebView2CompositionControl hosted in a Winfor...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5036)
   * [[Problem/Bug]: Mouse cursor doesn't vanish during video play...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/5028)
@@ -61,8 +61,10 @@ Response rate: 75.00%
   * [[Problem/Bug]: Webview2 not initialised 0x8007139F](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4973)
   * [[Problem/Bug]: Gamepad and Pointer Lock APIs not working in ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4968)
   * [[Problem/Bug]: Runtime](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955)
-  * [[Problem/Bug]: There's a momentary white splash screen when ...](https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953)
-* **microsoft/vscode-edge-devtools** - _76.00%_
+* **microsoft/vscode-edge-devtools** - _68.00%_
+  * [Comfort with default resolution and working space](https://github.com/microsoft/vscode-edge-devtools/issues/2686)
+  * [headless mode and functions limited](https://github.com/microsoft/vscode-edge-devtools/issues/2685)
+  * [the new language](https://github.com/microsoft/vscode-edge-devtools/issues/2684)
   * [AuthKit by WorkOS](https://github.com/microsoft/vscode-edge-devtools/issues/2683)
   * [m](https://github.com/microsoft/vscode-edge-devtools/issues/2682)
   * [css](https://github.com/microsoft/vscode-edge-devtools/issues/2681)
@@ -74,7 +76,8 @@ Response rate: 75.00%
   * [bug](https://github.com/microsoft/vscode-edge-devtools/issues/2674)
   * [Add instructions for cloning the repository using GitHub CLI...](https://github.com/microsoft/vscode-edge-devtools/pull/2664)
   * [Browser Args and User Data Configuration Issues](https://github.com/microsoft/vscode-edge-devtools/issues/2641)
-  * [Inconsistent Behavior Across two ways of accessing Edge DevT...](https://github.com/microsoft/vscode-edge-devtools/issues/2635)
+  * [user name](https://github.com/microsoft/vscode-edge-devtools/issues/2688)
+  * [grant55.rpg](https://github.com/microsoft/vscode-edge-devtools/issues/2687)
 * **microsoft/edge-devtools-network-console** - _38.00%_
   * [Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-net...](https://github.com/microsoft/edge-devtools-network-console/pull/123)
   * [Bump validator and z-schema in /packages/network-console-sha...](https://github.com/microsoft/edge-devtools-network-console/pull/122)

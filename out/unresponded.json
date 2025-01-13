@@ -4154,6 +4154,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "92.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
         {
           "title": "[Bug] Bug description",
@@ -8330,6 +8334,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -12489,6 +12497,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "98.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
         {
           "title": "simulation section in webview missing",
@@ -16653,6 +16665,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "36.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
         {
           "title": "IE Driver (in Edge IE Mode) gets stuck after opening a new tab with embedded PDF (Could not get document from window handle)",
@@ -20941,6 +20957,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "60.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
         {
           "title": "[Problem/Bug]: How to properly use AddBrowserExtensionAsync in UWP with WebView2?",
@@ -21017,13 +21037,9 @@
         {
           "title": "[Problem/Bug]: Runtime",
           "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4955"
-        },
-        {
-          "title": "[Problem/Bug]: There's a momentary white splash screen when you open Edge (fixed in Brave, Vivaldi)",
-          "url": "https://github.com/MicrosoftEdge/WebView2Feedback/issues/4953"
         }
       ],
-      "rate": "60.00"
+      "rate": "62.00"
     }
   ],
   "microsoft/vscode-edge-devtools": [
@@ -25181,7 +25197,23 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "76.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
+        {
+          "title": "Comfort with default resolution and working space",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2686"
+        },
+        {
+          "title": "headless mode and functions limited",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2685"
+        },
+        {
+          "title": "the new language",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2684"
+        },
         {
           "title": "AuthKit by WorkOS",
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2683"
@@ -25227,11 +25259,15 @@
           "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2641"
         },
         {
-          "title": "Inconsistent Behavior Across two ways of accessing Edge DevTools",
-          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2635"
+          "title": "user name",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2688"
+        },
+        {
+          "title": "grant55.rpg",
+          "url": "https://github.com/microsoft/vscode-edge-devtools/issues/2687"
         }
       ],
-      "rate": "76.00"
+      "rate": "68.00"
     }
   ],
   "MicrosoftDocs/edge-developer": [
@@ -29389,6 +29425,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "100.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [],
       "rate": "100.00"
     }
@@ -31232,6 +31272,10 @@
     },
     {
       "date": "2025-01-12",
+      "rate": "38.00"
+    },
+    {
+      "date": "2025-01-13",
       "unRespondedItems": [
         {
           "title": "Bump word-wrap from 1.2.3 to 1.2.4 in /packages/devtools-network-console",
